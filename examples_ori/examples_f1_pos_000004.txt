@@ -1,0 +1,30 @@
+file = t016706
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1594858606721224700
+conversation = 99999999
+URL = 
+
+word count = 39
+words loading = 12
+factor score = 11
+
+Uma **criança** de 12 **anos** **morre** de **infarto** , em Rondônia, voltando 
+de uma pescaria. A OMS e a Anvisa já **publicaram** **alertas** e **pesquisas** 
+**indicando** que a #vacina pode provocar problemas **cardíacos** com **risco** 
+de **morte** . **Fontes** : gov. br / anvisa / pt-br / a … stevekirsch. 
+substack. com / p / this-one-gra … https://t.co/xJetQDscBQ 
+
+Lemmas in this text that loaded on the factor:
+
+alerta
+ano
+cardíaco
+criança
+fonte
+indicar
+infarto
+morrer
+morte
+pesquisa
+publicar
+risco (secondary)

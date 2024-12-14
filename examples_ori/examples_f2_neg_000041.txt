@@ -1,0 +1,17 @@
+file = t010722
+date = 2020-12-00
+user = url:https://twitter.com/sabolsonaro/status/1336743517381603300
+conversation = 99999999
+URL = 
+
+word count = 14
+words loading = 2
+factor score = -1
+
+@freelucao Tem vários. . . Reino Unido **emite** **alerta** após reações 
+alérgicas à vacina Pfizer saude. ig. com. br / coronavirus / 20 … 
+
+Lemmas in this text that loaded on the factor:
+
+alerta (secondary)
+emitir

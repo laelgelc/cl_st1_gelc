@@ -1,0 +1,23 @@
+file = t015722
+date = 2022-07-00
+user = url:https://twitter.com/evandroratho/status/1546849521228972000
+conversation = 99999999
+URL = 
+
+word count = 22
+words loading = 7
+factor score = 6
+
+@SigaGazetaBR **Pandemia** ou experimento **social** que incluiu vacina de 
+mRNA, **lockdown** , **máscaras** , e orientações estúpidas contra o 
+**tratamento** **precoce** de **doenças** ? 
+
+Lemmas in this text that loaded on the factor:
+
+doença (secondary)
+lockdown
+máscara
+pandemia
+precoce
+social
+tratamento

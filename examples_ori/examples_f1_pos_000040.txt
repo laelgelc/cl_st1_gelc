@@ -1,0 +1,27 @@
+file = t015768
+date = 2022-07-00
+user = url:https://twitter.com/mpatriabrasil/status/1549461588188479500
+conversation = 99999999
+URL = 
+
+word count = 47
+words loading = 9
+factor score = 8
+
+Alexsandro Leo era um cobrador muito querido da Metrópoles. Ele tomou as 1as. 
+**Doses** em 2021 e os **reforços** no **primeiro** trimestre de 2022 . Teve um 
+**infarto** **fulminante** pouco tempo depois do **experimento** . A OMS e a 
+ANVISA já divulgaram o **risco** de problemas **cardíacos** pós-experimento. 
+https://t.co/DCHgRKlsLs 
+
+Lemmas in this text that loaded on the factor:
+
+cardíaco
+dose
+experimento
+fulminante
+infarto
+pós
+primeiro
+reforço
+risco (secondary)

@@ -1,0 +1,18 @@
+file = t012291
+date = 2021-06-00
+user = url:https://twitter.com/evandroratho/status/1401913229278908400
+conversation = 99999999
+URL = 
+
+word count = 38
+words loading = 1
+factor score = -1
+
+TCU **emite** relatório questionando cerca de 50 % das mortes que foram 
+equivocadamente registradas nas estatísticas da pandemia. Eu acho que o 
+percentual é até maior e suspeito que as vacinas sejam piores do que a própria 
+doença! 
+
+Lemmas in this text that loaded on the factor:
+
+emitir

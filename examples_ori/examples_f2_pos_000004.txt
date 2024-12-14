@@ -1,0 +1,26 @@
+file = t010990
+date = 2020-12-00
+user = url:https://twitter.com/evandroratho/status/1341088140241592300
+conversation = 99999999
+URL = 
+
+word count = 52
+words loading = 8
+factor score = 8
+
+@carlosjordy - Para a sociedade, **fique** em casa, solde a porta da loja, 
+multa, vacina **obrigatória** , aumento de impostos, e economia a **gente** 
+**vê** depois; - Para **políticos** e amigos da imprensa, reajuste de 45 a 70 % 
+nas verbas ( **pagas** com o imposto do pobre ) ; Mas acredite, é tudo por uma 
+**boa** **causa** ! 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+causa
+ficar
+gente
+obrigatório
+pagar
+político
+ver

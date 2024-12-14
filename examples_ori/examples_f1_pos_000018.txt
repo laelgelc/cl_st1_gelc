@@ -1,0 +1,28 @@
+file = t016731
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1595424930690121700
+conversation = 99999999
+URL = 
+
+word count = 53
+words loading = 10
+factor score = 9
+
+**Pessoas** **jovens** **sofrendo** **infartos** **Fulminantes** . Lembramos q 
+o **risco** de **Miocardite** é de 100 para cada 100mil **doses** , de acordo 
+com a **pesquisa** científica da @CMAJ. Ou seja, se você tomou 4 **doses** , o 
+**risco** é 4 x maior! Vale a pena saber que **pessoas** **morreram** para você 
+se sentir seguro? twitter. com / CMAJ / status / 15 … https://t.co/KITUhtZdBy 
+
+Lemmas in this text that loaded on the factor:
+
+dose
+fulminante
+infarto
+jovem
+miocardite
+morrer
+pesquisa
+pessoa
+risco (secondary)
+sofrer

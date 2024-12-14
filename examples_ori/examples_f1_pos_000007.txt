@@ -1,0 +1,29 @@
+file = t016055
+date = 2022-08-00
+user = url:https://twitter.com/mpatriabrasil/status/1564768302009909200
+conversation = 99999999
+URL = 
+
+word count = 46
+words loading = 11
+factor score = 11
+
+Vacinado com as 4 **doses** , Eric Gustavo, 32 **anos** , **contraiu** CV! D 
+diversas vezes, segundo familiares. Estava d alta hospitalar do **último** CVD 
+há uma **semana** , quando **sofreu** uma parada **cardíaca** enquanto dormia. 
+**Pesquisas** **indicam** que a eficácia do **experimento** é negativa após 
+**reforços** . . . https://t.co/OXOrxlyu8A 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+cardíaco
+contrair
+dose
+experimento
+indicar
+pesquisa
+reforço
+semana
+sofrer
+último

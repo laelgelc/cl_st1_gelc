@@ -1,0 +1,28 @@
+file = t016144
+date = 2022-09-00
+user = url:https://twitter.com/mpatriabrasil/status/1571061289266585600
+conversation = 99999999
+URL = 
+
+word count = 47
+words loading = 10
+factor score = 9
+
+Alex era um defensor do **experimento** e, em sua **última** postagem chamou os 
+críticos das **doses** de Fanáticos. **Faleceu** de um AVC em 16 / 09 / 2022 , 
+poucas **semanas** depois do **reforço** . **Estudos** **indicam** que o 
+**experimento** pode provocar AVC, mesmo depois de **meses** após as **doses** 
+. Segue **fontes** : https://t.co/AqeeYxXIdW 
+
+Lemmas in this text that loaded on the factor:
+
+dose
+estudo (secondary)
+experimento
+falecer
+fonte
+indicar
+mês
+reforço
+semana
+último

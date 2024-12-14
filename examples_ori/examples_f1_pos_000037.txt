@@ -1,0 +1,27 @@
+file = t015885
+date = 2022-08-00
+user = url:https://twitter.com/mpatriabrasil/status/1555963194308444200
+conversation = 99999999
+URL = 
+
+word count = 45
+words loading = 9
+factor score = 8
+
+Suzana Vieira tomou a 1a. em 03 / 21 e o **reforço** há alguns **meses** e 
+**contraiu** a **doença** em 22 . Foi **internada** no **dia** 05 / 08 / 22 
+para tratar sequelas. Um **estudo** **publicado** em Israel **indica** que os 
+não vacinados que **contraíram** a moléstia não desenvolveram problemas 
+cardiorrespiratórios. https://t.co/f5D7FP8Kd3 
+
+Lemmas in this text that loaded on the factor:
+
+contrair
+dia
+doença
+estudo (secondary)
+indicar
+internar
+mês
+publicar
+reforço

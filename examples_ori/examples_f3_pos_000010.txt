@@ -1,0 +1,29 @@
+file = t013530
+date = 2021-10-00
+user = url:https://twitter.com/evandroratho/status/1452719618468954000
+conversation = 99999999
+URL = 
+
+word count = 46
+words loading = 11
+factor score = 8
+
+Se as **estatísticas** **asseguram** que o **vírus** não **representa** 
+relevante **risco** de **morte** aos **jovens** **saudáveis** , e as vacinas 
+não **impedem** a **infecção** e tampouco a **transmissão** do **vírus** , 
+vaciná -los não faz sentido. Tem algo muito estranho acontecendo no mundo e o 
+povo está em transe. . . 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar
+estatística
+impedir
+infecção
+jovem (secondary)
+morte (secondary)
+representar
+risco
+saudável (secondary)
+transmissão
+vírus

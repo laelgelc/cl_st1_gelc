@@ -1,0 +1,26 @@
+file = t016398
+date = 2022-10-00
+user = url:https://twitter.com/mpatriabrasil/status/1582830715003338800
+conversation = 99999999
+URL = 
+
+word count = 39
+words loading = 8
+factor score = -3
+
+George era maestro e se achava invencível após a 3a dose. Teve um mal súbito e 
+veio à óbito nesta semana de outubro. **Pesquisas** **indicam** que o 
+**experimento** pode provocar AVCs, Tromboses e problemas cardíacos. **Fontes** 
+: m. **facebook** . com / story. php? stor … **Pesquisa** : **pesquisa** . 
+**bvsalud** . org / global-literat … - https://t.co/LxHb4D3s55 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud
+experimento (secondary)
+facebook (secondary)
+fonte (secondary)
+global
+indicar (secondary)
+literat
+pesquisa (secondary)

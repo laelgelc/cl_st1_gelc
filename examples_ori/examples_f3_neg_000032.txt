@@ -1,0 +1,19 @@
+file = t010782
+date = 2020-12-00
+user = url:https://twitter.com/derzevic/status/1337911579547984000
+conversation = 99999999
+URL = 
+
+word count = 24
+words loading = 3
+factor score = -3
+
+VEJAM O LIXO DO DITADORZINHO DA **CALÇA** **APERTADA** ! ! Peru suspende testes 
+com vacina chinesa depois que voluntário teve dificuldades de movimentar as 
+**pernas** jornaldacidadeonline. com. br / noticias / 25347 … 
+
+Lemmas in this text that loaded on the factor:
+
+apertar
+calça
+perna

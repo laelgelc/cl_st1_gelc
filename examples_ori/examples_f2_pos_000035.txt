@@ -1,0 +1,24 @@
+file = t015404
+date = 2022-05-00
+user = url:https://twitter.com/evandroratho/status/1530229789440761900
+conversation = 99999999
+URL = 
+
+word count = 36
+words loading = 7
+factor score = 7
+
+Aterrorizam o **mundo** com notícias sensacionalistas e depois **vendem** 
+**testes** , **remédios** , e vacinas, faturando **bilhões** . E os ingênuos 
+acham tudo lindo sem se **dar** conta que **bilhões** foram **pagos** com os 
+impostos cobrados deles. https://t.co/ZapKVMGigd 
+
+Lemmas in this text that loaded on the factor:
+
+bilhão
+dar
+mundo
+pagar
+remédio
+teste
+vender

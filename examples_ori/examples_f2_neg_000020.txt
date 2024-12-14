@@ -1,0 +1,23 @@
+file = t016603
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1592334618677870600
+conversation = 99999999
+URL = 
+
+word count = 27
+words loading = 6
+factor score = -3
+
+@DudduPontes **Pesquisa** **publicada** no próprio site da OMS. #anthonyjohnson 
+#linfohistiocitose e existem **pesquisas** que **indicam** que a vacina pode 
+ser o gatilho para a doença. **pesquisa** . **bvsalud** . org / global-literat 
+… https://t.co/wba41VkKO1 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud
+global
+indicar (secondary)
+literat
+pesquisa (secondary)
+publicar (secondary)

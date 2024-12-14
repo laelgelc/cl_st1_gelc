@@ -1,0 +1,4002 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.activelink
+{
+  color: #800080;
+}
+.aftercaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.bodydate
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+  width: 100%;
+}
+.bycontentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.byline
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contentprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contents
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.contenttitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.continued
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataempty
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.document
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0000FF
+}
+a:visited {
+color:#800080
+}
+a:active {
+color:#800080
+}
+.errorbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #FAFBFE;
+  border: 1pt solid #000000;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #EDF2F9;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading5
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading6
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.indextitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #FAFBFE;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.link
+{
+  color: #0000FF;
+}
+.list
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.pagesitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagesprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagestitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.paragraph
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemtitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  border-bottom-width: 0px;
+  border-collapse: collapse;
+  border-color: #C1C1C1;
+  border-left-width: 1px;
+  border-right-width: 0px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 1px;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.visitedlink
+{
+  color: #800080;
+}
+.warnbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 = _info.indexOf("x64") > 0
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 1 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">reforço</td>
+<td class="r data">0.95635</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">fonte</td>
+<td class="r data">0.94996</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">infarto</td>
+<td class="r data">0.93656</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">semana</td>
+<td class="r data">0.86775</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">indicar</td>
+<td class="r data">0.86442</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cardíaco</td>
+<td class="r data">0.86312</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">falecer</td>
+<td class="r data">0.83739</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">publicar</td>
+<td class="r data">0.83478</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pesquisa</td>
+<td class="r data">0.82977</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">experimento</td>
+<td class="r data">0.79311</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sofrer</td>
+<td class="r data">0.76066</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">jovem</td>
+<td class="r data">0.74540</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pós</td>
+<td class="r data">0.72900</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">facebook</td>
+<td class="r data">0.71919</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dia</td>
+<td class="r data">0.66741</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dose</td>
+<td class="r data">0.65392</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">súbito</td>
+<td class="r data">0.65113</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">alertar</td>
+<td class="r data">0.63157</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">criança</td>
+<td class="r data">0.62101</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">alerta</td>
+<td class="r data">0.60826</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mês</td>
+<td class="r data">0.60387</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">morte</td>
+<td class="r data">0.58873</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">fulminante</td>
+<td class="r data">0.57859</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">org</td>
+<td class="r data">0.57492</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mal</td>
+<td class="r data">0.55586</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">doença</td>
+<td class="r data">0.55347</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">morrer</td>
+<td class="r data">0.54771</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">estudo</td>
+<td class="r data">0.54304</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">saudável</td>
+<td class="r data">0.52843</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">miocardite</td>
+<td class="r data">0.52303</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grave</td>
+<td class="r data">0.49075</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">(</td>
+<td class="l data">global</td>
+<td class="r data">0.48340</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">(</td>
+<td class="l data">bvsalud</td>
+<td class="r data">0.47183</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">risco</td>
+<td class="r data">0.45471</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">causar</td>
+<td class="r data">0.45057</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">(</td>
+<td class="l data">literat</td>
+<td class="r data">0.44981</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">óbito</td>
+<td class="r data">0.44769</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">primeiro</td>
+<td class="r data">0.44696</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">último</td>
+<td class="r data">0.42515</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">autoimune</td>
+<td class="r data">0.42477</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ano</td>
+<td class="r data">0.42149</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">(</td>
+<td class="l data">mrna</td>
+<td class="r data">0.41604</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">inocular</td>
+<td class="r data">0.40904</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">evento</td>
+<td class="r data">0.39380</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">internar</td>
+<td class="r data">0.38734</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">(</td>
+<td class="l data">articles</td>
+<td class="r data">0.38307</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">syringe_e</td>
+<td class="r data">0.37561</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">contrair</td>
+<td class="r data">0.37057</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">caso</td>
+<td class="r data">0.36688</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">(</td>
+<td class="l data">dar</td>
+<td class="r data">0.35343</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">novo</td>
+<td class="r data">0.34916</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comprovante</td>
+<td class="r data">0.34781</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">adverso</td>
+<td class="r data">0.34257</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">(</td>
+<td class="l data">causa</td>
+<td class="r data">0.34164</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mulher</td>
+<td class="r data">0.34140</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">(</td>
+<td class="l data">imunidade</td>
+<td class="r data">0.33854</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">(</td>
+<td class="l data">vida</td>
+<td class="r data">0.33504</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sistema</td>
+<td class="r data">0.33086</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">(</td>
+<td class="l data">amigo</td>
+<td class="r data">0.32808</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pessoa</td>
+<td class="r data">0.32791</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">(</td>
+<td class="l data">exame</td>
+<td class="r data">0.32190</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vacinal</td>
+<td class="r data">0.31053</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">(</td>
+<td class="l data">maioria</td>
+<td class="r data">0.30991</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">existir</td>
+<td class="r data">0.30724</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">(</td>
+<td class="l data">hepatite</td>
+<td class="r data">0.30286</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX1"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 1 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">enquete</td>
+<td class="r data" nowrap>-0.64958</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">proposta</td>
+<td class="r data" nowrap>-0.60021</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imposição</td>
+<td class="r data" nowrap>-0.54932</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">audiência</td>
+<td class="r data" nowrap>-0.48156</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">consciência</td>
+<td class="r data" nowrap>-0.47040</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">termo</td>
+<td class="r data" nowrap>-0.46066</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">gel</td>
+<td class="r data" nowrap>-0.44092</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">covid19</td>
+<td class="r data" nowrap>-0.44058</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">zinco</td>
+<td class="r data" nowrap>-0.43595</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">serviço</td>
+<td class="r data" nowrap>-0.42600</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mercado</td>
+<td class="r data" nowrap>-0.42056</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tutelar</td>
+<td class="r data" nowrap>-0.41945</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">correiopaulista</td>
+<td class="r data" nowrap>-0.41739</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dama</td>
+<td class="r data" nowrap>-0.41707</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">piada</td>
+<td class="r data" nowrap>-0.41382</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">álcool</td>
+<td class="r data" nowrap>-0.41347</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pleno</td>
+<td class="r data" nowrap>-0.40453</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">questionamento</td>
+<td class="r data" nowrap>-0.39936</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ferro</td>
+<td class="r data" nowrap>-0.39698</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">decreto</td>
+<td class="r data" nowrap>-0.39473</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">combate</td>
+<td class="r data" nowrap>-0.39455</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">restaurante</td>
+<td class="r data" nowrap>-0.38842</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">retirar</td>
+<td class="r data" nowrap>-0.38422</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lista</td>
+<td class="r data" nowrap>-0.38409</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">conflito</td>
+<td class="r data" nowrap>-0.38236</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">calça</td>
+<td class="r data" nowrap>-0.37299</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cpi</td>
+<td class="r data" nowrap>-0.37061</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">farmacêutica</td>
+<td class="r data" nowrap>-0.36656</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">distanciamento</td>
+<td class="r data" nowrap>-0.36022</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comprimido</td>
+<td class="r data" nowrap>-0.35825</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rebanho</td>
+<td class="r data" nowrap>-0.35384</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">desserviço</td>
+<td class="r data" nowrap>-0.35063</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">jornaldacidadeonline</td>
+<td class="r data" nowrap>-0.34456</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">liberdade</td>
+<td class="r data" nowrap>-0.34310</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">brasil</td>
+<td class="r data" nowrap>-0.34096</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vice</td>
+<td class="r data" nowrap>-0.33947</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rna</td>
+<td class="r data" nowrap>-0.33676</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">senador</td>
+<td class="r data" nowrap>-0.33456</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">conselho</td>
+<td class="r data" nowrap>-0.32672</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">compulsório</td>
+<td class="r data" nowrap>-0.32620</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">suposto</td>
+<td class="r data" nowrap>-0.32219</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">avanço</td>
+<td class="r data" nowrap>-0.32124</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">(</td>
+<td class="l data">compra</td>
+<td class="r data" nowrap>-0.31953</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">senso</td>
+<td class="r data" nowrap>-0.31852</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comprovação</td>
+<td class="r data" nowrap>-0.31752</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">respeitar</td>
+<td class="r data" nowrap>-0.31745</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">confiar</td>
+<td class="r data" nowrap>-0.31494</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">(</td>
+<td class="l data">apertar</td>
+<td class="r data" nowrap>-0.31342</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">(</td>
+<td class="l data">world</td>
+<td class="r data" nowrap>-0.30772</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">adotar</td>
+<td class="r data" nowrap>-0.30588</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">expressar</td>
+<td class="r data" nowrap>-0.30095</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vachinas</td>
+<td class="r data" nowrap>-0.30063</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX2"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 2 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">chinês</td>
+<td class="r data">0.76142</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">povo</td>
+<td class="r data">0.74171</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comprar</td>
+<td class="r data">0.71011</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">governador</td>
+<td class="r data">0.66846</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pagar</td>
+<td class="r data">0.64473</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vender</td>
+<td class="r data">0.64198</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">querer</td>
+<td class="r data">0.63828</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">laboratório</td>
+<td class="r data">0.62968</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vachina</td>
+<td class="r data">0.61471</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">salvar</td>
+<td class="r data">0.61241</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">político</td>
+<td class="r data">0.59485</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mundo</td>
+<td class="r data">0.59394</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dar</td>
+<td class="r data">0.57604</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bilhão</td>
+<td class="r data">0.57162</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">via</td>
+<td class="r data">0.56834</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cloroquina</td>
+<td class="r data">0.56221</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cobaia</td>
+<td class="r data">0.56107</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">garantir</td>
+<td class="r data">0.55709</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ver</td>
+<td class="r data">0.54319</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">gente</td>
+<td class="r data">0.53357</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">remédio</td>
+<td class="r data">0.53299</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ficar</td>
+<td class="r data">0.53152</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">liberdade</td>
+<td class="r data">0.52182</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">governo</td>
+<td class="r data">0.51455</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bom</td>
+<td class="r data">0.50492</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">esperar</td>
+<td class="r data">0.49807</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">verdade</td>
+<td class="r data">0.49322</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">perder</td>
+<td class="r data">0.47940</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">saber</td>
+<td class="r data">0.47189</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">país</td>
+<td class="r data">0.46664</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">(</td>
+<td class="l data">eficácia</td>
+<td class="r data">0.45501</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">colateral</td>
+<td class="r data">0.44921</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dizer</td>
+<td class="r data">0.44382</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aprovar</td>
+<td class="r data">0.44003</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">interesse</td>
+<td class="r data">0.43366</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">teste</td>
+<td class="r data">0.43163</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pegar</td>
+<td class="r data">0.43088</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">efeito</td>
+<td class="r data">0.42412</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">(</td>
+<td class="l data">tratamento</td>
+<td class="r data">0.41759</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vida</td>
+<td class="r data">0.41642</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">obrigatório</td>
+<td class="r data">0.41486</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">(</td>
+<td class="l data">precoce</td>
+<td class="r data">0.40288</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">criar</td>
+<td class="r data">0.40283</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">compra</td>
+<td class="r data">0.40057</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">(</td>
+<td class="l data">lockdown</td>
+<td class="r data">0.38837</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">campanha</td>
+<td class="r data">0.38781</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aplicar</td>
+<td class="r data">0.38636</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">(</td>
+<td class="l data">usar</td>
+<td class="r data">0.38266</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">(</td>
+<td class="l data">primeiro</td>
+<td class="r data">0.38253</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">prefeito</td>
+<td class="r data">0.37771</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">(</td>
+<td class="l data">pandemia</td>
+<td class="r data">0.36924</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">(</td>
+<td class="l data">vírus</td>
+<td class="r data">0.36890</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">especial</td>
+<td class="r data">0.36429</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ivermectina</td>
+<td class="r data">0.35185</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">causa</td>
+<td class="r data">0.34768</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imunização</td>
+<td class="r data">0.33777</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">(</td>
+<td class="l data">público</td>
+<td class="r data">0.33559</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">covid</td>
+<td class="r data">0.32837</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">(</td>
+<td class="l data">segundo</td>
+<td class="r data">0.32553</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">(</td>
+<td class="l data">emergencial</td>
+<td class="r data">0.32380</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">farmacêutico</td>
+<td class="r data">0.31582</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX3"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 2 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">nih</td>
+<td class="r data" nowrap>-0.87872</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">nlm</td>
+<td class="r data" nowrap>-0.87872</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ncbi</td>
+<td class="r data" nowrap>-0.87872</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">literat</td>
+<td class="r data" nowrap>-0.83751</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bvsalud</td>
+<td class="r data" nowrap>-0.82339</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">articles</td>
+<td class="r data" nowrap>-0.78500</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">hepatite</td>
+<td class="r data" nowrap>-0.59766</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">(</td>
+<td class="l data">pós</td>
+<td class="r data" nowrap>-0.57290</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">(</td>
+<td class="l data">fonte</td>
+<td class="r data" nowrap>-0.55686</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">global</td>
+<td class="r data" nowrap>-0.51415</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">célula</td>
+<td class="r data" nowrap>-0.50665</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">(</td>
+<td class="l data">facebook</td>
+<td class="r data" nowrap>-0.50445</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mrna</td>
+<td class="r data" nowrap>-0.49270</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cdc</td>
+<td class="r data" nowrap>-0.48555</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">publicar</td>
+<td class="r data" nowrap>-0.48306</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">emitir</td>
+<td class="r data" nowrap>-0.46946</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">experimento</td>
+<td class="r data" nowrap>-0.44070</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mielite</td>
+<td class="r data" nowrap>-0.43035</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">enquete</td>
+<td class="r data" nowrap>-0.40923</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">atleta</td>
+<td class="r data" nowrap>-0.40743</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">transverso</td>
+<td class="r data" nowrap>-0.40650</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">futebol</td>
+<td class="r data" nowrap>-0.40494</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">(</td>
+<td class="l data">alerta</td>
+<td class="r data" nowrap>-0.39513</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">(</td>
+<td class="l data">correiopaulista</td>
+<td class="r data" nowrap>-0.38708</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">(</td>
+<td class="l data">pesquisa</td>
+<td class="r data" nowrap>-0.36311</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">fulminante</td>
+<td class="r data" nowrap>-0.35375</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">(</td>
+<td class="l data">diagnóstico</td>
+<td class="r data" nowrap>-0.35348</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">farmacêutica</td>
+<td class="r data" nowrap>-0.34409</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">(</td>
+<td class="l data">rna</td>
+<td class="r data" nowrap>-0.33583</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">(</td>
+<td class="l data">infecção</td>
+<td class="r data" nowrap>-0.33560</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">(</td>
+<td class="l data">imposição</td>
+<td class="r data" nowrap>-0.33243</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">(</td>
+<td class="l data">autoimune</td>
+<td class="r data" nowrap>-0.33120</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">(</td>
+<td class="l data">indicar</td>
+<td class="r data" nowrap>-0.32435</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">dama</td>
+<td class="r data" nowrap>-0.32138</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">(</td>
+<td class="l data">proposta</td>
+<td class="r data" nowrap>-0.31880</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">world</td>
+<td class="r data" nowrap>-0.31081</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">(</td>
+<td class="l data">álcool</td>
+<td class="r data" nowrap>-0.30730</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">postagem</td>
+<td class="r data" nowrap>-0.30132</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX4"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 3 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">letalidade</td>
+<td class="r data">0.93945</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">índice</td>
+<td class="r data">0.88251</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estatística</td>
+<td class="r data">0.88111</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">segurança</td>
+<td class="r data">0.80301</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">infecção</td>
+<td class="r data">0.73291</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">prazo</td>
+<td class="r data">0.70034</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">assegurar</td>
+<td class="r data">0.68924</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">estudo</td>
+<td class="r data">0.65232</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">longo</td>
+<td class="r data">0.64329</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">impedir</td>
+<td class="r data">0.61274</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">risco</td>
+<td class="r data">0.61259</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">transmissão</td>
+<td class="r data">0.59666</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">taxa</td>
+<td class="r data">0.59352</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lockdown</td>
+<td class="r data">0.57503</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">precoce</td>
+<td class="r data">0.56670</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vírus</td>
+<td class="r data">0.52658</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">representar</td>
+<td class="r data">0.52654</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imunidade</td>
+<td class="r data">0.52510</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tratamento</td>
+<td class="r data">0.51383</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">máscara</td>
+<td class="r data">0.50804</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">saudável</td>
+<td class="r data">0.49770</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sanitário</td>
+<td class="r data">0.49498</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">usar</td>
+<td class="r data">0.49150</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">eficácia</td>
+<td class="r data">0.48119</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">benefício</td>
+<td class="r data">0.46997</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lógico</td>
+<td class="r data">0.45338</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">(</td>
+<td class="l data">doença</td>
+<td class="r data">0.45005</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">médio</td>
+<td class="r data">0.44215</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">massa</td>
+<td class="r data">0.43768</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">variante</td>
+<td class="r data">0.42629</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pandemia</td>
+<td class="r data">0.42290</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">social</td>
+<td class="r data">0.42220</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">(</td>
+<td class="l data">jovem</td>
+<td class="r data">0.42181</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">(</td>
+<td class="l data">bom</td>
+<td class="r data">0.38722</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">custo</td>
+<td class="r data">0.38240</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">científico</td>
+<td class="r data">0.38085</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">mentar</td>
+<td class="r data">0.37752</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">isolamento</td>
+<td class="r data">0.37651</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">(</td>
+<td class="l data">criança</td>
+<td class="r data">0.37113</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">(</td>
+<td class="l data">aprovar</td>
+<td class="r data">0.36883</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">emergencial</td>
+<td class="r data">0.36556</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">público</td>
+<td class="r data">0.35527</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">(</td>
+<td class="l data">garantir</td>
+<td class="r data">0.35513</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">(</td>
+<td class="l data">bilhão</td>
+<td class="r data">0.35233</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">natural</td>
+<td class="r data">0.34869</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">(</td>
+<td class="l data">interesse</td>
+<td class="r data">0.34267</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">caráter</td>
+<td class="r data">0.33719</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">(</td>
+<td class="l data">morte</td>
+<td class="r data">0.32596</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">obrigatoriedade</td>
+<td class="r data">0.31939</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">maioria</td>
+<td class="r data">0.31886</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">forçar</td>
+<td class="r data">0.31611</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">perigoso</td>
+<td class="r data">0.31418</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">transmitir</td>
+<td class="r data">0.31083</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">faixa</td>
+<td class="r data">0.30887</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">paciente</td>
+<td class="r data">0.30236</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX5"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 3 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dor</td>
+<td class="r data" nowrap>-0.70703</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cabeça</td>
+<td class="r data" nowrap>-0.70414</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">perna</td>
+<td class="r data" nowrap>-0.58522</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ataque</td>
+<td class="r data" nowrap>-0.58404</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">(</td>
+<td class="l data">cardíaco</td>
+<td class="r data" nowrap>-0.57438</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">paralisia</td>
+<td class="r data" nowrap>-0.57396</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">amiga</td>
+<td class="r data" nowrap>-0.57255</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pé</td>
+<td class="r data" nowrap>-0.56451</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">resfriar</td>
+<td class="r data" nowrap>-0.54646</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">trombone</td>
+<td class="r data" nowrap>-0.53905</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">exame</td>
+<td class="r data" nowrap>-0.52451</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rim</td>
+<td class="r data" nowrap>-0.52205</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">brasil</td>
+<td class="r data" nowrap>-0.49335</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">facial</td>
+<td class="r data" nowrap>-0.48978</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pele</td>
+<td class="r data" nowrap>-0.46964</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">amigo</td>
+<td class="r data" nowrap>-0.46641</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">falecer</td>
+<td class="r data" nowrap>-0.43905</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">diagnóstico</td>
+<td class="r data" nowrap>-0.42023</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">apertar</td>
+<td class="r data" nowrap>-0.40594</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sangue</td>
+<td class="r data" nowrap>-0.40509</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">infarto</td>
+<td class="r data" nowrap>-0.40205</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">(</td>
+<td class="l data">semana</td>
+<td class="r data" nowrap>-0.39123</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">calça</td>
+<td class="r data" nowrap>-0.38275</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">(</td>
+<td class="l data">miocardite</td>
+<td class="r data" nowrap>-0.37461</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">(</td>
+<td class="l data">verdade</td>
+<td class="r data" nowrap>-0.37454</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">lista</td>
+<td class="r data" nowrap>-0.35126</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">(</td>
+<td class="l data">sofrer</td>
+<td class="r data" nowrap>-0.34109</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">segundo</td>
+<td class="r data" nowrap>-0.33326</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">gripe</td>
+<td class="r data" nowrap>-0.32318</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">(</td>
+<td class="l data">pegar</td>
+<td class="r data" nowrap>-0.31796</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">(</td>
+<td class="l data">comprimido</td>
+<td class="r data" nowrap>-0.31445</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">news</td>
+<td class="r data" nowrap>-0.31229</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

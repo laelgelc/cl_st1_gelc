@@ -1,0 +1,27 @@
+file = t011893
+date = 2021-04-00
+user = url:https://twitter.com/evandroratho/status/1382691764587356200
+conversation = 99999999
+URL = 
+
+word count = 37
+words loading = 9
+factor score = 8
+
+**Estudos** **científicos** já concluíram que: - Lockdown é ineficaz; - 
+**Tratamento** **precoce** é eficaz; - Atividade física é a **melhor** 
+prevenção; - Vacinas possuem baixa **eficácia** ; - A **transmissão** do 
+**vírus** por superfície é quase nula; - Assintomáticos não **transmitem** o 
+**vírus** ; 
+
+Lemmas in this text that loaded on the factor:
+
+bom (secondary)
+científico
+eficácia
+estudo
+precoce
+transmissão
+transmitir
+tratamento
+vírus

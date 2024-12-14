@@ -1,0 +1,27 @@
+file = t014126
+date = 2021-12-00
+user = url:https://twitter.com/evandroratho/status/1473250155986100200
+conversation = 99999999
+URL = 
+
+word count = 46
+words loading = 9
+factor score = 8
+
+@OsmarTerra Tudo é uma questão de **custo** x **benefício** , e não faz sentido 
+a aplicação de vacinas experimentais em alguém cuja a própria **doença** tem 
+**índice** de **letalidade** abaixo 0 , 1 % , ainda mais se tratando de uma 
+tecnologia nova, sem **estudos** suficientes sobre **segurança** a **longo** 
+**prazo** . . . 
+
+Lemmas in this text that loaded on the factor:
+
+benefício
+custo
+doença (secondary)
+estudo
+índice
+letalidade
+longo
+prazo
+segurança

@@ -1,0 +1,25 @@
+file = t016811
+date = 2022-11-00
+user = url:https://twitter.com/julianabrioli/status/1596240266758848500
+conversation = 99999999
+URL = 
+
+word count = 49
+words loading = 7
+factor score = 7
+
+Meu amado pai **faleceu** há exatos 9 **meses** e 3 **dias** , apenas 72 
+**anos** , zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de 
+COVID. Bolsonarista convicto até o **último** suspiro … Genocida foi a 
+corrupção que assolou nosso país durante 14 **anos** de PT. Papai, minha luta é 
+por VOCÊ. https://t.co/0MNpLM2a5a 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+dia
+dose
+falecer
+mês
+morrer
+último
