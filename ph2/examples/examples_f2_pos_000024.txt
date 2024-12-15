@@ -1,0 +1,22 @@
+file = t014067
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471536660802420700
+
+word count = 46
+words loading = 5
+factor score = 8
+
+Segundo **dados** do governo de SC, crianças e adolescentes **representam** 0 
+, 37 % das vítimas de covid no estado. Entre **pessoas** abaixo de 19 **anos** 
+o índice de **letalidade** da doença é de 0 , 05 % . Não há justificativa 
+para forçar a vacinação nesse grupo de **pessoas** . 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dado 
+letalidade 
+pessoa 
+representar 

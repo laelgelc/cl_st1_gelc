@@ -1,0 +1,21 @@
+file = t012765
+date = 2021-07-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1419664019556798500
+
+word count = 46
+words loading = 4
+factor score = -4
+
+@revistaoeste Esse tipo de argumento permite concluir que nem máscara, nem 
+**isolamento** social, e nem vacina, são garantias para o fim da **pandemia** 
+, e sendo assim, ou passamos a aceitar a existência do vírus e investir no 
+**tratamento** **precoce** , ou seremos eternamente escravos do medo! 
+
+Lemmas in this text that loaded on the factor:
+
+isolamento 
+pandemia (secondary)
+precoce 
+tratamento 

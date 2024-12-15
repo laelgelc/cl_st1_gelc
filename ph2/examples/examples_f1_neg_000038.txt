@@ -1,0 +1,20 @@
+file = t000696
+date = 2020-09-29
+user = amandamoraes500
+conversation = 2189036407
+URL = https://twitter.com/amandamoraes500/status/1311056954727559168
+
+word count = 35
+words loading = 3
+factor score = -3
+
+Vou ser chata, muito, muito chata. . . Mas, por favor. . . NÃO votem em 
+prefeito que não se posicionar e assumir compromisso com a sociedade sobre 
+**tratamento** **precoce** e que seja contrário a **obrigatoriedade** da 
+Vacina. 
+
+Lemmas in this text that loaded on the factor:
+
+obrigatoriedade 
+precoce 
+tratamento 

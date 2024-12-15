@@ -1,0 +1,21 @@
+file = t012115
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1393175294169731000
+
+word count = 34
+words loading = 4
+factor score = 7
+
+Me espanta ver tanta gente aceitando o **risco** da vacinação em **massa** 
+com vacinas suspeitas para uma doença que tem índice de **letalidade** 
+ínfimo entre **pessoas** saudáveis, enquanto negam um tratamento 
+cientificamente comprovado. 
+
+Lemmas in this text that loaded on the factor:
+
+letalidade 
+massa 
+pessoa 
+risco 

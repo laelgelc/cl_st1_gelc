@@ -1,0 +1,23 @@
+file = t016713
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595014240661807000
+
+word count = 55
+words loading = 5
+factor score = 7
+
+@CMAJ Absurdo! Este **estudo** comprova q os **riscos** são 10x maiores q os 
+benefícios na população **jovem** , pois a #vacina provoca 100 **mortes** a 
+cada 100 mil doses ( 0 , 1 % ) , enquanto o **risco** de doença **grave** é 
+de 0 , 01 % . O nome q damos a isso é #GenoEMOJI_copyright_e! dio! Milhares d 
+**jovens** morreram pela #vacina! 
+
+Lemmas in this text that loaded on the factor:
+
+estudo 
+grave 
+jovem 
+morte 
+risco 

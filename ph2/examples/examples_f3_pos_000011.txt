@@ -1,0 +1,26 @@
+file = t014757
+date = 2022-02-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1491103232638488600
+
+word count = 54
+words loading = 8
+factor score = 7
+
+Tô há mais de 3h conversando com um **amigo** q **quer** vacinar os filhos. . 
+. Ele tem ZERO informação sobre o q está acontecendo, + é um homem q busca 
+a Deus e vai buscar orientação dEle **Gente** , **existe** um **mundo** de 
+pessoas nesse país q nem **sabe** q as falsas picadas estão **dando** 
+**problema** 
+
+Lemmas in this text that loaded on the factor:
+
+amigo (secondary)
+dar 
+existir 
+gente 
+mundo 
+problema (secondary)
+querer 
+saber 

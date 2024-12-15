@@ -1,0 +1,25 @@
+file = t010938
+date = 2020-12-00
+user = sabolsonaro
+conversation = 99999999
+URL = https://twitter.com/sabolsonaro/status/1339951137127092200
+
+word count = 47
+words loading = 7
+factor score = 7
+
+É muito triste quando **vemos** pessoas mal informadas. Uma vacina leva de 7 a 
+10 anos de **teste** p / confirmar sua eficácia. Essa raça pra ganhar 
+dinheiro, vão fazer o **povo** de **cobaia** . Vai ter muita **gente** com 
+**problemas** muitos sérios depois que **tomar** a vacina. . . 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+cobaia 
+gente 
+povo 
+problema (secondary)
+teste 
+tomar 
+ver 

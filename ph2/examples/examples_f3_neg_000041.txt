@@ -1,0 +1,19 @@
+file = t011937
+date = 2021-04-00
+user = frankcastle2009
+conversation = 99999999
+URL = https://twitter.com/frankcastle2009/status/1384311848829427700
+
+word count = 24
+words loading = 2
+factor score = -2
+
+A pessoa tomou as duas doses da vacina, e ainda precisa de usar máscara, 
+álcool em **gel** e manter **distanciamento** social. Não entendi 
+face_with_rolling_eyes_eEMOJI_pile_of_poo_eEMOJI_thinking_face_eEMOJI_thinking_f
+ace_e 
+
+Lemmas in this text that loaded on the factor:
+
+distanciamento 
+gel 

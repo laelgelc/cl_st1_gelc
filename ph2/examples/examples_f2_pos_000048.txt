@@ -1,0 +1,22 @@
+file = t012096
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1392541165552087000
+
+word count = 33
+words loading = 5
+factor score = 7
+
+Hipoteticamente falando, e se descobrirem que a **longo** **prazo** as vacinas 
+geram **efeitos** colaterais severos e desenvolvem doenças imunodeficientes 
+verdadeiramente letais? Quem será responsabilizado por tê -las **aplicado** 
+deliberadamente em milhões de **pessoas** saudáveis? 
+
+Lemmas in this text that loaded on the factor:
+
+aplicar 
+efeito 
+longo 
+pessoa 
+prazo 

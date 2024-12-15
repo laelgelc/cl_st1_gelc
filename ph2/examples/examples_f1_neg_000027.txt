@@ -1,0 +1,20 @@
+file = t012412
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1405500052865437700
+
+word count = 49
+words loading = 3
+factor score = -4
+
+Existem estudos padrão ouro, duplo cego, randomizado, polido e perfumado, para 
+o **tratamento** **precoce** ? Não! Existe pra vacina? Existe para máscara, 
+**lockdown** , intubação, dipirona, e paracetamol? E para o fique em casa 
+até faltar o ar 0 2 a c e g l m o r s y 
+
+Lemmas in this text that loaded on the factor:
+
+lockdown 
+precoce 
+tratamento 

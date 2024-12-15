@@ -1,0 +1,20 @@
+file = t011051
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1344060687845388300
+
+word count = 35
+words loading = 3
+factor score = -2
+
+EU HEIN, SÓ SENDO LOUCO OU MUITO BURRO PRA CORRER ATRÁS DESTAS PORCARIAS! ! 
+**Termo** de responsabilidade de vacina cita **paralisia** **facial** e admite 
+não saber risco de choque anafilático estudosnacionais. com / 30286 / 
+termo-de … via @estudosn 
+
+Lemmas in this text that loaded on the factor:
+
+facial 
+paralisia 
+termo 

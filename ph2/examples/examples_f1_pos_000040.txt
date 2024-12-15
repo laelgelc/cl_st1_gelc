@@ -1,0 +1,23 @@
+file = t016604
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1592350820217282600
+
+word count = 20
+words loading = 7
+factor score = 7
+
+@danxavi81 @Tinath22 Estudos **publicados** pela OMS **indicam** que a vacina 
+é relacionada a Limfohistocytosi hemofagica. **pesquisa** . **bvsalud** . 
+**org** / global-literat … https://t.co/QqjA8Iq9eU 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud 
+global 
+indicar 
+literat 
+org 
+pesquisa 
+publicar 

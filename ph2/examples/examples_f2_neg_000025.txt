@@ -1,0 +1,21 @@
+file = t015435
+date = 2022-05-00
+user = nuriagallao
+conversation = 99999999
+URL = https://twitter.com/nuriagallao/status/1531424782566183000
+
+word count = 43
+words loading = 3
+factor score = -2
+
+sos_button_eEMOJI_double_exclamation_mark_eQUE VERGONHA! Algumas diretoras / 
+gestoras estão exigindo comprov. de vacina de Covid nas crianças, sob 
+**pena** de comunicação ao **conselho** **tutelar** e quando os pais chegam 
+com a minha notificação, elas mudam o discurso e dizem que era só para 
+estatística. face_with_symbols_on_mouth_e FALA SÉRIO! ! 
+
+Lemmas in this text that loaded on the factor:
+
+conselho 
+pena 
+tutelar 

@@ -1,0 +1,18 @@
+file = t016419
+date = 2022-10-00
+user = paulo2246
+conversation = 99999999
+URL = https://twitter.com/paulo2246/status/1583646016460722200
+
+word count = 27
+words loading = 2
+factor score = -2
+
+@mpsp_oficial Sobre **conselho** **tutelar** porque estao notificando pais que 
+nao vacinaram seus filhos contra a covid. Esta vacina nao esta na PNI e 
+portanto nao é obrigatoria 
+
+Lemmas in this text that loaded on the factor:
+
+conselho 
+tutelar 

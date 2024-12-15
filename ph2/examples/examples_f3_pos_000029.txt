@@ -1,0 +1,23 @@
+file = t014249
+date = 2022-01-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1478774598858686500
+
+word count = 49
+words loading = 5
+factor score = 6
+
+@realpfigueiredo Vc chamava a **gente** de teóricos da conspiração. . . 
+**Dizia** q as fake vacinas eram **boas** . . . **Ficamos** felizes que 
+acordou. Antes tarde do q nunca. Só não **dá** p entender como nós, q ñ 
+trabalhamos como jornalistas, temos mais informações que os jornalistas e 
+muitos médicos. Q loucura! 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+dar 
+dizer 
+ficar 
+gente 

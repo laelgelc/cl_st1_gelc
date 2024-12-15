@@ -1,0 +1,18 @@
+file = t010716
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1336734361316679700
+
+word count = 27
+words loading = 2
+factor score = -2
+
+NOTÍCIAS DETAS VAC! NAS ESTÃO PIOR QUE O PRÓPRIO VÍRUS Quatro voluntários 
+da vacina da Pfizer desenvolveram temporariamente **paralisia** **facial** 
+gazetabrasil. com. br / especiais / coro … via @Gazeta. 
+
+Lemmas in this text that loaded on the factor:
+
+facial 
+paralisia 

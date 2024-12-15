@@ -1,0 +1,21 @@
+file = t014406
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1482063737527939000
+
+word count = 45
+words loading = 4
+factor score = 7
+
+Quase 2 **anos** e a covid não **causou** problemas **graves** em **jovens** 
+saudáveis, muito menos sequelas. Agora, quando atletas profissionais são 
+diagnosticados com miocardite justamente após a vacinação, querem dizer que 
+a doença é sequela do vírus e não da vacina? É muita canalhice! 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+causar 
+grave 
+jovem 

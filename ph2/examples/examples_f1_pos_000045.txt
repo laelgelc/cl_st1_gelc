@@ -1,0 +1,25 @@
+file = t016085
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1566824586481729500
+
+word count = 47
+words loading = 7
+factor score = 7
+
+**Fontes** : Falecimento de Flávio Rodrigues: m. **facebook** . com / story. 
+php? stor … Face de Flávio ( fotos com as **doses** ) **facebook** . com / 
+profile. php? id … **Alerta** da Anvisa, só **publicado** no site e não 
+divulgado na Grande Mídia. Flávio se **submeteu** ao **experimento** sem 
+saber dos riscos. gov. br / anvisa / pt-br / a … 
+
+Lemmas in this text that loaded on the factor:
+
+alertar 
+dose 
+experimento 
+facebook 
+fonte 
+publicar 
+submeter 

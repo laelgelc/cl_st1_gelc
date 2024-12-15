@@ -1,0 +1,20 @@
+file = t011335
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1352172801013256200
+
+word count = 36
+words loading = 3
+factor score = 6
+
+@albuquerque_vr @criticanac Me **diz** quem está desmentindo? Se for revista 
+Época, já foi confirmado Fake News, G1 , Foice de SP? Médicos **vendidos** 
+para Dória? Não podem confirmar, pois os bilhões **pagos** nas vacinas 
+acabaria. Totalmente político. 
+
+Lemmas in this text that loaded on the factor:
+
+dizer 
+pagar 
+vender 

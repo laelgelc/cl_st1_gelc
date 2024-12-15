@@ -1,0 +1,22 @@
+file = t002409
+date = 2021-05-30
+user = JulioBottarelli
+conversation = 940596771776073728
+URL = https://twitter.com/JulioBottarelli/status/1399124997512302597
+
+word count = 46
+words loading = 4
+factor score = -3
+
+" @oiIuiz É este tipo de gente que faz **piada** com Darwin, Lei da 
+evolução, de virar jacaré , que chamava outros de gado, negacionista 
+terraplanista, anti-ciencia e contra **tratamento** **precoce** . . . E não 
+faz **tratamento** , não faz profilaxia e **confia** em uma " " vacina " " 
+experimental Express Quem é gado? " 
+
+Lemmas in this text that loaded on the factor:
+
+confiar 
+piada (secondary)
+precoce 
+tratamento 

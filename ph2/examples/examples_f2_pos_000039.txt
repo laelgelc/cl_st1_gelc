@@ -1,0 +1,20 @@
+file = t013838
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1463898816336248800
+
+word count = 45
+words loading = 3
+factor score = 7
+
+@SigaGazetaBR As estatísticas mostram que é desprezível o **risco** de 
+**morte** pelo vírus entre **jovens** saudáveis, portanto, nada justifica 
+essa gana por vacinar crianças. Ou é muito interesse em faturar com venda de 
+vacinas, ou tem algo muito pior por trás de tudo isso. 
+
+Lemmas in this text that loaded on the factor:
+
+jovem 
+morte 
+risco 

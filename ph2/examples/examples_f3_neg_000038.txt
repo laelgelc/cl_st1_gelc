@@ -1,0 +1,18 @@
+file = t010907
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1339693982469730300
+
+word count = 37
+words loading = 1
+factor score = -2
+
+A MESES QUE VENHO DIZENDO, SOCIALISMO IMPLANTADO NO BRASIL COM NOME DE 
+PANDEMIA! ! Vacinação Compulsória: O Coroamento De Uma Trajetória de 
+Totalitarismo &amp; A Derrota da Liberdade Civil criticanacional. com. br / 
+2020 / 12 / 17 / **vac** … via @criticanac 
+
+Lemmas in this text that loaded on the factor:
+
+vac 

@@ -1,0 +1,19 @@
+file = t011036
+date = 2020-12-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1343008861431726000
+
+word count = 43
+words loading = 2
+factor score = -2
+
+MÉDICO DE BOSTON TEM REAÇÃO ANAFILÁTICA AO TOMAR V@CIN@ DA MODERNA Candace 
+Owens, fundadora do BLEXIT, divulgou o problema que um médico de Boston teve 
+ao tomar a vacina da Moderna. Relatos de **paralisia** **facial** também 
+estão pipocando pelas redes https://t.co/uyeLX6KZcz 
+
+Lemmas in this text that loaded on the factor:
+
+facial 
+paralisia 

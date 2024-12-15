@@ -1,0 +1,24 @@
+file = t010929
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1339904625286246400
+
+word count = 49
+words loading = 6
+factor score = 7
+
+Diante destes **dados** , fica muito claro que não faz sentido algum vacinar 
+toda a população. Não tem lógica **correr** **riscos** com uma vacina 
+envolta em dúvidas, para uma doença com **taxa** de **letalidade** tão 
+baixa. O **risco** dos **efeitos** colaterais é mais perigoso do que a 
+própria doença. . . 
+
+Lemmas in this text that loaded on the factor:
+
+correr 
+dado 
+efeito 
+letalidade 
+risco 
+taxa 

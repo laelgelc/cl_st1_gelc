@@ -1,0 +1,20 @@
+file = t016417
+date = 2022-10-00
+user = paulo2246
+conversation = 99999999
+URL = https://twitter.com/paulo2246/status/1583476383589994500
+
+word count = 36
+words loading = 3
+factor score = -3
+
+@NuriaGallao Recebi isto do **conselho** **tutelar** me ameaçando por não ter 
+vacinado meus filhos contra a covid e não vão tomar. Como não consigo 
+**pagar** advogado mas gostaria de saber o que posso fazer. 
+https://t.co/YhLhO9z0E5 
+
+Lemmas in this text that loaded on the factor:
+
+conselho 
+pagar (secondary)
+tutelar 

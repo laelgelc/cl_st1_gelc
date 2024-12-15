@@ -1,0 +1,25 @@
+file = t012099
+date = 2021-05-00
+user = isdomina43
+conversation = 99999999
+URL = https://twitter.com/isdomina43/status/1392810965968859100
+
+word count = 44
+words loading = 7
+factor score = 6
+
+@leandroruschel Estamos desprovidos de justiça. **Aprovar** o consumo de 
+drogas, proibir o **tratamento** **precoce** , forçar a **tomar** vacinas 
+experimentais, ideologia de gênero nas escolas, engolir que corruptos são 
+inocentes, **ver** a mentira ser chamada de **verdade** e **ficarmos** calados 
+pra não sermos presos. 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar 
+ficar 
+precoce (secondary)
+tomar 
+tratamento (secondary)
+ver 
+verdade 

@@ -1,0 +1,24 @@
+file = t016601
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1592331830409146400
+
+word count = 25
+words loading = 7
+factor score = 7
+
+@DudduPontes Existem estudos, **publicados** pela própria OMS, relaciona do o 
+aparecimento da #linfohistiocitose às vacinas de mRNA. Acesse as **fontes** : 
+**pesquisa** . **bvsalud** . **org** / global-literat … 
+https://t.co/PblquRX0a0 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud 
+fonte 
+global 
+literat 
+org 
+pesquisa 
+publicar 

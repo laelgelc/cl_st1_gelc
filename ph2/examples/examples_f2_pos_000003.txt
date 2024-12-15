@@ -1,0 +1,27 @@
+file = t013845
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1463959179635441700
+
+word count = 41
+words loading = 9
+factor score = 12
+
+@GeanLoureiro As estatísticas **asseguram** que o vírus não **representa** 
+**risco** **significativo** para **jovens** saudáveis, portanto, **submeter** 
+as crianças aos **riscos** de **efeitos** **adversos** de vacinas 
+**experimentais** que têm se mostrado pouco eficientes é incoerente e sem 
+sentido. Um verdadeiro absurdo! 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+assegurar 
+efeito 
+experimental 
+jovem 
+representar 
+risco 
+significativo 
+submeter (secondary)

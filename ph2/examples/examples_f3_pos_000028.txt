@@ -1,0 +1,22 @@
+file = t014440
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1482680925225951200
+
+word count = 30
+words loading = 6
+factor score = 6
+
+Esse **povo** que **toma** a terceira **dose** da vacina, **pega** covid, mas 
+aceita numa **boa** , é o mesmo que crítica quem **usa** certos remédios por 
+duvidar da eficácia deles. 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+dose (secondary)
+pegar 
+povo 
+tomar 
+usar (secondary)

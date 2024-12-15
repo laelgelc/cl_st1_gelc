@@ -1,0 +1,23 @@
+file = t013359
+date = 2021-10-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1444681703021289500
+
+word count = 52
+words loading = 5
+factor score = 6
+
+O cara **diz** q seria o **primeiro** a desrespeitar uma regra q ele **criou** 
+para forçar a vacinação Pais de família foram mandados embora por **causa** 
+dessa arbitrariedade. Então, pular carnaval é mais importante do q manter o 
+emprego das pessoas Para promiscuidade ñ precisa d regra. Nojo **twitter** . 
+com / jornalextra / st … 
+
+Lemmas in this text that loaded on the factor:
+
+causa 
+criar 
+dizer 
+primeiro 
+twitter 

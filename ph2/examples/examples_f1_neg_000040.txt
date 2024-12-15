@@ -1,0 +1,18 @@
+file = t000837
+date = 2020-10-30
+user = brasigois
+conversation = 95651804
+URL = https://twitter.com/brasigois/status/1322315197600718848
+
+word count = 24
+words loading = 2
+factor score = -3
+
+" RT @FabioIng: @taoquei1 **Prometer** vacina para Covid em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma " 
+
+Lemmas in this text that loaded on the factor:
+
+prometer 
+usar 

@@ -1,0 +1,19 @@
+file = t000943
+date = 2020-10-30
+user = amandamoraes500
+conversation = 2189036407
+URL = https://twitter.com/amandamoraes500/status/1322134835255795714
+
+word count = 43
+words loading = 2
+factor score = -3
+
+Estejam preparados para a falsa segunda onda que vira depois do 01 . 01 . 21 
+pra destruir o que sobrou. Precisamos agora comprometer candidatos com 
+**tratamento** Prococe, não ao Lockdown, não a vacina obrigatória. . . Quem 
+é contra **tratamento** **precoce** que faça a VaCHina. 
+
+Lemmas in this text that loaded on the factor:
+
+precoce 
+tratamento 

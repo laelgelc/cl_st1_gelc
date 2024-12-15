@@ -1,0 +1,20 @@
+file = t011268
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1350956397782065200
+
+word count = 32
+words loading = 4
+factor score = -3
+
+Toda produção de vacinas é **comprada** pelo governo **federal** . Não há 
+essa jogada de ser salvador como este crápula do Doriana quer passar para o 
+povo **Pleno** . News **pleno** . news / **brasil** / politic … 
+
+Lemmas in this text that loaded on the factor:
+
+brasil 
+comprar (secondary)
+federal 
+pleno 

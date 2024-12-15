@@ -1,0 +1,24 @@
+file = t010542
+date = 2020-11-00
+user = mariafvander
+conversation = 99999999
+URL = https://twitter.com/mariafvander/status/1328921829097025500
+
+word count = 59
+words loading = 6
+factor score = 7
+
+@veramagalhaes Onde vc **viu** divulgação oficial que Biden é vencedor? 
+Todos **sabemos** que antes de finalizar recontagem ñ **existirá** vencedor. 
+**Presidente** está correto em não permitir que uma população seja 
+**cobaia** de vacina chinesa. Por acaso vc e sua Família se se ofereceram pra 
+esse **teste** 0 2 a c e g l m o r s y 
+
+Lemmas in this text that loaded on the factor:
+
+cobaia 
+existir 
+presidente 
+saber 
+teste 
+ver 

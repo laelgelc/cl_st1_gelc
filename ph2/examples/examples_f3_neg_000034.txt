@@ -1,0 +1,16 @@
+file = t000870
+date = 2020-10-30
+user = unknown
+conversation = 8308372
+URL = unknown
+
+word count = 19
+words loading = 1
+factor score = -2
+
+RT @FabioIng: @Darth_Re @allanldsantos @UOLNoticias Prometer vacina para Covid 
+em 2020 é grave desserviço ao público, **avalia** Presidente da 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar 

@@ -1,0 +1,17 @@
+file = t000898
+date = 2020-10-30
+user = MarciaP_RJ
+conversation = 237019028
+URL = https://twitter.com/MarciaP_RJ/status/1322307315274567681
+
+word count = 23
+words loading = 2
+factor score = -3
+
+" RT @FabioIng: @allanldsantos **Prometer** vacina para Covid em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usa** " 
+
+Lemmas in this text that loaded on the factor:
+
+prometer 
+usar 

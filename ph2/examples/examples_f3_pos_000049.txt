@@ -1,0 +1,23 @@
+file = t011243
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1350364292865028000
+
+word count = 42
+words loading = 6
+factor score = 6
+
+Esse maldito tranca o **povo** de sp em **casa** , aumenta imposto de tudo, 
+tira benefícios de idosos e deficientes. . . **quer** **usar** o **povo** de 
+**cobaia** com uma porcaria de **vachina** que nem os chineses **querem** 
+RENUNCIA MALDITO Renuncie, Dória! vidadestra. org / renuncie-doria / 
+
+Lemmas in this text that loaded on the factor:
+
+casa 
+cobaia 
+povo 
+querer 
+usar (secondary)
+vachina 

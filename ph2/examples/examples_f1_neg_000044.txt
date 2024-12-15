@@ -1,0 +1,19 @@
+file = t001444
+date = 2020-11-28
+user = MarleneFFL
+conversation = 36373308
+URL = https://twitter.com/MarleneFFL/status/1332830508796030976
+
+word count = 49
+words loading = 1
+factor score = -3
+
+Cariocas tá chegando o verão Rio de Janeiro 45° graus e nossa cidade pega 
+fogo. Imaginem Dudu Paes decretando Lockdonw no RJ e nós sem praia obrigados a 
+**usar** máscara e vachina obrigatória Bora salvar o RJ do INFERNO q vem com 
+DEM angry_face_with_horns_e. Fora Eduardo Paes Bora de Crivella! 
+flexed_biceps_e flexed_biceps_ebiceps_e 
+
+Lemmas in this text that loaded on the factor:
+
+usar 

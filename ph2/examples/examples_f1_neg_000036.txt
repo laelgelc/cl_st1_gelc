@@ -1,0 +1,21 @@
+file = t000570
+date = 2020-07-28
+user = AiltonBenedito
+conversation = 342403919
+URL = https://twitter.com/AiltonBenedito/status/1288241607515537413
+
+word count = 45
+words loading = 4
+factor score = -3
+
+Os LOBISTAS DA MORTE que, diariamente, em jornais, revistas, rádios, TV, 
+apontam supostos perigos mortais de **cloroquina** , **usada** mundialmente há 
+70 anos, são exatamente os mesmos que **prometem** que a solução para a 
+**pandemia** de #Covid19 é uma hipotética vacina, em um futuro distante. 
+
+Lemmas in this text that loaded on the factor:
+
+cloroquina 
+pandemia (secondary)
+prometer 
+usar 

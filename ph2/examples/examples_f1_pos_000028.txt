@@ -1,0 +1,24 @@
+file = t016257
+date = 2022-10-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
+
+word count = 51
+words loading = 6
+factor score = 8
+
+Paulo tinha apenas 16 anos e foi encontrado **morto** em sua cama. Segundo 
+apuramos, tomou a **dose** de reforço há pouco mais de 4 meses. Estudos 
+**indicam** que os **Infartos** e AVCs provocados pelo **experimento** ocorrem 
+entre 5 a 8 meses após as **doses** . **Fonte** : stevekirsch. substack. com / 
+p / this-one-gra … https://t.co/qHr8mKkPYE 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+experimento 
+fonte 
+indicar 
+infarto 
+morrer 

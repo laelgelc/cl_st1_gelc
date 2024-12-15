@@ -1,0 +1,17 @@
+file = t014906
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1494311762660896800
+
+word count = 35
+words loading = 1
+factor score = -2
+
+@tonare79 @mqueiroga2 Dados por **faixa** etária AINDA estão disponíveis, 
+mas como a sociedade vai começar a constatar que as crianças não precisam 
+das vacinas, pode apostar que é questão de tempo para ocultarem também. 
+
+Lemmas in this text that loaded on the factor:
+
+faixa 

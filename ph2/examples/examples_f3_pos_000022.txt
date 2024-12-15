@@ -1,0 +1,27 @@
+file = t001146
+date = 2020-10-30
+user = ArianeB37
+conversation = 1037889821753192449
+URL = https://twitter.com/ArianeB37/status/1322116417953648644
+
+word count = 49
+words loading = 9
+factor score = 7
+
+@BrazilFight Não **existe** vacina eficaz o vírus está **sofrendo** várias 
+mutações, então **quer** **dizer** que a **Vachina** que o Doriana **quer** 
+empurrar pro **povo** de São Paulo é ineficiente e ainda pode provocar 
+**efeitos** **colaterais** devastadores no organismo de quem **tomar** . O 
+dinheiro é do **povo** e pronto. 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+dizer 
+efeito (secondary)
+existir 
+povo 
+querer 
+sofrer (secondary)
+tomar 
+vachina 

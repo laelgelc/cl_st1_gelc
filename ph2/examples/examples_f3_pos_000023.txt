@@ -1,0 +1,24 @@
+file = t001066
+date = 2020-10-30
+user = Heroi_Romanesco
+conversation = 320418868
+URL = https://twitter.com/Heroi_Romanesco/status/1322269674843693056
+
+word count = 41
+words loading = 7
+factor score = 7
+
+@AninhaEsperanca @JornalOGlobo **Existe** 57 Milhões de pessoas minimamente 
+humanas que defendem o **Presidente** que vc chama de cruel, mas **quer** 
+**comprar** uma vacina segura para o **povo** e não **quer** obrigar as 
+pessoas **tomarem** uma vacina experimental servindo de **cobaias** . 
+
+Lemmas in this text that loaded on the factor:
+
+cobaia 
+comprar 
+existir 
+povo 
+presidente 
+querer 
+tomar 

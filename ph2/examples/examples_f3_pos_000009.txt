@@ -1,0 +1,23 @@
+file = t015529
+date = 2022-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1536401194977042400
+
+word count = 49
+words loading = 6
+factor score = 7
+
+João Dória apostou todas as fichas na **pandemia** com a historinha da vacina 
+e das medidas sanitárias que não **salvaram** a **vida** de ninguém. A 
+estratégia não funcionou e ele se **vê** forçado a sair de cena. . . 
+infelizmente a conta do seu oportunismo está sendo **paga** pelo **povo** ! 
+
+Lemmas in this text that loaded on the factor:
+
+pagar 
+pandemia 
+povo 
+salvar 
+ver 
+vida 

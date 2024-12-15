@@ -1,0 +1,19 @@
+file = t015290
+date = 2022-05-00
+user = karinamichelin
+conversation = 99999999
+URL = https://twitter.com/karinamichelin/status/1524787669955494000
+
+word count = 43
+words loading = 1
+factor score = -2
+
+Itália: Depois da vacinação em massa mais de 480 mortes na **faixa** etária 
+abaixo de 40 anos! Números preocupantes que não param de crescer. Enquanto 
+isso o silêncio dos órgãos de saúde continua ensurdecedor … " nenhuma 
+correlação " - esses sim são os verdadeiros negacionistas! 
+https://t.co/YbgDSDqHdc 
+
+Lemmas in this text that loaded on the factor:
+
+faixa 

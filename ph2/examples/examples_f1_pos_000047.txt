@@ -1,0 +1,25 @@
+file = t015896
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1556246882929807400
+
+word count = 51
+words loading = 7
+factor score = 7
+
+Paulo Cesar Feitosa era prefeito de Itaitinga e um ferrenho defensor da vacina, 
+junto com Camilo Santana, Governador do Ceará . Tomou a 4a. **Dose** no 
+**dia** 14 / 06 e teve um **infarto** **fulminante** no **dia** 06 / 08 / 22 . 
+A OMS já **indicou** q o **experimento** pode provocar **problemas** 
+cardiorrespiratórios https://t.co/KtbEKWpoBG 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+dose 
+experimento 
+fulminante 
+indicar 
+infarto 
+problema 

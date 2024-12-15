@@ -1,0 +1,26 @@
+file = t016196
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1574192105706164200
+
+word count = 48
+words loading = 8
+factor score = 10
+
+Mortes nas últimas 48Hs - Pessoas **jovens** **sofrendo** **infartos** . 
+Ninguém questiona, a despeito da Anvisa ter **alertado** sobre o risco de 
+**problemas** Cardíacos e **Pesquisas** **indicarem** o risco d **infartos** e 
+AVCs, depois d meses após as **doses** . gov. br / anvisa / pt-br / a … 
+ncbi. nlm. nih. gov / pmc / articles / P … https://t.co/W2ANw2mmjO 
+
+Lemmas in this text that loaded on the factor:
+
+alertar 
+dose 
+indicar 
+infarto 
+jovem (secondary)
+pesquisa 
+problema 
+sofrer 

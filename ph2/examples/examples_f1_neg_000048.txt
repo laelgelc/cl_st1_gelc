@@ -1,0 +1,19 @@
+file = t001937
+date = 2021-02-27
+user = Takiedg
+conversation = 70002340
+URL = https://twitter.com/Takiedg/status/1365527280571863040
+
+word count = 28
+words loading = 3
+factor score = -3
+
+@ClaudeLuca_ Precisam explicar exatamente qual o protocolo do **tratamento** 
+**precoce** e divulgar amplamente. Os ditadores estão escondendo essas 
+notícias p que possam decretar **lockdown** por todo o país! 
+
+Lemmas in this text that loaded on the factor:
+
+lockdown 
+precoce 
+tratamento 

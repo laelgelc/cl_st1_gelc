@@ -1,0 +1,17 @@
+file = t012967
+date = 2021-08-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1430887309440860200
+
+word count = 40
+words loading = 0
+factor score = -2
+
+LISA SHAW, DA BBC, MORRE COM COÁGULO NA CABEÇA PÓS VACINA COVID O legista do 
+Reino Unido descobre que Lisa Shaw, da BBC, morreu após desenvolver coágulos 
+sanguíneos no cérebro causados ​​por uma vacina de Covid. bbc. com / news 
+/ uk-englan … https://t.co/2229zG7jcV 
+
+Lemmas in this text that loaded on the factor:
+

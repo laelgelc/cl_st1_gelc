@@ -1,0 +1,26 @@
+file = t016633
+date = 2022-11-00
+user = karinamichelin
+conversation = 99999999
+URL = https://twitter.com/karinamichelin/status/1593010722002591700
+
+word count = 44
+words loading = 8
+factor score = 7
+
+Continuo a observar a quantidade de pessoas que estão adoecendo gravemente- 
+além de **ver** **milhares** delas morrendo repentinamente. As vezes penso em 
+viver em um **mundo** paralelo, muitos **dizem** que a vacina **salvou** 
+**vidas** durante a **pandemia** - difícil provar, assim como as **mortes** da 
+vacinaEMOJI_ok_hand_light_skin_tone_e 
+
+Lemmas in this text that loaded on the factor:
+
+dizer 
+milhar 
+morte (secondary)
+mundo 
+pandemia 
+salvar 
+ver 
+vida 

@@ -1,0 +1,18 @@
+file = t016413
+date = 2022-10-00
+user = paulo2246
+conversation = 99999999
+URL = https://twitter.com/paulo2246/status/1583266659476783000
+
+word count = 27
+words loading = 2
+factor score = -3
+
+@movadvdireitabr @oabrs Quais as providências legais devo tomar hoje recebi 
+isto do **conselho** **tutelar** me ameaçando por não ter vacinado meus 
+filhos contra a covid https://t.co/EBZ2KXVwiw 
+
+Lemmas in this text that loaded on the factor:
+
+conselho 
+tutelar 

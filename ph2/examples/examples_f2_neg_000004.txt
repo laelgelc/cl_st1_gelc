@@ -1,0 +1,18 @@
+file = t016408
+date = 2022-10-00
+user = paulo2246
+conversation = 99999999
+URL = https://twitter.com/paulo2246/status/1583114013340491800
+
+word count = 22
+words loading = 2
+factor score = -3
+
+@MarcosFalcao_Dr Ontem recebi isto do **conselho** **tutelar** me ameaçando 
+por não ter vacinado meus filhos. Me disseram vc poderia me orientar! 
+https://t.co/GjQwtZiIt0 
+
+Lemmas in this text that loaded on the factor:
+
+conselho 
+tutelar 

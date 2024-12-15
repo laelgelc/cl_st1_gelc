@@ -1,0 +1,20 @@
+file = t011656
+date = 2021-03-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1372523812395307000
+
+word count = 48
+words loading = 2
+factor score = -4
+
+@MarcosQuezado1 Já parou pra pensar que nada do que é relacionado a Covid-19 
+tem comprovação científica? Lockdown, máscara, vacina, dipirona, e nem 
+mesmo o uso de ventilação mecânica e intubação de pacientes na UTI. Mas 
+só contra o **tratamento** **precoce** há uma mobilização pesada. É 
+suspeito, não é ? 
+
+Lemmas in this text that loaded on the factor:
+
+precoce 
+tratamento 

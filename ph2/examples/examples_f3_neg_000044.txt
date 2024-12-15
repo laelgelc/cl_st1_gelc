@@ -1,0 +1,18 @@
+file = t012605
+date = 2021-07-00
+user = melnetto
+conversation = 99999999
+URL = https://twitter.com/melnetto/status/1413253366235517000
+
+word count = 55
+words loading = 1
+factor score = -2
+
+ou mais vacinadas no Estado de São Paulo. A média de efetividade foi de 42 % 
+na totalidade do grupo e de apenas 28 % nos idosos acima dos 80 anos. O 
+trabalho envolve 15 , 9 mil voluntários e foi o maior já feito nessa 
+**faixa** etária. CoronaVac não foi a escolha certa. Quem é genocida? 
+
+Lemmas in this text that loaded on the factor:
+
+faixa 

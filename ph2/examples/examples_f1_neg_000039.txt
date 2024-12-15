@@ -1,0 +1,18 @@
+file = t000710
+date = 2020-09-29
+user = ligiagambol
+conversation = 1242252292960772107
+URL = https://twitter.com/ligiagambol/status/1311056954727559168
+
+word count = 30
+words loading = 2
+factor score = -3
+
+@amandamoraes500 @claudiabasile19 Concordo, quero ouvir o posicionamento sobre 
+essas porcarias de máscaras, sobre a vacina e **tratamento** **precoce** . 
+Caso contrário não sabemos o q enfrentaremos de janeiro em diante 
+
+Lemmas in this text that loaded on the factor:
+
+precoce 
+tratamento 

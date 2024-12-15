@@ -1,0 +1,28 @@
+file = t013582
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1455535743812636700
+
+word count = 54
+words loading = 10
+factor score = 13
+
+Se em quase 2 **anos** 17 % da população catarinense contraiu o vírus e o 
+índice de **letalidade** entre **jovens** é de 0 , 04 % , o **risco** de 
+**morte** pela doença é menor que 0 , 01 % . **Dados** do FDA apontam que 0 , 
+04 % dos **jovens** vacinados apresentam algum **tipo** de reação **adversa** 
+**grave** ( **efeito** colateral ) 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+ano 
+dado 
+efeito 
+grave 
+jovem 
+letalidade 
+morte 
+risco 
+tipo 

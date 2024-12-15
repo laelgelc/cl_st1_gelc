@@ -1,0 +1,23 @@
+file = t013679
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1459142748959826000
+
+word count = 26
+words loading = 7
+factor score = 7
+
+@revistaoeste Fazendo projeções com base nas estatísticas do CDC, 1 milhão 
+de doses **representa** potencial **risco** de **efeitos** **adversos** 
+**graves** em 400 **pessoas** . **Boa** sorte! 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+bom (secondary)
+efeito 
+grave 
+pessoa 
+representar 
+risco 

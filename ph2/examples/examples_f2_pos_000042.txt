@@ -1,0 +1,24 @@
+file = t013499
+date = 2021-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1451540044704096300
+
+word count = 36
+words loading = 7
+factor score = 7
+
+@revistaoeste A estatística **assegura** que o **risco** de **morte** por 
+covid entre **jovens** saudáveis é ínfimo. Continuo sem acreditar que o uso 
+de vacinas **experimentais** nesse grupo de **pessoas** seja aceito numa 
+**boa** pela sociedade. 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+bom (secondary)
+experimental 
+jovem 
+morte 
+pessoa 
+risco 

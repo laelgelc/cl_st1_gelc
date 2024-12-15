@@ -1,0 +1,18 @@
+file = t013743
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1461012135476187100
+
+word count = 43
+words loading = 1
+factor score = -2
+
+Fulana usava máscara, tomava banho de álcool **gel** , tomou 3 doses da 
+vacina, adoeceu e morreu de covid, e a culpa é daqueles que não seguem estas 
+mesmas medidas? Acho que o uso excessivo de máscaras está impedindo a 
+oxigenação do cérebro! 
+
+Lemmas in this text that loaded on the factor:
+
+gel 

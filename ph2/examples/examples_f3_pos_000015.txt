@@ -1,0 +1,22 @@
+file = t011013
+date = 2020-12-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1341939277580673000
+
+word count = 44
+words loading = 5
+factor score = 7
+
+Amanhã não **perco** a CNN, **quero** **ver** o cinismo deles. Finalmente os 
+cientistas admitem que a vacina da China, **vendida** pelo Dória, que 
+**queria** nos forçar tomá -la, pode não ter a eficácia que ele tanto 
+idealizou e que nós, teóricos da conspiração, já **sabíamos** . 
+
+Lemmas in this text that loaded on the factor:
+
+perder 
+querer 
+saber 
+vender 
+ver 

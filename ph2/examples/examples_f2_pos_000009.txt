@@ -1,0 +1,22 @@
+file = t013529
+date = 2021-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1452718561806405600
+
+word count = 36
+words loading = 5
+factor score = 11
+
+@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
+têm **risco** de **morte** pela doença, e considerando que as vacinas não 
+**impedem** a infecção e tampouco a transmissão do vírus, tal 
+obrigatoriedade é estupidamente sem lógica. 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+impedir 
+jovem 
+morte 
+risco 

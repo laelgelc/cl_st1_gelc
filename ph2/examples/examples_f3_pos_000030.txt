@@ -1,0 +1,26 @@
+file = t013755
+date = 2021-11-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1461329726186967000
+
+word count = 49
+words loading = 8
+factor score = 6
+
+O **presidente** Bolsonaro é o ministro da saúde são responsáveis por cada 
+**vida** que se **perdeu** pós vacina e por cada pessoa q. hj tem algum 
+**problema** após eles **saberem** dos **efeitos** **colaterais** e não 
+avisarem a população dos RISCOS. O pres. @jairbolsonaro mostrou -se igual aos 
+corruptos. **twitter** . com / AlessandroLoio … 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito (secondary)
+perder 
+presidente 
+problema (secondary)
+saber 
+twitter 
+vida 

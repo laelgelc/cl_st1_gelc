@@ -1,0 +1,22 @@
+file = t014030
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471119619314360300
+
+word count = 30
+words loading = 6
+factor score = 7
+
+Para poder dizer que as vacinas não são **experimentais** e **aprovadas** em 
+caráter **emergencial** , é preciso apresentar os resultado dos **estudos** 
+sobre eficácia e segurança a **longo** **prazo** , né ? 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar (secondary)
+emergencial 
+estudo 
+experimental 
+longo 
+prazo 

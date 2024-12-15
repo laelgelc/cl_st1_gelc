@@ -1,0 +1,19 @@
+file = t011042
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1343576649846190000
+
+word count = 31
+words loading = 3
+factor score = -2
+
+DEVERIA DEIXAR RESERVADA PRA ELE A **VACHINA** DO DORIANA. QUE NINGUÉM SABE 
+NADA DELA, NEM BUTANTAN, NEM ANVISA, SÓ O DORIANA E OS XINGS LINGS **Pleno** . 
+News **pleno** . news / **brasil** / politic … 
+
+Lemmas in this text that loaded on the factor:
+
+brasil 
+pleno 
+vachina (secondary)

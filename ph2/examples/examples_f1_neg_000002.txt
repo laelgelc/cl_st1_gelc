@@ -1,0 +1,20 @@
+file = t011979
+date = 2021-04-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1386695993572352000
+
+word count = 41
+words loading = 3
+factor score = -6
+
+Os mesmos que reverberam a mentira de que o **tratamento** **precoce** não 
+comprovação de eficácia, aceitam numa boa intubação, máscara, 
+**lockdown** , e vacina, mesmo sem a devida comprovação científica de 
+eficácia! Não é uma questão de ciência, é apenas manipulação! 
+
+Lemmas in this text that loaded on the factor:
+
+lockdown 
+precoce 
+tratamento 

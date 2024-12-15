@@ -1,0 +1,22 @@
+file = t011473
+date = 2021-02-00
+user = schmittmaguida
+conversation = 99999999
+URL = https://twitter.com/schmittmaguida/status/1358727284774043600
+
+word count = 35
+words loading = 5
+factor score = 6
+
+A **verdade** dói, Doria vai arrancar as calcinhas com a boca. Anvisa **diz** 
+coronavac tem 50 , 38 % de eficácia. Marina seringana e sua **rede** de 
+sujeira e comunismo, vão ao STF **exigir** a **vachina** . 
+thinking_face_eEMOJI_thinking_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+dizer 
+exigir 
+rede 
+vachina 
+verdade 

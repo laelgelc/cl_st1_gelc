@@ -1,0 +1,24 @@
+file = t013702
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1459565640319123500
+
+word count = 45
+words loading = 6
+factor score = 9
+
+@tnbrasiloficial As estatísticas mostram que **jovens** saudáveis não 
+**correm** **risco** **significativo** de **morte** por covid, já em relação 
+às vacinas as estatísticas não têm se mostrado tão otimistas. Infelizmente 
+as **pessoas** foram induzidas a terem medo excessivo do vírus e confiança 
+excessiva nas vacinas. 
+
+Lemmas in this text that loaded on the factor:
+
+correr 
+jovem 
+morte 
+pessoa 
+risco 
+significativo 

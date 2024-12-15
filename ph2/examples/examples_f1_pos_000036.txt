@@ -1,0 +1,25 @@
+file = t015410
+date = 2022-05-00
+user = oscasosraros
+conversation = 99999999
+URL = https://twitter.com/oscasosraros/status/1530380080828108800
+
+word count = 39
+words loading = 8
+factor score = 8
+
+2 / 3 " O menino teve febre 12 **dias** após a **primeira** **dose** . Um 
+**dia** depois, ele **sentiu** **dor** abdominal e vômitos. Ele **faleceu** no 
+mesmo **dia** . Evidências mostraram que o menino **sofria** de inflamação 
+no coração conhecida como **miocardite** . " https://t.co/dGYBKWAdAb 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+dor 
+dose 
+falecer 
+miocardite 
+primeiro (secondary)
+sentir 
+sofrer 

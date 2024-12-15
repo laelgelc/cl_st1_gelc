@@ -1,0 +1,23 @@
+file = t010786
+date = 2020-12-00
+user = frankcastle2009
+conversation = 99999999
+URL = https://twitter.com/frankcastle2009/status/1337929776246485000
+
+word count = 44
+words loading = 6
+factor score = 7
+
+**Quero** **ver** esses políticos, jornalistas, artistas lacradores, 
+esquerdistas, os ministros do STF e demais juízes que estão brigando tanto 
+pra **aprovar** logo uma **VaChina** , se eles vão **dar** o exemplo e vão 
+puxar a fila, **quero** **ver** eles serem os **primeiros** a vachinar. 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar 
+dar 
+primeiro 
+querer 
+vachina 
+ver 

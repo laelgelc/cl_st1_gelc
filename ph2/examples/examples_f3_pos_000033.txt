@@ -1,0 +1,26 @@
+file = t013357
+date = 2021-10-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1444459627610058800
+
+word count = 43
+words loading = 7
+factor score = 6
+
+Olha a mentalidade do bolsonarista. . . 
+backhand_index_pointing_down_eEMOJI_woman_shrugging_medium_skin_tone_eEMOJI_woma
+n_facepalming_medium_skin_tone_e Ele não **vê** **problema** em o **governo** 
+Bolsonaro **exigir** comprovante de vacinação para o retorno do funcionalismo 
+público e ainda **dizem** que o **presidente** é contra. Meu pai, são iguais 
+aos esquerdistas. Que loucura! **twitter** . com / Algaraviador / s … 
+
+Lemmas in this text that loaded on the factor:
+
+dizer 
+exigir 
+governo 
+presidente 
+problema (secondary)
+twitter 
+ver 

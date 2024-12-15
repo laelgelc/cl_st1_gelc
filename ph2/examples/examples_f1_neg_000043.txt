@@ -1,0 +1,20 @@
+file = t001208
+date = 2020-10-30
+user = unknown
+conversation = 983184554
+URL = unknown
+
+word count = 52
+words loading = 3
+factor score = -3
+
+@bellanna E eu votei nesse ditador para ele tirar minha **liberdade** de ir e 
+vir, de trabalhar, de receber **tratamento** **precoce** , aumentou o iptu, e 
+se for reeleito, sem meu voto, vai obrigar todos a tomar vachina. Aposto q o 
+filho e a esposa não vão tomar é só para o cow_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade 
+precoce 
+tratamento 

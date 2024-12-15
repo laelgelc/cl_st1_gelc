@@ -1,0 +1,20 @@
+file = t012648
+date = 2021-07-00
+user = melnetto
+conversation = 99999999
+URL = https://twitter.com/melnetto/status/1415358880041914400
+
+word count = 49
+words loading = 3
+factor score = 6
+
+Doria, o calcinha, **quer** entregar vacinas da China com antecedência de um 
+mês ao Governo Federal. Não entendo a pressa para o Ditadória **querer** se 
+livrar da CoronaVac, a Vachina tem menos eficácia que remédio de parasitas e 
+tem sido recusada por **milhares** de países **mundo** afora! SQÑ ! 
+
+Lemmas in this text that loaded on the factor:
+
+milhar 
+mundo 
+querer 

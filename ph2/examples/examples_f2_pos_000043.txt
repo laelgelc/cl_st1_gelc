@@ -1,0 +1,22 @@
+file = t012951
+date = 2021-08-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1430250986006851600
+
+word count = 43
+words loading = 5
+factor score = 7
+
+Se a vacina imuniza eficazmente então basta vacinar as **pessoas** do grupo de 
+**risco** . Se ela não é eficaz, faz menos sentido ainda obrigar que 
+**jovens** saudáveis tomem -na, expondo -os aos **riscos** de **efeitos** 
+colaterais sem o benefício efetivo da redução do **risco** de **morte** ! 
+
+Lemmas in this text that loaded on the factor:
+
+efeito 
+jovem 
+morte 
+pessoa 
+risco 

@@ -1,0 +1,26 @@
+file = t014321
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1480594299981082600
+
+word count = 42
+words loading = 8
+factor score = 14
+
+@v_dosfatos @Candida19091556 As estatísticas **asseguram** que o vírus não 
+**representa** **risco** **significativo** para **jovens** saudáveis, já as 
+vacinas carecem de **estudos** sobre segurança a **longo** **prazo** , 
+portanto, não há caráter de urgência para justificar o uso destas vacinas 
+em **jovens** e crianças. 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+estudo 
+jovem 
+longo 
+prazo 
+representar 
+risco 
+significativo 

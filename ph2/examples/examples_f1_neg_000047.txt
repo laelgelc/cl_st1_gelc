@@ -1,0 +1,19 @@
+file = t001916
+date = 2021-02-27
+user = marinogs
+conversation = 170884915
+URL = https://twitter.com/marinogs/status/1365769454488080384
+
+word count = 35
+words loading = 3
+factor score = -3
+
+" @AlvesBenevaldo @lumenaazevedo14 @mitags Por que São Paulo não **usa** o 
+**tratamento** **precoce** que o Dr. Kalil **usou** ? Será porque acaba com a 
+narrativa de que só a " " vacina experimental " " vai acabar com o covid? " 
+
+Lemmas in this text that loaded on the factor:
+
+precoce 
+tratamento 
+usar 

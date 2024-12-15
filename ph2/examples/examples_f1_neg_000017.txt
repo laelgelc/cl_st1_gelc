@@ -1,0 +1,24 @@
+file = t011508
+date = 2021-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1359913985177493500
+
+word count = 50
+words loading = 6
+factor score = -4
+
+Quem **vende** vacina não quer o fim da **pandemia** tão cedo; Quem recebe 
+salário sem trabalhar não quer o fim do **lockdown** tão cedo; Quem lucra 
+com internações hospitalares não quer um protocolo de **tratamento** 
+**precoce** tão cedo; Ou vai me dizer que os **interesses** não falam mais 
+alto? 
+
+Lemmas in this text that loaded on the factor:
+
+interesse 
+lockdown 
+pandemia (secondary)
+precoce 
+tratamento 
+vender (secondary)

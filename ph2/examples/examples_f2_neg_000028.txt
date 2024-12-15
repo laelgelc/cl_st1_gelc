@@ -1,0 +1,18 @@
+file = t015686
+date = 2022-07-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1544854368658268200
+
+word count = 26
+words loading = 2
+factor score = -2
+
+Anvisa mantém proibição da venda de cigarros eletrônicos no Brasil Só pode 
+vacina que infarto, da avc, Alzheimer, **paralisia** **facial** etc twitter. 
+com / i / events / 15447 … 
+
+Lemmas in this text that loaded on the factor:
+
+facial 
+paralisia 

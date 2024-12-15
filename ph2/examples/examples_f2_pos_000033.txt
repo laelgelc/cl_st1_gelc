@@ -1,0 +1,23 @@
+file = t014784
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1492113165139820500
+
+word count = 37
+words loading = 6
+factor score = 7
+
+Se os **estudos** que **asseguram** eficácia e segurança das vacinas exigem 5 
+**anos** de acompanhamento, ou os fabricantes de vacina possuem uma máquina do 
+tempo ou as vacinas são **experimentais** e foram **aprovadas** em caráter 
+**emergencial** ! 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+aprovar (secondary)
+assegurar 
+emergencial 
+estudo 
+experimental 

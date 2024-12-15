@@ -1,0 +1,24 @@
+file = t010988
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1341068732811120600
+
+word count = 43
+words loading = 6
+factor score = 7
+
+Na minha opinião, enquanto não houverem **estudos** suficientes 
+**assegurando** que o índice de **pessoas** com **efeitos** colaterais 
+**graves** às vacinas seja menor que 0 , 1 % , não faz sentido impor 
+vacinação para toda a população, sob o **risco** do remédio se tornar 
+veneno. 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+efeito 
+estudo 
+grave 
+pessoa 
+risco 

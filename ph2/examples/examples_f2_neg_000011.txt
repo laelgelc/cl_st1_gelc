@@ -1,0 +1,20 @@
+file = t010821
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1338860500256374800
+
+word count = 40
+words loading = 3
+factor score = -2
+
+Essas vacinas são tão seguras, que no contrato a pfizer ja diz que não se 
+responsabiliza por efeitos colaterais. E ainda por cima você terá que assinar 
+um **termo** , se der zica, azar seu! ! **Pleno** . News **pleno** . news / 
+**brasil** / politic … 
+
+Lemmas in this text that loaded on the factor:
+
+brasil 
+pleno 
+termo 

@@ -1,0 +1,19 @@
+file = t010597
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1333573189914550300
+
+word count = 36
+words loading = 2
+factor score = -2
+
+POIS É , A OMS TA SABENDO? ACHO QUE NÃO, ISSO NÃO CAUSA PÂNICO Sem Precisar 
+de Vacinas: Três Cidades **Italianas** Alcançaram Imunidade de **Rebanho** 
+Para o Coronavírus criticanacional. com. br / 2020 / 11 / 30 / sem … via 
+@criticanac 
+
+Lemmas in this text that loaded on the factor:
+
+italiano 
+rebanho 

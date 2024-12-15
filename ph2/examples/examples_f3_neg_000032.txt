@@ -1,0 +1,16 @@
+file = t000781
+date = 2020-10-30
+user = EdnaForesti
+conversation = 2474527723
+URL = https://twitter.com/EdnaForesti/status/1322324673380712448
+
+word count = 23
+words loading = 1
+factor score = -2
+
+" RT @FabioIng: @IronicaLaurinha Prometer vacina para Covid em 2020 é grave 
+desserviço ao público, **avalia** Presidente da Merck " " Se você vai u " 
+
+Lemmas in this text that loaded on the factor:
+
+avaliar 

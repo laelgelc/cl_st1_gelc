@@ -1,0 +1,22 @@
+file = t012265
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1400489849640075300
+
+word count = 56
+words loading = 4
+factor score = 6
+
+@AlessandroLoio2 Doutor, preciso da sua ajuda Uma amiga **tomou** a vacina da 
+Pfizer e o corpo dela ficou irreconhecível. . . Ela está vinho e cheia de 
+bolinhas e inchada dos pés à cabeça Os médicos **dizem** q é de um 
+remédio q ela **tomava** por **causa** de umas convulsões mas é mentira Eles 
+ñ **querem** admitir 
+
+Lemmas in this text that loaded on the factor:
+
+causa 
+dizer 
+querer 
+tomar 

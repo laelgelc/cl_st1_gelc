@@ -1,0 +1,24 @@
+file = t013156
+date = 2021-09-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1439348119293075500
+
+word count = 61
+words loading = 4
+factor score = 6
+
+@Pavesi_italia @anvisa_oficial @paulomathias @AdrillesRJorge @JanainaDoBrasil 
+@lcoutinho @pauloeneas @GFiuza_Oficial @revistaoeste @cristinagraeml 
+@BrunaTorlay @alexandregarcia Parecia q todo sangue do corpo dela ia sair pelos 
+poros Ela **ficou** internada 1 mês e os médicos ñ **sabiam** o q fazer. . . 
+Fingiram q ela ñ **tomou** a vacina e **diziam** q era algo do corpo dela. 
+Isso é criminoso. Médicos, cientistas, políticos e vários jornalistas 
+estão cometendo crime 
+
+Lemmas in this text that loaded on the factor:
+
+dizer 
+ficar 
+saber 
+tomar 

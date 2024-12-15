@@ -1,0 +1,19 @@
+file = t001726
+date = 2021-01-30
+user = mitags
+conversation = 266861485
+URL = https://twitter.com/mitags/status/1355587968845697035
+
+word count = 27
+words loading = 3
+factor score = -3
+
+@Gianamonteggia @ananiasfernanda Você toma e continua isolado pois o risco de 
+adquirir o vírus continua bem alto. **Confio** mais no **tratamento** 
+**precoce** cujos resultados são melhores 
+
+Lemmas in this text that loaded on the factor:
+
+confiar 
+precoce 
+tratamento 

@@ -1,0 +1,19 @@
+file = t000245
+date = 2020-05-30
+user = CludiodoNascim6
+conversation = 976089414664368128
+URL = https://twitter.com/CludiodoNascim6/status/1266741466585534466
+
+word count = 46
+words loading = 1
+factor score = -3
+
+@DesabafoForaBo1 @AnaPaul15678222 @o_antagonista Trabalho com informática e 
+estou isolando o grupo de rico em casa com modalidade home office. Uso máscara 
+apenas para cumprir protocolo. Numa doença onde não existe vacina ou 
+**tratamento** comprovado, imunização só por exposição. Deixe de ser 
+covarde e exponha -se. Tenho 61 anos. 
+
+Lemmas in this text that loaded on the factor:
+
+tratamento 

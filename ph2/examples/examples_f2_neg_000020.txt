@@ -1,0 +1,18 @@
+file = t012704
+date = 2021-07-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1417322630147973000
+
+word count = 50
+words loading = 1
+factor score = -2
+
+@_l3itad4s_l03n Uma **amiga** morou lá e disse q eles qdo colocam o pé na rua 
+p protestar, o bicho pega. Maior galera morrendo, ficando paralisada, ficando 
+com problema neurológico, alergias horríveis e eles só pensam em motociata 
+ao invés de irmos pra rua protestar contra as vacinas e a censura 
+
+Lemmas in this text that loaded on the factor:
+
+amiga 

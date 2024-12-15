@@ -1,0 +1,22 @@
+file = t014681
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488610703674167300
+
+word count = 29
+words loading = 5
+factor score = 7
+
+@tnbrasiloficial Uma vacina **aprovada** em caráter **emergencial** , sem 
+**dados** suficientemente robustos quanto a segurança, não poderia ser 
+**aplicada** em **jovens** saudáveis que não estão em situação de 
+emergência! 
+
+Lemmas in this text that loaded on the factor:
+
+aplicar 
+aprovar (secondary)
+dado 
+emergencial 
+jovem 

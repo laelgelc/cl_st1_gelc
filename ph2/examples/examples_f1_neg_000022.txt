@@ -1,0 +1,18 @@
+file = t012059
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1390400999056097300
+
+word count = 27
+words loading = 2
+factor score = -4
+
+@9876mel Mas isso não interessa aos grandes laboratórios que estão lucrando 
+bilhões de dólares com vacinas. Seriam eles por trás do financiamento contra 
+o **tratamento** **precoce** ? 
+
+Lemmas in this text that loaded on the factor:
+
+precoce 
+tratamento 

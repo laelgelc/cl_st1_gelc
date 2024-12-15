@@ -1,0 +1,19 @@
+file = t000907
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1321947496466272258
+
+word count = 27
+words loading = 3
+factor score = -3
+
+" @JornalDaCidadeO @VlogdoLisboa - Hidroxicloroquina. Há 70 anos no 
+**mercado** : " " não tem comprovação científica, é perigoso " " - Vacina. 
+Feita em 7 meses: " " deve ser obrigatória. " " **Dama** de **ferro** / TT " 
+
+Lemmas in this text that loaded on the factor:
+
+dama 
+ferro 
+mercado 

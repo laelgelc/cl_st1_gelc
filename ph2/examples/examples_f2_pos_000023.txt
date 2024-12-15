@@ -1,0 +1,24 @@
+file = t014649
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1487095684406857700
+
+word count = 43
+words loading = 6
+factor score = 8
+
+@RafaelFontana Bom seria se a questão fosse apenas a ineficácia, mas estamos 
+falando de vacinas **aprovadas** em caráter **emergencial** , sem **estudos** 
+completos quanto a segurança, e que estão **causando** **efeitos** 
+**adversos** em muita gente. Não fosse o suficiente, querem vacinar as 
+crianças. . . 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+aprovar (secondary)
+causar 
+efeito 
+emergencial 
+estudo 
