@@ -1,0 +1,23 @@
+file = t015156
+date = 2022-04-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1512527342907895800
+
+word count = 44
+words loading = 5
+factor score = 7
+
+Quando os **estudos** sugeriam a eficácia de remédios no **tratamento** da 
+covid a **imprensa** vociferou questionamentos sobre o nível de comprovação 
+científica de tais **estudos** . Agora que se trata dos **efeitos** 
+**colaterais** das vacinas, qualquer **estudo** serve para driblar a realidade. 
+Cínicos! https://t.co/YoQTiDiFKG 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito 
+estudo 
+imprensa 
+tratamento 

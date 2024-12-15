@@ -1,0 +1,25 @@
+file = t016119
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1569477026234646500
+
+word count = 45
+words loading = 7
+factor score = 8
+
+Pietra Medeiros era jogadora de Futsal e Campeã por São Paulo. Teve que se 
+**submeter** ao **experimento** , pois a Federação **exige** o 
+**comprovante** em **dia** para participação nos Jogos. Desenvolveu hepatite 
+auto-imune logo após a **dose** de reforço e **faleceu** em 19 / 08 / 22 , 
+após um transplante. https://t.co/qGizMxWhpj 
+
+Lemmas in this text that loaded on the factor:
+
+comprovante 
+dia 
+dose 
+exigir 
+experimento 
+falecer 
+submeter 

@@ -1,0 +1,21 @@
+file = t016255
+date = 2022-10-00
+user = url:https://twitter.com/oscasosraros/status/1577436369198076000
+conversation = 99999999
+URL = 
+
+word count = 30
+words loading = 3
+factor score = -3
+
+50yoM with Bells Palsy after Pfizer, ongoing symptoms after 21 days: pubmed. 
+**ncbi** . **nlm** . **nih** . gov / 34330676 / 57yoF with Bells Palsy < ; 36 
+hours after 2nd dose of Pfizer: pubmed. **ncbi** . **nlm** . **nih** . gov / 
+33594349 / 61yoM with Bells Palsy after each dose of Pfizer: pubmed. **ncbi** . 
+**nlm** . **nih** . gov / 34281950 / 
+
+Lemmas in this text that loaded on the factor:
+
+ncbi
+nih
+nlm

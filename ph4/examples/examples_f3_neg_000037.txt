@@ -1,0 +1,22 @@
+file = t010142
+date = 2020-08-00
+user = schmittmaguida
+conversation = 99999999
+URL = https://twitter.com/schmittmaguida/status/1290257557278167000
+
+word count = 33
+words loading = 4
+factor score = -4
+
+Vamos combinar? O teste com a vacina chinesa começa com o STF e Senado. 
+Depois, com os **Governadores** , **prefeitos** , deputados, vereadores, ex 
+presidentes e seus assessores, se **der** certo a **gente** testa! 
+beaming_face_with_smiling_eyes_eEMOJI_beaming_face_with_smiling_eyes_eEMOJI_face
+_with_rolling_eyes_e 
+
+Lemmas in this text that loaded on the factor:
+
+dar (secondary)
+gente 
+governador 
+prefeito 

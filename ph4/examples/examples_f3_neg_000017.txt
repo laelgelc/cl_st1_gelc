@@ -1,0 +1,21 @@
+file = t010905
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1339692037906575400
+
+word count = 41
+words loading = 4
+factor score = -5
+
+TEM A AUTORIZAÇÃO DA ANVISA OU VAI EMBARCAR NA LOUCURA DE DÓRIA TAMBÉM? 
+CoronaVac: Pazuello diz que negocia **compra** de 46 milhões de doses da 
+vacina chinesa gazetabrasil. com. br / **especiais** / **coro** … **via** 
+@Gazeta Brasil - Notícias do Brasil e do Mundo atualizadas a cada minuto. 
+
+Lemmas in this text that loaded on the factor:
+
+compra 
+coro 
+especial 
+via 

@@ -1,0 +1,26 @@
+file = t010669
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1336285290542076000
+
+word count = 44
+words loading = 8
+factor score = 9
+
+@JornalBSM Quanto mais a extrema **imprensa** **mente** sobre a **pandemia** , 
+negando a eficácia do **tratamento** **precoce** e escondendo a falta de 
+**estudos** abrangentes sobre as vacinas e seus potenciais **efeitos** 
+**colaterais** , mais eles se aproximam do que acusam o presidente de ser: 
+Genocidas! 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito 
+estudo 
+imprensa 
+mentar 
+pandemia 
+precoce 
+tratamento 

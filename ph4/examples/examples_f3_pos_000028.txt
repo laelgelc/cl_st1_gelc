@@ -1,0 +1,22 @@
+file = t010900
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1339655515480215600
+
+word count = 50
+words loading = 4
+factor score = 5
+
+@jt_cia @joaoamoedonovo Esse é o ponto principal que está sendo deixado de 
+lado. Para crianças, **jovens** , e adultos saudáveis, o índice de 
+**letalidade** é quase zero, portanto, não faz o menor sentido **correr** 
+**riscos** com uma vacina repleta de incertezas. Eu tenho mais medo da vacina 
+do que do vírus. . . 
+
+Lemmas in this text that loaded on the factor:
+
+correr 
+jovem (secondary)
+letalidade 
+risco 

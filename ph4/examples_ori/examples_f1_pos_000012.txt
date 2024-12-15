@@ -1,0 +1,29 @@
+file = t016230
+date = 2022-09-00
+user = url:https://twitter.com/mpatriabrasil/status/1575616796324831200
+conversation = 99999999
+URL = 
+
+word count = 50
+words loading = 11
+factor score = 10
+
+Coolio, rapper de Gangsta s Paradise **faleceu** aos 59 **anos** d um **mal** 
+**súbito** . Ele havia se submetido ao **experimento** há +ou- 6 **meses** , 
+pois fez uma turnê pela Austrália onde o **comprovante** é exigido c / rigor. 
+**Estudos** **indicam** que as **mortes** vem acontecendo 5 **meses** após as 
+**doses** . Segue. . https://t.co/ANWvbTNUj3 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+comprovante
+dose
+estudo (secondary)
+experimento
+falecer
+indicar
+mal
+mês
+morte
+súbito

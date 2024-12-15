@@ -1,0 +1,20 @@
+file = t016577
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1591632637319430100
+
+word count = 37
+words loading = 3
+factor score = -4
+
+Eu não posso acreditar que meu marido tomou sua #vacina contra covid e agora 
+tem um coágulo de **sangue** na **perna** novamente. Toda vez que ele toma uma 
+vacina contra covid ele tem coágulos sanguíneos. **facebook** . com / 
+10000019564042 … https://t.co/7GzkiXjvgM 
+
+Lemmas in this text that loaded on the factor:
+
+facebook (secondary)
+perna 
+sangue 

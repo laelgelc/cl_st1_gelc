@@ -1,0 +1,18 @@
+file = t011747
+date = 2021-03-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1377246207630839800
+
+word count = 42
+words loading = 1
+factor score = 4
+
+@revistaoeste Dizer que a vacina é eficaz para uma **faixa** etária que tem 
+índices desprezíveis de infecção e óbito é fácil, mas serve para animar 
+os que ainda estão apavorados com essa tempestade de mentiras que temos vivido 
+no último ano. . . 
+
+Lemmas in this text that loaded on the factor:
+
+faixa 

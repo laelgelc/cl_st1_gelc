@@ -1,0 +1,20 @@
+file = t011366
+date = 2021-01-00
+user = url:https://twitter.com/julianaayres/status/1352607714078285800
+conversation = 99999999
+URL = 
+
+word count = 50
+words loading = 3
+factor score = -3
+
+Hj o Rafael Colombo mentiu na CNN dizendo q o presidente mentiu sobre a vacina 
+ñ ter **comprovação** científica Ela ñ tem mesmo. É experimental e tdos 
+sabemos. Nem as empresas **confiam** nas suas vacinas e assinaram um **termo** 
+para tirarem o corpo fora. Ele acha que engana quem? 
+
+Lemmas in this text that loaded on the factor:
+
+comprovação
+confiar
+termo

@@ -1,0 +1,22 @@
+file = t000855
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322145721303314432
+
+word count = 42
+words loading = 5
+factor score = -4
+
+@arycasync @taoquei1 Yo, **fica** esperto, o Butantan só é massa de manobra, 
+eles vão dizer amém para qualquer bosta que o Dória fizer, o Dória só 
+**quer** extorquir **dinheiro** público, ele está cagando se essa vacina mal 
+**testada** matar todo **mundo** . . . 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro 
+ficar 
+mundo (secondary)
+querer 
+testar 

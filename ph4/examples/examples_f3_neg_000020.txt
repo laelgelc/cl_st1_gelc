@@ -1,0 +1,22 @@
+file = t011486
+date = 2021-02-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1358924136370892800
+
+word count = 31
+words loading = 5
+factor score = -5
+
+E NEM PASSARÁ , POIS NÃO EXISTE. ESTÁ FAZENDO DIRETO NO BRAÇO DO **POVO** , 
+COMO **RATOS** DE LABORATÓRIO CoronaVac ainda não passou pela fase 3 de 
+testes na China gazetabrasil. com. br / **especiais** / **coro** … **via** 
+@Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+povo (secondary)
+rato 
+via 

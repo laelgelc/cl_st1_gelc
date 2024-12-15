@@ -1,0 +1,22 @@
+file = t000743
+date = 2020-09-28
+user = url:https://twitter.com/FabioIng/status/1310544000454209536
+conversation = 81842196
+URL = 
+
+word count = 25
+words loading = 6
+factor score = -6
+
+@PolitzOficial CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** DO PL 
+4506 / 2020 - BIA KICIS **Proposta** **retira** vacinação **compulsória** da 
+**lista** de medidas de **combate** à Covid-19 https://t.co/q4oENg6WzK 
+
+Lemmas in this text that loaded on the factor:
+
+combate
+compulsório
+enquete
+lista
+proposta
+retirar

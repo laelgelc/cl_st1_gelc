@@ -1,0 +1,24 @@
+file = t013020
+date = 2021-09-00
+user = url:https://twitter.com/evandroratho/status/1433093774629027800
+conversation = 99999999
+URL = 
+
+word count = 42
+words loading = 7
+factor score = 6
+
+Nem **lockdown** , nem **máscaras** , e tampouco as vacinas **impedem** a 
+contaminação e a **transmissão** do **vírus** , muito menos as **mortes** . Tem 
+que ser meio tapado para não perceber o que está em jogo e apoiar essa 
+aberração autoritária chamada passaporte **sanitário** . 
+
+Lemmas in this text that loaded on the factor:
+
+impedir
+lockdown
+máscara
+morte (secondary)
+sanitário
+transmissão
+vírus

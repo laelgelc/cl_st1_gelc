@@ -1,0 +1,23 @@
+file = t000926
+date = 2020-10-30
+user = JuliaMe75489206
+conversation = 1000388273792045056
+URL = https://twitter.com/JuliaMe75489206/status/1322240516558303232
+
+word count = 44
+words loading = 5
+factor score = -4
+
+" @jairbolsonaro @anvisa_oficial @anvisa_oficial sé vocês aprovarem 
+**Vachina** , **comprada** pelo docinho, o **povo** Brasileiro não vai firmar, 
+nem um termo de resposabilidade, Estado tem que ser " " responsabilizado " " d 
+suas **Vachinas** junto com o laboratorio Chinê ! Brasileiro não vai ser 
+**Rato** da China! @jairbolsonaro que **fique** claro " 
+
+Lemmas in this text that loaded on the factor:
+
+comprar 
+ficar 
+povo (secondary)
+rato 
+vachina 

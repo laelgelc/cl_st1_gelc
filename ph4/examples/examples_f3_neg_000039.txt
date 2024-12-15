@@ -1,0 +1,22 @@
+file = t010291
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1318252972867002400
+
+word count = 38
+words loading = 5
+factor score = -4
+
+**VACHINA** EXPERIMENTAL SE DA EM **COBAIA** , MAIS O **POVO** NÃO VAI SER 
+**COBAIA** NÃO, VÁ VC E SEUS COMUNAS COM ESSA PORCARIA PRA P. . . . . . . . 
+Doria ironiza Bolsonaro e agradece o apelido de ' médico do Brasil ' 
+gazetabrasil. com. br / **politica** / doria … **via** @A 
+
+Lemmas in this text that loaded on the factor:
+
+cobaia 
+politicar 
+povo (secondary)
+vachina 
+via 

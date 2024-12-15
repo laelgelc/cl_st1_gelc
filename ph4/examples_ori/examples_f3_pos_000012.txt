@@ -1,0 +1,27 @@
+file = t012293
+date = 2021-06-00
+user = url:https://twitter.com/evandroratho/status/1401923949492121600
+conversation = 99999999
+URL = 
+
+word count = 47
+words loading = 9
+factor score = 8
+
+Mentiram sobre a origem do **vírus** , sobre o **tratamento** **precoce** , 
+sobre **eficácia** e **segurança** das vacinas, sobre a efetividade do uso de 
+**máscaras** , sobre o **lockdown** , sobre as **estatísticas** de **mortes** , 
+e tantas outras coisas. Eles vão continuar mentindo, e cabe a você parar de 
+acreditar! 
+
+Lemmas in this text that loaded on the factor:
+
+eficácia
+estatística
+lockdown
+máscara
+morte (secondary)
+precoce
+segurança
+tratamento
+vírus

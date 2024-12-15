@@ -1,0 +1,24 @@
+file = t013496
+date = 2021-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1451221732757577700
+
+word count = 51
+words loading = 6
+factor score = 9
+
+A vacina não evita a infecção; A máscara não te blinda do vírus; Lockdown 
+só serve para afetar a economia; O **passaporte** sanitário não é nada 
+além de uma **medida** de coerção; **Tratamento** **precoce** é **melhor** 
+do que nenhum **tratamento** ; As estatísticas não **mentem** ; E o Lula não 
+é inocente; 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+medida 
+mentar 
+passaporte 
+precoce 
+tratamento 

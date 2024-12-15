@@ -1,0 +1,20 @@
+file = t001817
+date = 2021-02-27
+user = unknown
+conversation = 1250563239248834560
+URL = unknown
+
+word count = 25
+words loading = 4
+factor score = -4
+
+@bibonunes1 Ngm mais aguenta parlamentar q vive em **rede** social falando 
+asneira. **Espero** que não tome vacina viu? Tome **cloroquina** e 
+**ivermectina** apenas. Flw 
+
+Lemmas in this text that loaded on the factor:
+
+cloroquina 
+esperar 
+ivermectina 
+rede 

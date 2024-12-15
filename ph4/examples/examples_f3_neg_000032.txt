@@ -1,0 +1,22 @@
+file = t001524
+date = 2020-12-30
+user = Guilekrahl
+conversation = 895048135105536000
+URL = https://twitter.com/Guilekrahl/status/1344371706195025921
+
+word count = 34
+words loading = 5
+factor score = -4
+
+@JoaoVCosta85 @CLAUDIOMANUTD @CarlaZambelli38 @jdoriajr O Butantan **comprou** 
+e não sabe pra quem **vender** . O **governo** só **comprara** as que forem 
+autorizadas. O social democrata @jdoriajr **comprou** vacinas que poderão ser 
+**jogadas** no **lixo** . 
+
+Lemmas in this text that loaded on the factor:
+
+comprar 
+governo 
+jogar 
+lixo 
+vender (secondary)

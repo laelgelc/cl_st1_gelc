@@ -1,0 +1,20 @@
+file = t001161
+date = 2020-10-30
+user = unknown
+conversation = 973176499628118016
+URL = unknown
+
+word count = 26
+words loading = 4
+factor score = -4
+
+RT @MarleneFFL: causou a 35 milhões de mortes pelo **mundo** . E agora 
+**querem** **enfiar** na cabeça do **povão** que essa vacina chinesa contra o 
+Covid - 
+
+Lemmas in this text that loaded on the factor:
+
+enfiar 
+mundo (secondary)
+povo (secondary)
+querer 

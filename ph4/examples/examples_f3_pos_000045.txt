@@ -1,0 +1,19 @@
+file = t012405
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1405254131770663000
+
+word count = 48
+words loading = 2
+factor score = 4
+
+@RodRohenkohl Há uma guerra fantasiosa entre tratamento precoce e vacina como 
+se estas pertencessem a grupos políticos, e com isso deixam de questionar a 
+real necessidade e o **custo** x benefício de vacinar toda a população, 
+incluindo grupos em que o índice de **letalidade** beira o zero. 
+
+Lemmas in this text that loaded on the factor:
+
+custo 
+letalidade 

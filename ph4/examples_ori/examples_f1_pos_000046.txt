@@ -1,0 +1,26 @@
+file = t014884
+date = 2022-02-00
+user = url:https://twitter.com/evandroratho/status/1493949497986420700
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 8
+factor score = 8
+
+- 130 **óbitos** registrados em fevereiro no DF, 85 , 4 % de **pessoas** 
+VACINADAS; - **Morreram** 6x mais **pessoas** com a **dose** de **reforço** do 
+que sem nenhuma **dose** ; - 83 % dos **óbitos** foram de idosos; - Não foi 
+registrado nenhum **óbito** entre **jovens** e **crianças** ( ZERO ) ; 
+**Fonte** : saude. df. gov. br / boletinsinform … https://t.co/cCdVQWfqbe 
+
+Lemmas in this text that loaded on the factor:
+
+criança
+dose
+fonte
+jovem
+morrer
+óbito
+pessoa
+reforço

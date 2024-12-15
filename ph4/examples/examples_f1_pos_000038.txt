@@ -1,0 +1,26 @@
+file = t016723
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595155878533288000
+
+word count = 46
+words loading = 8
+factor score = 8
+
+Depois da @CMAJ, a revista científica do Canadá , **publicar** uma 
+**pesquisa** q **indica** alto **risco** de **problemas** cardíacos pela 
+vacina ( 100 a cada 100mil ) , fica difícil não relacionar as **mortes** de 
+hoje em **jovens** q estavam jogando **futebol** , dirigindo ou simplesmente 
+trabalhando. Dói saber! https://t.co/UEPKqUYK3U 
+
+Lemmas in this text that loaded on the factor:
+
+futebol 
+indicar 
+jovem 
+morte 
+pesquisa 
+problema 
+publicar 
+risco (secondary)

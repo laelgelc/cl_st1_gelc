@@ -1,0 +1,22 @@
+file = t010299
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1318695202538819600
+
+word count = 35
+words loading = 5
+factor score = -6
+
+ENLOUQUECEU? VAI LIVRAR DÓRIA DA IMPROBIDADE COM ESSE **LIXO** CH! NÊS? 
+Pazuello anuncia **compra** de 46 milhões de doses da vacina chinesa e diz que 
+imunização começa no 1º semestre de 2021 gazetabrasil. com. br / 
+**especiais** / **coro** … **via** @A 
+
+Lemmas in this text that loaded on the factor:
+
+compra 
+coro 
+especial 
+lixo 
+via 

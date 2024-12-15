@@ -1,0 +1,27 @@
+file = t014775
+date = 2022-02-00
+user = url:https://twitter.com/mpatriabrasil/status/1491741751488520200
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 8
+factor score = 8
+
+**Fonte** : bomjesusdalapanoticias. com. br / bom-jesus-da-l … Mais um **caso** 
+isolado. Ricardo de Sá, vereador de Bom Jesus da Lapa, **faleceu** de 
+**Infarto** **Fulminante** no **dia** 09 / 02 / 2022 , dois **dias** depois de 
+tomar sua **dose** de **reforço** . Ele postou nas redes sociais no **dia** 07 
+/ 02 / 2022 : Tomo hoje, 07 / 02 , a terceira **dose** , 
+https://t.co/yG2mqH4mRr 
+
+Lemmas in this text that loaded on the factor:
+
+caso
+dia
+dose
+falecer
+fonte
+fulminante
+infarto
+reforço

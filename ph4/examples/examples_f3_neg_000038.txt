@@ -1,0 +1,21 @@
+file = t010278
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1317555658737258500
+
+word count = 33
+words loading = 4
+factor score = -4
+
+FAZEM FILA, OU SÃO OBRIGADOS A FAZER? ? LEMBREM SE DO REGIME DELES, O MESMO 
+QUE DÓRIA **QUERIA** PARA NÓS Chineses fazem fila para receber vacina 
+experimental e **pagam** US$60 gazetabrasil. com. br / **mundo** / chineses … 
+**via** @A 
+
+Lemmas in this text that loaded on the factor:
+
+mundo (secondary)
+pagar 
+querer 
+via 

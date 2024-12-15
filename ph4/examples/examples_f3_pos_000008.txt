@@ -1,0 +1,22 @@
+file = t014086
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471849973696368600
+
+word count = 37
+words loading = 5
+factor score = 6
+
+@revistaoeste As estatísticas **asseguram** que o **risco** de morte entre 
+**jovens** saudáveis é ínfimo, menor que 0 , 05 % . Submetê -las a um 
+**risco** desconhecido com vacinas que não possuem estudos de **longo** 
+**prazo** quanto a segurança, ultrapassa qualquer limite ético. 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+jovem (secondary)
+longo 
+prazo 
+risco 

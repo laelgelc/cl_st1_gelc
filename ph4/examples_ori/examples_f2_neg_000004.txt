@@ -1,0 +1,22 @@
+file = t016253
+date = 2022-10-00
+user = url:https://twitter.com/oscasosraros/status/1577436363502530600
+conversation = 99999999
+URL = 
+
+word count = 22
+words loading = 4
+factor score = -4
+
+Acute Abducens nerve palsy following vaccination: pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34827043 / 21yoF nurse with Bells Palsy following Pfizer: 
+pubmed. **ncbi** . **nlm** . **nih** . gov / 34322761 / 34yoF with Bells Palsy 
+2 days after Moderna: **ncbi** . **nlm** . **nih** . gov / pmc / **articles** / 
+P … 
+
+Lemmas in this text that loaded on the factor:
+
+articles
+ncbi
+nih
+nlm

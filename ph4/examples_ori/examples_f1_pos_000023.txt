@@ -1,0 +1,27 @@
+file = t016186
+date = 2022-09-00
+user = url:https://twitter.com/mpatriabrasil/status/1573471526422184000
+conversation = 99999999
+URL = 
+
+word count = 39
+words loading = 9
+factor score = 9
+
+**Crianças** e Adolescentes **sofrendo** **infartos** **Fulminantes** pouco 
+tempo depois dos **reforços** . . . As **pessoas** não querem admitir a 
+verdade. Poucos **jovens** **faleceram** da moléstia, muitos **jovens** 
+**falecendo** de **infartos** **fulminantes** após as **doses** . Despertem! 
+ISSO NUNCA FOI NORMAL! https://t.co/e68plYhO98 
+
+Lemmas in this text that loaded on the factor:
+
+criança
+dose
+falecer
+fulminante
+infarto
+jovem
+pessoa
+reforço
+sofrer

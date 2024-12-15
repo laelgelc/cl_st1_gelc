@@ -1,0 +1,20 @@
+file = t013123
+date = 2021-09-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1438506630207791000
+
+word count = 42
+words loading = 2
+factor score = -2
+
+@ferrari_arlene Arlene, junte outras pessoas e processa o ministro e o 
+presidente @jairbolsonaro pq eles não avisaram a população dos efeitos 
+colaterais dessas novas vacinas. Eles precisam ser responsabilizados. O pres 
+**assinou** um **decreto** q da poder para se vacinar obrigatoriamente. . . 
+Absurdo! 
+
+Lemmas in this text that loaded on the factor:
+
+assinar 
+decreto 

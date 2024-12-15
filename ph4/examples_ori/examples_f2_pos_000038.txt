@@ -1,0 +1,27 @@
+file = t012220
+date = 2021-05-00
+user = url:https://twitter.com/derzevic/status/1398043284350640000
+conversation = 99999999
+URL = 
+
+word count = 41
+words loading = 9
+factor score = 7
+
+UMA MÁFIA MUNDIAL ONDE O **INTERESSE** SÃO OS **BILHÕES** E **BILHÕES** QUE AS 
+TAIS VACHINAS **DÃO** . O **POVO** ? AHH ISSO É UM MERO DETALHE, QUE SE 
+EXPLODAM YouTube exclui 11 vídeos de Bolsonaro sobre **cloroquina** e 
+**tratamento** **precoce** gazetabrasil. com. br / **especiais** / jair … 
+**via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+bilhão
+cloroquina
+dar
+especial
+interesse
+povo
+precoce (secondary)
+tratamento (secondary)
+via

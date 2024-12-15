@@ -1,0 +1,23 @@
+file = t010849
+date = 2020-12-00
+user = url:https://twitter.com/evandroratho/status/1339194306071027700
+conversation = 99999999
+URL = 
+
+word count = 29
+words loading = 7
+factor score = 7
+
+E se houvessem **estudos** **científicos** comprovando que alguns protocolos de 
+**tratamento** **precoce** reduzem a **taxa** de **letalidade** do **vírus** 
+para quase zero, faria sentido continuar falando sobre vacina? 
+
+Lemmas in this text that loaded on the factor:
+
+científico
+estudo
+letalidade
+precoce
+taxa
+tratamento
+vírus

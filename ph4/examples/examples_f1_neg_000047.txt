@@ -1,0 +1,19 @@
+file = t012679
+date = 2021-07-00
+user = melnetto
+conversation = 99999999
+URL = https://twitter.com/melnetto/status/1416434443150102500
+
+word count = 54
+words loading = 2
+factor score = -2
+
+Se você ñ apoia a viadagem vc é preconceituoso e homofóbico, se fala em 
+atendimento ao contaminado por covid é negacionista, fala da Vachina é 
+xenófobo. O PR ñ pode ser simples e direto: ñ tem liturgia, ñ merece. E a 
+**extrema** imprensa, STF, PCC ñ **respeitam** as urnas, é o quê ? VSF! 
+
+Lemmas in this text that loaded on the factor:
+
+extremo 
+respeitar 

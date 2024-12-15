@@ -1,0 +1,21 @@
+file = t010933
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1339908921700565000
+
+word count = 37
+words loading = 4
+factor score = 6
+
+@Guile_Phoenix38 O índice de **letalidade** para minha **faixa** etária e 
+condição de saúde é de 0 , 083 % no estado em que vivo ( SC ) . Faz algum 
+sentido **correr** **risco** com vacinas para uma doença com índice de 
+**letalidade** tão baixo? 
+
+Lemmas in this text that loaded on the factor:
+
+correr 
+faixa 
+letalidade 
+risco 

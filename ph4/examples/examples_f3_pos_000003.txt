@@ -1,0 +1,23 @@
+file = t014388
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1481708473574428700
+
+word count = 44
+words loading = 5
+factor score = 7
+
+@revistaoeste As vacinas foram aprovadas em caráter emergencial, sem os 
+devidos estudos de eficácia e segurança a **longo** **prazo** , sob a 
+justificativa da **taxa** de **letalidade** entre os mais velhos. As 
+estatísticas não dão margem para justificar o uso emergencial em **jovens** 
+saudáveis! 
+
+Lemmas in this text that loaded on the factor:
+
+jovem (secondary)
+letalidade 
+longo 
+prazo 
+taxa 

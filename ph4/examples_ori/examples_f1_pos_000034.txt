@@ -1,0 +1,27 @@
+file = t016211
+date = 2022-09-00
+user = url:https://twitter.com/mpatriabrasil/status/1574981100320919600
+conversation = 99999999
+URL = 
+
+word count = 49
+words loading = 9
+factor score = 8
+
+Lucas recebeu o **reforço** do **experimento** há +ou - 5 **meses** . Ele era 
+um garoto **saudável** . Teve um aneurisma, em 26 / 09 , enquanto jogava bola. 
+A OMS já **publicou** **estudos** **indicando** q o **experimento** pode 
+provocar AVCs. Outro **estudo** **indica** q as **mortes** ocorrem em + ou - 5 
+**meses** após as **doses** . https://t.co/NjFt48Xs3P 
+
+Lemmas in this text that loaded on the factor:
+
+dose
+estudo (secondary)
+experimento
+indicar
+mês
+morte
+publicar
+reforço
+saudável

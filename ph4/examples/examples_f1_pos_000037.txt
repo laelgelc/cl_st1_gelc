@@ -1,0 +1,27 @@
+file = t016727
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595279021251694600
+
+word count = 44
+words loading = 9
+factor score = 8
+
+Mais dois **jovens** **morreram** de **infarto** hoje. Lembramos q a @CMAJ 
+divulgou **pesquisa** **indicando** que o **risco** da #vacina é de 100 
+**mortes** p / cada 100mil. A população do BR é de 214milhões. Ou seja, p / 
+os vacinalovers se **sentirem** seguros, **milhares** irão perecer? cmaj. ca / 
+content / 194 / 45 … https://t.co/XTrvvK0Rb1 
+
+Lemmas in this text that loaded on the factor:
+
+indicar 
+infarto 
+jovem 
+milhar 
+morrer 
+morte 
+pesquisa 
+risco (secondary)
+sentir 

@@ -1,0 +1,18 @@
+file = t011218
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1349422668899102700
+
+word count = 27
+words loading = 2
+factor score = -2
+
+TA CERTO, MAS E SP E TAL CORONAVAC? VAI COMEÇAR A INVESTIGAÇÃO QUANDO? ? PF 
+e CGU deflagram operação para investigar irregularidades no **combate** à 
+Covid-19 no Piauí **jornaldacidadeonline** . com. br / noticias / 26133 … 
+
+Lemmas in this text that loaded on the factor:
+
+combate 
+jornaldacidadeonline 

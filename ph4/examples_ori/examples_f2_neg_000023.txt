@@ -1,0 +1,25 @@
+file = t016660
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1593876049225404400
+conversation = 99999999
+URL = 
+
+word count = 33
+words loading = 7
+factor score = -3
+
+#GovernadordoAmapá, #WaldezGóes vacinado e defensor da #vacina, está internado 
+na UTI após AVC. Várias **Pesquisas** científicas **publicadas** no @PubMed 
+**indicam** relação direta entre as doses e o AVC. **Fontes** : noticias. uol. 
+com. br / politica / ultim … **Pesquisa** científica: pubmed. **ncbi** . 
+**nlm** . **nih** . gov / 34370972 / - https://t.co/23S3QaKmwC 
+
+Lemmas in this text that loaded on the factor:
+
+fonte (secondary)
+indicar (secondary)
+ncbi
+nih
+nlm
+pesquisa (secondary)
+publicar (secondary)

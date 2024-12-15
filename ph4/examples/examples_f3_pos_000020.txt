@@ -1,0 +1,22 @@
+file = t013938
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1468303338169147400
+
+word count = 44
+words loading = 4
+factor score = 5
+
+As estatísticas **asseguram** que o vírus não **representa** **risco** às 
+crianças, e o próprio fabricante de vacinas admite que é preciso estudos de 
+5 em 5 anos para **avaliar** os **riscos** à saúde delas. Portanto, vacinar 
+crianças é uma aberração, um verdadeiro crime! aliadosbrasiloficial. com. 
+br / noticia / a-pfiz … 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+avaliar 
+representar 
+risco 

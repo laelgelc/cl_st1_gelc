@@ -1,0 +1,21 @@
+file = t014074
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471551531514306600
+
+word count = 33
+words loading = 5
+factor score = 5
+
+@anvisa_oficial A **taxa** de **letalidade** do vírus entre crianças é menor 
+que 0 , 05 % . Qual **taxa** de efeitos **adversos** da vacina, no curto e no 
+**longo** **prazo** , foi considerada para tomar essa decisão com segurança? 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+letalidade 
+longo 
+prazo 
+taxa 

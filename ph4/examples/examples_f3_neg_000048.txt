@@ -1,0 +1,20 @@
+file = t010544
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1329110397853556700
+
+word count = 18
+words loading = 4
+factor score = -4
+
+QUALQUER COISA É MELHOR QUE A VACHINA! ! Covid-19 : Enxaguantes bucais matam 
+covid-19 em 30 **segundos** , diz pesquisa gazetabrasil. com. br / 
+**especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+segundo 
+via 

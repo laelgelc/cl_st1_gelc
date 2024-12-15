@@ -1,0 +1,22 @@
+file = t014694
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488950118942445600
+
+word count = 43
+words loading = 5
+factor score = 4
+
+Estão submetendo **jovens** saudáveis aos **riscos** de efeitos **adversos** 
+de uma vacina que não evita o contágio de um vírus que não **representa** 
+**risco** **significativo** à vida deles, e se isso já não fosse 
+suficientemente injustificável, querem aplicar estas vacinas em crianças! 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+jovem (secondary)
+representar 
+risco 
+significativo 

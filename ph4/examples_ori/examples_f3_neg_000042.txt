@@ -1,0 +1,22 @@
+file = t015437
+date = 2022-05-00
+user = url:https://twitter.com/oscasosraros/status/1531627347669041200
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 5
+factor score = -3
+
+Apenas 5 dias depois de sua 1ª dose, Felipe, de apenas 15 anos, **sofre** um 
+**infarto** e vai a óbito. Pela manhã se queixa de **dor** de **cabeça** , e é 
+medicado. À tarde, estava com **amigos** , andando de bicicleta, e desmaiou. 
+https://t.co/TGIC8WmLxw 
+
+Lemmas in this text that loaded on the factor:
+
+amigo
+cabeça
+dor
+infarto (secondary)
+sofrer (secondary)

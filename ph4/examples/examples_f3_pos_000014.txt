@@ -1,0 +1,20 @@
+file = t012171
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1396809343866216400
+
+word count = 36
+words loading = 3
+factor score = 6
+
+Obrigar uma população de pessoas saudáveis a tomar vacinas experimentais 
+cujos efeitos colaterais de médio e **longo** **prazo** são totalmente 
+desconhecidos, para uma doença com índice de **letalidade** desprezível, é 
+a verdadeira definição de genocídio! 
+
+Lemmas in this text that loaded on the factor:
+
+letalidade 
+longo 
+prazo 

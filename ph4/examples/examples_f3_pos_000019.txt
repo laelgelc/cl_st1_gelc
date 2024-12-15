@@ -1,0 +1,22 @@
+file = t013972
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1469012730074079200
+
+word count = 42
+words loading = 4
+factor score = 5
+
+@criticanac @VdP89261271 O mais revoltante é saber que as estatísticas 
+**asseguram** que o vírus não **representa** **risco** para os **jovens** 
+saudáveis, quanto mais para atletas. Submetê -los aos **riscos** dos efeitos 
+colaterais destas vacinas experimentais é um crime inominável! Eis o 
+verdadeiro genocídio! 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+jovem (secondary)
+representar 
+risco 

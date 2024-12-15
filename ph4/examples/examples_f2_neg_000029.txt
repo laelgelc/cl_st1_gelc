@@ -1,0 +1,19 @@
+file = t012246
+date = 2021-05-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1399469569140461600
+
+word count = 15
+words loading = 1
+factor score = -3
+
+Mulher, 35 , morre de coágulo de **sangue** no cérebro causado pela 
+vacinação AstraZeneca 
+backhand_index_pointing_down_eEMOJI_backhand_index_pointing_down_eEMOJI_backhand
+_index_pointing_down_e birminghammail. co. uk / news / midlands- … 
+https://t.co/tWjW2c8Lv1 
+
+Lemmas in this text that loaded on the factor:
+
+sangue 
