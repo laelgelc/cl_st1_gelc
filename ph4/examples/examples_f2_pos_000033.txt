@@ -1,21 +1,25 @@
-file = t014336
-date = 2022-01-00
-user = evandroratho
+file = t016426
+date = 2022-10-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1480883273710637000
+URL = https://twitter.com/julianaayres/status/1584243998624866300
 
-word count = 45
-words loading = 4
+word count = 44
+words loading = 7
 factor score = 7
 
-Se quem toma 3 doses da vacina, **usa** máscara, álcool gel, segue todas as 
-**medidas** de distanciamento **social** , ainda assim pega covid, resta 
-evidenciado que tais **medidas** não **impedem** a infecção e a transmissão 
-do vírus, portanto, são inúteis e não deveriam ser obrigatórias! 
+e nunca teria deixado de avisar a nação que as vacinas **Covid** estavam 
+**dando** muito a **efeitos** **colaterais** lá fora do Brasil, q quem fosse 
+tomar tivesse ciência disso. Infelizmente **sei** que ele **ficará** 
+abandonado pelo **governo** que se acovardou há anos já . 
++EMOJI_backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-impedir 
-medida 
-social 
-usar 
+colateral 
+covid 
+dar 
+efeito 
+ficar 
+governo 
+saber 

@@ -1,20 +1,23 @@
-file = t013339
-date = 2021-10-00
+file = t012078
+date = 2021-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1443950854185304000
+URL = https://twitter.com/evandroratho/status/1392158033564868600
 
-word count = 31
-words loading = 4
-factor score = 6
+word count = 40
+words loading = 5
+factor score = 8
 
-@JovemPanNews Qual é o índice de **letalidade** da doença em **jovens** 
-saudáveis? Qual é o resultado do estudo de segurança das vacinas em médio e 
-**longo** **prazo** neste mesmo grupo? 
+- O vírus é chinês - Vacinas não têm **estudos** suficientes para 
+comprovar segurança e eficácia - **Tratamento** **precoce** com remédio 
+barato e sem patente não interessa à indústria farmacêutica - Políticos se 
+aproveitam da **pandemia** para obter vantagens - A imprensa **mente** 
+#EstadadoFake 
 
 Lemmas in this text that loaded on the factor:
 
-jovem (secondary)
-letalidade 
-longo 
-prazo 
+estudo 
+mentar 
+pandemia 
+precoce 
+tratamento 

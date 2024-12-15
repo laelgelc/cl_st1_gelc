@@ -1,24 +1,20 @@
-file = t011059
-date = 2020-12-00
+file = t011783
+date = 2021-04-00
 user = derzevic
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1344368322964578300
+URL = https://twitter.com/derzevic/status/1379151894220832800
 
-word count = 35
-words loading = 7
-factor score = -7
+word count = 27
+words loading = 4
+factor score = -4
 
-SERIA ESTE SUBSTITUTO O DORIANA? PRA **PEGAR** BILHÕES DO **DINHEIRO** 
-PÚBLICO E **ENFIAR** NO TÓBA DOS XINGS LINGS? **Rede** vai ao STF para pedir 
-um substituto para Bolsonaro na **compra** de vacinas gazetabrasil. com. br / 
-**politica** / rede- … **via** @Gazeta 
+PRECISA MESMO. PORQUE ESSA PORCARIA CH! NESA DO CALCINHA **APERTADA** , NÃO 
+RESOLVE. FIZ VÍDEO NO CANAL MOSTRANDO OS IDOSOS QUE APÓS **SEGUNDA** DOSE 
+VIERAMN A ÓBITO Pleno. **News** pleno. **news** / **brasil** / jair-bo … 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-dinheiro 
-enfiar 
-pegar 
-politicar 
-rede 
-via 
+apertar 
+brasil 
+news 
+segundo 

@@ -1,22 +1,24 @@
-file = t013641
-date = 2021-11-00
-user = evandroratho
+file = t016370
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1456700774449389600
+URL = https://twitter.com/iodinha1/status/1581630640260231200
 
-word count = 41
-words loading = 5
+word count = 44
+words loading = 7
 factor score = 7
 
-Um laboratório vai fabricar e **vender** remédio para o **tratamento** 
-**precoce** da doença que a vacina que ele **vendeu** prometia erradicar. Não 
-é de se duvidar que o próximo passo seja **vender** remédios para tratar os 
-**efeitos** **colaterais** das vacinas. 
+Nunca **saberemos** se quem morreu foi ou não por **causa** da vacina. Muita 
+**gente** não se vacinou e nem resfriado **pegou** . Outros tantos, só após 
+se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, ataque cardíaco, 
+trombone, gripe e até morreram etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-efeito 
-precoce 
-tratamento 
-vender 
+causa 
+covid 
+dizer 
+gente 
+pegar 
+saber 
+verdade 

@@ -1,21 +1,22 @@
-file = t013500
-date = 2021-10-00
+file = t013938
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1451615955340169200
+URL = https://twitter.com/evandroratho/status/1468303338169147400
 
-word count = 49
-words loading = 3
-factor score = 4
+word count = 44
+words loading = 4
+factor score = 6
 
-@revistaoeste 90 % de eficácia em um grupo no qual o índice de **letalidade** 
-é inferior a 0 , 04 % . Aliás, se desconsiderar as comorbidades, o índice de 
-**letalidade** entre **jovens** é zero. Me espanta ver que a sociedade aceita 
-isso sem botar na balança o **risco** x benefício destas vacinas 
-experimentais! 
+As estatísticas **asseguram** que o vírus não **representa** **risco** às 
+crianças, e o próprio fabricante de vacinas admite que é preciso **estudos** 
+de 5 em 5 anos para avaliar os **riscos** à saúde delas. Portanto, vacinar 
+crianças é uma aberração, um verdadeiro crime! aliadosbrasiloficial. com. 
+br / noticia / a-pfiz … 
 
 Lemmas in this text that loaded on the factor:
 
-jovem (secondary)
-letalidade 
+assegurar 
+estudo 
+representar 
 risco 

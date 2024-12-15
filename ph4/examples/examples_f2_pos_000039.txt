@@ -1,23 +1,24 @@
-file = t012097
+file = t012176
 date = 2021-05-00
-user = evandroratho
+user = frankcastle2009
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392562432174870500
+URL = https://twitter.com/frankcastle2009/status/1396852066262343700
 
-word count = 47
-words loading = 5
+word count = 33
+words loading = 7
 factor score = 7
 
-Mesmo diante de um vírus **novo** , sobre o qual pouco se conhece, a 
-**pandemia** já nasceu formatada com a certeza de que **tratamento** 
-**precoce** não funciona, e que máscaras e **lockdown** são as únicas 
-ferramentas disponíveis a espera das vacinas. O simples debate sobre isso 
-tornou -se crime! 
+Essa vacina contra covid-19 , especialmente a astrazenica está **dando** 
+**efeitos** **colaterais** terríveis, pessoas **perdendo** os movimentos, 
+pessoas contraindo o **covid** e outras morrendo. É o **povo** sendo 
+**cobaias** . Que tiver sorte vai viver. 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-novo 
-pandemia 
-precoce 
-tratamento 
+cobaia 
+colateral 
+covid 
+dar 
+efeito 
+perder 
+povo 

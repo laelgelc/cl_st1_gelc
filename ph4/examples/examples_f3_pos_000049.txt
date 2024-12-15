@@ -1,20 +1,21 @@
-file = t010706
-date = 2020-12-00
+file = t012181
+date = 2021-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1336690742828392400
+URL = https://twitter.com/evandroratho/status/1396886753248690200
 
-word count = 50
-words loading = 3
-factor score = 4
+word count = 36
+words loading = 4
+factor score = 6
 
-@revistaoeste Quais as chances de ocorrerem mais efeitos colaterais similares ( 
-ou até piores ) a médio e **longo** **prazo** ? E como confiar que a China 
-seria transparente e divulgaria esse tipo de ocorrência como o Reino Unido 
-fez? Sigo achando que a vacina traz mais **risco** que o próprio vírus! 
+Se o Bolsonaro comprar de vez a briga contra quaisquer medidas de 
+**isolamento** **social** , contra **obrigatoriedade** das vacinas e de 
+máscaras, e revisar as estatísticas forjadas dessa **pandemia** , aposto que 
+ganharia ainda mais apoio popular! 
 
 Lemmas in this text that loaded on the factor:
 
-longo 
-prazo 
-risco 
+isolamento 
+obrigatoriedade 
+pandemia 
+social 

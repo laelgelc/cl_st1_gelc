@@ -1,22 +1,21 @@
-file = t010260
-date = 2020-10-00
-user = derzevic
+file = t013044
+date = 2021-09-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1317176084702560300
+URL = https://twitter.com/julianaayres/status/1434174118862196700
 
-word count = 32
-words loading = 5
-factor score = -6
+word count = 56
+words loading = 3
+factor score = -4
 
-MUITO MAIS QUE ISSO, PODE COLOCAR 80 % , NÃO **QUEREM** SER **RATOS** DE LAB. 
-DE SHING LING Quase metade dos brasileiros não tomariam uma vacina chinesa 
-contra a Covid-19 , aponta pesquisa gazetabrasil. com. br / **especiais** / 
-**coro** … **via** @A 
+@mjcarvalhop @GFiuza_Oficial Temos q orar por esses médicos, o q eles estão 
+enfrentando p revelar a **verdade** ñ é fácil. Uma **amiga** minha, no dia 
+seguinte à vacina, parecia q o **sangue** do corpo dela queria sair pelos 
+poros. Ficou vulcão dos pés à cabeça. Até a palma da mão. Assustador. + 
+de 1 mês no hospital 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-especial 
-querer 
-rato 
-via 
+amiga 
+sangue 
+verdade (secondary)

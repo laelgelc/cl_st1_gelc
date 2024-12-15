@@ -1,27 +1,24 @@
-file = t016727
-date = 2022-11-00
+file = t015885
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1595279021251694600
+URL = https://twitter.com/mpatriabrasil/status/1555963194308444200
 
-word count = 44
-words loading = 9
+word count = 45
+words loading = 6
 factor score = 8
 
-Mais dois **jovens** **morreram** de **infarto** hoje. Lembramos q a @CMAJ 
-divulgou **pesquisa** **indicando** que o **risco** da #vacina é de 100 
-**mortes** p / cada 100mil. A população do BR é de 214milhões. Ou seja, p / 
-os vacinalovers se **sentirem** seguros, **milhares** irão perecer? cmaj. ca / 
-content / 194 / 45 … https://t.co/XTrvvK0Rb1 
+Suzana Vieira tomou a 1a. em 03 / 21 e o reforço há alguns meses e 
+**contraiu** a doença em 22 . Foi **internada** no **dia** 05 / 08 / 22 para 
+tratar sequelas. Um **estudo** **publicado** em Israel **indica** que os não 
+vacinados que **contraíram** a moléstia não desenvolveram problemas 
+cardiorrespiratórios. https://t.co/f5D7FP8Kd3 
 
 Lemmas in this text that loaded on the factor:
 
+contrair 
+dia 
+estudo (secondary)
 indicar 
-infarto 
-jovem 
-milhar 
-morrer 
-morte 
-pesquisa 
-risco (secondary)
-sentir 
+internar 
+publicar 

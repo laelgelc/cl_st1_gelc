@@ -1,27 +1,25 @@
-file = t015960
-date = 2022-08-00
+file = t016247
+date = 2022-10-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1558970504920309800
+URL = https://twitter.com/mpatriabrasil/status/1577251366661083100
 
-word count = 46
-words loading = 9
-factor score = 10
+word count = 44
+words loading = 7
+factor score = 9
 
-China Malaquias era professor de Educação Física muito querido por todos. 
-Tomou a 1a. **Dose** em 06 / 21 , afirmando que seria a 1a. das QUATRO. Tomou a 
-4a. em 2022 . **Faleceu** de um **infarto** **fulminante** . A Anvisa já 
-**alertou** sobre o **risco** de **problemas** cardíacos pós-experimento. 
-**Fontes** : https://t.co/q626hDm6df 
+Este é um dos últimos vídeos de Keith Wonderboy, um famoso cantor Gospel. 
+Ele estava feliz ao tomar sua **dose** do **experimento** . Infelizmente 
+**faleceu** **dia** 30 / 09 , com apenas 50 **anos** . Foi encontrado **morto** 
+dentro de casa. Tudo **indica** que tenha sido mal súbito. google. com / amp / 
+s / m. econom … https://t.co/1z9RWsyPHX 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
+ano 
+dia 
 dose 
 experimento 
 falecer 
-fonte 
-fulminante 
-infarto 
-problema 
-risco (secondary)
+indicar 
+morrer 

@@ -1,23 +1,22 @@
-file = t011204
-date = 2021-01-00
+file = t010243
+date = 2020-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1349324161148186600
+URL = https://twitter.com/evandroratho/status/1315442687357735000
 
-word count = 45
-words loading = 6
+word count = 35
+words loading = 5
 factor score = 7
 
-Se a vacina possui mal e porcamente 50 % de eficácia, mesmo vacinando toda a 
-população não sairemos da **pandemia** . Continuo achando que o protocolo de 
-**tratamento** **precoce** é a **melhor** solução para permitir a volta da 
-**vida** normal, com **liberdade** de ir e vir! 
+@BlitzSpitfire Assim que liberarem a vacina pra **Covid** , o **governo** 
+gastará bilhões de reais com anuência do **povo** idiota que acredita na 
+**boa** fé dos nossos políticos. Nem desconfiam que os **interesses** são 
+outros. . . 
 
 Lemmas in this text that loaded on the factor:
 
 bom 
-liberdade 
-pandemia 
-precoce 
-tratamento 
-vida 
+covid 
+governo 
+interesse 
+povo 

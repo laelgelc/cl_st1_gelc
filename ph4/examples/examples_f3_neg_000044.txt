@@ -1,21 +1,21 @@
-file = t010485
-date = 2020-11-00
-user = derzevic
+file = t015534
+date = 2022-06-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1326041025987612700
+URL = https://twitter.com/julianaayres/status/1536465001178878000
 
-word count = 29
+word count = 46
 words loading = 4
-factor score = -4
+factor score = -3
 
-OLHA A PATIFARIA, E O VAGABUNDO **QUERENDO** FAZER TODO **POVO** DE SÃO PAULO 
-**COBAIA** NA MARRA. . . LEVA SUA MÃE! ! ! Voluntário brasileiro morre e 
-Anvisa deverá suspender vacina chinesa **diariodobrasil** . org / 
-voluntario-bra … 
+No mais, agora estamos vendo pandemia de cânceres, problema nos **rins** , 
+**dor** no coração, problemas **faciais** , neurológicos, de **pele** , 
+Guillain Barré , problema no ciclo feminino, milhares de abortos entre mais de 
+100 mil problemas. Sim, mais de 100 mil. CEM MIL! ! ! Vai outra dose aí ? 
 
 Lemmas in this text that loaded on the factor:
 
-cobaia 
-diariodobrasil 
-povo (secondary)
-querer 
+dor 
+facial 
+pele 
+rim 

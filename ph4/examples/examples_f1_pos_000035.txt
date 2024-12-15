@@ -1,24 +1,26 @@
-file = t016811
-date = 2022-11-00
-user = julianabrioli
+file = t016056
+date = 2022-08-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianabrioli/status/1596240266758848500
+URL = https://twitter.com/mpatriabrasil/status/1564768844127813600
 
-word count = 49
-words loading = 6
+word count = 31
+words loading = 8
 factor score = 8
 
-Meu amado **pai** **faleceu** há exatos 9 meses e 3 **dias** , apenas 72 
-**anos** , zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de 
-COVID. Bolsonarista convicto até o último suspiro … Genocida foi a 
-corrupção que assolou nosso país durante 14 **anos** de PT. Papai, minha 
-luta é por VOCÊ . https://t.co/0MNpLM2a5a 
+**Fontes** : **Pesquisa** **publicada** na Revista cientifica Virology 
+**indicando** que a eficácia é negativa após reforços: virologyj. 
+biomedcentral. com / **articles** / 10 . 11 … Reportagem onde familiares 
+afiemam que ele tomou 4 **doses** e mesmo assim **contraiu** diversas vezes: m. 
+**facebook** . com / story. php? stor … 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-dia 
+articles (secondary)
+contrair 
 dose 
-falecer 
-morrer 
-pai 
+facebook 
+fonte 
+indicar 
+pesquisa 
+publicar 

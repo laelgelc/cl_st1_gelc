@@ -1,20 +1,20 @@
-file = t013063
-date = 2021-09-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1435350485406568400
+file = t002033
+date = 2021-03-17
+user = AllanGarcs1
+conversation = 1066144755493543936
+URL = https://twitter.com/AllanGarcs1/status/1372152029850836997
 
 word count = 44
-words loading = 3
+words loading = 2
 factor score = -2
 
-@SF_Moro Tô aqui refletindo sobre a lei ditatorial que o senhor **assinou** 
-com o Mandeta sobre vacinação obrigatória onde meus direitos de 
-**liberdade** foram **retirados** . Tô refletindo tbm sobre os trabalhadores 
-que apanharam do Estado pq queriam trabalhar e o senhor não fez nada. 
+PARA SALVAR VIDAS. . . MEDIDAS QUE PROTEGEM 1 ) Vacinação 2 ) 
+**Distanciamento** social 3 ) Máscara 4 ) Lavar mãos 5 ) Sol, Vit D e Zinco 
+MEDIDAS QUE CURAM 1 ) Tratamento PRECOCE com Hidroxicloroquina, Ivermectina, 
+Azitromicina, **Zinco** , Vit. D e C 2 ) Tratamento individualizado pra cada 
+fase 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-liberdade (secondary)
-retirar 
+distanciamento 
+zinco 

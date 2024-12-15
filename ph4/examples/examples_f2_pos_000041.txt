@@ -1,21 +1,23 @@
-file = t012005
-date = 2021-04-00
-user = evandroratho
+file = t011373
+date = 2021-01-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1387450856228929500
+URL = https://twitter.com/derzevic/status/1352646976492462000
 
-word count = 36
-words loading = 4
+word count = 41
+words loading = 5
 factor score = 7
 
-Aposto que se um laboratório farmacêutico resolvesse oferecer uma vacina 
-contra covid gratuitamente, muitos políticos fariam pressão pela reprovação 
-nas agências reguladoras e a **imprensa** faria **campanha** negativa 
-alertando para os riscos dos **efeitos** **colaterais** ! 
+**FICA** CLARA A CONSTATAÇÃO QUE POLÍTICOS, **GOVERNOS** E A MÍDIA 
+**COMPRADA** , NÃO OUVIRÃO MÉDICOS SÉRIOS E CIÊNTISTAS. POIS OS BILHÕES E 
+BILHÕES DAS VACHINAS FALAM MAIS ALTO. Se **usada** no início ou 
+preventivamente, a **ivermectina** pode aniquilar o vírus chinês 
+diariodobrasil. org / se-usada-no-in … 
 
 Lemmas in this text that loaded on the factor:
 
-campanha 
-colateral 
-efeito 
-imprensa 
+comprar 
+ficar 
+governo 
+ivermectina 
+usar (secondary)

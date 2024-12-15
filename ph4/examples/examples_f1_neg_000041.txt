@@ -1,19 +1,20 @@
-file = t011234
-date = 2021-01-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1349773990286520300
+file = t000929
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322181403623202817
 
-word count = 51
-words loading = 2
+word count = 27
+words loading = 3
 factor score = -2
 
-Os mesmos políticos que mentem e **manipulam** dados do Butantã tentando 
-justificar o gasto público de bilhões de reais com a vacina da China, dizem 
-que o tratamento precoce não funciona. E tem gente que não consegue ver o 
-**conflito** de interesses, e segue cego à espera de um milagre! 
+" @baia_canuto @cirogomes @FlavioDino @jairbolsonaro @LulaOficial - 
+Hidroxicloroquina. Há 70 anos no **mercado** : " " não tem comprovação 
+científica, é perigoso " " - Vacina. Feita em 7 meses: " " deve ser 
+obrigatória. " " **Dama** de **ferro** / TT " 
 
 Lemmas in this text that loaded on the factor:
 
-conflito 
-manipular 
+dama 
+ferro 
+mercado 

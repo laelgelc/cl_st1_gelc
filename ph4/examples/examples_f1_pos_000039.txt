@@ -1,30 +1,28 @@
-file = t016654
-date = 2022-11-00
+file = t015816
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1593635571972309000
+URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
 
-word count = 37
-words loading = 12
+word count = 35
+words loading = 10
 factor score = 8
 
-**Novo** normal: Pessoas **jovens** , de **vida** altamente saudável, 
-**morrendo** ao fazer exercícios na academia. **Pesquisas** **indicam** que a 
-#vacina pode provocar **infartos** e AVCs, especialmente de 5 a 8meses após as 
-**doses** . **Pesquisa** da OMS: **pesquisa** . **bvsalud** . **org** / 
-global-literat … https://t.co/xgZ41Kb14a 
+Fernanda Keulla tomou as **primeiras** **doses** do **experimento** em agosto / 
+21 e o reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. 
+A OMS já **alertou** sobre o **experimento** ser o gatilho para HerpesZoster 
+**pesquisa** . **bvsalud** . **org** / global-literat … instagram. com / p / 
+CgdNKw3M_TZ / … instagram. com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
 
 Lemmas in this text that loaded on the factor:
 
+alertar 
 bvsalud (secondary)
 dose 
-global 
-indicar 
-infarto 
-jovem 
+experimento 
+global (secondary)
+internar 
 literat (secondary)
-morrer 
-novo (secondary)
 org 
 pesquisa 
-vida (secondary)
+primeiro 

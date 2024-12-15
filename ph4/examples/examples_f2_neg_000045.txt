@@ -1,18 +1,18 @@
-file = t014946
-date = 2022-02-00
-user = derzevic
+file = t012340
+date = 2021-06-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1496102439350583300
+URL = https://twitter.com/julianaayres/status/1404187298674233300
 
 word count = 20
 words loading = 2
-factor score = -3
+factor score = -1
 
-**CDC** e Farmacêutica Pfizer **Emitem** Alertas Sobre Riscos de Coagulação 
-Sanguínea Mesmo em Atletas e Pessoas Saudáveis criticanacional. com. br / 
-2022 / 02 / 21 / **cdc** … via @criticanac 
+police_car_light_eInflamação do coração em homens jovens maior do que o 
+esperado após as v@cin@s Pfizer, Moderna -US **CDC** ( Reuters ) reuters. com 
+/ **world** / us / cdc-h … 
 
 Lemmas in this text that loaded on the factor:
 
 cdc 
-emitir 
+world 

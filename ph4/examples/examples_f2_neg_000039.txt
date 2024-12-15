@@ -1,17 +1,18 @@
-file = t012967
-date = 2021-08-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1430887309440860200
+file = t000278
+date = 2020-05-30
+user = unknown
+conversation = 1220161776916090880
+URL = unknown
 
-word count = 37
-words loading = 0
-factor score = -3
+word count = 45
+words loading = 1
+factor score = -1
 
-LISA SHAW, DA BBC, MORRE COM COÁGULO NA CABEÇA PÓS VACINA COVID O legista do 
-Reino Unido descobre que Lisa Shaw, da BBC, morreu após desenvolver coágulos 
-sanguíneos no cérebro causados ​​por uma vacina de Covid. bbc. com / news 
-/ uk-englan … https://t.co/2229zG7jcV 
+@JanainaDoBrasil Prezada Deputada, Essa pandemia foi tratada em SP com a marca 
+brasileira de futebol alegre 7x1 . Uma total improvisação com base 
+científica . O simples e o óbvio seria proteger os idosos e enfrentar o 
+vírus, pois não há vacina. Teríamos mortos, mas ñ matariamos a economia. 
 
 Lemmas in this text that loaded on the factor:
 
+futebol 

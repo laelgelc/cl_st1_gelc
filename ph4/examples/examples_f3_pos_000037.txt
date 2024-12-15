@@ -1,20 +1,21 @@
-file = t014148
-date = 2021-12-00
-user = iodinha1
+file = t014675
+date = 2022-02-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1474392357227401200
+URL = https://twitter.com/evandroratho/status/1488516857028042800
 
-word count = 35
-words loading = 3
-factor score = 4
+word count = 42
+words loading = 4
+factor score = 6
 
-O dever do médico é apenas informar o estado de saúde e eventuais 
-comorbidades do **paciente** para que o **paciente** possa **avaliar** o 
-custo-benefício de se vacinar ou não. A decisão é sempre do **paciente** . 
-twitter. com / FFCsempre / stat … 
+**Impedem** o uso de remédios seguros sob a alegação de não haverem 
+**estudos** suficientes quanto a eficácia, ao mesmo tempo em que **aprovam** 
+vacinas em caráter **emergencial** sem **estudos** completos quanto a 
+eficácia e segurança, e você não acha isso estranho? 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
-custo 
-paciente 
+aprovar (secondary)
+emergencial 
+estudo 
+impedir 

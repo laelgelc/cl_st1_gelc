@@ -1,20 +1,21 @@
-file = t013529
-date = 2021-10-00
+file = t012293
+date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1452718561806405600
+URL = https://twitter.com/evandroratho/status/1401923949492121600
 
-word count = 36
-words loading = 3
-factor score = 6
+word count = 47
+words loading = 4
+factor score = 8
 
-@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
-têm **risco** de morte pela doença, e considerando que as vacinas não 
-impedem a infecção e tampouco a transmissão do vírus, tal obrigatoriedade 
-é estupidamente sem lógica. 
+Mentiram sobre a origem do vírus, sobre o **tratamento** **precoce** , sobre 
+eficácia e segurança das vacinas, sobre a efetividade do uso de máscaras, 
+sobre o **lockdown** , sobre as estatísticas de **mortes** , e tantas outras 
+coisas. Eles vão continuar mentindo, e cabe a você parar de acreditar! 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-jovem (secondary)
-risco 
+lockdown 
+morte (secondary)
+precoce 
+tratamento 

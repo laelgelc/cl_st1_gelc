@@ -1,22 +1,23 @@
-file = t013793
-date = 2021-11-00
+file = t014126
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1462788147352326100
+URL = https://twitter.com/evandroratho/status/1473250155986100200
 
-word count = 45
+word count = 46
 words loading = 5
-factor score = 6
+factor score = 8
 
-@revistaoeste Adolescentes saudáveis já tem proteção de curto, médio, e 
-**longo** **prazo** . A única coisa que as vacinas oferecem a eles é o 
-**risco** de efeitos **adversos** graves, como miocardite, trombose, AVC, etc. 
-Vacinar **jovens** saudáveis é tão sem sentido que beira a insanidade! 
+@OsmarTerra Tudo é uma questão de **custo** x benefício, e não faz sentido 
+a aplicação de vacinas experimentais em alguém cuja a própria doença tem 
+índice de **letalidade** abaixo 0 , 1 % , ainda mais se tratando de uma 
+tecnologia nova, sem **estudos** suficientes sobre segurança a **longo** 
+**prazo** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-jovem (secondary)
+custo 
+estudo 
+letalidade 
 longo 
 prazo 
-risco 

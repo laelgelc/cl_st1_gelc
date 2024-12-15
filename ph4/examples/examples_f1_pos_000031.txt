@@ -1,27 +1,28 @@
-file = t015875
-date = 2022-08-00
+file = t016732
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1555704080194015200
+URL = https://twitter.com/mpatriabrasil/status/1595431947760799700
 
-word count = 46
+word count = 56
 words loading = 9
-factor score = 9
+factor score = 8
 
-Patyziul era uma **mulher** muito admirada em Osasco e trabalhava como 
-influenciadora digital. Ela se **submeteu** à 1a. **Dose** em julho / 21 . 
-Segundo depoimentos de **amigos** , tomou o reforço há poucas **semanas** e 
-teve um **infarto** **fulminante** no **dia** 04 / 08 / 22 , exatamente um 
-**ano** após a 2a. **Dose** . https://t.co/x9XwJfhPTL 
+Mais 4 **jovens** **sofreram** **infartos** . Mais uma vez lembramos q o 
+**risco** de **Miocardite** é de 100 para cada 100mil **doses** , d acordo com 
+a **pesquisa** científica da @CMAJ. Ou seja, se você tomou 4 **doses** , o 
+**risco** é 4 x maior! Vale a pena saber que **pessoas** **morreram** para 
+você se sentir seguro? twitter. com / CMAJ / status / 15 … 
+https://t.co/OVWLDyoyfD 
 
 Lemmas in this text that loaded on the factor:
 
-amigo (secondary)
-ano 
-dia 
 dose 
-fulminante 
 infarto 
-mulher 
-semana 
-submeter 
+jovem 
+miocardite 
+morrer 
+pesquisa 
+pessoa 
+risco (secondary)
+sofrer 

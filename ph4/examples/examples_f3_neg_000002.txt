@@ -1,22 +1,23 @@
-file = t010557
-date = 2020-11-00
-user = derzevic
+file = t014049
+date = 2021-12-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1330942798070227000
+URL = https://twitter.com/julianaayres/status/1471294186150408200
 
-word count = 23
-words loading = 6
-factor score = -8
+word count = 42
+words loading = 5
+factor score = -5
 
-**PEGA** ESSE **LIXO** E **ENFIA** NO BRAÇO DA SUA FAMÍLIA Vacina chinesa 
-terá eficácia revelada na 1ª semana de dezembro gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @Gazeta 
+@alyssanilsen Como estão as coisas aí , Alyssa, pós vacinação? Quais tipos 
+de efeitos colaterais tem aparecido por aí ? Aqui, no Brasil: AVC, Ataque 
+cardíaco, **paralisia** **facial** , motes, muitas tromboses, **miocardites** 
+, problema nos **rins** , queda de cabelo, **dores** de cabeça. . . São 
+tantos. . . 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-enfiar 
-especial 
-lixo 
-pegar 
-via 
+dor 
+facial 
+miocardite (secondary)
+paralisia 
+rim 

@@ -1,25 +1,23 @@
-file = t016528
-date = 2022-11-00
-user = mpatriabrasil
+file = t015586
+date = 2022-06-00
+user = karinamichelin
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1590165872378728400
+URL = https://twitter.com/karinamichelin/status/1539588437149470700
 
-word count = 43
-words loading = 7
+word count = 50
+words loading = 5
 factor score = 8
 
-Ágata Carvalho era uma **jovem** saudável e linda q estudava Medicina em 
-Catalão. Teve q tomar todas as dosed, pois **exigiram** o **comprovante** p / 
-aulas. O **pai** , que é médico, solicitou o **exame** anti-heparina, q 
-apontou como **causa** do óbito a #vacina. Face do **pai** : m. **facebook** . 
-com / story. php? stor … https://t.co/Qc6diu9cU0 
+Vamos falar sobre os **casos** invisíveis? Paulo Henrique, 28 **anos** , 
+casado era pai de um bebê de 3 meses. **Jovem** , muito ativo, saudável, sem 
+vícios e cheio de sonhos, veio a óbito depois da 3* dose -1 **semana** depois 
+de ser **inoculado** . Até quando vamos assistir a esses assassinatos? 
+https://t.co/Xvgtn5zjqJ 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-comprovante 
-exame 
-exigir 
-facebook 
+ano 
+caso 
+inocular 
 jovem 
-pai 
+semana 

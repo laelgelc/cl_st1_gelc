@@ -1,20 +1,22 @@
-file = t012171
-date = 2021-05-00
+file = t011893
+date = 2021-04-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1396809343866216400
+URL = https://twitter.com/evandroratho/status/1382691764587356200
 
-word count = 36
-words loading = 3
-factor score = 6
+word count = 37
+words loading = 5
+factor score = 8
 
-Obrigar uma população de pessoas saudáveis a tomar vacinas experimentais 
-cujos efeitos colaterais de médio e **longo** **prazo** são totalmente 
-desconhecidos, para uma doença com índice de **letalidade** desprezível, é 
-a verdadeira definição de genocídio! 
+**Estudos** científicos já concluíram que: - Lockdown é ineficaz; - 
+**Tratamento** **precoce** é eficaz; - Atividade física é a **melhor** 
+prevenção; - Vacinas possuem baixa eficácia; - A transmissão do vírus por 
+superfície é quase nula; - Assintomáticos não **transmitem** o vírus; 
 
 Lemmas in this text that loaded on the factor:
 
-letalidade 
-longo 
-prazo 
+bom (secondary)
+estudo 
+precoce 
+transmitir 
+tratamento 

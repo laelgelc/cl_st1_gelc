@@ -1,30 +1,24 @@
-file = t015816
-date = 2022-07-00
+file = t016594
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
+URL = https://twitter.com/mpatriabrasil/status/1592210604789727200
 
-word count = 35
-words loading = 11
-factor score = 9
+word count = 43
+words loading = 6
+factor score = 8
 
-Fernanda Keulla tomou as **primeiras** **doses** do **experimento** em agosto / 
-21 e o reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. 
-A OMS já **alertou** sobre o **experimento** ser o gatilho para HerpesZoster 
-**pesquisa** . **bvsalud** . **org** / global-literat … **instagram** . com / 
-p / CgdNKw3M_TZ / … **instagram** . com / reel / CSFicCig8 … 
-https://t.co/5mn7iziOnZ 
+Ana Clara residia em Goiânia e **faleceu** de problemas cardíacos hoje. O JV 
+apurou q ela tomou 2 **doses** , a última em junho. **Estudos** **indicam** q 
+as reações como AVCs e problemas cardíacos demoram, em geral, 5 meses para 
+ocorrer. **Fontes** : m. **facebook** . com / story. php? stor … stevekirsch. 
+substack. com / p / this-one-gra … https://t.co/Upb0hy6Uu4 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-bvsalud (secondary)
 dose 
-experimento 
-global 
-instagram (secondary)
-internar 
-literat (secondary)
-org 
-pesquisa 
-primeiro 
+estudo (secondary)
+facebook 
+falecer 
+fonte 
+indicar 

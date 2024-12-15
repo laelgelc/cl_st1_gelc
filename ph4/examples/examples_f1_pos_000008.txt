@@ -1,29 +1,30 @@
-file = t016084
-date = 2022-09-00
+file = t015813
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1566823981826687000
+URL = https://twitter.com/mpatriabrasil/status/1552006027771535400
 
-word count = 44
+word count = 34
 words loading = 11
-factor score = 12
+factor score = 11
 
-Flávio Rodrigues era integrante da banda Medida Provisória. Era um entusiasta 
-do **experimento** e sempre postava suas **doses** . Tomou o reforço em 07 / 
-07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
-**publicou** um **alerta** sobre o **risco** de **Miocardite** , e 
-**problemas** cardíacos. Segue. . . https://t.co/WNJnCJJCDS 
+Lidiane Brugnari era professora em Jacarezinho / PR. Tomou a 2a. **Dose** em 
+agosto / 21 e o reforço há pouco mais de 3 meses. **Faleceu** **dia** 26 / 07 
+/ 22 em virtude de um AVC. A OMS ja **alertou** sobre AVC pós-experimento. 
+**pesquisa** . **bvsalud** . **org** / global-literat … m. **facebook** . com 
+/ story. php? stor … m. **facebook** . com / groups / 9297702 … 
+https://t.co/Wo9Bx4fHKB 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
+alertar 
+bvsalud (secondary)
 dia 
 dose 
 experimento 
+facebook 
 falecer 
-fulminante 
-infarto 
-miocardite 
-problema 
-publicar 
-risco (secondary)
+global (secondary)
+literat (secondary)
+org 
+pesquisa 

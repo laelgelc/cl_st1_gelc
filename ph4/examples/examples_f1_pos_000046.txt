@@ -1,25 +1,23 @@
-file = t016056
-date = 2022-08-00
-user = mpatriabrasil
+file = t014884
+date = 2022-02-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1564768844127813600
+URL = https://twitter.com/evandroratho/status/1493949497986420700
 
-word count = 31
-words loading = 7
+word count = 43
+words loading = 5
 factor score = 8
 
-**Fontes** : **Pesquisa** **publicada** na Revista cientifica Virology 
-**indicando** que a eficácia é negativa após reforços: virologyj. 
-biomedcentral. com / articles / 10 . 11 … Reportagem onde familiares afiemam 
-que ele tomou 4 **doses** e mesmo assim **contraiu** diversas vezes: m. 
-**facebook** . com / story. php? stor … 
+- 130 óbitos registrados em fevereiro no DF, 85 , 4 % de **pessoas** 
+VACINADAS; - **Morreram** 6x mais **pessoas** com a **dose** de reforço do que 
+sem nenhuma **dose** ; - 83 % dos óbitos foram de idosos; - Não foi 
+registrado nenhum óbito entre **jovens** e crianças ( ZERO ) ; **Fonte** : 
+saude. df. gov. br / boletinsinform … https://t.co/cCdVQWfqbe 
 
 Lemmas in this text that loaded on the factor:
 
-contrair 
 dose 
-facebook 
 fonte 
-indicar 
-pesquisa 
-publicar 
+jovem 
+morrer 
+pessoa 

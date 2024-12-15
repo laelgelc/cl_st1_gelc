@@ -1,27 +1,25 @@
-file = t011456
-date = 2021-02-00
-user = francoandremr
+file = t016831
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/francoandremr/status/1357334378326548500
+URL = https://twitter.com/iodinha1/status/1596308385951060000
 
 word count = 48
-words loading = 9
-factor score = 9
+words loading = 7
+factor score = 7
 
-@jdoriajr Vida normal com uma vacina que não **garante** **imunidade** e uma 
-**campanha** que recomenda todo **mundo** a continuar **usando** máscaras e 
-fazendo **isolamento** **social** depois de duas doses? Explica aí que normal 
-é esse, ou se esta será sua **nova** concepção de normal imposta ao 
-**povo** ? 
+@DaAcervo Nunca **saberemos** se quem morreu foi por **causa** da **covid** ou 
+por **causa** da vacina. Muita **gente** não se vacinou e nem resfriado 
+**pegou** . Outros tantos, só após se vacinar, **pegaram** **covid** , 
+tiveram miocardite, AVC, ataque cardíaco, trombose, gripe e até morreram etc. 
+**Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-campanha 
-garantir 
-imunidade 
-isolamento (secondary)
-mundo 
-novo 
-povo 
-social 
-usar 
+causa 
+covid 
+dizer 
+gente 
+pegar 
+saber 
+verdade 

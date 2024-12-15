@@ -1,21 +1,25 @@
-file = t001346
-date = 2020-11-29
-user = CezarRicardoSi1
-conversation = 858704025138679809
-URL = https://twitter.com/CezarRicardoSi1/status/1333171617971703810
+file = t016622
+date = 2022-11-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1592689833381884000
 
 word count = 48
-words loading = 3
+words loading = 7
 factor score = -4
 
-@SigaGazetaBR Bom está semana começa a guerra psicológica novamente fechando 
-tudo. Um pergunta que não sai da minha cabeça qual a **verdade** sobre a 
-sinovac, pq **querem** desenvolver a **vachina** aqui? Talvez exista uma 
-armadilha escondida e a culpa recairá no Butantã , sem falar que já ganharam 
-$ . 
+@AntonioCEvan Nunca saberemos se quem morreu foi por causa da covid ou por 
+causa da vacina. Muita gente não se vacinou e nem **resfriado** **pegou** . 
+Outros tantos, só após se vacinar, **pegaram** covid, tiveram **miocardite** 
+, AVC, **ataque** cardíaco, **trombone** , **gripe** e até morreram etc. 
+**Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-querer 
-vachina 
-verdade 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

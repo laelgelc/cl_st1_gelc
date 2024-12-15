@@ -1,25 +1,23 @@
-file = t012661
-date = 2021-07-00
-user = evandroratho
+file = t012551
+date = 2021-06-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1415714796826243000
+URL = https://twitter.com/derzevic/status/1410349358986444800
 
-word count = 48
-words loading = 7
+word count = 37
+words loading = 6
 factor score = 7
 
-Parte da **imprensa** ignora centenas de **estudos** comprovando a eficácia do 
-**tratamento** **precoce** , finge não saber dos e-mails do dr. Fauci, esquece 
-que o Texas **existe** , ignora o alerta de cientistas sobre o risco das 
-vacinas, e por aí vai. Pode **chamar** do que **quiser** , mas jornalismo não 
-é ! 
+TERCEIRA? **SEI** , MAIS BILHÕES PAA **COMPRAR** UMA PORCARIA QUE NÃO 
+FUNCIONOU EM 2 DOSES Butantan vai apresentar à Anvisa pedido para **aplicar** 
+nova versão da CoronaVac como " 3ª dose de reforço " contra variantes da 
+Covid-19 gazetabrasil. com. br / **especiais** / coro … **via** @Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-chamar 
-estudo 
-existir 
-imprensa 
-precoce 
-querer (secondary)
-tratamento 
+aplicar 
+comprar 
+covid 
+especial 
+saber 
+via 

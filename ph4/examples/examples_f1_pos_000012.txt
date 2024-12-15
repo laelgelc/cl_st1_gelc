@@ -1,27 +1,27 @@
-file = t016104
+file = t016230
 date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1568305377980162000
+URL = https://twitter.com/mpatriabrasil/status/1575616796324831200
 
-word count = 49
+word count = 50
 words loading = 9
-factor score = 11
+factor score = 10
 
-Edu do Povo tomou sua 1a. **Dose** no **dia** 30 / 06 e 3 **dias** depois 
-postou que teve reação depois do **experimento** . Mesmo assim, ele continuou 
-tomando os reforços e **faleceu** de um **mal** súbito em 08 / 09 / 22 . A 
-Anvisa já **alertou** sobre o **risco** de **Miocardite** e AVCs 
-pós-experimento. Segue **fontes** . . . https://t.co/aQEipi5a14 
+Coolio, rapper de Gangsta s Paradise **faleceu** aos 59 **anos** d um **mal** 
+súbito. Ele havia se submetido ao **experimento** há +ou- 6 meses, pois fez 
+uma turnê pela Austrália onde o **comprovante** é exigido c / rigor. 
+**Estudos** **indicam** que as **mortes** vem acontecendo 5 meses após as 
+**doses** . Segue. . https://t.co/ANWvbTNUj3 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-dia 
+ano 
+comprovante 
 dose 
+estudo (secondary)
 experimento 
 falecer 
-fonte 
+indicar 
 mal 
-miocardite 
-risco (secondary)
+morte 

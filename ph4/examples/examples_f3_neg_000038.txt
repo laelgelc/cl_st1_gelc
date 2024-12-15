@@ -1,21 +1,19 @@
-file = t010278
-date = 2020-10-00
-user = derzevic
+file = t014107
+date = 2021-12-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1317555658737258500
+URL = https://twitter.com/julianaayres/status/1472564779977949200
 
-word count = 33
-words loading = 4
-factor score = -4
+word count = 30
+words loading = 3
+factor score = -3
 
-FAZEM FILA, OU SÃO OBRIGADOS A FAZER? ? LEMBREM SE DO REGIME DELES, O MESMO 
-QUE DÓRIA **QUERIA** PARA NÓS Chineses fazem fila para receber vacina 
-experimental e **pagam** US$60 gazetabrasil. com. br / **mundo** / chineses … 
-**via** @A 
+Outra **amiga** está no hospital, também ruim dos **rins** pós vacina. Nunca 
+teve problema. . . Estava saudável, tinha acabado de fazer **exames** . Tomou 
+a vacina, pimba! Que Deus nos ajude. 
 
 Lemmas in this text that loaded on the factor:
 
-mundo (secondary)
-pagar 
-querer 
-via 
+amiga 
+exame 
+rim 

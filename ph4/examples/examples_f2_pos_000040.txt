@@ -1,21 +1,21 @@
-file = t012090
-date = 2021-05-00
+file = t012005
+date = 2021-04-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392469322115780600
+URL = https://twitter.com/evandroratho/status/1387450856228929500
 
-word count = 44
+word count = 36
 words loading = 4
 factor score = 7
 
-Acreditam em vacinas desenvolvidas as pressas e sem **estudos** suficientes 
-para **garantir** tanto eficácia quanto segurança, mas criminalizam a 
-tentativa de médicos de **usar** remédios já disponíveis na luta para 
-**salvar** seus pacientes, e ainda por cima se dizem a favor da ciência! 
+Aposto que se um laboratório farmacêutico resolvesse oferecer uma vacina 
+contra **covid** gratuitamente, muitos políticos fariam pressão pela 
+reprovação nas agências reguladoras e a imprensa faria **campanha** negativa 
+alertando para os riscos dos **efeitos** **colaterais** ! 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-garantir 
-salvar 
-usar 
+campanha 
+colateral 
+covid 
+efeito 

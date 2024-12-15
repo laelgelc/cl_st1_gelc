@@ -1,26 +1,26 @@
-file = t015955
-date = 2022-08-00
+file = t016204
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1558751882612539400
+URL = https://twitter.com/mpatriabrasil/status/1574736901172592600
 
-word count = 48
+word count = 37
 words loading = 8
-factor score = 10
+factor score = 9
 
-Ilson Baiano foi candidato a prefeito d Coelho Neto. Tomou a 1a. **dose** em 05 
-/ 21 a 2a. em 08 / 21 e os reforços em 2022 . Teve um **infarto** 
-**fulminante** neste 13 / 08 / 22 , exatamente um **ano** após a 2a. da Astra. 
-A OMS já **alertou** sobre os **riscos** de **problemas** cardíacos 
-pós-experimento. Segue. . . https://t.co/shuzq4xhsQ 
+Mais num **jovem** **morre** jogando futebol. . . Meu Deus! Segundo apuramos, 
+ele havia se submetido ao **experimento** há 4 meses. **Pesquisas** americanas 
+**indicam** que as **mortes** pelo **experimento** geralmente ocorrem após 5 
+meses depois das **doses** . stevekirsch. substack. com / p / this-one-gra … 
+**facebook** . com / 10006368102481 … https://t.co/dGrWfJzi0v 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-ano 
 dose 
 experimento 
-fulminante 
-infarto 
-problema 
-risco (secondary)
+facebook 
+indicar 
+jovem 
+morrer 
+morte 
+pesquisa 

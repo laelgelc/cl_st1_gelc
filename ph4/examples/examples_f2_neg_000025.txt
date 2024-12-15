@@ -1,20 +1,23 @@
-file = t016577
+file = t016693
 date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1591632637319430100
+URL = https://twitter.com/mpatriabrasil/status/1594687012438679600
 
-word count = 37
-words loading = 3
-factor score = -4
+word count = 39
+words loading = 5
+factor score = -3
 
-Eu não posso acreditar que meu marido tomou sua #vacina contra covid e agora 
-tem um coágulo de **sangue** na **perna** novamente. Toda vez que ele toma uma 
-vacina contra covid ele tem coágulos sanguíneos. **facebook** . com / 
-10000019564042 … https://t.co/7GzkiXjvgM 
+A OMS e outras revistas científicas, **publicaram** estudos relacionando a 
+ideação suicida e tentativa de #suicídio à vacina. Alguns cientistas 
+afirmam q as doses podem suprimir ou interferir na produção da Dopamina e 
+Serotonina, potencializando a depressão. **pesquisa** . **bvsalud** . org / 
+global-literat … https://t.co/90FQcVBTTa 
 
 Lemmas in this text that loaded on the factor:
 
-facebook (secondary)
-perna 
-sangue 
+bvsalud 
+global 
+literat 
+pesquisa (secondary)
+publicar (secondary)

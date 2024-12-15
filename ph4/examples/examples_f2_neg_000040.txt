@@ -1,19 +1,17 @@
-file = t012996
-date = 2021-08-00
-user = julianaayres
+file = t010719
+date = 2020-12-00
+user = sabolsonaro
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1431850646093901800
+URL = https://twitter.com/sabolsonaro/status/1336738923238789000
 
-word count = 40
+word count = 14
 words loading = 2
-factor score = -3
+factor score = -1
 
-@TonyStarkMeta Uma **amiga** ficou com a **pele** dos pés a cabeça parecendo 
-uma larva de vulcão. Achei q fosse morrer. Mais de 1 mês internada e os 
-médicos queriam q ela tomasse a segunda dose 
-woman_shrugging_medium_skin_tone_e Esses médicos são assassinos. 
+@MontanValdemir Tem vários. . . Reino Unido **emite** **alerta** após 
+reações alérgicas à vacina Pfizer saude. ig. com. br / coronavirus / 20 … 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
+alerta (secondary)
+emitir 

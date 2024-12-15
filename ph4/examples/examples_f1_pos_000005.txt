@@ -1,29 +1,27 @@
-file = t016706
-date = 2022-11-00
+file = t016104
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1594858606721224700
+URL = https://twitter.com/mpatriabrasil/status/1568305377980162000
 
-word count = 39
-words loading = 11
-factor score = 12
+word count = 49
+words loading = 9
+factor score = 11
 
-Uma criança de 12 **anos** **morre** de **infarto** , em Rondônia, voltando 
-de uma pescaria. A OMS e a Anvisa já **publicaram** **alertas** e 
-**pesquisas** **indicando** que a #vacina pode provocar **problemas** 
-cardíacos com **risco** de **morte** . **Fontes** : gov. br / anvisa / pt-br / 
-a … stevekirsch. substack. com / p / this-one-gra … https://t.co/xJetQDscBQ 
+Edu do Povo tomou sua 1a. **Dose** no **dia** 30 / 06 e 3 **dias** depois 
+postou que teve reação depois do **experimento** . Mesmo assim, ele continuou 
+tomando os reforços e **faleceu** de um **mal** súbito em 08 / 09 / 22 . A 
+Anvisa já **alertou** sobre o **risco** de **Miocardite** e AVCs 
+pós-experimento. Segue **fontes** . . . https://t.co/aQEipi5a14 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
-ano 
+alertar 
+dia 
+dose 
+experimento 
+falecer 
 fonte 
-indicar 
-infarto 
-morrer 
-morte 
-pesquisa 
-problema 
-publicar 
+mal 
+miocardite 
 risco (secondary)

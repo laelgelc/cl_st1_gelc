@@ -1,20 +1,21 @@
-file = t010506
-date = 2020-11-00
-user = derzevic
+file = t015550
+date = 2022-06-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1326304163626627000
+URL = https://twitter.com/mpatriabrasil/status/1536878927746039800
 
-word count = 34
+word count = 46
 words loading = 3
-factor score = -4
+factor score = -3
 
-PORCARIA CH! NESA E CHEIA DE FALHAS. Anvisa diz que dados sobre vacina chinesa 
-estavam incompletos e cobra transparência gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @Gazeta Brasil - Notícias de última hora 
-do Brasil e do Mundo Últimas manchetes 
+Sr. Humberto, mecânico nordestino, estava bem de saúde. Apresentou uma 
+**paralisia** **facial** e tem sentido febre e **dores** pelo corpo inteiro 
+após 3a dose. Ele alerta a todos! A Bula do experimento prevê essas reações 
+mas, ninguém quer ler! Virou o Justin Bieber brasileiro. Melhoras! 
+https://t.co/5OXRklvikt 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-especial 
-via 
+dor 
+facial 
+paralisia 

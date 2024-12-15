@@ -1,29 +1,24 @@
-file = t011790
-date = 2021-04-00
+file = t010990
+date = 2020-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1379502758718492700
+URL = https://twitter.com/evandroratho/status/1341088140241592300
 
-word count = 42
-words loading = 11
-factor score = 10
+word count = 52
+words loading = 6
+factor score = 8
 
-**Coisas** que não **dá** mais pra esconder mas a velha **imprensa** 
-**vendida** continua fingindo não saber: - **Tratamento** **precoce** 
-**salva** **vidas** ; - Vacina não **garante** imunização; - Lockdown não 
-reduz contágio e tampouco **mortes** ; - O establishment faz de tudo para 
-derrubar o atual **governo** ; 
+@carlosjordy - Para a sociedade, **fique** em casa, solde a porta da loja, 
+multa, vacina obrigatória, aumento de impostos, e economia a **gente** **vê** 
+depois; - Para políticos e amigos da imprensa, reajuste de 45 a 70 % nas 
+verbas ( **pagas** com o imposto do pobre ) ; Mas acredite, é tudo por uma 
+**boa** **causa** ! 
 
 Lemmas in this text that loaded on the factor:
 
-coisa 
-dar 
-garantir 
-governo (secondary)
-imprensa 
-morte (secondary)
-precoce 
-salvar 
-tratamento 
-vender 
-vida 
+bom 
+causa 
+ficar 
+gente 
+pagar 
+ver 

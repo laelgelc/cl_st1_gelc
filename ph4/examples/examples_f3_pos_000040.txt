@@ -1,22 +1,20 @@
-file = t013582
-date = 2021-11-00
+file = t014073
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1455535743812636700
+URL = https://twitter.com/evandroratho/status/1471546509799743500
 
-word count = 48
-words loading = 4
-factor score = 4
+word count = 38
+words loading = 3
+factor score = 6
 
-Se em quase 2 anos 17 % da população catarinense contraiu o vírus e o 
-índice de **letalidade** entre **jovens** é de 0 , 04 % , o **risco** de 
-morte pela doença é menor que 0 , 01 % . Dados do FDA apontam que 0 , 04 % 
-dos **jovens** vacinados apresentam algum tipo de reação **adversa** grave ( 
-efeito colateral ) 
+@anvisa_oficial Apresentem as estatísticas de óbitos por covid entre 
+crianças, comparando com os índices de efeitos adversos de curto e de 
+**longo** **prazo** nos **estudos** de segurança das vacinas. Não tem, né ? 
+Então essa decisão é absurdamente equivocada! 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-jovem (secondary)
-letalidade 
-risco 
+estudo 
+longo 
+prazo 

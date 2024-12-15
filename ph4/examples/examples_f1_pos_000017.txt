@@ -1,26 +1,27 @@
-file = t016191
-date = 2022-09-00
+file = t015756
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574070077758099500
+URL = https://twitter.com/mpatriabrasil/status/1548713226321514500
 
-word count = 42
-words loading = 8
+word count = 45
+words loading = 9
 factor score = 10
 
-Depois de **Pesquisas** **publicadas** pela Lancet apontarem **problemas** 
-cardíacos a longo prazo em pessoas que se **submeteram** ao **experimento** , 
-o CDC resolve agir e investigar as reações a longo prazo ( **Infartos** e 
-AVCs ocorridos 5 meses após as **doses** ) . **Fonte** : cdc. gov / 
-coronavirus / 20 … https://t.co/bddn48RRTY 
+Caio era um **jovem** de 16 **anos** de Nova Venécia. 1a. **Dose** em 2021 e 
+reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 16 / 07 
+. A OMS confirma a relação entre o **experimento** e **Infartos** em 
+decorrência da reações previstas na Bula ( **Miocardite** ) . **Fonte** : 
+uol. com. br / vivabem / notici … https://t.co/kaQC0VsLG6 
 
 Lemmas in this text that loaded on the factor:
 
+ano 
 dose 
 experimento 
 fonte 
+fulminante 
 infarto 
-pesquisa 
-problema 
-publicar 
-submeter 
+jovem 
+miocardite 
+semana 

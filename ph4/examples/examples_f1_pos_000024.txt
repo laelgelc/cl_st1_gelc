@@ -1,29 +1,25 @@
-file = t016731
-date = 2022-11-00
+file = t016144
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1595424930690121700
+URL = https://twitter.com/mpatriabrasil/status/1571061289266585600
 
-word count = 53
-words loading = 10
+word count = 47
+words loading = 7
 factor score = 9
 
-Pessoas **jovens** **sofrendo** **infartos** **Fulminantes** . Lembramos q o 
-**risco** de **Miocardite** é de 100 para cada 100mil **doses** , de acordo 
-com a **pesquisa** científica da @CMAJ. Ou seja, se você tomou 4 **doses** , 
-o **risco** é 4 x maior! Vale a pena saber que pessoas **morreram** para você 
-se **sentir** seguro? twitter. com / CMAJ / status / 15 … 
-https://t.co/KITUhtZdBy 
+Alex era um defensor do **experimento** e, em sua última postagem chamou os 
+críticos das **doses** de Fanáticos. **Faleceu** de um AVC em 16 / 09 / 2022 
+, poucas **semanas** depois do reforço. **Estudos** **indicam** que o 
+**experimento** pode provocar AVC, mesmo depois de meses após as **doses** . 
+Segue **fontes** : https://t.co/AqeeYxXIdW 
 
 Lemmas in this text that loaded on the factor:
 
 dose 
-fulminante 
-infarto 
-jovem 
-miocardite 
-morrer 
-pesquisa 
-risco (secondary)
-sentir 
-sofrer 
+estudo (secondary)
+experimento 
+falecer 
+fonte 
+indicar 
+semana 

@@ -1,26 +1,27 @@
-file = t016190
-date = 2022-09-00
+file = t016501
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574004081466785800
+URL = https://twitter.com/mpatriabrasil/status/1587855528818098200
 
-word count = 33
-words loading = 8
-factor score = 11
+word count = 41
+words loading = 9
+factor score = 10
 
-**Pesquisas** **indicam** que o período mais propenso a **infartos** e AVCs se 
-dá entre 5 a 6 meses após as **doses** . **Fontes** : Falecimento de Renzi: 
-interiordabahia. com. br / ultimas-notici … **Alerta** da Anvisa: gov. br / 
-anvisa / pt-br / a … **Pesquisa** sobre **problemas** Cardíacos 
-pós-experimento: ncbi. nlm. nih. gov / pmc / articles / P … 
+Jorge Balbino Júnior, jogador de futebol **faleceu** aos 30 **anos** . Foi 
+obrigado a se submeter ao **experimento** , pois a CBF exige o **comprovante** 
+. Durante **anos** jogou e nunca apresentou problemas cardíacos e depois das 
+**doses** **morre** de **infarto** . **Fonte** : m. **facebook** . com / story. 
+php? stor … https://t.co/wNtqukELRN 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
+ano 
+comprovante 
 dose 
 experimento 
+facebook 
+falecer 
 fonte 
-indicar 
 infarto 
-pesquisa 
-problema 
+morrer 

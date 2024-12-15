@@ -1,26 +1,29 @@
-file = t016584
-date = 2022-11-00
+file = t015796
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1591747298941456400
+URL = https://twitter.com/mpatriabrasil/status/1551171520797499400
 
-word count = 36
-words loading = 8
+word count = 42
+words loading = 11
 factor score = 10
 
-Vacinado c / 4 **doses** , Eric Gustavo, 32 , **contraiu** CV! D várias vezes. 
-Estava de alta hospitalar, qd **sofreu** uma parada cardíaca enquanto dormia. 
-**Pesquisas** **indicam** que a eficácia do **experimento** é negativa após 
-reforços. **Fonte** : m. **facebook** . com / story. php? stor … virologyj. 
-biomedcentral. com / articles / 10 . 11 … https://t.co/LNmjcR8jbF 
+Márcio Costa era um patriota. Tomou a 1a. **dose** em 2021 e os reforços há 
+3 meses. Teve um AVC em 16 / 07 e **faleceu** nesta **semana** . A OMS já 
+reconheceu que o AVC pode acontecer alguns meses após o **experimento** . 
+**Fontes** : **pesquisa** . **bvsalud** . **org** / global-literat … m. 
+**facebook** . com / story. php? stor … https://t.co/VMXmval90f 
 
 Lemmas in this text that loaded on the factor:
 
-contrair 
+bvsalud (secondary)
 dose 
 experimento 
 facebook 
+falecer 
 fonte 
-indicar 
+global (secondary)
+literat (secondary)
+org 
 pesquisa 
-sofrer 
+semana 

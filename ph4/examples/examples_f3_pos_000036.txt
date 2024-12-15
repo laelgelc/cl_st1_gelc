@@ -1,18 +1,21 @@
-file = t014515
-date = 2022-01-00
+file = t014784
+date = 2022-02-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1483869704146104300
+URL = https://twitter.com/evandroratho/status/1492113165139820500
 
-word count = 45
-words loading = 1
-factor score = 4
+word count = 37
+words loading = 4
+factor score = 6
 
-Considerando que a vacina não está prevenindo a infecção e a transmissão 
-do vírus entre adultos, e o **risco** de morte entre crianças saudáveis é 
-desprezível, essa determinação do STF é mais do que absurda, é criminosa! 
-Quem vai reestabelecer a ordem nesse país? 
+Se os **estudos** que **asseguram** eficácia e segurança das vacinas exigem 5 
+anos de acompanhamento, ou os fabricantes de vacina possuem uma máquina do 
+tempo ou as vacinas são experimentais e foram **aprovadas** em caráter 
+**emergencial** ! 
 
 Lemmas in this text that loaded on the factor:
 
-risco 
+aprovar (secondary)
+assegurar 
+emergencial 
+estudo 

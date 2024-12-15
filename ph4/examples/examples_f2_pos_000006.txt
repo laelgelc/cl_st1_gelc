@@ -1,24 +1,24 @@
-file = t013496
-date = 2021-10-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1451221732757577700
+file = t001183
+date = 2020-10-30
+user = mitags
+conversation = 266861485
+URL = https://twitter.com/mitags/status/1322218632089227264
 
-word count = 51
-words loading = 6
-factor score = 9
+word count = 36
+words loading = 7
+factor score = 8
 
-A vacina não evita a infecção; A máscara não te blinda do vírus; Lockdown 
-só serve para afetar a economia; O **passaporte** sanitário não é nada 
-além de uma **medida** de coerção; **Tratamento** **precoce** é **melhor** 
-do que nenhum **tratamento** ; As estatísticas não **mentem** ; E o Lula não 
-é inocente; 
+O percentual de cura não foi maior, porque tem **governador** impedindo acesso 
+do **povo** aos remédios que **salvam** **vidas** Estão  investindo na 
+**Vachina** que ninguém **sabe** se vai funcionar, mas **dá** mais lucro pra 
+eles https://t.co/rSfBU1wQMi 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-medida 
-mentar 
-passaporte 
-precoce 
-tratamento 
+dar 
+governador 
+povo 
+saber 
+salvar 
+vachina 
+vida 

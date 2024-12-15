@@ -1,20 +1,24 @@
-file = t014580
-date = 2022-01-00
+file = t014999
+date = 2022-03-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1485596814715805700
+URL = https://twitter.com/evandroratho/status/1499688063043133400
 
-word count = 48
-words loading = 3
-factor score = 4
+word count = 44
+words loading = 6
+factor score = 6
 
-As autoridades reconhecem que a Ômicron é menos letal, os fabricantes de 
-vacinas admitem que elas não são eficazes contra a variante, e os casos de 
-efeitos **adversos** seguem eclodindo. Não seria a hora de parar com essa 
-histeria vacinal e **avaliar** melhor o **custo** x benefício? 
+Previram milhões de **mortes** em dois meses, disseram que **lockdown** e 
+máscaras **impediriam** o contágio, **garantiram** que as vacinas tinham 99 % 
+de eficácia, tentaram **impedir** o **tratamento** médico de **pacientes** . 
+Mas você deve acreditar quando eles dizem que as vacinas são seguras, tá ? 
+clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-avaliar 
-custo 
+garantir (secondary)
+impedir 
+lockdown 
+morte (secondary)
+paciente 
+tratamento 

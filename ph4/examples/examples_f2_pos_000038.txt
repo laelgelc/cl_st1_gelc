@@ -1,25 +1,25 @@
-file = t012099
+file = t012220
 date = 2021-05-00
-user = isdomina43
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/isdomina43/status/1392810965968859100
+URL = https://twitter.com/derzevic/status/1398043284350640000
 
-word count = 44
-words loading = 7
+word count = 41
+words loading = 8
 factor score = 7
 
-@leandroruschel Estamos desprovidos de justiça. **Aprovar** o consumo de 
-drogas, proibir o **tratamento** **precoce** , forçar a tomar vacinas 
-**experimentais** , ideologia de gênero nas escolas, engolir que corruptos 
-são inocentes, **ver** a mentira ser **chamada** de verdade e **ficarmos** 
-calados pra não sermos presos. 
+UMA MÁFIA MUNDIAL ONDE O **INTERESSE** SÃO OS BILHÕES E BILHÕES QUE AS TAIS 
+VACHINAS **DÃO** . O **POVO** ? AHH ISSO É UM MERO DETALHE, QUE SE EXPLODAM 
+YouTube exclui 11 vídeos de Bolsonaro sobre **cloroquina** e **tratamento** 
+**precoce** gazetabrasil. com. br / **especiais** / jair … **via** @Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-chamar 
-experimental 
-ficar (secondary)
-precoce 
-tratamento 
-ver 
+cloroquina 
+dar 
+especial 
+interesse 
+povo 
+precoce (secondary)
+tratamento (secondary)
+via 

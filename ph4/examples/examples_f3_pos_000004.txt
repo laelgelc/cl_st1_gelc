@@ -1,24 +1,23 @@
-file = t013845
-date = 2021-11-00
+file = t013529
+date = 2021-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1463959179635441700
+URL = https://twitter.com/evandroratho/status/1452718561806405600
 
-word count = 41
+word count = 36
 words loading = 6
-factor score = 7
+factor score = 9
 
-@GeanLoureiro As estatísticas **asseguram** que o vírus não **representa** 
-**risco** **significativo** para **jovens** saudáveis, portanto, submeter as 
-crianças aos **riscos** de efeitos **adversos** de vacinas experimentais que 
-têm se mostrado pouco eficientes é incoerente e sem sentido. Um verdadeiro 
-absurdo! 
+@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
+têm **risco** de **morte** pela doença, e considerando que as vacinas não 
+**impedem** a infecção e tampouco a transmissão do vírus, tal 
+**obrigatoriedade** é estupidamente sem lógica. 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
 assegurar 
+impedir 
 jovem (secondary)
-representar 
+morte (secondary)
+obrigatoriedade 
 risco 
-significativo 

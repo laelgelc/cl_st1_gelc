@@ -1,19 +1,18 @@
-file = t015346
-date = 2022-05-00
-user = oscasosraros
+file = t012437
+date = 2021-06-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1528388816914075600
+URL = https://twitter.com/julianaayres/status/1407078633940869000
 
-word count = 51
+word count = 20
 words loading = 2
-factor score = -3
+factor score = -1
 
-Com apenas 15 anos, Aline tomou a 2ª dose, e 1 mês depois começou a sentir 
-**dores** nos pés e **pernas** , até que um dia não tinha forças nas 
-**pernas** nem para ficar em pé ! Buscou ajuda, foi internada e passou 27 dias 
-internada, sendo 10 dias na UTI. https://t.co/z141JoxbVX 
+@JanainaDoBrasil police_car_light_e Inflamação do coração em homens jovens 
+foi maior do que o esperado após as vacinas Pfizer, Moderna -US **CDC** 
+reuters. com / **world** / us / cdc-h … 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-perna 
+cdc 
+world 

@@ -1,19 +1,20 @@
-file = t013679
-date = 2021-11-00
+file = t014074
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1459142748959826000
+URL = https://twitter.com/evandroratho/status/1471551531514306600
 
-word count = 26
-words loading = 3
-factor score = 4
+word count = 33
+words loading = 4
+factor score = 6
 
-@revistaoeste Fazendo projeções com base nas estatísticas do CDC, 1 milhão 
-de doses **representa** potencial **risco** de efeitos **adversos** graves em 
-400 pessoas. Boa sorte! 
+@anvisa_oficial A **taxa** de **letalidade** do vírus entre crianças é menor 
+que 0 , 05 % . Qual **taxa** de efeitos adversos da vacina, no curto e no 
+**longo** **prazo** , foi considerada para tomar essa decisão com segurança? 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-representar 
-risco 
+letalidade 
+longo 
+prazo 
+taxa 

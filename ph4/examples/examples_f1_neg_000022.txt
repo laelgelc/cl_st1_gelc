@@ -1,21 +1,18 @@
-file = t002033
-date = 2021-03-17
-user = AllanGarcs1
-conversation = 1066144755493543936
-URL = https://twitter.com/AllanGarcs1/status/1372152029850836997
+file = t016337
+date = 2022-10-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1580514888341811200
 
-word count = 44
-words loading = 3
-factor score = -2
+word count = 47
+words loading = 0
+factor score = -3
 
-PARA SALVAR VIDAS. . . **MEDIDAS** QUE PROTEGEM 1 ) Vacinação 2 ) 
-**Distanciamento** social 3 ) Máscara 4 ) Lavar mãos 5 ) Sol, Vit D e Zinco 
-**MEDIDAS** QUE CURAM 1 ) Tratamento PRECOCE com Hidroxicloroquina, 
-Ivermectina, Azitromicina, **Zinco** , Vit. D e C 2 ) Tratamento 
-individualizado pra cada fase 
+Continuacão 4 : A #Pfizer mentiu para todos. CEO da Farmacêutica admitiu, em 
+audiência no Parlamento Europeu, q o lixo não impede a #infecção e a 
+#transmissão, tornando a imposição do passaporte um mecanismo ilegal, pois 
+os √@EMOJI_copyright_e! n@dos podem ser infectados e transmitir a moléstia. 
+https://t.co/AjFMNpznk2 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-medida (secondary)
-zinco 

@@ -1,20 +1,21 @@
-file = t012256
+file = t012405
 date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1400101500207210500
+URL = https://twitter.com/evandroratho/status/1405254131770663000
 
-word count = 46
-words loading = 3
-factor score = 4
+word count = 48
+words loading = 4
+factor score = 6
 
-Quem realmente precisa de vacina são as pessoas do grupo de **risco** , pois 
-entre **jovens** saudáveis o índice de **letalidade** é próximo de zero, no 
-entanto, algumas vacinas não apresentam um bom índice de imunização 
-justamente entre as pessoas deste grupo, as quais continuarão adoecendo! 
+@RodRohenkohl Há uma guerra fantasiosa entre **tratamento** **precoce** e 
+vacina como se estas pertencessem a grupos políticos, e com isso deixam de 
+questionar a real necessidade e o **custo** x benefício de vacinar toda a 
+população, incluindo grupos em que o índice de **letalidade** beira o zero. 
 
 Lemmas in this text that loaded on the factor:
 
-jovem (secondary)
+custo 
 letalidade 
-risco 
+precoce 
+tratamento 

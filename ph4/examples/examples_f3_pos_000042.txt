@@ -1,20 +1,18 @@
-file = t012637
-date = 2021-07-00
+file = t013461
+date = 2021-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1414967198532124700
+URL = https://twitter.com/evandroratho/status/1449053073960226800
 
-word count = 32
-words loading = 4
-factor score = 4
+word count = 45
+words loading = 1
+factor score = 6
 
-@DalcioNews Sim. O estudo trata especificamente das vacinas que usam **mRNA** , 
-e o **alerta** se refere justamente a falta de estudos de médio e **longo** 
-**prazo** sobre a segurança desta tecnologia. . . 
+@revistaoeste Já que as vacinas não funcionam como barreira efetiva para a 
+transmissão do vírus, o passaporte sanitário nada mais é do que uma 
+aberração autoritária, um instrumento de coação para forçar a sociedade a 
+tomar vacinas sem **estudos** suficientemente robustos quanto a segurança. 
 
 Lemmas in this text that loaded on the factor:
 
-alerta (secondary)
-longo 
-mrna 
-prazo 
+estudo 

@@ -1,18 +1,23 @@
-file = t012342
-date = 2021-06-00
-user = julianaayres
+file = t016651
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1404201378378129400
+URL = https://twitter.com/mpatriabrasil/status/1593456742779732000
 
-word count = 23
-words loading = 2
-factor score = -3
+word count = 44
+words loading = 5
+factor score = -2
 
-@JornalOGlobo FAKE NEWS. police_car_light_eInflamação do coração em homens 
-jovens maior do que o esperado após as v@cin@s Pfizer, Moderna -US **CDC** ( 
-Reuters ) reuters. com / **world** / us / cdc-h … 
+Maria Júlia, 19 anos, era uma linda jovem. Ela teve que se submeter ao 
+**experimento** , pois a cidade era rigorosa c / as doses. Várias 
+**pesquisas** **indicam** a relação entre a #vacina e a #Hepatite de células 
+T CD8 ( infecciosa ) . **Fonte** da **pesquisa** científica: sciencedirect. 
+com / science / articl … https://t.co/9NxVDIDydy 
 
 Lemmas in this text that loaded on the factor:
 
-cdc 
-world 
+experimento (secondary)
+fonte (secondary)
+hepatite 
+indicar (secondary)
+pesquisa (secondary)

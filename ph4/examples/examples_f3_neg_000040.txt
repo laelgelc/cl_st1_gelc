@@ -1,21 +1,21 @@
-file = t010372
-date = 2020-10-00
-user = derzevic
+file = t015133
+date = 2022-04-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1319902977319121000
+URL = https://twitter.com/julianaayres/status/1510419116645138400
 
-word count = 32
-words loading = 4
-factor score = -4
+word count = 47
+words loading = 3
+factor score = -3
 
-DOIS APRENDIZES DE DITADOR **QUERENDO** APLICAR UM PROTÓTIPO EM TESTES NA 
-POPULAÇÃO. Maia chama Doria de " **amigo** e aliado " e se põe à 
-disposição para solucionar " entrevero " sobre vacina gazetabrasil. com. br / 
-**politica** / maia- … **via** @Gazeta 
+@Himaritheus @carlosmaltz A filha da minha **amiga** teve problema nos **rins** 
+( outro caso esse ) depois da 1° dose. . . ficou toda inchada e teve tbm 
+problema de **pele** . . . muita alergia. Uma outra **amiga** do Nordeste teve 
+a mesma alergia. Fui pesquisar milhares de pessoas tiveram essa mesma alergia. 
++ 
 
 Lemmas in this text that loaded on the factor:
 
-amigo 
-politicar 
-querer 
-via 
+amiga 
+pele 
+rim 

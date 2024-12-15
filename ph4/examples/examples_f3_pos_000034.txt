@@ -1,22 +1,21 @@
-file = t014694
-date = 2022-02-00
+file = t015722
+date = 2022-07-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488950118942445600
+URL = https://twitter.com/evandroratho/status/1546849521228972000
 
-word count = 43
+word count = 22
 words loading = 5
-factor score = 4
+factor score = 6
 
-Estão submetendo **jovens** saudáveis aos **riscos** de efeitos **adversos** 
-de uma vacina que não evita o contágio de um vírus que não **representa** 
-**risco** **significativo** à vida deles, e se isso já não fosse 
-suficientemente injustificável, querem aplicar estas vacinas em crianças! 
+@SigaGazetaBR **Pandemia** ou experimento **social** que incluiu vacina de 
+mRNA, **lockdown** , máscaras, e orientações estúpidas contra o 
+**tratamento** **precoce** de doenças? 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-jovem (secondary)
-representar 
-risco 
-significativo 
+lockdown 
+pandemia 
+precoce 
+social 
+tratamento 

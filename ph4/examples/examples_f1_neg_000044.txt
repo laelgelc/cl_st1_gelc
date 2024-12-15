@@ -1,19 +1,20 @@
-file = t011851
-date = 2021-04-00
-user = frankcastle2009
-conversation = 99999999
-URL = https://twitter.com/frankcastle2009/status/1381777769932198000
+file = t001067
+date = 2020-10-30
+user = congressoemfoco
+conversation = 47754867
+URL = https://twitter.com/congressoemfoco/status/1322270857499213826
 
-word count = 52
-words loading = 2
+word count = 32
+words loading = 3
 factor score = -2
 
-Parece que a ordem é enfiar a agulha da vacina de covid-19 no braço da pessoa 
-e **retirar** sem aplicar o conteúdo. Talvez porque o conteúdo não vale 
-bosta nenhuma mesmo ou talvez porque estão querendo matar as pessoas ou talvez 
-irão vender a vacina no **mercado** negro. O q vc acha? ? ? 
+" A **proposta** de @CarlaZambelli38 confronta o projeto apresentado por 
+@AecioNeves que determina restrições para quem não tomar a vacina contra a 
+#Covid19 . É um absurdo interferir na **liberdade** individual " " , disse 
+Zambelli. https://t.co/RIWx67cWY5 " 
 
 Lemmas in this text that loaded on the factor:
 
-mercado 
-retirar 
+covid19 
+liberdade (secondary)
+proposta 

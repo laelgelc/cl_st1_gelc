@@ -1,22 +1,21 @@
-file = t010291
-date = 2020-10-00
-user = derzevic
+file = t014110
+date = 2021-12-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1318252972867002400
+URL = https://twitter.com/julianaayres/status/1472644017905094700
 
-word count = 38
-words loading = 5
-factor score = -4
+word count = 50
+words loading = 3
+factor score = -3
 
-**VACHINA** EXPERIMENTAL SE DA EM **COBAIA** , MAIS O **POVO** NÃO VAI SER 
-**COBAIA** NÃO, VÁ VC E SEUS COMUNAS COM ESSA PORCARIA PRA P. . . . . . . . 
-Doria ironiza Bolsonaro e agradece o apelido de ' médico do Brasil ' 
-gazetabrasil. com. br / **politica** / doria … **via** @A 
+Hoje conheci uma senhora de 80 anos no velório da filha de uma **amiga** que 
+morreu após complicações nos **rins** e **pele** pós vacina, que renovou 
+meu espírito. Explico: Ela veio conversar comigo sobre as vacinas. . . O filho 
+dela tomou as 3 doses e teve 3 AVCs, está paralisado ( + ) 
+backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-cobaia 
-politicar 
-povo (secondary)
-vachina 
-via 
+amiga 
+pele 
+rim 

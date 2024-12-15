@@ -1,19 +1,20 @@
-file = t012405
-date = 2021-06-00
+file = t012637
+date = 2021-07-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1405254131770663000
+URL = https://twitter.com/evandroratho/status/1414967198532124700
 
-word count = 48
-words loading = 2
-factor score = 4
+word count = 32
+words loading = 4
+factor score = 6
 
-@RodRohenkohl Há uma guerra fantasiosa entre tratamento precoce e vacina como 
-se estas pertencessem a grupos políticos, e com isso deixam de questionar a 
-real necessidade e o **custo** x benefício de vacinar toda a população, 
-incluindo grupos em que o índice de **letalidade** beira o zero. 
+@DalcioNews Sim. O **estudo** trata especificamente das vacinas que **usam** 
+mRNA, e o alerta se refere justamente a falta de **estudos** de médio e 
+**longo** **prazo** sobre a segurança desta tecnologia. . . 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-letalidade 
+estudo 
+longo 
+prazo 
+usar 

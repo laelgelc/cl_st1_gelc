@@ -1,18 +1,19 @@
-file = t012452
-date = 2021-06-00
-user = iodinha1
-conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1407387448846467000
+file = t001258
+date = 2020-10-30
+user = AiltonBenedito
+conversation = 342403919
+URL = https://twitter.com/AiltonBenedito/status/1322130472231645185
 
-word count = 22
+word count = 28
 words loading = 2
 factor score = -2
 
-@marcuspcunha @carolaf88 @AlexSchwartsman E por que algumas vacinas estão 
-sendo **retiradas** do **mercado** sob a alegação de não terem nenhuma 
-eficácia? 
+Segundo os tiranetes montados em retroescavadeira televisiva, as **supostas** 
+vacinas, independentemente de comprovação de segurança e eficácia, são o 
+leito de Procusto iluminista para imunizar as pessoas contra o #Covid19 
+. 
 
 Lemmas in this text that loaded on the factor:
 
-mercado 
-retirar 
+covid19 
+suposto 

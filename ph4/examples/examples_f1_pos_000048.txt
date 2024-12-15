@@ -1,23 +1,23 @@
-file = t015915
-date = 2022-08-00
-user = oscasosraros
+file = t016811
+date = 2022-11-00
+user = julianabrioli
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1556776320444555300
+URL = https://twitter.com/julianabrioli/status/1596240266758848500
 
-word count = 45
+word count = 49
 words loading = 5
-factor score = 8
+factor score = 7
 
-Relato em anonimato: Homem, 57 **anos** , sem **problemas** de saúde, óbito 
-por Doença de Creutzfeldt-Jakob. 3 **dias** após a 3ª **dose** , pegou Covid 
-leve. 2 meses depois começou a **sentir** tontura, falta de equilíbrio. 
-Sintomas evoluíram desde falta de concentração e lapsos de memória. . . 
-https://t.co/sxyjQZAmwa 
+Meu amado pai **faleceu** há exatos 9 meses e 3 **dias** , apenas 72 **anos** 
+, zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de COVID. 
+Bolsonarista convicto até o último suspiro … Genocida foi a corrupção que 
+assolou nosso país durante 14 **anos** de PT. Papai, minha luta é por VOCÊ . 
+https://t.co/0MNpLM2a5a 
 
 Lemmas in this text that loaded on the factor:
 
 ano 
 dia 
 dose 
-problema 
-sentir 
+falecer 
+morrer 

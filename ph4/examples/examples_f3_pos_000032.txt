@@ -1,18 +1,22 @@
-file = t015676
-date = 2022-07-00
-user = oscasosraros
+file = t010805
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1544499745502158800
+URL = https://twitter.com/evandroratho/status/1338496066962993200
 
-word count = 14
-words loading = 3
-factor score = 4
+word count = 48
+words loading = 4
+factor score = 7
 
-" os benefícios da vacinação **superam** os **riscos** associados a eventos 
-**adversos** " My ass! twitter. com / Tiagoalb76 / sta … 
+@opropriofaka @VilmaThomasCos1 @CarlosBolsonaro @BolsonaroSP Genocida é quem 
+manipula informações todos os dias para atacar seu desafeto político. É 
+quem **mente** sobre segurança de vacina, eficácia do **tratamento** 
+**precoce** , e ineficácia das medidas de **isolamento** . A imprensa com seu 
+terrorismo interesseiro mata mais do que o próprio vírus. 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-risco 
-superar 
+isolamento 
+mentar 
+precoce 
+tratamento 

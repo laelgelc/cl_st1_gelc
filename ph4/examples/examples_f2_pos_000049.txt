@@ -1,23 +1,23 @@
-file = t001456
-date = 2020-12-30
-user = LuisbrasilVet
-conversation = 2577259862
-URL = https://twitter.com/LuisbrasilVet/status/1344396265942085635
+file = t001075
+date = 2020-10-30
+user = Heroi_Romanesco
+conversation = 320418868
+URL = https://twitter.com/Heroi_Romanesco/status/1322269674843693056
 
-word count = 44
-words loading = 5
+word count = 42
+words loading = 6
 factor score = 7
 
-@BrazilFight LOCKDOWN E MÁSCARAS não evita o contágio do Covid NO PRIMEIRO 
-SINTOMA NÃO ESPERE, VÁ AO HOSPITAL **TRATAMENTO** **PRECOCE** JÁ ! 
-HIDROXICLOROQUINA e IVERMECTINA **SALVAM** **VIDAS** ! **IMUNIDADE** DE REBANHO 
-JÁ ! VACINAS SÓ COM COMPROVAÇÃO CIENTÍFICA E APÓS LIBERAÇÃO DA ANVISA. 
-VACINA NÃO OBRIGATÓRIA. 
+@JornalOGlobo João Dória virou dealer do **Governo** Chinês e **quer** 
+**vender** a Coronavac para o Brasil inteiro mesmo sem comprovação de sua 
+eficácia e possíveis **efeitos** **colaterais** . Onde é que o JD está 
+**vendo** a tal ciência que ele tanto defende? ? ? 
 
 Lemmas in this text that loaded on the factor:
 
-imunidade 
-precoce 
-salvar 
-tratamento 
-vida 
+colateral 
+efeito 
+governo 
+querer 
+vender 
+ver 

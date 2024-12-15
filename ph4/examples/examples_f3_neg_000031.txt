@@ -1,21 +1,19 @@
-file = t001348
-date = 2020-11-29
-user = CezarRicardoSi1
-conversation = 858704025138679809
-URL = https://twitter.com/CezarRicardoSi1/status/1333172872488038401
+file = t002402
+date = 2021-05-30
+user = CileninhaSousa
+conversation = 1027747725687832579
+URL = https://twitter.com/CileninhaSousa/status/1398828442913804290
 
-word count = 49
-words loading = 3
-factor score = -4
+word count = 45
+words loading = 2
+factor score = -3
 
-@CarlaZambelli38 @brunocovas Bom está semana começa a guerra psicológica 
-novamente fechando tudo. Um pergunta que não sai da minha cabeça qual a 
-**verdade** sobre a sinovac, pq **querem** desenvolver a **vachina** aqui? 
-Talvez exista uma armadilha escondida e a culpa recairá no Butantã , sem 
-falar que já ganharam $ . 
+@AllanGarcs1 Minha sogra tomou a 1° dose da AstraZeneca, 1 tornozelo inchou. 
+Teve covid mesmo após a 1° dose, ficou bem, mas os dois tornelos e pés o 
+incharam. Recomendei que fizessem **exames** . Fibrinogênio e D-dmero deram 
+elevados. A **segunda** dose foi suspensa, fazendo uso de anticoagulante 
 
 Lemmas in this text that loaded on the factor:
 
-querer 
-vachina 
-verdade 
+exame 
+segundo 

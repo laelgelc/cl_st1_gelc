@@ -1,21 +1,22 @@
-file = t013340
-date = 2021-10-00
+file = t015404
+date = 2022-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1443952866381738000
+URL = https://twitter.com/evandroratho/status/1530229789440761900
 
-word count = 42
-words loading = 4
+word count = 36
+words loading = 5
 factor score = 7
 
-**Existem** remédios baratos e sem patente, **existe** a **imunidade** 
-natural, e **existem** remédios caros e vacinas que movimentam bilhões dos 
-cofres públicos. Tem que ter uma **boa** dose de ingenuidade para não 
-desconfiar dos **interesses** financeiros por trás desse debate, não? 
+Aterrorizam o **mundo** com notícias sensacionalistas e depois **vendem** 
+**testes** , remédios, e vacinas, faturando bilhões. E os ingênuos acham 
+tudo lindo sem se **dar** conta que bilhões foram **pagos** com os impostos 
+cobrados deles. https://t.co/ZapKVMGigd 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-existir 
-imunidade 
-interesse 
+dar 
+mundo 
+pagar 
+teste 
+vender 

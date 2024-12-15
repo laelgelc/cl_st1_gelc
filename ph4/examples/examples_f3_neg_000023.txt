@@ -1,20 +1,25 @@
-file = t000568
-date = 2020-07-30
-user = RadassaRebeca
-conversation = 1137417295163199488
-URL = https://twitter.com/RadassaRebeca/status/1288467725157900289
+file = t016555
+date = 2022-11-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1591120017684582400
 
-word count = 29
-words loading = 4
+word count = 48
+words loading = 7
 factor score = -4
 
-@FabiolaFaria Quando os folhos dela pwgar covid ela **fique** **esperando** a 
-cincia achar um remédio. Ah! seja mulher de **verdade** de **cloroquina** . 
-não esoere a vacina em 2021 . 
+@AlanLopesRio Nunca saberemos se quem morreu foi por causa da covid ou por 
+causa da vacina. Muita gente não se vacinou e nem **resfriado** **pegou** . 
+Outros tantos, só após se vacinar, **pegaram** covid, tiveram **miocardite** 
+, AVC, **ataque** cardíaco, **trombone** , **gripe** e até morreram etc. 
+**Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-esperar 
-ficar 
-verdade 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

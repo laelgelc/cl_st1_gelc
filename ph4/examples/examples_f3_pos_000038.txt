@@ -1,20 +1,22 @@
-file = t014062
-date = 2021-12-00
+file = t014671
+date = 2022-01-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1471485794661679000
+URL = https://twitter.com/evandroratho/status/1488239841842245600
 
-word count = 39
-words loading = 3
-factor score = 4
+word count = 45
+words loading = 4
+factor score = 6
 
-As estatísticas **asseguram** que a covid não **representa** **risco** à 
-saúde das crianças, mas segundo os especialistas em teorias sem sentido, para 
-proteger os mais velhos elas precisam tomar a mesma vacina que não protegeu os 
-mais velhos. . . 
+@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
+como os **estudos** sobre o **tratamento** **precoce** , os questionamentos de 
+médicos e cientistas sobre eficácia e segurança das vacinas, os resultados 
+obtidos por lugares que retiraram as medidas de distanciamento **social** , e 
+por aí vai. . . 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-representar 
-risco 
+estudo 
+precoce 
+social 
+tratamento 

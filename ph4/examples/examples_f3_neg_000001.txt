@@ -1,24 +1,20 @@
-file = t010478
-date = 2020-11-00
-user = derzevic
+file = t012996
+date = 2021-08-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1324156707900215300
+URL = https://twitter.com/julianaayres/status/1431850646093901800
 
-word count = 25
-words loading = 7
-factor score = -8
+word count = 40
+words loading = 3
+factor score = -5
 
-Ditadória, **quer** **comprar** este **lixo** , **compre** , mas com seu 
-**dinheiro** , owwwww insetoooooo Aras se posiciona contra ações para 
-**compra** de vacina chinesa gazetabrasil. com. br / **politica** / aras- … 
-**via** @Gazeta 
+@TonyStarkMeta Uma **amiga** ficou com a **pele** dos pés a cabeça parecendo 
+uma larva de vulcão. Achei q fosse morrer. Mais de 1 mês internada e os 
+médicos queriam q ela tomasse a **segunda** dose 
+woman_shrugging_medium_skin_tone_e Esses médicos são assassinos. 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-comprar 
-dinheiro 
-lixo 
-politicar 
-querer 
-via 
+amiga 
+pele 
+segundo 

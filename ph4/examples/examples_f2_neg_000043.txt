@@ -1,21 +1,19 @@
-file = t014110
-date = 2021-12-00
+file = t012195
+date = 2021-05-00
 user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1472644017905094700
+URL = https://twitter.com/julianaayres/status/1397571731578138600
 
-word count = 50
-words loading = 3
-factor score = -3
+word count = 22
+words loading = 1
+factor score = -1
 
-Hoje conheci uma senhora de 80 anos no velório da filha de uma **amiga** que 
-morreu após complicações nos **rins** e **pele** pós vacina, que renovou 
-meu espírito. Explico: Ela veio conversar comigo sobre as vacinas. . . O filho 
-dela tomou as 3 doses e teve 3 AVCs, está paralisado ( + ) 
-backhand_index_pointing_down_e 
+Homem de 40 anos em Ontário, que recebeu a primeira dose da Astrazeneca no 
+final de Abril, morre semanas depois. 
+backhand_index_pointing_down_eEMOJI_backhand_index_pointing_down_eEMOJI_backhand
+_index_pointing_down_e theguardian. com / commentisfree / … theguardian. com 
+/ **world** / 2021 / may … https://t.co/Jpg9FegUfg 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-rim 
+world 

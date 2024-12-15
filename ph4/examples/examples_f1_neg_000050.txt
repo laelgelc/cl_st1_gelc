@@ -1,20 +1,20 @@
-file = t013123
-date = 2021-09-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1438506630207791000
+file = t002410
+date = 2021-05-30
+user = JulioBottarelli
+conversation = 940596771776073728
+URL = https://twitter.com/JulioBottarelli/status/1399013421765496833
 
-word count = 42
+word count = 46
 words loading = 2
 factor score = -2
 
-@ferrari_arlene Arlene, junte outras pessoas e processa o ministro e o 
-presidente @jairbolsonaro pq eles não avisaram a população dos efeitos 
-colaterais dessas novas vacinas. Eles precisam ser responsabilizados. O pres 
-**assinou** um **decreto** q da poder para se vacinar obrigatoriamente. . . 
-Absurdo! 
+" @BrunoEnglerDM É este tipo de gente que faz **piada** com Darwin, Lei da 
+evolução, de virar jacaré , que chamava outros de gado, negacionista 
+terraplanista, anti-ciencia e contra tratamento precoce. . . E não faz 
+tratamento, não faz profilaxia e **confia** em uma " " vacina " " experimental 
+Express Quem é gado? " 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-decreto 
+confiar 
+piada 

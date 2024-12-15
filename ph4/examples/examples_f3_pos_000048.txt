@@ -1,20 +1,20 @@
-file = t010860
-date = 2020-12-00
+file = t012326
+date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339282628411875300
+URL = https://twitter.com/evandroratho/status/1403367889701326800
 
-word count = 45
-words loading = 2
-factor score = 4
+word count = 37
+words loading = 4
+factor score = 6
 
-@paulomathias As pessoas estão sendo induzidas a acreditar numa vacina 
-milagrosa na mesma proporção em que foram induzidas a duvidar do tratamento 
-precoce, e sequer estão levando em consideração os índices de 
-**letalidade** da doença para calcular o **custo** x benefício destas vacinas 
-expressas! 
+Torram bilhões com vacinas e na maior cara de pau dizem que elas não 
+**impedem** as pessoas de adoecer e **transmitir** o vírus, e por isso tem que 
+seguir em **lockdown** e **usando** máscara para sempre. 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-letalidade 
+impedir 
+lockdown 
+transmitir 
+usar 

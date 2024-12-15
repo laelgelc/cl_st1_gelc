@@ -1,18 +1,21 @@
-file = t010456
-date = 2020-10-00
-user = derzevic
+file = t015437
+date = 2022-05-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1322377403717587000
+URL = https://twitter.com/oscasosraros/status/1531627347669041200
 
-word count = 16
-words loading = 3
-factor score = -4
+word count = 43
+words loading = 4
+factor score = -3
 
-Bolsonaro rebate Mourão sobre **compra** da vacina chinesa: ' A caneta Bic é 
-minha ' gazetabrasil. com. br / **especiais** / jair … **via** @Gazeta 
+Apenas 5 dias depois de sua 1ª dose, Felipe, de apenas 15 anos, **sofre** um 
+**infarto** e vai a óbito. Pela manhã se queixa de **dor** de cabeça, e é 
+medicado. À tarde, estava com **amigos** , andando de bicicleta, e desmaiou. 
+https://t.co/TGIC8WmLxw 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-especial 
-via 
+amigo 
+dor 
+infarto (secondary)
+sofrer (secondary)

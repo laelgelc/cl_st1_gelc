@@ -1,21 +1,22 @@
-file = t010946
-date = 2020-12-00
+file = t012360
+date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339979137289744400
+URL = https://twitter.com/evandroratho/status/1404510761993617400
 
-word count = 48
-words loading = 3
-factor score = 5
+word count = 40
+words loading = 4
+factor score = 7
 
-@LoLKN_ @AlexandreGonzl6 @CarlaZambelli38 Se a vacina tivesse comprovação de 
-segurança sua tese estaria correta. Mas dada a falta de estudos sobre efeitos 
-colaterais de curto, médio, e **longo** **prazo** , vacinar todos 
-compulsoriamente significa colocar em **risco** a saúde da grande maioria 
-saudável. Não acho que vale o **risco** . 
+A urgência justifica o uso de vacinas experimentais sem **estudos** 
+científicos que **assegurem** eficácia e, principalmente, segurança quanto 
+aos efeitos colaterais. Mas quando o assunto é o **tratamento** **precoce** 
+com remédios sabidamente seguros, a urgência deixa de ser urgente! 
+clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-longo 
-prazo 
-risco 
+assegurar 
+estudo 
+precoce 
+tratamento 

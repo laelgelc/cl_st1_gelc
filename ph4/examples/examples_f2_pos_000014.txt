@@ -1,24 +1,25 @@
-file = t014671
-date = 2022-01-00
-user = evandroratho
+file = t016622
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488239841842245600
+URL = https://twitter.com/iodinha1/status/1592689833381884000
 
-word count = 45
-words loading = 6
-factor score = 8
+word count = 48
+words loading = 7
+factor score = 7
 
-@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo **mundo** 
-assim como os **estudos** sobre o **tratamento** **precoce** , os 
-questionamentos de médicos e cientistas sobre eficácia e segurança das 
-vacinas, os resultados obtidos por lugares que retiraram as **medidas** de 
-distanciamento **social** , e por aí vai. . . 
+@AntonioCEvan Nunca **saberemos** se quem morreu foi por **causa** da **covid** 
+ou por **causa** da vacina. Muita **gente** não se vacinou e nem resfriado 
+**pegou** . Outros tantos, só após se vacinar, **pegaram** **covid** , 
+tiveram miocardite, AVC, ataque cardíaco, trombone, gripe e até morreram etc. 
+**Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-medida 
-mundo 
-precoce 
-social 
-tratamento 
+causa 
+covid 
+dizer 
+gente 
+pegar 
+saber 
+verdade 

@@ -1,32 +1,30 @@
-file = t016398
-date = 2022-10-00
+file = t016196
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1582830715003338800
+URL = https://twitter.com/mpatriabrasil/status/1574192105706164200
 
 word count = 39
-words loading = 13
-factor score = 14
+words loading = 11
+factor score = 12
 
-George era maestro e se achava invencível após a 3a **dose** . Teve um 
-**mal** súbito e veio à óbito nesta **semana** de outubro. **Pesquisas** 
-**indicam** que o **experimento** pode provocar AVCs, Tromboses e **problemas** 
-cardíacos. **Fontes** : m. **facebook** . com / story. php? stor … 
-**Pesquisa** : **pesquisa** . **bvsalud** . **org** / global-literat … - 
-https://t.co/LxHb4D3s55 
+**Mortes** nas últimas 48Hs - **Pessoas** **jovens** **sofrendo** **infartos** 
+. Ninguém questiona, a despeito da Anvisa ter **alertado** sobre o **risco** 
+de problemas Cardíacos e **Pesquisas** **indicarem** o **risco** d 
+**infartos** e AVCs, depois d meses após as **doses** . gov. br / anvisa / 
+pt-br / a … ncbi. nlm. nih. gov / pmc / **articles** / P … 
+https://t.co/W2ANw2mmjO 
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud (secondary)
+alertar 
+articles (secondary)
 dose 
-experimento 
-facebook 
-fonte 
-global 
 indicar 
-literat (secondary)
-mal 
-org 
+infarto 
+jovem 
+morte 
 pesquisa 
-problema 
-semana 
+pessoa 
+risco (secondary)
+sofrer 

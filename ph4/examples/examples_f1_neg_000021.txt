@@ -1,22 +1,18 @@
-file = t014671
-date = 2022-01-00
-user = evandroratho
+file = t016336
+date = 2022-10-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488239841842245600
+URL = https://twitter.com/mpatriabrasil/status/1580501445023236000
 
-word count = 45
-words loading = 4
+word count = 47
+words loading = 0
 factor score = -3
 
-@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
-como os estudos sobre o tratamento precoce, os **questionamentos** de médicos 
-e cientistas sobre eficácia e segurança das vacinas, os resultados obtidos 
-por lugares que **retiraram** as **medidas** de **distanciamento** social, e 
-por aí vai. . . 
+Continuação 3 : A #Pfizer mentiu para todos. CEO da Farmacêutica admitiu, em 
+audiência no Parlamento Europeu, q o lixo não impede a #infecção e a 
+#transmissão, tornando a imposição do passaporte um mecanismo ilegal, pois 
+os √@EMOJI_copyright_e! n@dos podem ser infectados e transmitir a moléstia. 
+https://t.co/DAiSRFaUt3 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-medida (secondary)
-questionamento 
-retirar 

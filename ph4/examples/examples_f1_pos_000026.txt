@@ -1,26 +1,27 @@
-file = t016257
-date = 2022-10-00
+file = t015989
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
+URL = https://twitter.com/mpatriabrasil/status/1560763041737744400
 
-word count = 47
-words loading = 8
+word count = 48
+words loading = 9
 factor score = 9
 
-Paulo tinha apenas 16 **anos** e foi encontrado **morto** em sua cama. Segundo 
-apuramos, tomou a **dose** de reforço há pouco mais de 4 meses. **Estudos** 
-**indicam** que os **Infartos** e AVCs provocados pelo **experimento** ocorrem 
-entre 5 a 8 meses após as **doses** . **Fonte** : stevekirsch. substack. com / 
-p / this-one-gra … https://t.co/qHr8mKkPYE 
+Maria Elena tomou a 4a. **Dose** no **dia** 01 / 08 / 22 , num hospital do 
+Chile e no **dia** seguinte postou no Face que não estava bem por conta da 
+Moderna. **Faleceu** d mal súbito ( aneurisma ) no **dia** 04 / 08 / 22 . 
+**Existem** **estudos** da OMS que **indicam** o **risco** d aneurisma 
+pós-experimento Segue **fontes** . https://t.co/Ow6LTAgbke 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
+dia 
 dose 
 estudo (secondary)
+existir 
 experimento 
+falecer 
 fonte 
 indicar 
-infarto 
-morrer 
+risco (secondary)

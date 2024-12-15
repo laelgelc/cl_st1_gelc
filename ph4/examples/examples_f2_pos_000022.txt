@@ -1,22 +1,25 @@
-file = t011234
-date = 2021-01-00
-user = evandroratho
+file = t016545
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1349773990286520300
+URL = https://twitter.com/iodinha1/status/1590872491311829000
 
-word count = 51
-words loading = 5
-factor score = 8
+word count = 48
+words loading = 7
+factor score = 7
 
-Os mesmos políticos que **mentem** e manipulam dados do Butantã tentando 
-justificar o gasto público de bilhões de reais com a vacina da China, dizem 
-que o **tratamento** **precoce** não funciona. E tem gente que não consegue 
-**ver** o conflito de **interesses** , e segue cego à espera de um milagre! 
+@mpatriabrasil Nunca **saberemos** se quem morreu foi por **causa** da 
+**covid** ou por **causa** da vacina. Muita **gente** não se vacinou e nem 
+resfriado **pegou** . Outros tantos, só após se vacinar, **pegaram** 
+**covid** , tiveram miocardite, AVC, ataque cardíaco, trombone, gripe e até 
+morreram etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-interesse 
-mentar 
-precoce 
-tratamento 
-ver 
+causa 
+covid 
+dizer 
+gente 
+pegar 
+saber 
+verdade 

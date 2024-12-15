@@ -1,23 +1,24 @@
-file = t014677
-date = 2022-02-00
-user = evandroratho
+file = t016482
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488543610056417300
+URL = https://twitter.com/iodinha1/status/1586494060893995000
 
-word count = 41
-words loading = 6
+word count = 45
+words loading = 7
 factor score = 7
 
-Se a **imprensa** tenta ocultar o inocultável protesto que está acontecendo 
-no Canadá , o que te faz pensar que eles não ocultariam outras **coisas** , 
-como a eficácia do **tratamento** **precoce** , **efeitos** adversos das 
-vacinas, e a inutilidade do distanciamento **social** ? 
+@folha Nunca **saberemos** se quem morreu foi ou não por **causa** da vacina. 
+Muita **gente** não se vacinou e nem resfriado **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, ataque 
+cardíaco, trombone, gripe e até morreram etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-coisa 
-efeito 
-imprensa 
-precoce 
-social 
-tratamento 
+causa 
+covid 
+dizer 
+gente 
+pegar 
+saber 
+verdade 

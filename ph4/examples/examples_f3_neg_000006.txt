@@ -1,22 +1,20 @@
-file = t010299
-date = 2020-10-00
-user = derzevic
+file = t015453
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1318695202538819600
+URL = https://twitter.com/oscasosraros/status/1532493444568043500
 
-word count = 35
-words loading = 5
-factor score = -6
+word count = 43
+words loading = 2
+factor score = -4
 
-ENLOUQUECEU? VAI LIVRAR DÓRIA DA IMPROBIDADE COM ESSE **LIXO** CH! NÊS? 
-Pazuello anuncia **compra** de 46 milhões de doses da vacina chinesa e diz que 
-imunização começa no 1º semestre de 2021 gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @A 
+A pequena Cleuza é uma grande guerreira, enfrentando vários diagnósticos de 
+eventos adversos, depois que recebeu 2 doses da syringe_e. As reações 
+começaram com **dores** de cabeça e pelo corpo, câimbras e formigamentos nas 
+**pernas** , acompanhada de inchaço e vermelhidão, visão embaçada. 
+https://t.co/pbCTZolgNB 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-coro 
-especial 
-lixo 
-via 
+dor 
+perna 
