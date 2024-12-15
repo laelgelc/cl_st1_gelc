@@ -4,7 +4,7 @@
 /* account: CEPRIL */
 
 /* Replace all occurrences of this project ID by yours and create a folder named after it */
-%let project = cl_st1_ph1_andre ;
+%let project = cl_st1_ph2_gelc ;
 
 %let myfolder = &project ;
 
