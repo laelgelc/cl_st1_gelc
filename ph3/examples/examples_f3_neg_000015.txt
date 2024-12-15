@@ -1,0 +1,21 @@
+file = t001206
+date = 2020-10-23
+user = g_garc2
+conversation = 1258147227920412675
+URL = https://twitter.com/g_garc2/status/1319757786411110401
+
+word count = 48
+words loading = 4
+factor score = -5
+
+Esse caso da vacina chinesa, está igual ao caso do lockdown e depois todos os 
+**governadores** ficaram gritando por **dinheiro** do **governo** **federal** . 
+Pode ter certeza q, tem corrupção por trás desse desespero todo. NUNCA, o BR 
+ficou tão desesperado por algo que ñ existe como agora. eyes_e 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro 
+federal 
+governador 
+governo 

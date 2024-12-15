@@ -1,0 +1,22 @@
+file = t010576
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1332091218826813400
+
+word count = 34
+words loading = 5
+factor score = -6
+
+SÓ VEIO OS CAVACOS E O PEQUENO DITADOR QUER **ENFIAR** ISSO NO BRAÇO DO 
+**POVO** NA MARRA. . . SUJEITINHO PETULANTE Anvisa afirma que ainda não 
+recebeu todos os dados da vacina chinesa gazetabrasil. com. br / **especiais** 
+/ **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+enfiar 
+especial 
+povo (secondary)
+via 

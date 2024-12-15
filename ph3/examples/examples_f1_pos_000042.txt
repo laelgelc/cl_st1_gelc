@@ -1,0 +1,25 @@
+file = t016528
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1590165872378728400
+
+word count = 43
+words loading = 7
+factor score = 8
+
+Ágata Carvalho era uma **jovem** saudável e linda q estudava Medicina em 
+Catalão. Teve q tomar todas as dosed, pois **exigiram** o **comprovante** p / 
+aulas. O **pai** , que é médico, solicitou o **exame** anti-heparina, q 
+apontou como **causa** do óbito a #vacina. Face do **pai** : m. **facebook** . 
+com / story. php? stor … https://t.co/Qc6diu9cU0 
+
+Lemmas in this text that loaded on the factor:
+
+causa 
+comprovante 
+exame 
+exigir 
+facebook 
+jovem 
+pai 

@@ -1,0 +1,25 @@
+file = t016109
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1568544997384806400
+
+word count = 49
+words loading = 7
+factor score = 8
+
+flag_portugal_e Portugal - Nos últimos 12 meses **morreram** 360 **jovens** 
+dos 12 **anos** aos 25 por **problemas** cardiorrespiratórios, AVCs, e 
+copyright_e0v! D. Entre o início da pandemia até Dez de 2021 , houve 4 
+**mortes** de **jovens** por copyright_e0v! D. Os benefícios não superaram os 
+**riscos** e querem impor mais **doses** . Absurdo! https://t.co/UmruirWg71 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dose 
+jovem 
+morrer 
+morte 
+problema 
+risco (secondary)

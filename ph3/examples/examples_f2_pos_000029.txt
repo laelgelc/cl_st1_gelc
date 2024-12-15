@@ -1,0 +1,21 @@
+file = t014675
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488516857028042800
+
+word count = 42
+words loading = 4
+factor score = 7
+
+**Impedem** o uso de remédios seguros sob a alegação de não haverem 
+**estudos** suficientes quanto a eficácia, ao mesmo tempo em que **aprovam** 
+vacinas em caráter **emergencial** sem **estudos** completos quanto a 
+eficácia e segurança, e você não acha isso estranho? 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar 
+emergencial 
+estudo 
+impedir 

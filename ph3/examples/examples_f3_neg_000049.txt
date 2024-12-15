@@ -1,0 +1,21 @@
+file = t010567
+date = 2020-11-00
+user = frankcastle2009
+conversation = 99999999
+URL = https://twitter.com/frankcastle2009/status/1331735671346589700
+
+word count = 43
+words loading = 4
+factor score = -4
+
+O Dep. Alessandro Molon **quer** aprovar um PL que transfere para os 
+**governadores** escolher a vacina pra covid-19 que **quiserem** , administrar 
+a aplicação e **comprar** com recursos **federais** . Já roubaram com o 
+combate a PANDEMIA e agora **querem** roubar com as vacinas também. 
+
+Lemmas in this text that loaded on the factor:
+
+comprar 
+federal 
+governador 
+querer 

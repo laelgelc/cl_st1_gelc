@@ -1,0 +1,20 @@
+file = t012613
+date = 2021-07-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1413475468406263800
+
+word count = 48
+words loading = 3
+factor score = 4
+
+A vacina **representa** **risco** de morte para 0 , 019 % das grávidas, e 
+considerando pessoas abaixo de 30 anos o **risco** de morte pela covid é mais 
+ou menos 0 , 009 % , portanto, qual foi o cálculo de **custo** x benefício 
+que o PNI fez para justificar vacinar toda a população de grávidas? 
+
+Lemmas in this text that loaded on the factor:
+
+custo 
+representar 
+risco 

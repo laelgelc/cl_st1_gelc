@@ -1,0 +1,23 @@
+file = t012097
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1392562432174870500
+
+word count = 47
+words loading = 5
+factor score = 7
+
+Mesmo diante de um vírus **novo** , sobre o qual pouco se conhece, a 
+**pandemia** já nasceu formatada com a certeza de que **tratamento** 
+**precoce** não funciona, e que máscaras e **lockdown** são as únicas 
+ferramentas disponíveis a espera das vacinas. O simples debate sobre isso 
+tornou -se crime! 
+
+Lemmas in this text that loaded on the factor:
+
+lockdown 
+novo 
+pandemia 
+precoce 
+tratamento 

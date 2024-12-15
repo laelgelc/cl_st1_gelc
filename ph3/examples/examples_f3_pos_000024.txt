@@ -1,0 +1,21 @@
+file = t013111
+date = 2021-09-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1438110264214360000
+
+word count = 32
+words loading = 4
+factor score = 5
+
+@SigaGazetaBR Traduzindo: DF começa a aplicar vacinas experimentais em 
+**jovens** saudáveis que praticamente não **correm** **risco** de adoecer e 
+morrer de COVID, ignorando a simples matemática da relação **custo** x 
+benefício. 
+
+Lemmas in this text that loaded on the factor:
+
+correr 
+custo 
+jovem (secondary)
+risco 

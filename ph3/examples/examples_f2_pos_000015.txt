@@ -1,0 +1,24 @@
+file = t014667
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488154854472269800
+
+word count = 45
+words loading = 7
+factor score = 8
+
+Parte da **imprensa** tenta esconder os protestos que estão ocorrendo na 
+Europa e no Canadá , os **estudos** que atestam a eficácia da Ivermectina, os 
+**efeitos** adversos **graves** das vacinas, e os **bons** resultados obtidos 
+nos locais que **deram** fim às **medidas** sanitárias. Acorda Brasil! 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+dar 
+efeito 
+estudo 
+grave (secondary)
+imprensa 
+medida 

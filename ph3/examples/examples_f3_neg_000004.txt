@@ -1,0 +1,24 @@
+file = t011059
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1344368322964578300
+
+word count = 35
+words loading = 7
+factor score = -7
+
+SERIA ESTE SUBSTITUTO O DORIANA? PRA **PEGAR** BILHÕES DO **DINHEIRO** 
+PÚBLICO E **ENFIAR** NO TÓBA DOS XINGS LINGS? **Rede** vai ao STF para pedir 
+um substituto para Bolsonaro na **compra** de vacinas gazetabrasil. com. br / 
+**politica** / rede- … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+compra 
+dinheiro 
+enfiar 
+pegar 
+politicar 
+rede 
+via 

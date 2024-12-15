@@ -1,0 +1,18 @@
+file = t015676
+date = 2022-07-00
+user = oscasosraros
+conversation = 99999999
+URL = https://twitter.com/oscasosraros/status/1544499745502158800
+
+word count = 14
+words loading = 3
+factor score = 4
+
+" os benefícios da vacinação **superam** os **riscos** associados a eventos 
+**adversos** " My ass! twitter. com / Tiagoalb76 / sta … 
+
+Lemmas in this text that loaded on the factor:
+
+adverso 
+risco 
+superar 

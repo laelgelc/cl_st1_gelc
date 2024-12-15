@@ -1,0 +1,18 @@
+file = t012452
+date = 2021-06-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1407387448846467000
+
+word count = 22
+words loading = 2
+factor score = -2
+
+@marcuspcunha @carolaf88 @AlexSchwartsman E por que algumas vacinas estão 
+sendo **retiradas** do **mercado** sob a alegação de não terem nenhuma 
+eficácia? 
+
+Lemmas in this text that loaded on the factor:
+
+mercado 
+retirar 

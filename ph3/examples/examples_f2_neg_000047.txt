@@ -1,0 +1,20 @@
+file = t015136
+date = 2022-04-00
+user = giulianamesopo
+conversation = 99999999
+URL = https://twitter.com/giulianamesopo/status/1510561380637851600
+
+word count = 41
+words loading = 2
+factor score = -3
+
+Nicholls: " O primeiro evento adverso que a Pfizer admitiu estar **associado** 
+à vacina, é a síndrome de deleção 1P36 . Um distúrbio genético 
+congênito que afeta os fetos e apaga parte de seus cromossomos fazendo com que 
+eles nasçam com deficiência intelectual. " **instagram** . com / tv / 
+Cb2oEypqeaz … 
+
+Lemmas in this text that loaded on the factor:
+
+associar 
+instagram 

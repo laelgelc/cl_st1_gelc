@@ -1,0 +1,23 @@
+file = t011204
+date = 2021-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1349324161148186600
+
+word count = 45
+words loading = 6
+factor score = 7
+
+Se a vacina possui mal e porcamente 50 % de eficácia, mesmo vacinando toda a 
+população não sairemos da **pandemia** . Continuo achando que o protocolo de 
+**tratamento** **precoce** é a **melhor** solução para permitir a volta da 
+**vida** normal, com **liberdade** de ir e vir! 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+liberdade 
+pandemia 
+precoce 
+tratamento 
+vida 

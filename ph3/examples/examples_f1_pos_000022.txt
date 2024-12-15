@@ -1,0 +1,26 @@
+file = t015904
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1556411713347633200
+
+word count = 48
+words loading = 8
+factor score = 10
+
+Vamos nos vacinar ainda é uma das fotos do perfil d Miltinho Guerra, um 
+**jovem** q trabalhava em empresas de ônibus. Ele tomou a 1a. **dose** em 07 / 
+21 e o reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 
+06 / 08 / 22 . A OMS reconheceu os **riscos** d **problemas** cardíacos 
+pós-experimento https://t.co/MNiFcVTpnM 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+experimento 
+fulminante 
+infarto 
+jovem 
+problema 
+risco (secondary)
+semana 

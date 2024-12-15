@@ -1,0 +1,23 @@
+file = t001456
+date = 2020-12-30
+user = LuisbrasilVet
+conversation = 2577259862
+URL = https://twitter.com/LuisbrasilVet/status/1344396265942085635
+
+word count = 44
+words loading = 5
+factor score = 7
+
+@BrazilFight LOCKDOWN E MÁSCARAS não evita o contágio do Covid NO PRIMEIRO 
+SINTOMA NÃO ESPERE, VÁ AO HOSPITAL **TRATAMENTO** **PRECOCE** JÁ ! 
+HIDROXICLOROQUINA e IVERMECTINA **SALVAM** **VIDAS** ! **IMUNIDADE** DE REBANHO 
+JÁ ! VACINAS SÓ COM COMPROVAÇÃO CIENTÍFICA E APÓS LIBERAÇÃO DA ANVISA. 
+VACINA NÃO OBRIGATÓRIA. 
+
+Lemmas in this text that loaded on the factor:
+
+imunidade 
+precoce 
+salvar 
+tratamento 
+vida 

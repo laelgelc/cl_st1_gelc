@@ -1,0 +1,22 @@
+file = t014671
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488239841842245600
+
+word count = 45
+words loading = 4
+factor score = -3
+
+@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
+como os estudos sobre o tratamento precoce, os **questionamentos** de médicos 
+e cientistas sobre eficácia e segurança das vacinas, os resultados obtidos 
+por lugares que **retiraram** as **medidas** de **distanciamento** social, e 
+por aí vai. . . 
+
+Lemmas in this text that loaded on the factor:
+
+distanciamento 
+medida (secondary)
+questionamento 
+retirar 

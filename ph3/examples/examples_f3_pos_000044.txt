@@ -1,0 +1,20 @@
+file = t012414
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1405511830785638400
+
+word count = 53
+words loading = 2
+factor score = 4
+
+@AiltonBenedito Se a vacina tem apenas a função de melhorar a resposta do 
+organismo à infecção, então ela só faz sentido para as pessoas do grupo de 
+**risco** , portanto, não faz sentido vacinar pessoas dos grupos em que o 
+índice de **letalidade** é próximo de zero, quanto mais tornar isso 
+obrigatório. https://t.co/LjTmxNI4e4 
+
+Lemmas in this text that loaded on the factor:
+
+letalidade 
+risco 

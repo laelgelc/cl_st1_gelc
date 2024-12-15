@@ -1,0 +1,21 @@
+file = t010522
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1326670476501012500
+
+word count = 35
+words loading = 4
+factor score = -4
+
+ISTO PRESIDENTE, SE O DITADORIA QUER MANDAR BILHÕES PARA OS COMUNAS CH! NESES, 
+QUE MANDE DO BOLSO DELE. . . . VACH! NA NÃOOOO Governo Bolsonaro avança em 
+conversas para **comprar** vacina da Pfizer contra Covid-19 gazetabrasil. com. 
+br / **especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+comprar 
+coro 
+especial 
+via 

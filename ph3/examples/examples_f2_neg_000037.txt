@@ -1,0 +1,20 @@
+file = t012657
+date = 2021-07-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1415687878366072800
+
+word count = 46
+words loading = 2
+factor score = -3
+
+@GFiuza_Oficial @YouTubeBrasil police_car_light_eUm milhão de pessoas tiveram 
+doenças por causa das vacinas Covid ( isso o que o gov conta, imagina o q eles 
+escondem ) : backhand_index_pointing_down_e As lesões incluem cegueira, 
+coágulos de **sangue** , **paralisia** , esclerose múltipla e natimortos e 
+estão sendo censurados pela mídia e pelas big techs. https://t.co/XbHNaGHV7n 
+
+Lemmas in this text that loaded on the factor:
+
+paralisia 
+sangue 

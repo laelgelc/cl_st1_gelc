@@ -1,0 +1,21 @@
+file = t010259
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1317171946652651500
+
+word count = 31
+words loading = 4
+factor score = -5
+
+**QUERENDO** FAZER NÓS PAULISTAS E PAULISTANOS **RATOS** DE LABORATÓRIA DOS 
+CHING LING. . . NÃO VAI MESMO Doria voltar a dizer que vacina chinesa contra 
+covid será obrigatória em SP gazetabrasil. com. br / **politica** / doria … 
+**via** @A 
+
+Lemmas in this text that loaded on the factor:
+
+politicar 
+querer 
+rato 
+via 

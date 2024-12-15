@@ -1,0 +1,22 @@
+file = t016784
+date = 2022-11-00
+user = casa75464342
+conversation = 99999999
+URL = https://twitter.com/casa75464342/status/1596131414600470500
+
+word count = 39
+words loading = 5
+factor score = 6
+
+@TerraBrasilnot A questão não são as vacinas. É a vacina de Covid que é 
+**experimental** . Esta nao pode ser obrigatória. Nos EUA já concluíram 
+**estudos** sobre **efeitos** **colaterais** DESTA VACINA. As outras constantes 
+do calendário **vacinal** ninguém questiona 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito 
+estudo 
+experimental 
+vacinal 

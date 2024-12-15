@@ -1,0 +1,22 @@
+file = t002552
+date = 2021-05-30
+user = LuisbrasilVet
+conversation = 2577259862
+URL = https://twitter.com/LuisbrasilVet/status/1398778088918552577
+
+word count = 45
+words loading = 4
+factor score = -4
+
+@g1 LOCKDOWN NÃO EVITA O CONTÁGIO DO COVID! **GOVERNADORES** E **PREFEITOS** 
+CADÊ OS HOSPITAIS DE CAMPANHA? **GOVERNO** **FEDERAL** JÁ DISTRIBUIU 96 
+MILHÕES DE DOSES DA VACINA CONTRA O COVID! **GOVERNADORES** E **PREFEITOS** 
+PORQUE ESTÃO ESTOCANDO 36 MILHÕES DE DOSES DE VACINAS? TRATAMENTO IMEDIATO 
+JÁ ! ! 
+
+Lemmas in this text that loaded on the factor:
+
+federal 
+governador 
+governo 
+prefeito 

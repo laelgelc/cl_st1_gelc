@@ -1,0 +1,25 @@
+file = t014581
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1485601227358539800
+
+word count = 43
+words loading = 7
+factor score = 7
+
+Contra o **tratamento** **precoce** chegaram a forjar um **estudo** com 
+superdosagem, matando pacientes, para **impedir** o uso de remédios, mas 
+diante dos inegáveis **casos** de **efeitos** adversos relacionados às 
+vacinas, silêncio absoluto! E tem gente acreditando que é mera preocupação 
+com **vidas** ! 
+
+Lemmas in this text that loaded on the factor:
+
+caso (secondary)
+efeito 
+estudo 
+impedir 
+precoce 
+tratamento 
+vida 

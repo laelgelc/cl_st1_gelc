@@ -1,0 +1,18 @@
+file = t011230
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1349518139587965000
+
+word count = 31
+words loading = 1
+factor score = -2
+
+ALÉM DO INAD TEM QUE ENTRAR COM UMA CPI CONTRA ESSA CORONAVAC E DÓRIA INAD 
+abre representação contra Doria, Covas e Gorinchteyn por manipulação nos 
+dados de eficácia da CoronaVac **jornaldacidadeonline** . com. br / noticias / 
+26163 … 
+
+Lemmas in this text that loaded on the factor:
+
+jornaldacidadeonline 

@@ -1,0 +1,23 @@
+file = t014582
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1485602256825241600
+
+word count = 42
+words loading = 6
+factor score = 7
+
+Se os remédios do **tratamento** **precoce** causassem 1 % dos **efeitos** 
+adversos que as vacinas estão causando, médicos seriam presos, farmácias 
+seriam **fechadas** , a **imprensa** estaria em polvorosa fazendo terrorismo 
+midiático como de costume, e uma **nova** CPI já estaria em curso! 
+
+Lemmas in this text that loaded on the factor:
+
+efeito 
+fechar 
+imprensa 
+novo 
+precoce 
+tratamento 

@@ -1,0 +1,25 @@
+file = t012661
+date = 2021-07-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1415714796826243000
+
+word count = 48
+words loading = 7
+factor score = 7
+
+Parte da **imprensa** ignora centenas de **estudos** comprovando a eficácia do 
+**tratamento** **precoce** , finge não saber dos e-mails do dr. Fauci, esquece 
+que o Texas **existe** , ignora o alerta de cientistas sobre o risco das 
+vacinas, e por aí vai. Pode **chamar** do que **quiser** , mas jornalismo não 
+é ! 
+
+Lemmas in this text that loaded on the factor:
+
+chamar 
+estudo 
+existir 
+imprensa 
+precoce 
+querer (secondary)
+tratamento 

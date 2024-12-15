@@ -1,0 +1,20 @@
+file = t010706
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1336690742828392400
+
+word count = 50
+words loading = 3
+factor score = 4
+
+@revistaoeste Quais as chances de ocorrerem mais efeitos colaterais similares ( 
+ou até piores ) a médio e **longo** **prazo** ? E como confiar que a China 
+seria transparente e divulgaria esse tipo de ocorrência como o Reino Unido 
+fez? Sigo achando que a vacina traz mais **risco** que o próprio vírus! 
+
+Lemmas in this text that loaded on the factor:
+
+longo 
+prazo 
+risco 

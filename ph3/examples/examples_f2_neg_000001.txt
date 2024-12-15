@@ -1,0 +1,24 @@
+file = t015352
+date = 2022-05-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1528620703087566800
+
+word count = 51
+words loading = 6
+factor score = -5
+
+Aline tomou a 2ª dose, e 1 mês depois começou a sentir **dores** nos pés e 
+**pernas** , até que um dia não tinha forças nas **pernas** nem para ficar 
+em pé ! Foram muitos **exames** até o diagnóstico: **Mielite** 
+**Transversa** **autoimune** , 1 inflamação na medula espinhal. Depoimento da 
+mãe: oscasosraros https://t.co/e2M4uE4qXu 
+
+Lemmas in this text that loaded on the factor:
+
+autoimune (secondary)
+dor 
+exame (secondary)
+mielite 
+perna 
+transverso 

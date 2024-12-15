@@ -1,0 +1,18 @@
+file = t010526
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1326932772540330000
+
+word count = 23
+words loading = 2
+factor score = -2
+
+SERÁ QUE ELE CH! NÊS E AGENTE NÃO SABE? ? Chineses têm ' comando **pleno** 
+' em contratos da vacina **assinado** por Doria gazetabrasil. com. br / 
+destaques / chin … via @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+assinar 
+pleno 

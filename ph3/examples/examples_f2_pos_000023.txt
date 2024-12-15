@@ -1,0 +1,24 @@
+file = t010744
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1337099085808078800
+
+word count = 48
+words loading = 6
+factor score = 8
+
+@SigaGazetaBR É a lógica elementar. . . mas vai dizer isso pro **povo** que 
+se dispõe a **usar** esse tipo de máscara. São os mesmos que acreditam no 
+**isolamento** **social** , na vacina expressa, na bondade íntegra e 
+indubitável dos políticos salvadores de **vidas** humanas, e na **imprensa** 
+. Só rindo! 
+
+Lemmas in this text that loaded on the factor:
+
+imprensa 
+isolamento (secondary)
+povo 
+social 
+usar 
+vida 

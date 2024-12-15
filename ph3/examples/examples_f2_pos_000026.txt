@@ -1,0 +1,22 @@
+file = t014992
+date = 2022-03-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1499350453221531600
+
+word count = 44
+words loading = 5
+factor score = 7
+
+Para **aprovar** a aplicação das vacinas na população se basearam em 
+**estudos** que **garantiam** a eficácia e a segurança, e agora que os 
+vacinados são **maioria** absoluta nos hospitais eles admitem que os 
+**estudos** estavam errados. E mesmo assim continuam **aplicando** as vacinas? 
+
+Lemmas in this text that loaded on the factor:
+
+aplicar 
+aprovar 
+estudo 
+garantir 
+maioria 

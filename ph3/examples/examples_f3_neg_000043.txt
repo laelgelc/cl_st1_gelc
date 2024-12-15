@@ -1,0 +1,21 @@
+file = t010481
+date = 2020-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1324407166174929000
+
+word count = 32
+words loading = 4
+factor score = -4
+
+@revistaoeste Campanha pela vacina da China. Campanha **Fique** em Casa. 
+Campanha pela máscara. Campanha por **prefeitos** . Campanha contra o 
+**governo** Federal. Eleito **governador** de estado, mas virou apenas um 
+garoto propaganda! 
+
+Lemmas in this text that loaded on the factor:
+
+ficar 
+governador 
+governo 
+prefeito 

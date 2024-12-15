@@ -1,0 +1,20 @@
+file = t014062
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471485794661679000
+
+word count = 39
+words loading = 3
+factor score = 4
+
+As estatísticas **asseguram** que a covid não **representa** **risco** à 
+saúde das crianças, mas segundo os especialistas em teorias sem sentido, para 
+proteger os mais velhos elas precisam tomar a mesma vacina que não protegeu os 
+mais velhos. . . 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+representar 
+risco 

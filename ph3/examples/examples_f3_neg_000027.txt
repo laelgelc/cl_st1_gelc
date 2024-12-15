@@ -1,0 +1,22 @@
+file = t001159
+date = 2020-10-30
+user = Oraculo051
+conversation = 414910234
+URL = https://twitter.com/Oraculo051/status/1322186312275943424
+
+word count = 51
+words loading = 4
+factor score = -4
+
+@SigaGazetaBR Vice Melancia **quer** financiar a guerra da China contra EUA? O 
+q está por trás da insistência do vice p / aprovar o 5G e a **Vachina** ? Se 
+a China entrar em guerra os brasileiros **pagarão** a conta c / 5G, 
+**comprando** **vachina** e enviando toneladas de grãos e carne p / o 
+PCChines. @jairbolsonaro 
+
+Lemmas in this text that loaded on the factor:
+
+comprar 
+pagar 
+querer 
+vachina 

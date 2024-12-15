@@ -1,0 +1,24 @@
+file = t012825
+date = 2021-08-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1422573174126940200
+
+word count = 45
+words loading = 6
+factor score = 8
+
+A mesma **imprensa** que fingiu não **ver** as manifestações do último 
+domingo segue fingindo não **ver** os riscos das vacinas **experimentais** , a 
+eficácia do **tratamento** **precoce** , a inutilidade das **medidas** 
+sanitárias, etc. E ela ainda tem leitores fingindo não **ver** que estão 
+sendo manipulados! 
+
+Lemmas in this text that loaded on the factor:
+
+experimental 
+imprensa 
+medida 
+precoce 
+tratamento 
+ver 

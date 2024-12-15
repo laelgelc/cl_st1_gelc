@@ -1,0 +1,19 @@
+file = t013107
+date = 2021-09-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1438023893537677300
+
+word count = 24
+words loading = 3
+factor score = -2
+
+@BoniCoverRei @jairbolsonaro @jairbolsonaro o senhor nos traiu. Precisa REVOGAR 
+esse **decreto** **assinado** pelo senhor. ESTAMOS PERDENDO NOSSA **LIBERDADE** 
+. NÃO QUEREMOS VACINA EXPERIMENTAL OBRIGATÓRIA! 
+
+Lemmas in this text that loaded on the factor:
+
+assinar 
+decreto 
+liberdade (secondary)
