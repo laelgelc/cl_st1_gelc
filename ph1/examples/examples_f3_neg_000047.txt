@@ -1,0 +1,19 @@
+file = t010527
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1326999404444856300
+
+word count = 33
+words loading = 3
+factor score = -4
+
+O QUE O STF ENTENDE DE SAÚDE? POLÍTICA PURA, CORTE POLITIZADA Anvisa diz ao 
+STF que atuou de forma " imparcial " ao suspender testes da vacina chinesa 
+gazetabrasil. com. br / **especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+via 

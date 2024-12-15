@@ -1,0 +1,27 @@
+file = t015875
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1555704080194015200
+
+word count = 51
+words loading = 9
+factor score = 9
+
+Patyziul era uma **mulher** muito admirada em Osasco e trabalhava como 
+influenciadora digital. Ela se **submeteu** à 1a. **Dose** em julho / 21 . 
+Segundo depoimentos de **amigos** , tomou o reforço há poucas **semanas** e 
+teve um **infarto** **fulminante** no **dia** 04 / 08 / 22 , exatamente um 
+**ano** após a 2a. **Dose** . https://t.co/x9XwJfhPTL 
+
+Lemmas in this text that loaded on the factor:
+
+amigo (secondary)
+ano 
+dia 
+dose 
+fulminante 
+infarto 
+mulher 
+semana 
+submeter 

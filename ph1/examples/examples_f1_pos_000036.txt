@@ -1,0 +1,28 @@
+file = t016732
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595431947760799700
+
+word count = 60
+words loading = 9
+factor score = 8
+
+Mais 4 **jovens** **sofreram** **infartos** . Mais uma vez lembramos q o 
+**risco** de **Miocardite** é de 100 para cada 100mil **doses** , d acordo com 
+a **pesquisa** científica da @CMAJ. Ou seja, se você tomou 4 **doses** , o 
+**risco** é 4 x maior! Vale a pena saber que pessoas **morreram** para você 
+se **sentir** seguro? twitter. com / CMAJ / status / 15 … 
+https://t.co/OVWLDyoyfD 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+infarto 
+jovem 
+miocardite 
+morrer 
+pesquisa 
+risco (secondary)
+sentir 
+sofrer 

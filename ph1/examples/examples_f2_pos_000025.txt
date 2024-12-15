@@ -1,0 +1,23 @@
+file = t015141
+date = 2022-04-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1511282160552095700
+
+word count = 53
+words loading = 6
+factor score = 7
+
+Os especialistas da **imprensa** que disseram que **lockdown** e máscaras 
+**impediriam** o avanço da **pandemia** , que as vacinas eram eficazes e 
+seguras, que o dólar subiria até R$ 7 , 00 , e que o **mundo** teria paz sem 
+Trump, são os mesmos que dizem que o Brasil será **melhor** se o Lula voltar. 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+impedir 
+imprensa 
+lockdown 
+mundo 
+pandemia 

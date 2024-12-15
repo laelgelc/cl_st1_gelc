@@ -1,0 +1,18 @@
+file = t014515
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1483869704146104300
+
+word count = 45
+words loading = 1
+factor score = 4
+
+Considerando que a vacina não está prevenindo a infecção e a transmissão 
+do vírus entre adultos, e o **risco** de morte entre crianças saudáveis é 
+desprezível, essa determinação do STF é mais do que absurda, é criminosa! 
+Quem vai reestabelecer a ordem nesse país? 
+
+Lemmas in this text that loaded on the factor:
+
+risco 

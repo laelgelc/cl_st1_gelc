@@ -1,0 +1,18 @@
+file = t012342
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1404201378378129400
+
+word count = 27
+words loading = 2
+factor score = -3
+
+@JornalOGlobo FAKE NEWS. police_car_light_eInflamação do coração em homens 
+jovens maior do que o esperado após as v@cin@s Pfizer, Moderna -US **CDC** ( 
+Reuters ) reuters. com / **world** / us / cdc-h … 
+
+Lemmas in this text that loaded on the factor:
+
+cdc 
+world 

@@ -1,0 +1,21 @@
+file = t010372
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1319902977319121000
+
+word count = 36
+words loading = 4
+factor score = -4
+
+DOIS APRENDIZES DE DITADOR **QUERENDO** APLICAR UM PROTÓTIPO EM TESTES NA 
+POPULAÇÃO. Maia chama Doria de " **amigo** e aliado " e se põe à 
+disposição para solucionar " entrevero " sobre vacina gazetabrasil. com. br / 
+**politica** / maia- … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+amigo 
+politicar 
+querer 
+via 

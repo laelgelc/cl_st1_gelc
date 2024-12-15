@@ -1,0 +1,22 @@
+file = t011234
+date = 2021-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1349773990286520300
+
+word count = 51
+words loading = 5
+factor score = 8
+
+Os mesmos políticos que **mentem** e manipulam dados do Butantã tentando 
+justificar o gasto público de bilhões de reais com a vacina da China, dizem 
+que o **tratamento** **precoce** não funciona. E tem gente que não consegue 
+**ver** o conflito de **interesses** , e segue cego à espera de um milagre! 
+
+Lemmas in this text that loaded on the factor:
+
+interesse 
+mentar 
+precoce 
+tratamento 
+ver 

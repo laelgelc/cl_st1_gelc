@@ -1,0 +1,20 @@
+file = t015614
+date = 2022-06-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1541067738747211800
+
+word count = 41
+words loading = 4
+factor score = 5
+
+Não seria melhor aguardar os efeitos de **longo** **prazo** de quem foi 
+obrigado a tomar para que possamos **superar** os custo-benefício de tomar a 
+atual vacina 0 2 a c e g l m o r s y twitter. com / AnaFontesBR / st … 
+
+Lemmas in this text that loaded on the factor:
+
+custo 
+longo 
+prazo 
+superar 

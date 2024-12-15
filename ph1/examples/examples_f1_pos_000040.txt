@@ -1,0 +1,26 @@
+file = t016651
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1593456742779732000
+
+word count = 48
+words loading = 8
+factor score = 8
+
+Maria Júlia, 19 **anos** , era uma linda **jovem** . Ela teve que se 
+**submeter** ao **experimento** , pois a cidade era rigorosa c / as **doses** . 
+Várias **pesquisas** **indicam** a relação entre a #vacina e a #Hepatite de 
+células T CD8 ( infecciosa ) . **Fonte** da **pesquisa** científica: 
+sciencedirect. com / science / articl … https://t.co/9NxVDIDydy 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dose 
+experimento 
+fonte 
+indicar 
+jovem 
+pesquisa 
+submeter 

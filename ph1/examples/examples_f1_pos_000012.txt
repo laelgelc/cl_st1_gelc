@@ -1,0 +1,27 @@
+file = t016104
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1568305377980162000
+
+word count = 54
+words loading = 9
+factor score = 11
+
+Edu do Povo tomou sua 1a. **Dose** no **dia** 30 / 06 e 3 **dias** depois 
+postou que teve reação depois do **experimento** . Mesmo assim, ele continuou 
+tomando os reforços e **faleceu** de um **mal** súbito em 08 / 09 / 22 . A 
+Anvisa já **alertou** sobre o **risco** de **Miocardite** e AVCs 
+pós-experimento. Segue **fontes** . . . https://t.co/aQEipi5a14 
+
+Lemmas in this text that loaded on the factor:
+
+alertar 
+dia 
+dose 
+experimento 
+falecer 
+fonte 
+mal 
+miocardite 
+risco (secondary)

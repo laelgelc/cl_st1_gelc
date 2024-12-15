@@ -1,0 +1,18 @@
+file = t012437
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1407078633940869000
+
+word count = 24
+words loading = 2
+factor score = -3
+
+@JanainaDoBrasil police_car_light_e Inflamação do coração em homens jovens 
+foi maior do que o esperado após as vacinas Pfizer, Moderna -US **CDC** 
+reuters. com / **world** / us / cdc-h … 
+
+Lemmas in this text that loaded on the factor:
+
+cdc 
+world 

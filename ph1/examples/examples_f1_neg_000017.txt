@@ -1,0 +1,18 @@
+file = t010947
+date = 2020-12-00
+user = sabolsonaro
+conversation = 99999999
+URL = https://twitter.com/sabolsonaro/status/1339989270023581700
+
+word count = 18
+words loading = 3
+factor score = -3
+
+Se os esquerdolas **confiam** na vacina, por que se incomodam tanto em 
+**assinar** um **termo** de responsabilidade? 
+
+Lemmas in this text that loaded on the factor:
+
+assinar 
+confiar 
+termo 

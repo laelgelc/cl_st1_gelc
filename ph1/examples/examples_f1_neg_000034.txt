@@ -1,0 +1,18 @@
+file = t010727
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1336822462693200000
+
+word count = 23
+words loading = 2
+factor score = -2
+
+CORREEEE DORIANA. . . CORREEEEE O **mercado** bilionário das vacinas: A 
+estranha pressa de Dória e Dino ( veja o vídeo ) **jornaldacidadeonline** . 
+com. br / noticias / 25286 … 
+
+Lemmas in this text that loaded on the factor:
+
+jornaldacidadeonline 
+mercado 

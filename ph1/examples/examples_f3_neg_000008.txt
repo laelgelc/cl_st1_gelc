@@ -1,0 +1,22 @@
+file = t010457
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1322379356258230300
+
+word count = 33
+words loading = 5
+factor score = -6
+
+MILHOÕES E MILHÕES DE **DINHEIRO** PÚBLICO NUMA PORCARIA QUE NINGUÉM VAI 
+**QUERER** Governo Doria freta 6 aviões para transportar matéria-prima da 
+vacina chinesa da China para Brasil gazetabrasil. com. br / **especiais** / 
+**coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+dinheiro 
+especial 
+querer 
+via 

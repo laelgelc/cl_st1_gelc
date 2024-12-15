@@ -1,0 +1,22 @@
+file = t013641
+date = 2021-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1456700774449389600
+
+word count = 41
+words loading = 5
+factor score = 7
+
+Um laboratório vai fabricar e **vender** remédio para o **tratamento** 
+**precoce** da doença que a vacina que ele **vendeu** prometia erradicar. Não 
+é de se duvidar que o próximo passo seja **vender** remédios para tratar os 
+**efeitos** **colaterais** das vacinas. 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito 
+precoce 
+tratamento 
+vender 

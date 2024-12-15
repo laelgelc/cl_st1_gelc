@@ -1,0 +1,23 @@
+file = t014677
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488543610056417300
+
+word count = 41
+words loading = 6
+factor score = 7
+
+Se a **imprensa** tenta ocultar o inocultável protesto que está acontecendo 
+no Canadá , o que te faz pensar que eles não ocultariam outras **coisas** , 
+como a eficácia do **tratamento** **precoce** , **efeitos** adversos das 
+vacinas, e a inutilidade do distanciamento **social** ? 
+
+Lemmas in this text that loaded on the factor:
+
+coisa 
+efeito 
+imprensa 
+precoce 
+social 
+tratamento 

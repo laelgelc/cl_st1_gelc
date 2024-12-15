@@ -1,0 +1,21 @@
+file = t000330
+date = 2020-06-29
+user = unknown
+conversation = 1277355798033829891
+URL = unknown
+
+word count = 33
+words loading = 4
+factor score = -4
+
+@blogdojefferson A **verdade** é que não acreditamos mais nos 
+**governadores** e nos **prefeitos** que infelismente controlam os hospitais 
+municipais então a saída é se automedicar, eu já tomei minha dose de 
+**ivermectina** . 
+
+Lemmas in this text that loaded on the factor:
+
+governador 
+ivermectina 
+prefeito 
+verdade 

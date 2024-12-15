@@ -1,0 +1,19 @@
+file = t015901
+date = 2022-08-00
+user = giulianamesopo
+conversation = 99999999
+URL = https://twitter.com/giulianamesopo/status/1556337950497144800
+
+word count = 40
+words loading = 2
+factor score = 4
+
+EFICÁCIA NEGATIVA Dr. Harvey Risch: [ De acordo com dados de saúde pública 
+do Reino Unido ] , as **taxas** de infecção sintomática em cada **faixa** 
+etária foram aproximadamente três vezes maiores nas pessoas vacinadas do que 
+nas pessoas não vacinadas. https://t.co/TuAHU8oRF5 
+
+Lemmas in this text that loaded on the factor:
+
+faixa 
+taxa 

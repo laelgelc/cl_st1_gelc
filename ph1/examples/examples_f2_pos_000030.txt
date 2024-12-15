@@ -1,0 +1,22 @@
+file = t014668
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488157882579312600
+
+word count = 46
+words loading = 5
+factor score = 7
+
+- O Texas já provou que as **medidas** sanitárias são inúteis; - O Japão 
+já provou que a Ivermectina é eficaz; - O **mundo** está **vendo** que as 
+vacinas não **impedem** a circulação do vírus; - O Canadá está provando 
+que é preciso lutar pela retomada da **vida** normal; 
+
+Lemmas in this text that loaded on the factor:
+
+impedir 
+medida 
+mundo 
+ver 
+vida 

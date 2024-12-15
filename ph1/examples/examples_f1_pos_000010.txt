@@ -1,0 +1,29 @@
+file = t016204
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1574736901172592600
+
+word count = 43
+words loading = 10
+factor score = 11
+
+Mais num **jovem** **morre** jogando **futebol** . . . Meu Deus! Segundo 
+apuramos, ele havia se **submetido** ao **experimento** há 4 meses. 
+**Pesquisas** americanas **indicam** que as **mortes** pelo **experimento** 
+geralmente ocorrem após 5 meses depois das **doses** . stevekirsch. substack. 
+com / p / this-one-gra … **facebook** . com / 10006368102481 … 
+https://t.co/dGrWfJzi0v 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+experimento 
+facebook 
+futebol 
+indicar 
+jovem 
+morrer 
+morte 
+pesquisa 
+submeter 

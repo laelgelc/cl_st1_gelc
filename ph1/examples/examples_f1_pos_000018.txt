@@ -1,0 +1,27 @@
+file = t016014
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1562227515636306000
+
+word count = 45
+words loading = 9
+factor score = 10
+
+Cícero Silva era empresário e Presidente da Câmara de Juazerinho / PB. Havia 
+se **submetido** a todas as **doses** e ao reforço recentemente. Teve um 
+**infarto** **fulminante** em 22 / 08 / 2022 . A OMS já divulgou **alertas** 
+sobre o **risco** do **experimento** **causar** **problemas** cardíacos. 
+https://t.co/k5m9JJqDeS 
+
+Lemmas in this text that loaded on the factor:
+
+alerta 
+causar 
+dose 
+experimento 
+fulminante 
+infarto 
+problema 
+risco (secondary)
+submeter 

@@ -1,0 +1,19 @@
+file = t000669
+date = 2020-08-30
+user = gatadedireita
+conversation = 932644379466108930
+URL = https://twitter.com/gatadedireita/status/1299845781286014978
+
+word count = 28
+words loading = 3
+factor score = -4
+
+@NayaraCassiano5 @nezuko_chaann @DesejoDeMatar @andrefran Aaaaaa e meu médico 
+mto bem conceituado na área me passou **ivermectina** como profilaxia. Minha 
+saúde está ótima! **Fica** aí **esperando** sua vacina chinesa! thumbs_up_e 
+
+Lemmas in this text that loaded on the factor:
+
+esperar 
+ficar 
+ivermectina 

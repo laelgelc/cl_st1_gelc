@@ -1,0 +1,27 @@
+file = t015756
+date = 2022-07-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1548713226321514500
+
+word count = 51
+words loading = 9
+factor score = 10
+
+Caio era um **jovem** de 16 **anos** de Nova Venécia. 1a. **Dose** em 2021 e 
+reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 16 / 07 
+. A OMS confirma a relação entre o **experimento** e **Infartos** em 
+decorrência da reações previstas na Bula ( **Miocardite** ) . **Fonte** : 
+uol. com. br / vivabem / notici … https://t.co/kaQC0VsLG6 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dose 
+experimento 
+fonte 
+fulminante 
+infarto 
+jovem 
+miocardite 
+semana 

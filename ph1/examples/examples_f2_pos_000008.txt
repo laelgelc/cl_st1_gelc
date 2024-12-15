@@ -1,0 +1,27 @@
+file = t011456
+date = 2021-02-00
+user = francoandremr
+conversation = 99999999
+URL = https://twitter.com/francoandremr/status/1357334378326548500
+
+word count = 48
+words loading = 9
+factor score = 9
+
+@jdoriajr Vida normal com uma vacina que não **garante** **imunidade** e uma 
+**campanha** que recomenda todo **mundo** a continuar **usando** máscaras e 
+fazendo **isolamento** **social** depois de duas doses? Explica aí que normal 
+é esse, ou se esta será sua **nova** concepção de normal imposta ao 
+**povo** ? 
+
+Lemmas in this text that loaded on the factor:
+
+campanha 
+garantir 
+imunidade 
+isolamento (secondary)
+mundo 
+novo 
+povo 
+social 
+usar 

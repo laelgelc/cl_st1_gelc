@@ -1,0 +1,21 @@
+file = t011345
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1352302082943025200
+
+word count = 28
+words loading = 5
+factor score = -5
+
+E NÃO TINHA **VACHINA** , RECUPERARAM COM QUAL MEDICAMENTO? **FICA** A 
+PERGUNTA Brasil tem 7 . 518 . 846 milhões de pessoas recuperadas da Covid-19 
+gazetabrasil. com. br / **especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+ficar 
+vachina 
+via 

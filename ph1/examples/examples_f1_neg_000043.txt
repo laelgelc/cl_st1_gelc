@@ -1,0 +1,19 @@
+file = t011501
+date = 2021-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1359582127818424300
+
+word count = 43
+words loading = 2
+factor score = -2
+
+Mesmo sabendo que há fortes ligações financeiras entre laboratórios de 
+desenvolvimento de vacinas e empresas de comunicação, você não desconfia 
+nem um pouquinho que eles tentam te **manipular** através do pânico para 
+justificar o gasto público de bilhões no **combate** ao vírus? 
+
+Lemmas in this text that loaded on the factor:
+
+combate 
+manipular 

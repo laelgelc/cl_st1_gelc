@@ -1,0 +1,22 @@
+file = t014723
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1489667644454318000
+
+word count = 49
+words loading = 4
+factor score = 8
+
+Já há dados o suficiente para comprovar que máscara, **lockdown** , e 
+vacinas, não são eficazes para **impedir** o avanço do vírus. Não há 
+lógica na manutenção das estratégias que vem se mostrando ineficazes há 
+quase dois anos, a não ser pelo **interesse** político e financeiro! Já 
+**deu** , né ? 
+
+Lemmas in this text that loaded on the factor:
+
+dar 
+impedir 
+interesse 
+lockdown 

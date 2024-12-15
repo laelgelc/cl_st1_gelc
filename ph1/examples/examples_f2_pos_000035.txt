@@ -1,0 +1,21 @@
+file = t013340
+date = 2021-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1443952866381738000
+
+word count = 42
+words loading = 4
+factor score = 7
+
+**Existem** remédios baratos e sem patente, **existe** a **imunidade** 
+natural, e **existem** remédios caros e vacinas que movimentam bilhões dos 
+cofres públicos. Tem que ter uma **boa** dose de ingenuidade para não 
+desconfiar dos **interesses** financeiros por trás desse debate, não? 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+existir 
+imunidade 
+interesse 

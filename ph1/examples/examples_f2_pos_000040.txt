@@ -1,0 +1,21 @@
+file = t012090
+date = 2021-05-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1392469322115780600
+
+word count = 44
+words loading = 4
+factor score = 7
+
+Acreditam em vacinas desenvolvidas as pressas e sem **estudos** suficientes 
+para **garantir** tanto eficácia quanto segurança, mas criminalizam a 
+tentativa de médicos de **usar** remédios já disponíveis na luta para 
+**salvar** seus pacientes, e ainda por cima se dizem a favor da ciência! 
+
+Lemmas in this text that loaded on the factor:
+
+estudo 
+garantir 
+salvar 
+usar 

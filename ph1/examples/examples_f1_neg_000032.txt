@@ -1,0 +1,18 @@
+file = t010235
+date = 2020-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1312110972799074300
+
+word count = 31
+words loading = 2
+factor score = -2
+
+Isso é um tapa na cara dos defensores do **isolamento** social eterno, ou até 
+que tenha vacina. . . Mas nem assim eles conseguem botar o **senso** crítico 
+pra funcionar! twitter. com / Conservadora19 … 
+
+Lemmas in this text that loaded on the factor:
+
+isolamento 
+senso 

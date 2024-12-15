@@ -1,0 +1,22 @@
+file = t010260
+date = 2020-10-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1317176084702560300
+
+word count = 36
+words loading = 5
+factor score = -6
+
+MUITO MAIS QUE ISSO, PODE COLOCAR 80 % , NÃO **QUEREM** SER **RATOS** DE LAB. 
+DE SHING LING Quase metade dos brasileiros não tomariam uma vacina chinesa 
+contra a Covid-19 , aponta pesquisa gazetabrasil. com. br / **especiais** / 
+**coro** … **via** @A 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+querer 
+rato 
+via 

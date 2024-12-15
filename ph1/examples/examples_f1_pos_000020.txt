@@ -1,0 +1,27 @@
+file = t015960
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1558970504920309800
+
+word count = 48
+words loading = 9
+factor score = 10
+
+China Malaquias era professor de Educação Física muito querido por todos. 
+Tomou a 1a. **Dose** em 06 / 21 , afirmando que seria a 1a. das QUATRO. Tomou a 
+4a. em 2022 . **Faleceu** de um **infarto** **fulminante** . A Anvisa já 
+**alertou** sobre o **risco** de **problemas** cardíacos pós-experimento. 
+**Fontes** : https://t.co/q626hDm6df 
+
+Lemmas in this text that loaded on the factor:
+
+alertar 
+dose 
+experimento 
+falecer 
+fonte 
+fulminante 
+infarto 
+problema 
+risco (secondary)

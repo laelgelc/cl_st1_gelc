@@ -1,0 +1,20 @@
+file = t013073
+date = 2021-09-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1435987455551975400
+
+word count = 41
+words loading = 3
+factor score = -3
+
+UNIMED PROIBE SERVIÇO A PESSOAS NÃO-VACINADAS Presidente @jairbolsonaro, isso 
+é um ABSURDO. ARRUME ESSA BAGUNÇA. O SENHOR **ASSINOU** ESSE **DECRETO** . 
+REVOGUE ISSO. No seu governo estamos perdendo a **liberdade** . CHEGA. Olha a 
+sua herança maldita e do Mandeta pro país, @SF_Moro. https://t.co/hc3MGP15SQ 
+
+Lemmas in this text that loaded on the factor:
+
+assinar 
+decreto 
+liberdade (secondary)

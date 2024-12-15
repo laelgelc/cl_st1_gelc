@@ -1,0 +1,23 @@
+file = t015915
+date = 2022-08-00
+user = oscasosraros
+conversation = 99999999
+URL = https://twitter.com/oscasosraros/status/1556776320444555300
+
+word count = 45
+words loading = 5
+factor score = 8
+
+Relato em anonimato: Homem, 57 **anos** , sem **problemas** de saúde, óbito 
+por Doença de Creutzfeldt-Jakob. 3 **dias** após a 3ª **dose** , pegou Covid 
+leve. 2 meses depois começou a **sentir** tontura, falta de equilíbrio. 
+Sintomas evoluíram desde falta de concentração e lapsos de memória. . . 
+https://t.co/sxyjQZAmwa 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dia 
+dose 
+problema 
+sentir 

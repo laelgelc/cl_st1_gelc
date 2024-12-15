@@ -1,0 +1,19 @@
+file = t000742
+date = 2020-09-29
+user = DineMbf
+conversation = 1218039305983209472
+URL = https://twitter.com/DineMbf/status/1311006689563377664
+
+word count = 21
+words loading = 3
+factor score = -3
+
+RT @FabioIng: @PolitzOficial CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: 
+**ENQUETE** DO PL 4506 / 2020 - BIA KICIS **Proposta** **retira** vacinação 
+co 
+
+Lemmas in this text that loaded on the factor:
+
+enquete 
+proposta 
+retirar 

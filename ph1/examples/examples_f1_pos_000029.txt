@@ -1,0 +1,27 @@
+file = t016003
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1561709625099145200
+
+word count = 47
+words loading = 9
+factor score = 9
+
+Amanda Santana Bueno era uma **jovem** mãe muito carinhosa. Ela acreditava no 
+**experimento** e sempre postava suas **doses** . **Faleceu** de **Infarto** 
+**fulminante** no **dia** 21 / 08 / 22 , exatamente 1 **ano** após a 2a. 
+ASTRA** , o mesmo **experimento** proibido na Espanha, Alemanha e França. 
+Segue **fontes** . . . https://t.co/5zz7uBDNcb 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dia 
+dose 
+experimento 
+falecer 
+fonte 
+fulminante 
+infarto 
+jovem 

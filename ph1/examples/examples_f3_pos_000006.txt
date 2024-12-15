@@ -1,0 +1,22 @@
+file = t014736
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1490661546707538000
+
+word count = 43
+words loading = 5
+factor score = 6
+
+As estatísticas **asseguram** que **jovens** saudáveis não **correm** 
+**risco** **significativo** de morte pelo vírus, portanto, manter escolas 
+fechadas por tanto tempo e forçar a vacinação das crianças me faz não ter 
+dúvida que a preocupação não é com a vida de ninguém! 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+correr 
+jovem (secondary)
+risco 
+significativo 

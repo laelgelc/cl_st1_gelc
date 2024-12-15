@@ -1,0 +1,20 @@
+file = t000568
+date = 2020-07-30
+user = RadassaRebeca
+conversation = 1137417295163199488
+URL = https://twitter.com/RadassaRebeca/status/1288467725157900289
+
+word count = 29
+words loading = 4
+factor score = -4
+
+@FabiolaFaria Quando os folhos dela pwgar covid ela **fique** **esperando** a 
+cincia achar um remédio. Ah! seja mulher de **verdade** de **cloroquina** . 
+não esoere a vacina em 2021 . 
+
+Lemmas in this text that loaded on the factor:
+
+cloroquina 
+esperar 
+ficar 
+verdade 

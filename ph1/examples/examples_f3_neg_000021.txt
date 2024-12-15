@@ -1,0 +1,22 @@
+file = t011539
+date = 2021-02-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1364021545195176000
+
+word count = 38
+words loading = 5
+factor score = -5
+
+UEH. MAS NÃO ERA SEGURA? PAPO FURADO, TODOS COMO **RATOS** DE LABORATÓRIO 
+Pfizer não fechará negócios com o Brasil se o **governo** não assumir a 
+responsabilidade por efeitos colaterais da vacina gazetabrasil. com. br / 
+**especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+governo 
+rato 
+via 

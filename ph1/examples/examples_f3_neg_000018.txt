@@ -1,0 +1,22 @@
+file = t011313
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1351665857747964000
+
+word count = 33
+words loading = 5
+factor score = -5
+
+BOA SORTE A VOCÊS QUE **QUEREM** , POIS VÃO PRECISAR, ESTÃO SERVINDO DE 
+**RATOS** DE LABORATÓRIO Todos os Estados brasileiros já iniciaram 
+vacinação contra Covid-19 com a CoronaVac gazetabrasil. com. br / 
+**especiais** / **coro** … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+coro 
+especial 
+querer 
+rato 
+via 

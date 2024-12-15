@@ -1,0 +1,24 @@
+file = t010478
+date = 2020-11-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1324156707900215300
+
+word count = 29
+words loading = 7
+factor score = -8
+
+Ditadória, **quer** **comprar** este **lixo** , **compre** , mas com seu 
+**dinheiro** , owwwww insetoooooo Aras se posiciona contra ações para 
+**compra** de vacina chinesa gazetabrasil. com. br / **politica** / aras- … 
+**via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+compra 
+comprar 
+dinheiro 
+lixo 
+politicar 
+querer 
+via 
