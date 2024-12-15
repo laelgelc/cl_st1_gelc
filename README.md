@@ -34,3 +34,137 @@ Findings:
 The findings indicate that the differences in the tagging process are not trivial.
 
 There should not have been reason for the difference in tagging results since TreeTagger has been configured with the same parameter file for Portuguese - `portuguese2.par`.
+
+### Phase 3
+
+The original `group3` data in `sas` folder was processed with the `cl_st1_ph3_gelc.sas` programme in `SAS OnDemand for Academics`. However, the results did not match with the original results of `group3`. Probably, the SAS programme that had previously processed the statistical procedures for `group3` is not exactly the same one that is being currently adopted - we know there has been a change from `PREROTAT` to `PATTERN`.
+
+As a result, the examples that were obtained did not match the original examples for `group3`.
+
+### Phase 4
+
+The original results of the statistical procedures for `group3` were processed by the `examples` function in `lmda.sh`.
+
+Original `examples_f1_pos_000001.txt`
+
+```
+file = t016771
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1595992165557178400
+conversation = 99999999
+URL = 
+
+word count = 46
+words loading = 13
+factor score = 12
+
+Mais **jovens** **falecendo** por **infartos** e **males** **Súbitos** . É 
+importante lembrar que a **pesquisa** científica da @CMAJ, **publicada** nesta 
+**semana** , **indicou** q o **risco** d problemas **cardíacos** é d 100 p / 
+cada 100mil **doses** . É duro saber que estes **morreram** p / q alguns se 
+sentissem seguros. . . https://t.co/xFSmndVjej 
+
+Lemmas in this text that loaded on the factor:
+
+cardíaco
+dose
+falecer
+indicar
+infarto
+jovem
+mal
+morrer
+pesquisa
+publicar
+risco (secondary)
+semana
+súbito
+```
+
+Obtained `examples_f1_pos_000001.txt`
+
+```
+file = t016771
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595992165557178400
+
+word count = 46
+words loading = 11
+factor score = 12
+
+Mais **jovens** **falecendo** por **infartos** e **males** Súbitos. É 
+importante lembrar que a **pesquisa** científica da @CMAJ, **publicada** nesta 
+**semana** , **indicou** q o **risco** d problemas cardíacos é d 100 p / cada 
+100mil **doses** . É duro saber que estes **morreram** p / q alguns se 
+sentissem seguros. . . https://t.co/xFSmndVjej 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+falecer 
+indicar 
+infarto 
+jovem 
+mal 
+morrer 
+pesquisa 
+publicar 
+risco (secondary)
+semana 
+```
+
+Original `examples_f1_neg_000035.txt`
+
+```
+file = t000907
+date = 2020-10-30
+user = url:https://twitter.com/FabioIng/status/1321947496466272258
+conversation = 81842196
+URL = 
+
+word count = 25
+words loading = 4
+factor score = -2
+
+" @JornalDaCidadeO @VlogdoLisboa - Hidroxicloroquina. Há 70 anos no **mercado** 
+: " " não tem **comprovação** científica, é perigoso " " - Vacina. Feita em 7 
+meses: " " deve ser obrigatória. " " **Dama** de **ferro** / TT " 
+
+Lemmas in this text that loaded on the factor:
+
+comprovação
+dama
+ferro
+mercado
+```
+
+Obtained `examples_f1_neg_000035.txt`
+
+```
+file = t000907
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1321947496466272258
+
+word count = 25
+words loading = 3
+factor score = -2
+
+" @JornalDaCidadeO @VlogdoLisboa - Hidroxicloroquina. Há 70 anos no 
+**mercado** : " " não tem comprovação científica, é perigoso " " - Vacina. 
+Feita em 7 meses: " " deve ser obrigatória. " " **Dama** de **ferro** / TT " 
+
+Lemmas in this text that loaded on the factor:
+
+dama 
+ferro 
+mercado 
+```
+
+Findings:
+
+- The obtained `factor score` matches the one of the original example; 
+- The `lemmas`, the `words loading` and the `words highlight` are aligned among each other.
