@@ -15,7 +15,7 @@ Findings:
 - `tokens.txt` and `tokens_ori.txt` are identical;
 - `types.txt` and `types.txt` are similar - the order of types vary in some of the lines;
 - `selectedvars` and `selectedvars_ori` are similar - there are changes in the order of variables but the variables themselves remain the same;
-
+- The files in `sas` and `sas_ori` are similar;
 
 ### Phase 2
 
