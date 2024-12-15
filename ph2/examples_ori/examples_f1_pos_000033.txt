@@ -1,0 +1,26 @@
+file = t016592
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1592154142197551000
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 8
+factor score = 8
+
+Nos **últimos** 30 **dias** , vários jogadores de futebol brasileiros 
+**faleceram** de **infarto** , alguns em campo. Antes das **doses** , eram 
+**saudáveis** . A CBF e as federações exigem o **comprovante** da #vacina. As 
+**pessoas** não percebem que um GenoEMOJI_copyright_e! Dio silencioso acontece. 
+Até quando? https://t.co/VK8jNDCnEt 
+
+Lemmas in this text that loaded on the factor:
+
+comprovante
+dia
+dose
+falecer
+infarto
+pessoa
+saudável
+último

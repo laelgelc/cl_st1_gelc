@@ -1,0 +1,19 @@
+file = t015598
+date = 2022-06-00
+user = url:https://twitter.com/oscasosraros/status/1540082296178499600
+conversation = 99999999
+URL = 
+
+word count = 21
+words loading = 3
+factor score = -3
+
+Aline, 15 anos, sintomas iniciais **dores** no **pé** 1 mês depois da 2a dose. 
+**Diagnóstico** : Mielite Transversa. #CanWeTalkAboutIt #IStandWithYou 
+https://t.co/qms7vt535E 
+
+Lemmas in this text that loaded on the factor:
+
+diagnóstico
+dor
+pé

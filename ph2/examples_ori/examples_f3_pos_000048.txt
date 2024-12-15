@@ -1,0 +1,23 @@
+file = t012326
+date = 2021-06-00
+user = url:https://twitter.com/evandroratho/status/1403367889701326800
+conversation = 99999999
+URL = 
+
+word count = 37
+words loading = 7
+factor score = 6
+
+Torram **bilhões** com vacinas e na maior cara de pau dizem que elas não 
+**impedem** as pessoas de adoecer e **transmitir** o **vírus** , e por isso tem 
+que seguir em **lockdown** e **usando** **máscara** para sempre. 
+
+Lemmas in this text that loaded on the factor:
+
+bilhão (secondary)
+impedir
+lockdown
+máscara
+transmitir
+usar
+vírus

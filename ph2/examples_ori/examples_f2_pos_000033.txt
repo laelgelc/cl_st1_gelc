@@ -1,0 +1,25 @@
+file = t016426
+date = 2022-10-00
+user = url:https://twitter.com/julianaayres/status/1584243998624866300
+conversation = 99999999
+URL = 
+
+word count = 44
+words loading = 7
+factor score = 7
+
+e nunca teria deixado de avisar a nação que as vacinas **Covid** estavam 
+**dando** muito a **efeitos** **colaterais** lá fora do Brasil, q quem fosse 
+tomar tivesse ciência disso. Infelizmente **sei** que ele **ficará** abandonado 
+pelo **governo** que se acovardou há anos já. 
++EMOJI_backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+colateral
+covid
+dar
+efeito
+ficar
+governo
+saber

@@ -1,0 +1,21 @@
+file = t016337
+date = 2022-10-00
+user = url:https://twitter.com/mpatriabrasil/status/1580514888341811200
+conversation = 99999999
+URL = 
+
+word count = 47
+words loading = 3
+factor score = -3
+
+Continuacão 4 : A #Pfizer mentiu para todos. CEO da **Farmacêutica** admitiu, 
+em **audiência** no Parlamento Europeu, q o lixo não impede a #infecção e a 
+#transmissão, tornando a **imposição** do passaporte um mecanismo ilegal, pois 
+os √@EMOJI_copyright_e! n@dos podem ser infectados e transmitir a moléstia. 
+https://t.co/AjFMNpznk2 
+
+Lemmas in this text that loaded on the factor:
+
+audiência
+farmacêutica
+imposição

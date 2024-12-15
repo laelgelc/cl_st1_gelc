@@ -1,0 +1,26 @@
+file = t011187
+date = 2021-01-00
+user = url:https://twitter.com/evandroratho/status/1349077956413550600
+conversation = 99999999
+URL = 
+
+word count = 42
+words loading = 8
+factor score = 7
+
+**Tratamento** **precoce** com remédios utilizados há décadas e baixo **risco** 
+de efeitos colaterais - não pode. . . não tem **estudos** **científicos** 
+suficientes; Vacina com baixo **índice** de **eficácia** e testes insuficientes 
+- não devemos ser tão **científicos** nesse momento; Tá **bom** . . . vai lá 
+sabichão! 
+
+Lemmas in this text that loaded on the factor:
+
+bom (secondary)
+científico
+eficácia
+estudo
+índice
+precoce
+risco
+tratamento

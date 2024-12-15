@@ -1,0 +1,18 @@
+file = t000278
+date = 2020-05-30
+user = url:unknown
+conversation = 1220161776916090880
+URL = 
+
+word count = 45
+words loading = 1
+factor score = -1
+
+@JanainaDoBrasil Prezada Deputada, Essa pandemia foi tratada em SP com a marca 
+brasileira de futebol alegre 7x1 . Uma total improvisação com base científica . 
+O simples e o óbvio seria proteger os idosos e enfrentar o vírus, pois não há 
+vacina. Teríamos mortos, mas ñ matariamos a economia. 
+
+Lemmas in this text that loaded on the factor:
+
+futebol

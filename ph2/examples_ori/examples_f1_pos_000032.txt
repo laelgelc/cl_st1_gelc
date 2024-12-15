@@ -1,0 +1,27 @@
+file = t016594
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1592210604789727200
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 9
+factor score = 8
+
+Ana Clara residia em Goiânia e **faleceu** de problemas **cardíacos** hoje. O 
+JV apurou q ela tomou 2 **doses** , a **última** em junho. **Estudos** 
+**indicam** q as reações como AVCs e problemas **cardíacos** demoram, em geral, 
+5 **meses** para ocorrer. **Fontes** : m. **facebook** . com / story. php? stor 
+… stevekirsch. substack. com / p / this-one-gra … https://t.co/Upb0hy6Uu4 
+
+Lemmas in this text that loaded on the factor:
+
+cardíaco
+dose
+estudo (secondary)
+facebook
+falecer
+fonte
+indicar
+mês
+último

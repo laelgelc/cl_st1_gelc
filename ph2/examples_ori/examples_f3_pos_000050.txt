@@ -1,0 +1,23 @@
+file = t012101
+date = 2021-05-00
+user = url:https://twitter.com/evandroratho/status/1392820679679090700
+conversation = 99999999
+URL = 
+
+word count = 37
+words loading = 6
+factor score = 6
+
+A CPI parte da premissa que distanciamento **social** e vacina são as únicas 
+soluções para enfrentar o **vírus** , e que o **tratamento** **precoce** é 
+crime. Qual o embasamento **científico** **usado** pelos Senadores para 
+sustentar essa tese? 
+
+Lemmas in this text that loaded on the factor:
+
+científico
+precoce
+social
+tratamento
+usar
+vírus

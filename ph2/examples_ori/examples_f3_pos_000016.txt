@@ -1,0 +1,25 @@
+file = t014910
+date = 2022-02-00
+user = url:https://twitter.com/evandroratho/status/1494372372966744000
+conversation = 99999999
+URL = 
+
+word count = 48
+words loading = 7
+factor score = 7
+
+Você acreditou que o **lockdown** achataria a curva, que as **máscaras** e o 
+distanciamento **social** **impediriam** o contágio, que o **tratamento** 
+**precoce** era **perigoso** , que as vacinas eram eficazes e seguras, e em 
+tantas teorias que não se efetivaram, e ainda assim não percebe que está 
+errado? 
+
+Lemmas in this text that loaded on the factor:
+
+impedir
+lockdown
+máscara
+perigoso
+precoce
+social
+tratamento

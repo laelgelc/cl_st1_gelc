@@ -1,0 +1,28 @@
+file = t015955
+date = 2022-08-00
+user = url:https://twitter.com/mpatriabrasil/status/1558751882612539400
+conversation = 99999999
+URL = 
+
+word count = 48
+words loading = 10
+factor score = 9
+
+Ilson Baiano foi candidato a prefeito d Coelho Neto. Tomou a 1a. **dose** em 05 
+/ 21 a 2a. em 08 / 21 e os **reforços** em 2022 . Teve um **infarto** 
+**fulminante** neste 13 / 08 / 22 , exatamente um **ano** após a 2a. da Astra. 
+A OMS já **alertou** sobre os **riscos** de problemas **cardíacos** 
+pós-experimento. Segue. . . https://t.co/shuzq4xhsQ 
+
+Lemmas in this text that loaded on the factor:
+
+alertar
+ano
+cardíaco
+dose
+experimento
+fulminante
+infarto
+pós
+reforço
+risco (secondary)

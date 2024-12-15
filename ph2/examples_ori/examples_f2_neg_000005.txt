@@ -1,0 +1,22 @@
+file = t016254
+date = 2022-10-00
+user = url:https://twitter.com/oscasosraros/status/1577436366509551600
+conversation = 99999999
+URL = 
+
+word count = 20
+words loading = 4
+factor score = -4
+
+36yo with Bells Palsy, left arm tingling / numbness / weakness following 
+**mRNA** vaccination: pubmed. **ncbi** . **nlm** . **nih** . gov / 34336436 / 
+32yoF with Bells Palsy following Pfizer: pubmed. **ncbi** . **nlm** . **nih** . 
+gov / 35759681 / 37yoM with Bells Palsy after Pfizer: pubmed. **ncbi** . 
+**nlm** . **nih** . gov / 33611630 / 
+
+Lemmas in this text that loaded on the factor:
+
+mrna
+ncbi
+nih
+nlm

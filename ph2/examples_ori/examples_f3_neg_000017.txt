@@ -1,0 +1,26 @@
+file = t016483
+date = 2022-10-00
+user = url:https://twitter.com/iodinha1/status/1586556795518058500
+conversation = 99999999
+URL = 
+
+word count = 45
+words loading = 8
+factor score = -4
+
+@SeriesBrasil Nunca saberemos se quem morreu foi ou não por causa da vacina. 
+Muita gente não se vacinou e nem **resfriado** **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+**cardíaco** , **trombone** , **gripe** e até morreram etc. **Verdade** seja 
+dita! 
+
+Lemmas in this text that loaded on the factor:
+
+ataque
+cardíaco (secondary)
+gripe
+miocardite (secondary)
+pegar (secondary)
+resfriar
+trombone
+verdade (secondary)

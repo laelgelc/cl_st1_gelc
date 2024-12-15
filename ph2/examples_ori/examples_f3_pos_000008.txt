@@ -1,0 +1,28 @@
+file = t014283
+date = 2022-01-00
+user = url:https://twitter.com/evandroratho/status/1479464811469717500
+conversation = 99999999
+URL = 
+
+word count = 44
+words loading = 10
+factor score = 8
+
+Vacinas p / covid não cumpriram todas as etapas de homologação como outras 
+vacinas, e foram **aprovadas** em **caráter** **EMERGENCIAL** ! Ou seja, os 
+**estudos** sobre **eficácia** e **segurança** a **longo** **prazo** estão 
+sendo realizados na população. E querem **usar** as **crianças** como cobaias 
+desse experimento! 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar (secondary)
+caráter
+criança (secondary)
+eficácia
+emergencial
+estudo
+longo
+prazo
+segurança
+usar

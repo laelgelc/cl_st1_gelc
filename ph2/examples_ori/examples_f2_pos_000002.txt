@@ -1,0 +1,27 @@
+file = t013787
+date = 2021-11-00
+user = url:https://twitter.com/julianaayres/status/1462152758606319600
+conversation = 99999999
+URL = 
+
+word count = 54
+words loading = 9
+factor score = 9
+
+@AndrWilliandaS1 @f4b10rms Eu **sei** lá. Não **quero** mais **saber** disso. 
+Política nem pensar mais. Agora só **quero** que os **prefeitos** , govs, o 
+presidente e o ministro da saúde **paguem** por cada **vida** q se **perdeu** 
+ou q foi prejudicada por **causa** q eles não avisaram sobre os **efeitos** 
+**colaterais** graves das novas vacinas. 
+
+Lemmas in this text that loaded on the factor:
+
+causa
+colateral
+efeito
+pagar
+perder
+prefeito
+querer
+saber
+vida
