@@ -1,0 +1,21 @@
+file = t014946
+date = 2022-02-00
+user = url:https://twitter.com/derzevic/status/1496102439350583300
+conversation = 99999999
+URL = 
+
+word count = 20
+words loading = 5
+factor score = -3
+
+**CDC** e **Farmacêutica** Pfizer **Emitem** **Alertas** Sobre Riscos de 
+Coagulação Sanguínea Mesmo em **Atletas** e Pessoas Saudáveis criticanacional. 
+com. br / 2022 / 02 / 21 / **cdc** … via @criticanac 
+
+Lemmas in this text that loaded on the factor:
+
+alerta (secondary)
+atleta
+cdc
+emitir
+farmacêutica (secondary)

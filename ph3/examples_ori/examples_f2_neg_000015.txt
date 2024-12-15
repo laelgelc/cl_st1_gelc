@@ -1,0 +1,21 @@
+file = t016252
+date = 2022-10-00
+user = url:https://twitter.com/oscasosraros/status/1577436360839168000
+conversation = 99999999
+URL = 
+
+word count = 20
+words loading = 3
+factor score = -3
+
+Multiple cranial nerve palsies following COVID-19 vaccination ( Pfizer ) : 
+pubmed. **ncbi** . **nlm** . **nih** . gov / 34725821 / Acute abducens nerve 
+palsy following Pfizer: pubmed. **ncbi** . **nlm** . **nih** . gov / 34044114 / 
+Acute aducens nerve palsy following AstraZeneca: pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34851785 / 
+
+Lemmas in this text that loaded on the factor:
+
+ncbi
+nih
+nlm

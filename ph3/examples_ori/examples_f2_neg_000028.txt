@@ -1,0 +1,22 @@
+file = t015394
+date = 2022-05-00
+user = url:https://twitter.com/oscasosraros/status/1529953475093749800
+conversation = 99999999
+URL = 
+
+word count = 44
+words loading = 4
+factor score = -2
+
+O estudo Aldén et al. em **células** de fígado in vitro, a Spike expressa na 
+superfície das **células** do fígado **indica** que podem ser alvo do sistema 
+imunológico e possivelmente causar **hepatite** **autoimune** . " Houve relatos 
+de casos **hepatite** **autoimune** após BNT162b2 vacinação. 
+https://t.co/A4Jap0Q5Zt 
+
+Lemmas in this text that loaded on the factor:
+
+autoimune (secondary)
+célula
+hepatite
+indicar (secondary)

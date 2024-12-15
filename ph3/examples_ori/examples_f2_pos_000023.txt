@@ -1,0 +1,25 @@
+file = t016493
+date = 2022-10-00
+user = url:https://twitter.com/iodinha1/status/1586898946714108000
+conversation = 99999999
+URL = 
+
+word count = 44
+words loading = 7
+factor score = 7
+
+@borges_lari18 Nunca **saberemos** se quem morreu foi ou não por **causa** da 
+vacina. Muita **gente** não se vacinou e nem resfriado **pegou** . Outros 
+tantos, só após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, 
+ataque cardíaco, trombone, gripe e até morreram etc. **Verdade** seja **dita** 
+! 
+
+Lemmas in this text that loaded on the factor:
+
+causa
+covid
+dizer
+gente
+pegar
+saber
+verdade

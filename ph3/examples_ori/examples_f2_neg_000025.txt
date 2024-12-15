@@ -1,0 +1,23 @@
+file = t016693
+date = 2022-11-00
+user = url:https://twitter.com/mpatriabrasil/status/1594687012438679600
+conversation = 99999999
+URL = 
+
+word count = 39
+words loading = 5
+factor score = -3
+
+A OMS e outras revistas científicas, **publicaram** estudos relacionando a 
+ideação suicida e tentativa de #suicídio à vacina. Alguns cientistas afirmam q 
+as doses podem suprimir ou interferir na produção da Dopamina e Serotonina, 
+potencializando a depressão. **pesquisa** . **bvsalud** . org / global-literat 
+… https://t.co/90FQcVBTTa 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud
+global
+literat
+pesquisa (secondary)
+publicar (secondary)

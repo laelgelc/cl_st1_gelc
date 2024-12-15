@@ -1,0 +1,25 @@
+file = t001075
+date = 2020-10-30
+user = url:https://twitter.com/Heroi_Romanesco/status/1322269674843693056
+conversation = 320418868
+URL = 
+
+word count = 42
+words loading = 8
+factor score = 7
+
+@JornalOGlobo João Dória virou dealer do **Governo** **Chinês** e **quer** 
+**vender** a Coronavac para o Brasil inteiro mesmo sem comprovação de sua 
+**eficácia** e possíveis **efeitos** **colaterais** . Onde é que o JD está 
+**vendo** a tal ciência que ele tanto defende? ? ? 
+
+Lemmas in this text that loaded on the factor:
+
+chinês
+colateral
+efeito
+eficácia (secondary)
+governo
+querer
+vender
+ver

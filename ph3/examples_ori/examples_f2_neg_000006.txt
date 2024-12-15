@@ -1,0 +1,22 @@
+file = t016256
+date = 2022-10-00
+user = url:https://twitter.com/oscasosraros/status/1577436371903316000
+conversation = 99999999
+URL = 
+
+word count = 26
+words loading = 4
+factor score = -4
+
+Bells Palsy following **mRNA** and inactivated ( CoronaVac ) vaccines: a case 
+series and nested case-control study: pubmed. **ncbi** . **nlm** . **nih** . 
+gov / 34411532 / Rate of Bells Palsy following **mRNA** vaccination is 2-3x 
+higher then expected: pubmed. **ncbi** . **nlm** . **nih** . gov / 34111409 / 
+childrenshealthdefense. org / defender / fda-m … 
+
+Lemmas in this text that loaded on the factor:
+
+mrna
+ncbi
+nih
+nlm

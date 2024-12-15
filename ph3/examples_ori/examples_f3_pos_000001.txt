@@ -1,0 +1,31 @@
+file = t014388
+date = 2022-01-00
+user = url:https://twitter.com/evandroratho/status/1481708473574428700
+conversation = 99999999
+URL = 
+
+word count = 44
+words loading = 13
+factor score = 10
+
+@revistaoeste As vacinas foram **aprovadas** em **caráter** **emergencial** , 
+sem os devidos **estudos** de **eficácia** e **segurança** a **longo** 
+**prazo** , sob a justificativa da **taxa** de **letalidade** entre os mais 
+velhos. As **estatísticas** não dão margem para justificar o uso 
+**emergencial** em **jovens** **saudáveis** ! 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar (secondary)
+caráter
+eficácia
+emergencial
+estatística
+estudo
+jovem (secondary)
+letalidade
+longo
+prazo
+saudável (secondary)
+segurança
+taxa

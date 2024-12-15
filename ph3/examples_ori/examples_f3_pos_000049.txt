@@ -1,0 +1,23 @@
+file = t012181
+date = 2021-05-00
+user = url:https://twitter.com/evandroratho/status/1396886753248690200
+conversation = 99999999
+URL = 
+
+word count = 36
+words loading = 6
+factor score = 6
+
+Se o Bolsonaro comprar de vez a briga contra quaisquer medidas de 
+**isolamento** **social** , contra **obrigatoriedade** das vacinas e de 
+**máscaras** , e revisar as **estatísticas** forjadas dessa **pandemia** , 
+aposto que ganharia ainda mais apoio popular! 
+
+Lemmas in this text that loaded on the factor:
+
+estatística
+isolamento
+máscara
+obrigatoriedade
+pandemia
+social

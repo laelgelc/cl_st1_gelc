@@ -1,0 +1,22 @@
+file = t015453
+date = 2022-06-00
+user = url:https://twitter.com/oscasosraros/status/1532493444568043500
+conversation = 99999999
+URL = 
+
+word count = 43
+words loading = 4
+factor score = -4
+
+A pequena Cleuza é uma grande guerreira, enfrentando vários **diagnósticos** de 
+eventos adversos, depois que recebeu 2 doses da syringe_e. As reações começaram 
+com **dores** de **cabeça** e pelo corpo, câimbras e formigamentos nas 
+**pernas** , acompanhada de inchaço e vermelhidão, visão embaçada. 
+https://t.co/pbCTZolgNB 
+
+Lemmas in this text that loaded on the factor:
+
+cabeça
+diagnóstico
+dor
+perna

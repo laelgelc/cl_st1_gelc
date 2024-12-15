@@ -1,0 +1,17 @@
+file = t000189
+date = 2020-04-29
+user = url:unknown
+conversation = 1128050260708876294
+URL = 
+
+word count = 32
+words loading = 1
+factor score = -1
+
+@blogdojefferson Nessa **postagem** eu percebo que a doença não deve ser levada 
+a sério, mesmo sem vacina, devido a pouca quantidade de óbitos, se conparada ao 
+número populacional, é isso Galvão? ! 
+
+Lemmas in this text that loaded on the factor:
+
+postagem

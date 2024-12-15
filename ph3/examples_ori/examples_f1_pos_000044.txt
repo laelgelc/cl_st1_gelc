@@ -1,0 +1,28 @@
+file = t015395
+date = 2022-05-00
+user = url:https://twitter.com/oscasosraros/status/1529953482186363000
+conversation = 99999999
+URL = 
+
+word count = 37
+words loading = 10
+factor score = 8
+
+Bril et al. faz o **estudo** de **caso** de **mulher** **saudável** de 35 
+**anos** que desenvolveu **hepatite** **autoimune** 1 **semana** depois da 
+**syringe_e** . " Anticorpos induzidos pela vacina podem ser gatilhos para 
+**doenças** **autoimunes** em indivíduos com pré-disposição " 
+https://t.co/o1HY1QwKKS 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+autoimune
+caso
+doença
+estudo (secondary)
+hepatite (secondary)
+mulher
+saudável
+semana
+syringe_e

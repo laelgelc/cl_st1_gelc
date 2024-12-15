@@ -1,0 +1,27 @@
+file = t012921
+date = 2021-08-00
+user = url:https://twitter.com/evandroratho/status/1428059609269514200
+conversation = 99999999
+URL = 
+
+word count = 46
+words loading = 9
+factor score = 7
+
+@RafaMovies O **índice** de **letalidade** entre pessoas **jovens** e 
+**saudáveis** é desprezível, quase zero. A única justificativa para vacinar 
+estas pessoas é o iminente lucro de quem as vende, ainda mais se tratando de 
+vacinas **emergenciais** sem **estudos** adequados quanto a **segurança** a 
+**longo** **prazo** ! 
+
+Lemmas in this text that loaded on the factor:
+
+emergencial
+estudo
+índice
+jovem (secondary)
+letalidade
+longo
+prazo
+saudável (secondary)
+segurança
