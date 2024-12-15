@@ -22,7 +22,7 @@ libname gelc "&whereisit/&myfolder";
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 4 ;
+%let extractfactors = 3 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -1237,8 +1237,9 @@ data filelist;
   length root dname $ 2048 filename $ 256 dir level 8;
   input root;
   retain filename dname ' ' level 0 dir 1;
+/* Update the SAS username and project name - variable resolution is not allowed here */
 cards4;
-/home/&sasusername/&project
+/home/u63529080/cl_st1_ph1_gelc
 ;;;;
 run;
 
