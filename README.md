@@ -166,5 +166,6 @@ mercado
 
 Findings:
 
-- The obtained `factor score` matches the one of the original example; 
-- The `lemmas`, the `words loading` and the `words highlight` are aligned among each other.
+- The obtained `factor score` matches the one of the original example
+- The obtained `lemmas`, `words loading` and `words highlight` do not match with the ones of the original example - there are missing lemmas; 
+- The `lemmas`, `words loading` and `words highlight` are aligned among each other.
