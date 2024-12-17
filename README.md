@@ -248,4 +248,4 @@ Since the original Bash script snippet is not reliable when executed on an Ubunt
 
 #### Result
 
-The issue was solved by the `extract_factors.py` programmme.
+The issue was solved by the `extract_factors.py` programme.
