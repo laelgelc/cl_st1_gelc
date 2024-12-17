@@ -248,4 +248,31 @@ Since the original Bash script snippet is not reliable when executed on an Ubunt
 
 #### Result
 
-The issue was solved by the `extract_factors.py` programme.
+The issue was solved by the `extract_factors.py` programme introduced in `lmda.sh` Bash shell script as follows:
+
+```
+# The programme 'extract_factors.py' replaces the set of commands that follows
+# Make sure you are executing the Bash shell script in a Python environment compliant with the programme's requirements
+python extract_factors.py --project $project
+
+#html2text -nobs sas/output_${project}/loadtable.html > a
+#
+## The following block results in errors when run on a Linux Ubuntu system. It has been refactored as follows
+##rm -f x??
+##split -p'=====' a
+##ls x?? > xfiles
+#
+#rm -f xx??
+#csplit a '/=====/+1' '{*}'
+#ls xx?? > xfiles
+#
+#while read xfile
+#do
+#  pole=$( grep '^Factor ' $xfile | cut -d' ' -f2,3 | sed -e 's/^/f/' -e 's/ //g' )
+##  grep '^[0-9]' $xfile | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2 | grep -v '^$' | sed "s/^/$pole /" 
+##  grep '^[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f2,4 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+#  grep '^\s*[0-9]' $xfile | sed 's/)/ secondary/' | tr -dc '[:alpha:][:punct:][0-9]\n ' | sed 's/^/~/' | tr  '[:space:]()' ' ' | tr -s ' ' |  tr '~' '\n' | cut -d' ' -f3,5 | sed 's/ secondary/ (secondary)/' | grep -v '^$' | sed "s/^/$pole /" 
+#done < xfiles > examples/factors
+###rm -f x??
+#rm -f xx??
+```
