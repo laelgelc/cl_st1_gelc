@@ -5,7 +5,7 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1592831024278687700
 
 word count = 33
-words loading = 7
+words loading = 8
 factor score = -3
 
 **Pesquisa** **publicada** no PubMed sobre a ativação de de fenômenos 
@@ -18,8 +18,9 @@ Lemmas in this text that loaded on the factor:
 
 fonte (secondary)
 indicar (secondary)
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm
 pesquisa (secondary)
 publicar (secondary)
+pós (secondary)

@@ -16,10 +16,10 @@ ataque cardíaco, trombone, gripe e até morreram etc. **Verdade** seja
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-covid 
-dizer 
-gente 
-pegar 
-saber 
-verdade 
+causa
+covid
+dizer
+gente
+pegar
+saber
+verdade

@@ -5,23 +5,26 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1574004081466785800
 
 word count = 33
-words loading = 9
+words loading = 12
 factor score = 10
 
 **Pesquisas** **indicam** que o período mais propenso a **infartos** e AVCs se 
-**dá** entre 5 a 6 meses após as **doses** . **Fontes** : Falecimento de 
+**dá** entre 5 a 6 **meses** após as **doses** . **Fontes** : Falecimento de 
 Renzi: interiordabahia. com. br / ultimas-notici … **Alerta** da Anvisa: gov. 
-br / anvisa / pt-br / a … **Pesquisa** sobre problemas Cardíacos 
+br / anvisa / pt-br / a … **Pesquisa** sobre problemas **Cardíacos** 
 pós-experimento: ncbi. nlm. nih. gov / pmc / **articles** / P … 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
+alerta
 articles (secondary)
+cardíaco
 dar (secondary)
-dose 
-experimento 
-fonte 
-indicar 
-infarto 
-pesquisa 
+dose
+experimento
+fonte
+indicar
+infarto
+mês
+pesquisa
+pós

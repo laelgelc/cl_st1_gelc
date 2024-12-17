@@ -15,6 +15,6 @@ essa tese?
 
 Lemmas in this text that loaded on the factor:
 
-cpi 
-distanciamento 
-senador 
+cpi
+distanciamento
+senador

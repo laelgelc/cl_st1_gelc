@@ -5,15 +5,16 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1471880376469627000
 
 word count = 46
-words loading = 2
+words loading = 3
 factor score = -3
 
 Ao ver alguém ameaçando denunciar pais ao **Conselho** **Tutelar** por não 
-vacinar seus filhos com uma vacina sem comprovação de segurança e eficácia, 
-é impossível não lembrar dos alemães denunciando judeus para o exército 
-nazista! A humanidade não evoluiu muita coisa desde a 2ª guerra! 
+vacinar seus filhos com uma vacina sem **comprovação** de segurança e 
+eficácia, é impossível não lembrar dos alemães denunciando judeus para o 
+exército nazista! A humanidade não evoluiu muita coisa desde a 2ª guerra! 
 
 Lemmas in this text that loaded on the factor:
 
-conselho 
-tutelar 
+comprovação
+conselho
+tutelar

@@ -16,6 +16,6 @@ Acute aducens nerve palsy following AstraZeneca: pubmed. **ncbi** . **nlm** .
 
 Lemmas in this text that loaded on the factor:
 
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm

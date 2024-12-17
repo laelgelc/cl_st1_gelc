@@ -5,14 +5,20 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1449053073960226800
 
 word count = 45
-words loading = 1
+words loading = 6
 factor score = 6
 
 @revistaoeste Já que as vacinas não funcionam como barreira efetiva para a 
-transmissão do vírus, o passaporte sanitário nada mais é do que uma 
-aberração autoritária, um instrumento de coação para forçar a sociedade a 
-tomar vacinas sem **estudos** suficientemente robustos quanto a segurança. 
+**transmissão** do **vírus** , o passaporte **sanitário** nada mais é do 
+que uma aberração autoritária, um instrumento de coação para **forçar** a 
+sociedade a tomar vacinas sem **estudos** suficientemente robustos quanto a 
+**segurança** . 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
+estudo
+forçar
+sanitário
+segurança
+transmissão
+vírus

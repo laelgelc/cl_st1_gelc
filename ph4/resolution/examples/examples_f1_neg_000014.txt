@@ -5,15 +5,16 @@ conversation = 1066144755493543936
 URL = https://twitter.com/AllanGarcs1/status/1365727390744403969
 
 word count = 35
-words loading = 2
+words loading = 3
 factor score = -3
 
 Temos 2 formas de enfrentar a PANDEMIA: Prevenindo e Tratando 1° ) PREVENINDO 
-- VACINAS, lavagem da mão, álcool em **gel** , máscara, NÃO aglomerar, 
+- VACINAS, lavagem da mão, **álcool** em **gel** , máscara, NÃO aglomerar, 
 **distanciamento** social e IVERMECTINA 2° ) TRATAMENTO - Tratar precocemente 
 os doentes com Hidroxicloroquina + Ivermectina + Azitromicina 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-gel 
+distanciamento
+gel
+álcool

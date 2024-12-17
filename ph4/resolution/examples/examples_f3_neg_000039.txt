@@ -16,6 +16,6 @@ backhand_index_pointing_down_e
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-rim 
+amiga
+pele
+rim

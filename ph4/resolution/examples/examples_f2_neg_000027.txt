@@ -5,14 +5,15 @@ conversation = 99999999
 URL = https://twitter.com/giulianamesopo/status/1529702470095601700
 
 word count = 30
-words loading = 1
+words loading = 2
 factor score = -2
 
 Será que essa **hepatite** que está surgindo em jovens saudáveis é tão 
 misteriosa assim? Estudo sueco mostrando como as vacinas da Pfizer-Biontech 
-contra COVID-19 afetam as células do fígado humano. medicalxpress. com / news 
-/ 2022-03-p … https://t.co/jeVRuSKeMw 
+contra COVID-19 afetam as **células** do fígado humano. medicalxpress. com / 
+news / 2022-03-p … https://t.co/jeVRuSKeMw 
 
 Lemmas in this text that loaded on the factor:
 
-hepatite 
+célula
+hepatite

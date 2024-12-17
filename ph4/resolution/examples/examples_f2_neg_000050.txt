@@ -5,7 +5,7 @@ conversation = 99999999
 URL = https://twitter.com/julianaayres/status/1407756304102441000
 
 word count = 37
-words loading = 1
+words loading = 2
 factor score = -1
 
 AGORA - o CDC acaba de lançar sua atualização de miocardite / pericardite. O 
@@ -15,4 +15,5 @@ subnotificação ) . twitter. com / AlexBerenson / s …
 
 Lemmas in this text that loaded on the factor:
 
-mrna 
+mrna
+pós (secondary)

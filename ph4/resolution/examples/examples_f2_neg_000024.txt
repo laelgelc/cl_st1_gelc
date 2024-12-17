@@ -15,8 +15,8 @@ factor score = -3
 Lemmas in this text that loaded on the factor:
 
 fonte (secondary)
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm
 pesquisa (secondary)
 publicar (secondary)

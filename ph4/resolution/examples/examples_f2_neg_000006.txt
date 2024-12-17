@@ -16,7 +16,7 @@ childrenshealthdefense. org / defender / fda-m …
 
 Lemmas in this text that loaded on the factor:
 
-mrna 
-ncbi 
-nih 
-nlm 
+mrna
+ncbi
+nih
+nlm

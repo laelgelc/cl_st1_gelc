@@ -5,20 +5,23 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1428449430714437600
 
 word count = 39
-words loading = 6
+words loading = 9
 factor score = 9
 
 Defender o **tratamento** **precoce** é crime pois não há **estudos** 
-científicos comprovando a eficácia dos medicamentos, mas questionar a 
-**obrigatoriedade** de máscaras, **lockdown** , e vacinas, **usando** o mesmo 
-argumento da ausência de **estudos** comprobatórios, também é crime! 
+**científicos** comprovando a **eficácia** dos medicamentos, mas questionar a 
+**obrigatoriedade** de **máscaras** , **lockdown** , e vacinas, **usando** o 
+mesmo argumento da ausência de **estudos** comprobatórios, também é crime! 
 Ciência? clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-lockdown 
-obrigatoriedade 
-precoce 
-tratamento 
-usar 
+científico
+eficácia
+estudo
+lockdown
+máscara
+obrigatoriedade
+precoce
+tratamento
+usar

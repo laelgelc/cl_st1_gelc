@@ -14,9 +14,9 @@ factor score = -3
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud 
-global 
+bvsalud
+global
 indicar (secondary)
-literat 
+literat
 pesquisa (secondary)
 publicar (secondary)

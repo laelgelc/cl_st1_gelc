@@ -14,8 +14,8 @@ org / global-literat …
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud 
-global 
-literat 
+bvsalud
+global
+literat
 pesquisa (secondary)
 publicar (secondary)

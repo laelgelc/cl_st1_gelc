@@ -5,20 +5,22 @@ conversation = 99999999
 URL = https://twitter.com/julianaayres/status/1447540538400456700
 
 word count = 50
-words loading = 6
+words loading = 8
 factor score = 7
 
 @oproprioallan JOVENS E CRIANÇAS ESTÃO MORRENDO por **causa** dessas novas 
-vacinas OBRIGATÓRIAS QUE ELE ASSINOU e, até agora, ele não foi a público 
-avisar o **povo** do perigo dos **efeitos** **colaterais** p as pessoas tomarem 
-CONSCIENTES de que pode **dar** problema. Nunca **vi** tamanha covardia. Isso 
-é um CRIME! 
+vacinas **OBRIGATÓRIAS** QUE ELE ASSINOU e, até agora, ele não foi a 
+**público** avisar o **povo** do perigo dos **efeitos** **colaterais** p as 
+pessoas tomarem CONSCIENTES de que pode **dar** problema. Nunca **vi** tamanha 
+covardia. Isso é um CRIME! 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-colateral 
-dar 
-efeito 
-povo 
-ver 
+causa
+colateral
+dar
+efeito
+obrigatório
+povo
+público (secondary)
+ver

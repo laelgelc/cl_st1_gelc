@@ -18,5 +18,5 @@ Lemmas in this text that loaded on the factor:
 
 experimento (secondary)
 indicar (secondary)
-mielite 
-transverso 
+mielite
+transverso

@@ -16,5 +16,5 @@ fase
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-zinco 
+distanciamento
+zinco

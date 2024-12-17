@@ -5,20 +5,21 @@ conversation = 36373308
 URL = https://twitter.com/MarleneFFL/status/1322260336603443206
 
 word count = 52
-words loading = 6
+words loading = 7
 factor score = 7
 
 causou a 35 milhões de mortes pelo **mundo** . E agora **querem** enfiar na 
-cabeça do **povão** que essa vacina chinesa contra o **Covid** -19 feita em 
-06 meses, é confiável a tal ponto de **quererem** **aplicar** a força na 
+cabeça do **povão** que essa vacina **chinesa** contra o **Covid** -19 feita 
+em 06 meses, é confiável a tal ponto de **quererem** **aplicar** a força na 
 população. **Fica** a pergunta: q tipo de idiota acredita nessa mentira 
 Globalista? https://t.co/NppEuZof0t 
 
 Lemmas in this text that loaded on the factor:
 
-aplicar 
-covid 
-ficar 
-mundo 
-povo 
-querer 
+aplicar
+chinês
+covid
+ficar
+mundo
+povo
+querer

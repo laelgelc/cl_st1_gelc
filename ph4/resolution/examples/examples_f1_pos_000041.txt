@@ -5,21 +5,23 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1548347068938276900
 
 word count = 42
-words loading = 7
+words loading = 9
 factor score = 8
 
 Izabel Rojas era uma manicure muito famosa em Bonito e bastante amada pelos 
 **amigos** e familiares. Tomou a 1a. **Dose** da J@n$3N em junho / 21 e o 
-reforço há poucas **semanas** . Teve um **infarto** **fulminante** neste mês 
-de junho / 22 . #RIP **Fontes** : m. **facebook** . com / story. php? stor … 
-m. **facebook** . com / story. php? stor … https://t.co/vegEaEBtYW 
+**reforço** há poucas **semanas** . Teve um **infarto** **fulminante** neste 
+**mês** de junho / 22 . #RIP **Fontes** : m. **facebook** . com / story. php? 
+stor … m. **facebook** . com / story. php? stor … https://t.co/vegEaEBtYW 
 
 Lemmas in this text that loaded on the factor:
 
 amigo (secondary)
-dose 
-facebook 
-fonte 
-fulminante 
-infarto 
-semana 
+dose
+facebook
+fonte
+fulminante
+infarto
+mês
+reforço
+semana

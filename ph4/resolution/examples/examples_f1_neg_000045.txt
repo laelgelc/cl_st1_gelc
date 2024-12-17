@@ -15,5 +15,5 @@ segurança e eficácia de **supostas** vacinas contra o #Covid19 , transferindo
 
 Lemmas in this text that loaded on the factor:
 
-covid19 
-suposto 
+covid19
+suposto

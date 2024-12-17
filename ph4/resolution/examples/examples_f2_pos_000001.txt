@@ -5,21 +5,25 @@ conversation = 99999999
 URL = https://twitter.com/schmittmaguida/status/1397892191096389600
 
 word count = 41
-words loading = 7
+words loading = 11
 factor score = 10
 
-**Bom** dia **Gente** ! Um vírus mutante **criado** em laboratório? Escapa de 
-uma segurança nível 4 ? Vacina? **Interesses** farmacêuticos? China tentando 
-dominar as criptomoedas? Eu não **digo** é nada Laboratório chinês volta a 
-ser cogitado como origem do coronavírus **veja** . abril. com. br / blog / 
-mundialis … **via** @VEJA 
+**Bom** dia **Gente** ! Um **vírus** mutante **criado** em **laboratório** ? 
+Escapa de uma segurança nível 4 ? Vacina? **Interesses** **farmacêuticos** ? 
+China tentando dominar as criptomoedas? Eu não **digo** é nada 
+**Laboratório** **chinês** volta a ser cogitado como origem do coronavírus 
+**veja** . abril. com. br / blog / mundialis … **via** @VEJA 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-criar 
-dizer 
-gente 
-interesse 
-ver 
-via 
+bom
+chinês
+criar
+dizer
+farmacêutico
+gente
+interesse
+laboratório
+ver
+via
+vírus (secondary)

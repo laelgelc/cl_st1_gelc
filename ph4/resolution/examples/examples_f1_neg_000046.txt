@@ -5,15 +5,16 @@ conversation = 342403919
 URL = https://twitter.com/AiltonBenedito/status/1322130472231645185
 
 word count = 28
-words loading = 2
+words loading = 3
 factor score = -2
 
 Segundo os tiranetes montados em retroescavadeira televisiva, as **supostas** 
-vacinas, independentemente de comprovação de segurança e eficácia, são o 
-leito de Procusto iluminista para imunizar as pessoas contra o #Covid19 
-. 
+vacinas, independentemente de **comprovação** de segurança e eficácia, são 
+o leito de Procusto iluminista para imunizar as pessoas contra o 
+#Covid19 . 
 
 Lemmas in this text that loaded on the factor:
 
-covid19 
-suposto 
+comprovação
+covid19
+suposto

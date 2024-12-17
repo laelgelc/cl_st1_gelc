@@ -1,0 +1,303 @@
+f1pos reforo 
+f1pos fonte 
+f1pos infarto 
+f1pos semana 
+f1pos indicar 
+f1pos cardaco 
+f1pos falecer 
+f1pos publicar 
+f1pos pesquisa 
+f1pos experimento 
+f1pos sofrer 
+f1pos jovem 
+f1pos ps 
+f1pos facebook 
+f1pos dia 
+f1pos dose 
+f1pos sbito 
+f1pos alertar 
+f1pos criana 
+f1pos alerta 
+f1pos ms 
+f1pos morte 
+f1pos fulminante 
+f1pos org 
+f1pos mal 
+f1pos doena 
+f1pos morrer 
+f1pos estudo (secondary)
+f1pos saudvel 
+f1pos miocardite 
+f1pos grave 
+f1pos global (secondary)
+f1pos bvsalud (secondary)
+f1pos risco (secondary)
+f1pos causar 
+f1pos literat (secondary)
+f1pos bito 
+f1pos primeiro 
+f1pos ltimo 
+f1pos autoimune 
+f1pos ano 
+f1pos mrna (secondary)
+f1pos inocular 
+f1pos evento 
+f1pos internar 
+f1pos articles (secondary)
+f1pos syringe_e 
+f1pos contrair 
+f1pos caso 
+f1pos dar (secondary)
+f1pos novo 
+f1pos comprovante 
+f1pos adverso 
+f1pos causa (secondary)
+f1pos mulher 
+f1pos imunidade (secondary)
+f1pos vida (secondary)
+f1pos sistema 
+f1pos amigo (secondary)
+f1pos pessoa 
+f1pos exame (secondary)
+f1pos vacinal 
+f1pos maioria (secondary)
+f1pos existir 
+f1pos hepatite (secondary)
+f1neg enquete 
+f1neg proposta 
+f1neg imposio 
+f1neg audincia 
+f1neg conscincia 
+f1neg termo 
+f1neg gel 
+f1neg covid19 
+f1neg zinco 
+f1neg servio 
+f1neg mercado 
+f1neg tutelar 
+f1neg correiopaulista 
+f1neg dama 
+f1neg piada 
+f1neg lcool 
+f1neg pleno 
+f1neg questionamento 
+f1neg ferro 
+f1neg decreto 
+f1neg combate 
+f1neg restaurante 
+f1neg retirar 
+f1neg lista 
+f1neg conflito 
+f1neg cala (secondary)
+f1neg cpi 
+f1neg farmacutica 
+f1neg distanciamento 
+f1neg comprimido 
+f1neg rebanho 
+f1neg desservio 
+f1neg jornaldacidadeonline 
+f1neg liberdade (secondary)
+f1neg brasil (secondary)
+f1neg vice 
+f1neg rna 
+f1neg senador 
+f1neg conselho 
+f1neg compulsrio 
+f1neg suposto 
+f1neg avano 
+f1neg compra (secondary)
+f1neg senso 
+f1neg comprovao 
+f1neg respeitar 
+f1neg confiar 
+f1neg apertar (secondary)
+f1neg world (secondary)
+f1neg adotar 
+f1neg expressar 
+f1neg vachinas 
+f2pos chins 
+f2pos povo 
+f2pos comprar 
+f2pos governador 
+f2pos pagar 
+f2pos vender 
+f2pos querer 
+f2pos laboratrio 
+f2pos vachina 
+f2pos salvar 
+f2pos poltico 
+f2pos mundo 
+f2pos dar 
+f2pos bilho 
+f2pos via 
+f2pos cloroquina 
+f2pos cobaia 
+f2pos garantir 
+f2pos ver 
+f2pos gente 
+f2pos remdio 
+f2pos ficar 
+f2pos liberdade 
+f2pos governo 
+f2pos bom 
+f2pos esperar 
+f2pos verdade 
+f2pos perder 
+f2pos saber 
+f2pos pas 
+f2pos eficcia (secondary)
+f2pos colateral 
+f2pos dizer 
+f2pos aprovar 
+f2pos interesse 
+f2pos teste 
+f2pos pegar 
+f2pos efeito 
+f2pos tratamento (secondary)
+f2pos vida 
+f2pos obrigatrio 
+f2pos precoce (secondary)
+f2pos criar 
+f2pos compra 
+f2pos lockdown (secondary)
+f2pos campanha 
+f2pos aplicar 
+f2pos usar (secondary)
+f2pos primeiro (secondary)
+f2pos prefeito 
+f2pos pandemia (secondary)
+f2pos vrus (secondary)
+f2pos especial 
+f2pos ivermectina 
+f2pos causa 
+f2pos imunizao 
+f2pos pblico (secondary)
+f2pos covid 
+f2pos segundo (secondary)
+f2pos emergencial (secondary)
+f2pos farmacutico0.31582
+f2neg nih 
+f2neg nlm 
+f2neg ncbi 
+f2neg literat 
+f2neg bvsalud 
+f2neg articles 
+f2neg hepatite 
+f2neg ps (secondary)
+f2neg fonte (secondary)
+f2neg global 
+f2neg clula 
+f2neg facebook (secondary)
+f2neg mrna 
+f2neg cdc 
+f2neg publicar (secondary)
+f2neg emitir 
+f2neg experimento (secondary)
+f2neg mielite 
+f2neg enquete (secondary)
+f2neg atleta 
+f2neg transverso 
+f2neg futebol 
+f2neg alerta (secondary)
+f2neg correiopaulista (secondary)
+f2neg pesquisa (secondary)
+f2neg fulminante (secondary)
+f2neg diagnstico (secondary)
+f2neg farmacutica (secondary)
+f2neg rna (secondary)
+f2neg infeco (secondary)
+f2neg imposio (secondary)
+f2neg autoimune (secondary)
+f2neg indicar (secondary)
+f2neg dama (secondary)
+f2neg proposta (secondary)
+f2neg world 
+f2neg lcool (secondary)
+f2neg postagem 
+f3pos letalidade 
+f3pos ndice 
+f3pos estatstica 
+f3pos segurana 
+f3pos infeco 
+f3pos prazo 
+f3pos assegurar 
+f3pos estudo 
+f3pos longo 
+f3pos impedir 
+f3pos risco 
+f3pos transmisso 
+f3pos taxa 
+f3pos lockdown 
+f3pos precoce 
+f3pos vrus 
+f3pos representar 
+f3pos imunidade 
+f3pos tratamento 
+f3pos mscara 
+f3pos saudvel (secondary)
+f3pos sanitrio 
+f3pos usar 
+f3pos eficcia 
+f3pos benefcio 
+f3pos lgico 
+f3pos doena (secondary)
+f3pos mdio 
+f3pos massa 
+f3pos variante 
+f3pos pandemia 
+f3pos social 
+f3pos jovem (secondary)
+f3pos bom (secondary)
+f3pos custo 
+f3pos cientfico 
+f3pos mentar 
+f3pos isolamento 
+f3pos criana (secondary)
+f3pos aprovar (secondary)
+f3pos emergencial 
+f3pos pblico 
+f3pos garantir (secondary)
+f3pos bilho (secondary)
+f3pos natural 
+f3pos interesse (secondary)
+f3pos carter 
+f3pos morte (secondary)
+f3pos obrigatoriedade 
+f3pos maioria 
+f3pos forar 
+f3pos perigoso 
+f3pos transmitir 
+f3pos faixa 
+f3pos paciente 
+f3neg dor 
+f3neg cabea 
+f3neg perna 
+f3neg ataque 
+f3neg cardaco (secondary)
+f3neg paralisia 
+f3neg amiga 
+f3neg p 
+f3neg resfriar 
+f3neg trombone 
+f3neg exame 
+f3neg rim 
+f3neg brasil 
+f3neg facial 
+f3neg pele 
+f3neg amigo 
+f3neg falecer (secondary)
+f3neg diagnstico-0.42023
+f3neg apertar 
+f3neg sangue 
+f3neg infarto (secondary)
+f3neg semana (secondary)
+f3neg cala 
+f3neg miocardite (secondary)
+f3neg verdade (secondary)
+f3neg lista (secondary)
+f3neg sofrer (secondary)
+f3neg segundo 
+f3neg gripe 
+f3neg pegar (secondary)
+f3neg comprimido (secondary)
+f3neg news 

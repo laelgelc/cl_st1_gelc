@@ -14,5 +14,5 @@ o esperado após as vacinas Pfizer, Moderna -US **CDC** reuters. com /
 
 Lemmas in this text that loaded on the factor:
 
-cdc 
-world 
+cdc
+world

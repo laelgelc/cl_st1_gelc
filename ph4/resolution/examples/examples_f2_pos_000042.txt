@@ -5,18 +5,22 @@ conversation = 99999999
 URL = https://twitter.com/sabolsonaro/status/1340749473207767000
 
 word count = 39
-words loading = 4
+words loading = 8
 factor score = 7
 
-Farmacêuticas sugerem ao **governo** fundo para bancar ações judiciais 
-contra a vacina Então nós temos que **pagar** bilhões pela vacina e mais 
-bilhões pelos **efeitos** **colaterais** da vacina? Os países entram com 
-dinheiro público e com responsabilidade judicial. . . 
+**Farmacêuticas** sugerem ao **governo** fundo para bancar ações judiciais 
+contra a vacina Então nós temos que **pagar** **bilhões** pela vacina e mais 
+**bilhões** pelos **efeitos** **colaterais** da vacina? Os **países** entram 
+com dinheiro **público** e com responsabilidade judicial. . . 
 backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-efeito 
-governo 
-pagar 
+bilhão
+colateral
+efeito
+farmacêutico
+governo
+pagar
+país
+público (secondary)

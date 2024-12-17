@@ -5,19 +5,22 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1382380468419637200
 
 word count = 41
-words loading = 5
+words loading = 8
 factor score = 8
 
-Já temos centenas de **estudos** que comprovam a eficácia do **tratamento** 
-**precoce** , evidências suficientes quanto aos **riscos** das vacinas 
-experimentais, e **estudos** que desmontam a tese da transmissão por 
-assintomáticos. Qual a razão para insistirem em máscaras, **lockdown** , e 
-vacina? 
+Já temos centenas de **estudos** que comprovam a **eficácia** do 
+**tratamento** **precoce** , evidências suficientes quanto aos **riscos** das 
+vacinas experimentais, e **estudos** que desmontam a tese da **transmissão** 
+por assintomáticos. Qual a razão para insistirem em **máscaras** , 
+**lockdown** , e vacina? 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-lockdown 
-precoce 
-risco 
-tratamento 
+eficácia
+estudo
+lockdown
+máscara
+precoce
+risco
+transmissão
+tratamento

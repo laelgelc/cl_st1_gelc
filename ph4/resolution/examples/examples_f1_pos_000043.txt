@@ -5,21 +5,22 @@ conversation = 99999999
 URL = https://twitter.com/oscasosraros/status/1530468526552715300
 
 word count = 39
-words loading = 7
+words loading = 8
 factor score = 8
 
 flag_new_zealand_e " As autoridades da Nova Zelândia disseram na segunda-feira 
 que ligaram a **morte** de um homem de 26 **anos** à vacina COVID-19 da Pfizer 
 Inc, depois que a **pessoa** **sofreu** **miocardite** , uma inflamação rara 
-do músculo cardíaco, após tomar sua **primeira** **dose** . " twitter. com / 
-rasekrasek / sta … 
+do músculo **cardíaco** , após tomar sua **primeira** **dose** . " twitter. 
+com / rasekrasek / sta … 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-dose 
-miocardite 
-morte 
-pessoa 
-primeiro 
-sofrer 
+ano
+cardíaco
+dose
+miocardite
+morte
+pessoa
+primeiro
+sofrer

@@ -5,20 +5,24 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1458451210806177800
 
 word count = 46
-words loading = 7
+words loading = 10
 factor score = 7
 
-Com quase 2 anos de **pandemia** as estatísticas **asseguram** que o vírus 
-não **representa** **risco** significativo de **morte** para **jovens** 
-saudáveis, mas o mesmo não se pode falar sobre as vacinas, ainda que tenhamos 
-passado apenas alguns meses após o início da aplicação em **massa** . 
+Com quase 2 anos de **pandemia** as **estatísticas** **asseguram** que o 
+**vírus** não **representa** **risco** significativo de **morte** para 
+**jovens** **saudáveis** , mas o mesmo não se pode falar sobre as vacinas, 
+ainda que tenhamos passado apenas alguns meses após o início da aplicação 
+em **massa** . 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
+assegurar
+estatística
 jovem (secondary)
-massa 
+massa
 morte (secondary)
-pandemia 
-representar 
-risco 
+pandemia
+representar
+risco
+saudável (secondary)
+vírus

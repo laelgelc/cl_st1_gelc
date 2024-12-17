@@ -16,12 +16,12 @@ govs, o presidente e o ministro da saúde **paguem** por cada **vida** q se
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-colateral 
-efeito 
-pagar 
-perder 
-prefeito 
-querer 
-saber 
-vida 
+causa
+colateral
+efeito
+pagar
+perder
+prefeito
+querer
+saber
+vida

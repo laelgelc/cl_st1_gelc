@@ -5,16 +5,20 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1433093774629027800
 
 word count = 42
-words loading = 3
+words loading = 7
 factor score = 6
 
-Nem **lockdown** , nem máscaras, e tampouco as vacinas **impedem** a 
-contaminação e a transmissão do vírus, muito menos as **mortes** . Tem que 
-ser meio tapado para não perceber o que está em jogo e apoiar essa 
-aberração autoritária chamada passaporte sanitário. 
+Nem **lockdown** , nem **máscaras** , e tampouco as vacinas **impedem** a 
+contaminação e a **transmissão** do **vírus** , muito menos as **mortes** . 
+Tem que ser meio tapado para não perceber o que está em jogo e apoiar essa 
+aberração autoritária chamada passaporte **sanitário** . 
 
 Lemmas in this text that loaded on the factor:
 
-impedir 
-lockdown 
+impedir
+lockdown
 morte (secondary)
+máscara
+sanitário
+transmissão
+vírus

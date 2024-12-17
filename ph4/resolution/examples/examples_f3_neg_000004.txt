@@ -14,7 +14,7 @@ VIERAMN A ÓBITO Pleno. **News** pleno. **news** / **brasil** / jair-bo …
 
 Lemmas in this text that loaded on the factor:
 
-apertar 
-brasil 
-news 
-segundo 
+apertar
+brasil
+news
+segundo

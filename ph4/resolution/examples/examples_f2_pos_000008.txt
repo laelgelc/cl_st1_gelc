@@ -16,10 +16,10 @@ tiveram miocardite, AVC, ataque cardíaco, trombose, gripe e até morreram etc.
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-covid 
-dizer 
-gente 
-pegar 
-saber 
-verdade 
+causa
+covid
+dizer
+gente
+pegar
+saber
+verdade

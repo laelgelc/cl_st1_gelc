@@ -18,8 +18,8 @@ Lemmas in this text that loaded on the factor:
 
 fonte (secondary)
 indicar (secondary)
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm
 pesquisa (secondary)
 publicar (secondary)

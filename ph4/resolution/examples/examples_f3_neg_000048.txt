@@ -5,16 +5,17 @@ conversation = 99999999
 URL = https://twitter.com/oscasosraros/status/1575981899314786300
 
 word count = 46
-words loading = 2
+words loading = 3
 factor score = -3
 
 Os médicos insistem em procurar doença desmielinizante, e já dura 1 ano esta 
 investigação e não encontram nada! Não assumem que foi a vacina! , nos 
 conta Liliany. Hoje, ainda tem dificuldades p / andar, **dores** nas costas e 
-**pernas** , na cabeça, perda de memória, urgência urinária. . . 
+**pernas** , na **cabeça** , perda de memória, urgência urinária. . . 
 https://t.co/mNyb7RjXPB 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-perna 
+cabeça
+dor
+perna

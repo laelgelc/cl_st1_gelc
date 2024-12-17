@@ -16,6 +16,6 @@ hours after 2nd dose of Pfizer: pubmed. **ncbi** . **nlm** . **nih** . gov /
 
 Lemmas in this text that loaded on the factor:
 
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm

@@ -5,24 +5,26 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
 
 word count = 35
-words loading = 10
+words loading = 11
 factor score = 8
 
 Fernanda Keulla tomou as **primeiras** **doses** do **experimento** em agosto / 
-21 e o reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. 
-A OMS já **alertou** sobre o **experimento** ser o gatilho para HerpesZoster 
-**pesquisa** . **bvsalud** . **org** / global-literat … instagram. com / p / 
-CgdNKw3M_TZ / … instagram. com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
+21 e o **reforço** há pouco tempo. Está **internada** devido uma Herpes 
+Zoster. A OMS já **alertou** sobre o **experimento** ser o gatilho para 
+HerpesZoster **pesquisa** . **bvsalud** . **org** / global-literat … 
+instagram. com / p / CgdNKw3M_TZ / … instagram. com / reel / CSFicCig8 … 
+https://t.co/5mn7iziOnZ 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
+alertar
 bvsalud (secondary)
-dose 
-experimento 
+dose
+experimento
 global (secondary)
-internar 
+internar
 literat (secondary)
-org 
-pesquisa 
-primeiro 
+org
+pesquisa
+primeiro
+reforço

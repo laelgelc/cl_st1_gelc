@@ -5,19 +5,21 @@ conversation = 99999999
 URL = https://twitter.com/julianaayres/status/1471294186150408200
 
 word count = 42
-words loading = 5
+words loading = 7
 factor score = -5
 
 @alyssanilsen Como estão as coisas aí , Alyssa, pós vacinação? Quais tipos 
 de efeitos colaterais tem aparecido por aí ? Aqui, no Brasil: AVC, Ataque 
-cardíaco, **paralisia** **facial** , motes, muitas tromboses, **miocardites** 
-, problema nos **rins** , queda de cabelo, **dores** de cabeça. . . São 
-tantos. . . 
+**cardíaco** , **paralisia** **facial** , motes, muitas tromboses, 
+**miocardites** , problema nos **rins** , queda de cabelo, **dores** de 
+**cabeça** . . . São tantos. . . 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-facial 
+cabeça
+cardíaco (secondary)
+dor
+facial
 miocardite (secondary)
-paralisia 
-rim 
+paralisia
+rim

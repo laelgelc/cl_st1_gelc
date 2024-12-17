@@ -16,11 +16,11 @@ de esquerdistas à nossa página
 
 Lemmas in this text that loaded on the factor:
 
-ano 
+ano
 dar (secondary)
-dia 
-fonte 
-infarto 
-morrer 
-morte 
-semana 
+dia
+fonte
+infarto
+morrer
+morte
+semana

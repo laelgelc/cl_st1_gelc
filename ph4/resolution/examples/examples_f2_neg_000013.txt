@@ -5,17 +5,18 @@ conversation = 99999999
 URL = https://twitter.com/oscasosraros/status/1569837519092723700
 
 word count = 42
-words loading = 3
+words loading = 4
 factor score = -3
 
 As vacinas baseadas em **mRNA** e vetor viral podem estar associadas à 
 **Mielite** **Transversa** . Este estudo sugere que os médicos devem 
-considerar o diagnóstico de MT em pacientes que apresentam sinais precoces de 
-disfunção da medula espinhal após a vacinação contra C-19 . twitter. com / 
-Maples46014332 … 
+considerar o **diagnóstico** de MT em pacientes que apresentam sinais precoces 
+de disfunção da medula espinhal após a vacinação contra C-19 . twitter. 
+com / Maples46014332 … 
 
 Lemmas in this text that loaded on the factor:
 
-mielite 
-mrna 
-transverso 
+diagnóstico (secondary)
+mielite
+mrna
+transverso

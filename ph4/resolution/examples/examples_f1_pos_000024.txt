@@ -5,21 +5,24 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1571061289266585600
 
 word count = 47
-words loading = 7
+words loading = 10
 factor score = 9
 
-Alex era um defensor do **experimento** e, em sua última postagem chamou os 
-críticos das **doses** de Fanáticos. **Faleceu** de um AVC em 16 / 09 / 2022 
-, poucas **semanas** depois do reforço. **Estudos** **indicam** que o 
-**experimento** pode provocar AVC, mesmo depois de meses após as **doses** . 
-Segue **fontes** : https://t.co/AqeeYxXIdW 
+Alex era um defensor do **experimento** e, em sua **última** postagem chamou 
+os críticos das **doses** de Fanáticos. **Faleceu** de um AVC em 16 / 09 / 
+2022 , poucas **semanas** depois do **reforço** . **Estudos** **indicam** que 
+o **experimento** pode provocar AVC, mesmo depois de **meses** após as 
+**doses** . Segue **fontes** : https://t.co/AqeeYxXIdW 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
+dose
 estudo (secondary)
-experimento 
-falecer 
-fonte 
-indicar 
-semana 
+experimento
+falecer
+fonte
+indicar
+mês
+reforço
+semana
+último

@@ -5,11 +5,11 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1564768844127813600
 
 word count = 31
-words loading = 8
+words loading = 9
 factor score = 8
 
 **Fontes** : **Pesquisa** **publicada** na Revista cientifica Virology 
-**indicando** que a eficácia é negativa após reforços: virologyj. 
+**indicando** que a eficácia é negativa após **reforços** : virologyj. 
 biomedcentral. com / **articles** / 10 . 11 … Reportagem onde familiares 
 afiemam que ele tomou 4 **doses** e mesmo assim **contraiu** diversas vezes: m. 
 **facebook** . com / story. php? stor … 
@@ -17,10 +17,11 @@ afiemam que ele tomou 4 **doses** e mesmo assim **contraiu** diversas vezes: m.
 Lemmas in this text that loaded on the factor:
 
 articles (secondary)
-contrair 
-dose 
-facebook 
-fonte 
-indicar 
-pesquisa 
-publicar 
+contrair
+dose
+facebook
+fonte
+indicar
+pesquisa
+publicar
+reforço

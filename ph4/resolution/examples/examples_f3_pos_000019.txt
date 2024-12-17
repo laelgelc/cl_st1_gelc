@@ -5,20 +5,24 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1471849973696368600
 
 word count = 37
-words loading = 7
+words loading = 10
 factor score = 7
 
-@revistaoeste As estatísticas **asseguram** que o **risco** de **morte** entre 
-**jovens** saudáveis é ínfimo, menor que 0 , 05 % . Submetê -las a um 
-**risco** desconhecido com vacinas que não possuem **estudos** de **longo** 
-**prazo** quanto a segurança, ultrapassa qualquer limite ético. 
+@revistaoeste As **estatísticas** **asseguram** que o **risco** de **morte** 
+entre **jovens** **saudáveis** é ínfimo, menor que 0 , 05 % . Submetê -las 
+a um **risco** desconhecido com vacinas que não possuem **estudos** de 
+**longo** **prazo** quanto a **segurança** , ultrapassa qualquer limite 
+ético. 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-estudo 
+assegurar
+estatística
+estudo
 jovem (secondary)
-longo 
+longo
 morte (secondary)
-prazo 
-risco 
+prazo
+risco
+saudável (secondary)
+segurança

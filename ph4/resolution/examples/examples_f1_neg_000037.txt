@@ -5,15 +5,16 @@ conversation = 81842196
 URL = https://twitter.com/FabioIng/status/1322121271413514240
 
 word count = 25
-words loading = 3
+words loading = 4
 factor score = -2
 
 " @revistaoeste @VlogdoLisboa - Hidroxicloroquina. Há 70 anos no **mercado** : 
-" " não tem comprovação científica, é perigoso " " - Vacina. Feita em 7 
-meses: " " deve ser obrigatória. " " **Dama** de **ferro** / TT " 
+" " não tem **comprovação** científica, é perigoso " " - Vacina. Feita em 
+7 meses: " " deve ser obrigatória. " " **Dama** de **ferro** / TT " 
 
 Lemmas in this text that loaded on the factor:
 
-dama 
-ferro 
-mercado 
+comprovação
+dama
+ferro
+mercado

@@ -14,6 +14,6 @@ com. br / **brasil** / 2021 / 09 …
 
 Lemmas in this text that loaded on the factor:
 
-brasil 
-facial 
-paralisia 
+brasil
+facial
+paralisia

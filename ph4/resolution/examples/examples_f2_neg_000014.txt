@@ -5,7 +5,7 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1574004081466785800
 
 word count = 33
-words loading = 9
+words loading = 10
 factor score = -3
 
 **Pesquisas** **indicam** que o período mais propenso a infartos e AVCs se dá 
@@ -18,11 +18,12 @@ pós-experimento: **ncbi** . **nlm** . **nih** . gov / pmc / **articles** / P
 Lemmas in this text that loaded on the factor:
 
 alerta (secondary)
-articles 
+articles
 experimento (secondary)
 fonte (secondary)
 indicar (secondary)
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm
 pesquisa (secondary)
+pós (secondary)

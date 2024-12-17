@@ -16,9 +16,9 @@ meses após as doses. gov. br / anvisa / pt-br / a … **ncbi** . **nlm** .
 
 Lemmas in this text that loaded on the factor:
 
-articles 
+articles
 indicar (secondary)
-ncbi 
-nih 
-nlm 
+ncbi
+nih
+nlm
 pesquisa (secondary)

@@ -13,6 +13,6 @@ DO PL 4506 / 2020 - BIA KICIS **Proposta** **retira** vacinação compul
 
 Lemmas in this text that loaded on the factor:
 
-enquete 
-proposta 
-retirar 
+enquete
+proposta
+retirar

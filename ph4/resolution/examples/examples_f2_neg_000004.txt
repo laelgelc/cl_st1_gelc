@@ -16,7 +16,7 @@ P …
 
 Lemmas in this text that loaded on the factor:
 
-articles 
-ncbi 
-nih 
-nlm 
+articles
+ncbi
+nih
+nlm

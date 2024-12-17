@@ -5,15 +5,16 @@ conversation = 99999999
 URL = https://twitter.com/oscasosraros/status/1534652443279208400
 
 word count = 45
-words loading = 2
+words loading = 3
 factor score = -3
 
 1 / 5 Cassio era um jovem de 32 anos, ativo, sem vícios, nem problemas de 
 saúde. No mesmo dia da **segunda** dose, começou a sentir **dores** no peito, 
-e muita, muita **dor** de cabeça. Foi imediatamente à Urgências. Ao chegar, 
-sua pressão arterial estava 4 por 5 . https://t.co/fWC4zRBgCk 
+e muita, muita **dor** de **cabeça** . Foi imediatamente à Urgências. Ao 
+chegar, sua pressão arterial estava 4 por 5 . https://t.co/fWC4zRBgCk 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-segundo 
+cabeça
+dor
+segundo

@@ -15,6 +15,6 @@ uma filhinha. Tomou a 1° dose aí teve problema nos **rins** e na **pele** . .
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-rim 
+amiga
+pele
+rim

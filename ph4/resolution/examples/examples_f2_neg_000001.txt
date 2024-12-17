@@ -15,13 +15,13 @@ Existem estudos, **publicados** pela própria OMS, relacionando a doença de
 
 Lemmas in this text that loaded on the factor:
 
-articles 
-bvsalud 
-global 
-literat 
-mrna 
-ncbi 
-nih 
-nlm 
+articles
+bvsalud
+global
+literat
+mrna
+ncbi
+nih
+nlm
 pesquisa (secondary)
 publicar (secondary)

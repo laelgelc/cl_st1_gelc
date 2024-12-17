@@ -16,7 +16,7 @@ mattletiss7 / st …
 
 Lemmas in this text that loaded on the factor:
 
-atleta 
-futebol 
-global 
+atleta
+futebol
+global
 publicar (secondary)

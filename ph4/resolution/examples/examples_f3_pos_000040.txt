@@ -5,16 +5,20 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1471546509799743500
 
 word count = 38
-words loading = 3
+words loading = 7
 factor score = 6
 
-@anvisa_oficial Apresentem as estatísticas de óbitos por covid entre 
-crianças, comparando com os índices de efeitos adversos de curto e de 
-**longo** **prazo** nos **estudos** de segurança das vacinas. Não tem, né ? 
-Então essa decisão é absurdamente equivocada! 
+@anvisa_oficial Apresentem as **estatísticas** de óbitos por covid entre 
+**crianças** , comparando com os **índices** de efeitos adversos de curto e 
+de **longo** **prazo** nos **estudos** de **segurança** das vacinas. Não tem, 
+né ? Então essa decisão é absurdamente equivocada! 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-longo 
-prazo 
+criança (secondary)
+estatística
+estudo
+longo
+prazo
+segurança
+índice

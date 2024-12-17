@@ -244,4 +244,8 @@ When scraping text from the `loadtable.html` document, there are lemmas that are
 
 #### Decision
 
-Since the original Bash script snippet is not reliable when executed on an Ubuntu system the proposed solution consists of replacing it by a Python programme. 
+Since the original Bash script snippet is not reliable when executed on an Ubuntu system the proposed solution consists of replacing it by a Python programme.
+
+#### Result
+
+The issue was solved by the `extract_factors.py` programmme.

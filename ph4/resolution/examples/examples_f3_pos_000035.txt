@@ -5,20 +5,22 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1499688063043133400
 
 word count = 44
-words loading = 6
+words loading = 8
 factor score = 6
 
 Previram milhões de **mortes** em dois meses, disseram que **lockdown** e 
-máscaras **impediriam** o contágio, **garantiram** que as vacinas tinham 99 % 
-de eficácia, tentaram **impedir** o **tratamento** médico de **pacientes** . 
-Mas você deve acreditar quando eles dizem que as vacinas são seguras, tá ? 
-clown_face_e 
+**máscaras** **impediriam** o contágio, **garantiram** que as vacinas tinham 
+99 % de **eficácia** , tentaram **impedir** o **tratamento** médico de 
+**pacientes** . Mas você deve acreditar quando eles dizem que as vacinas são 
+seguras, tá ? clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
+eficácia
 garantir (secondary)
-impedir 
-lockdown 
+impedir
+lockdown
 morte (secondary)
-paciente 
-tratamento 
+máscara
+paciente
+tratamento

@@ -5,24 +5,26 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1566823981826687000
 
 word count = 44
-words loading = 10
+words loading = 12
 factor score = 11
 
 Flávio Rodrigues era integrante da banda Medida Provisória. Era um entusiasta 
-do **experimento** e sempre postava suas **doses** . Tomou o reforço em 07 / 
-07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
+do **experimento** e sempre postava suas **doses** . Tomou o **reforço** em 07 
+/ 07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
 **publicou** um **alerta** sobre o **risco** de **Miocardite** , e problemas 
-cardíacos. Segue. . . https://t.co/WNJnCJJCDS 
+**cardíacos** . Segue. . . https://t.co/WNJnCJJCDS 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
-dia 
-dose 
-experimento 
-falecer 
-fulminante 
-infarto 
-miocardite 
-publicar 
+alerta
+cardíaco
+dia
+dose
+experimento
+falecer
+fulminante
+infarto
+miocardite
+publicar
+reforço
 risco (secondary)

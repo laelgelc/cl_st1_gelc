@@ -16,5 +16,5 @@ Express Quem é gado? "
 
 Lemmas in this text that loaded on the factor:
 
-confiar 
-piada 
+confiar
+piada

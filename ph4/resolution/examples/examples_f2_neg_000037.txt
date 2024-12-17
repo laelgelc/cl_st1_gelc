@@ -5,15 +5,16 @@ conversation = 99999999
 URL = https://twitter.com/mpatriabrasil/status/1594298787098394600
 
 word count = 42
-words loading = 2
+words loading = 3
 factor score = -2
 
 Abaixo, uma coletânea de estudos **publicados** em revistas científicas 
 sugerindo a relação da vacina com Leucemia, Tromboses, infartos, 
-**Hepatites** de Células T, entre outras milhares de doenças. A vacina é o 
-gatilho para doenças que deveriam aparecer só na velhice. Acordem! 
+**Hepatites** de **Células** T, entre outras milhares de doenças. A vacina é 
+o gatilho para doenças que deveriam aparecer só na velhice. Acordem! 
 
 Lemmas in this text that loaded on the factor:
 
-hepatite 
+célula
+hepatite
 publicar (secondary)

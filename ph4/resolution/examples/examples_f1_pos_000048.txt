@@ -5,19 +5,21 @@ conversation = 99999999
 URL = https://twitter.com/julianabrioli/status/1596240266758848500
 
 word count = 49
-words loading = 5
+words loading = 7
 factor score = 7
 
-Meu amado pai **faleceu** há exatos 9 meses e 3 **dias** , apenas 72 **anos** 
-, zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de COVID. 
-Bolsonarista convicto até o último suspiro … Genocida foi a corrupção que 
-assolou nosso país durante 14 **anos** de PT. Papai, minha luta é por VOCÊ . 
-https://t.co/0MNpLM2a5a 
+Meu amado pai **faleceu** há exatos 9 **meses** e 3 **dias** , apenas 72 
+**anos** , zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de 
+COVID. Bolsonarista convicto até o **último** suspiro … Genocida foi a 
+corrupção que assolou nosso país durante 14 **anos** de PT. Papai, minha 
+luta é por VOCÊ . https://t.co/0MNpLM2a5a 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-dia 
-dose 
-falecer 
-morrer 
+ano
+dia
+dose
+falecer
+morrer
+mês
+último

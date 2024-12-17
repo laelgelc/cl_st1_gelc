@@ -5,19 +5,26 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1452718561806405600
 
 word count = 36
-words loading = 6
+words loading = 13
 factor score = 9
 
-@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
-têm **risco** de **morte** pela doença, e considerando que as vacinas não 
-**impedem** a infecção e tampouco a transmissão do vírus, tal 
-**obrigatoriedade** é estupidamente sem lógica. 
+@SigaGazetaBR As **estatísticas** **asseguram** que **jovens** **saudáveis** 
+não têm **risco** de **morte** pela **doença** , e considerando que as 
+vacinas não **impedem** a **infecção** e tampouco a **transmissão** do 
+**vírus** , tal **obrigatoriedade** é estupidamente sem **lógica** . 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-impedir 
+assegurar
+doença (secondary)
+estatística
+impedir
+infecção
 jovem (secondary)
+lógico
 morte (secondary)
-obrigatoriedade 
-risco 
+obrigatoriedade
+risco
+saudável (secondary)
+transmissão
+vírus

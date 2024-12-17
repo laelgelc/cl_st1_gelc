@@ -5,20 +5,23 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1397231722987667500
 
 word count = 46
-words loading = 6
+words loading = 9
 factor score = 7
 
 Ciência é quando há centenas de **estudos** publicados **assegurando** a 
-eficácia e a segurança do **tratamento** **precoce** ; Genocídio é quando a 
-imprensa **mente** sobre isso e induz as pessoas a esperarem pelo agravamento 
-da doença; **Interesse** é quando alguém financia isso para lucrar com 
-vacina! 
+**eficácia** e a **segurança** do **tratamento** **precoce** ; Genocídio é 
+quando a imprensa **mente** sobre isso e induz as pessoas a esperarem pelo 
+agravamento da **doença** ; **Interesse** é quando alguém financia isso para 
+lucrar com vacina! 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-estudo 
+assegurar
+doença (secondary)
+eficácia
+estudo
 interesse (secondary)
-mentar 
-precoce 
-tratamento 
+mentar
+precoce
+segurança
+tratamento

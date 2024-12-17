@@ -16,12 +16,12 @@ Segue **fontes** . . . https://t.co/5zz7uBDNcb
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-dia 
-dose 
-experimento 
-falecer 
-fonte 
-fulminante 
-infarto 
-jovem 
+ano
+dia
+dose
+experimento
+falecer
+fonte
+fulminante
+infarto
+jovem

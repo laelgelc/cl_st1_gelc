@@ -5,13 +5,15 @@ conversation = 99999999
 URL = https://twitter.com/oscasosraros/status/1540082296178499600
 
 word count = 21
-words loading = 1
+words loading = 3
 factor score = -3
 
-Aline, 15 anos, sintomas iniciais **dores** no pé 1 mês depois da 2a dose. 
-Diagnóstico: Mielite Transversa. #CanWeTalkAboutIt #IStandWithYou 
+Aline, 15 anos, sintomas iniciais **dores** no **pé** 1 mês depois da 2a 
+dose. **Diagnóstico** : Mielite Transversa. #CanWeTalkAboutIt #IStandWithYou 
 https://t.co/qms7vt535E 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
+diagnóstico
+dor
+pé

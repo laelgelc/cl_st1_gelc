@@ -5,23 +5,24 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1379502758718492700
 
 word count = 42
-words loading = 9
+words loading = 10
 factor score = 8
 
 Coisas que não **dá** mais pra esconder mas a velha imprensa **vendida** 
 continua fingindo não **saber** : - **Tratamento** **precoce** **salva** 
-**vidas** ; - Vacina não **garante** imunização; - Lockdown não reduz 
+**vidas** ; - Vacina não **garante** **imunização** ; - Lockdown não reduz 
 contágio e tampouco mortes; - O establishment faz de tudo para derrubar o 
 atual **governo** ; 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-garantir 
-governo 
+dar
+garantir
+governo
+imunização
 precoce (secondary)
-saber 
-salvar 
+saber
+salvar
 tratamento (secondary)
-vender 
-vida 
+vender
+vida

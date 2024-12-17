@@ -5,16 +5,18 @@ conversation = 99999999
 URL = https://twitter.com/julianaayres/status/1431850646093901800
 
 word count = 40
-words loading = 3
+words loading = 5
 factor score = -5
 
-@TonyStarkMeta Uma **amiga** ficou com a **pele** dos pés a cabeça parecendo 
-uma larva de vulcão. Achei q fosse morrer. Mais de 1 mês internada e os 
-médicos queriam q ela tomasse a **segunda** dose 
+@TonyStarkMeta Uma **amiga** ficou com a **pele** dos **pés** a **cabeça** 
+parecendo uma larva de vulcão. Achei q fosse morrer. Mais de 1 mês internada 
+e os médicos queriam q ela tomasse a **segunda** dose 
 woman_shrugging_medium_skin_tone_e Esses médicos são assassinos. 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-segundo 
+amiga
+cabeça
+pele
+pé
+segundo

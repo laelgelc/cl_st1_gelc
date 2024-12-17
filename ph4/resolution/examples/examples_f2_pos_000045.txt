@@ -5,19 +5,20 @@ conversation = 99999999
 URL = https://twitter.com/derzevic/status/1332338423231869000
 
 word count = 32
-words loading = 6
+words loading = 7
 factor score = 7
 
 OLHA COMO DITADÓRIA TA LEVANDO NA CARA E CONTINUA A **QUERER** VACHINAR O 
 **POVO** NA MARRA, MESMO SEM APROVAÇÃO DA ANVISA Covid-19 : David Uip **diz** 
-que é contra vacinação obrigatória gazetabrasil. com. br / **especiais** / 
-coro … **via** @Gazeta 
+que é contra vacinação **obrigatória** gazetabrasil. com. br / 
+**especiais** / coro … **via** @Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-covid 
-dizer 
-especial 
-povo 
-querer 
-via 
+covid
+dizer
+especial
+obrigatório
+povo
+querer
+via

@@ -14,5 +14,5 @@ Reuters ) reuters. com / **world** / us / cdc-h …
 
 Lemmas in this text that loaded on the factor:
 
-cdc 
-world 
+cdc
+world

@@ -15,9 +15,9 @@ histérica?
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-causa 
-colateral 
-efeito 
-gente 
-perder 
+aprovar
+causa
+colateral
+efeito
+gente
+perder
