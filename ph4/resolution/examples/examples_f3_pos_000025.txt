@@ -1,0 +1,23 @@
+file = t012834
+date = 2021-08-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1422647487190417400
+
+word count = 48
+words loading = 5
+factor score = 7
+
+@SigaGazetaBR A guerra de informação deixou tudo muito turvo, mas já há 
+**estudos** suficientes para afirmar que o vírus veio de laboratório, que o 
+**tratamento** **precoce** salva vidas, que as vacinas têm **riscos** de 
+efeitos colaterais severos, que **lockdown** e máscara são ineficazes, e por 
+aí vai. . . 
+
+Lemmas in this text that loaded on the factor:
+
+estudo 
+lockdown 
+precoce 
+risco 
+tratamento 

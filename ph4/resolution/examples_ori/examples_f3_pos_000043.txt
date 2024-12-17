@@ -1,0 +1,26 @@
+file = t013112
+date = 2021-09-00
+user = url:https://twitter.com/evandroratho/status/1438123547143065600
+conversation = 99999999
+URL = 
+
+word count = 42
+words loading = 8
+factor score = 6
+
+@SigaGazetaBR Vacinados continuam com **risco** de adoecer e **transmitir** o 
+**vírus** ; As **estatísticas** mostram uma preocupante incidência de 
+internação e óbitos entre vacinados; Recuperados da **doença** têm 
+**imunidade** **natural** **melhor** do que vacinados; Sob nenhuma ótica esse 
+passaporte vacinal faz sentido! 
+
+Lemmas in this text that loaded on the factor:
+
+bom (secondary)
+doença (secondary)
+estatística
+imunidade
+natural
+risco
+transmitir
+vírus

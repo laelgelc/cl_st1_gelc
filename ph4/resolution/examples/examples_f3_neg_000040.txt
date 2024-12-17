@@ -1,0 +1,21 @@
+file = t015133
+date = 2022-04-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1510419116645138400
+
+word count = 47
+words loading = 3
+factor score = -3
+
+@Himaritheus @carlosmaltz A filha da minha **amiga** teve problema nos **rins** 
+( outro caso esse ) depois da 1° dose. . . ficou toda inchada e teve tbm 
+problema de **pele** . . . muita alergia. Uma outra **amiga** do Nordeste teve 
+a mesma alergia. Fui pesquisar milhares de pessoas tiveram essa mesma alergia. 
++ 
+
+Lemmas in this text that loaded on the factor:
+
+amiga 
+pele 
+rim 

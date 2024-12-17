@@ -1,0 +1,24 @@
+file = t010433
+date = 2020-10-00
+user = url:https://twitter.com/derzevic/status/1321539492495413200
+conversation = 99999999
+URL = 
+
+word count = 31
+words loading = 7
+factor score = 7
+
+Assim, vai dividir o prejuízo e improbidade, pois o **povo** não vai **querer** 
+esta porcaria! ! Doria **diz** que **comprará** vacina **chinesa** e 
+disponibilizará para outros estados: ' O ideal ' gazetabrasil. com. br / 
+**especiais** / coro … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+chinês
+comprar
+dizer
+especial
+povo
+querer
+via

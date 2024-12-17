@@ -1,0 +1,18 @@
+file = t012349
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1404451603600625700
+
+word count = 28
+words loading = 2
+factor score = 6
+
+Quem fala tanto em nome da ciência deveria apresentar os **estudos** 
+científicos que comprovam a eficácia das máscaras e do **lockdown** , e, 
+principalmente, da segurança das vacinas. 
+
+Lemmas in this text that loaded on the factor:
+
+estudo 
+lockdown 

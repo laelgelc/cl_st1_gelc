@@ -1,0 +1,29 @@
+file = t016771
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1595992165557178400
+
+word count = 46
+words loading = 11
+factor score = 12
+
+Mais **jovens** **falecendo** por **infartos** e **males** Súbitos. É 
+importante lembrar que a **pesquisa** científica da @CMAJ, **publicada** nesta 
+**semana** , **indicou** q o **risco** d problemas cardíacos é d 100 p / cada 
+100mil **doses** . É duro saber que estes **morreram** p / q alguns se 
+sentissem seguros. . . https://t.co/xFSmndVjej 
+
+Lemmas in this text that loaded on the factor:
+
+dose 
+falecer 
+indicar 
+infarto 
+jovem 
+mal 
+morrer 
+pesquisa 
+publicar 
+risco (secondary)
+semana 

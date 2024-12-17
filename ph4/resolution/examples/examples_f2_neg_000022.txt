@@ -1,0 +1,25 @@
+file = t016626
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1592831024278687700
+
+word count = 33
+words loading = 7
+factor score = -3
+
+**Pesquisa** **publicada** no PubMed sobre a ativação de de fenômenos 
+auto-imunes pós-vacina é assustadora! A **pesquisa** **indica** que a #vacina 
+de mRNApode provocar problemas hepáticos graves, sequelas irreversíveis no 
+fígado e nefropatias. **Fonte** : pubmed. **ncbi** . **nlm** . **nih** . gov / 
+34957554 / . https://t.co/e502VKuxqg 
+
+Lemmas in this text that loaded on the factor:
+
+fonte (secondary)
+indicar (secondary)
+ncbi 
+nih 
+nlm 
+pesquisa (secondary)
+publicar (secondary)

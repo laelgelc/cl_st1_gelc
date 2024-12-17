@@ -1,0 +1,19 @@
+file = t012195
+date = 2021-05-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1397571731578138600
+
+word count = 22
+words loading = 1
+factor score = -1
+
+Homem de 40 anos em Ontário, que recebeu a primeira dose da Astrazeneca no 
+final de Abril, morre semanas depois. 
+backhand_index_pointing_down_eEMOJI_backhand_index_pointing_down_eEMOJI_backhand
+_index_pointing_down_e theguardian. com / commentisfree / … theguardian. com 
+/ **world** / 2021 / may … https://t.co/Jpg9FegUfg 
+
+Lemmas in this text that loaded on the factor:
+
+world 

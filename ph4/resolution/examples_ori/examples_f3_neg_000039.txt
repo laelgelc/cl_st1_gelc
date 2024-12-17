@@ -1,0 +1,21 @@
+file = t014110
+date = 2021-12-00
+user = url:https://twitter.com/julianaayres/status/1472644017905094700
+conversation = 99999999
+URL = 
+
+word count = 50
+words loading = 3
+factor score = -3
+
+Hoje conheci uma senhora de 80 anos no velório da filha de uma **amiga** que 
+morreu após complicações nos **rins** e **pele** pós vacina, que renovou meu 
+espírito. Explico: Ela veio conversar comigo sobre as vacinas. . . O filho dela 
+tomou as 3 doses e teve 3 AVCs, está paralisado ( + ) 
+backhand_index_pointing_down_e 
+
+Lemmas in this text that loaded on the factor:
+
+amiga
+pele
+rim

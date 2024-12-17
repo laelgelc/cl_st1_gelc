@@ -1,0 +1,20 @@
+file = t016534
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1590555557819478000
+
+word count = 44
+words loading = 2
+factor score = -2
+
+Novo normal no **futebol** . Centenas de jogadores morrendo em campo ou 
+sofrendo paradas cardíacas depois da #vacina. A mídia esconde, mas a coisa 
+está saindo de controle. Nesta semana tivemos uma jogadora mirim do 
+Ferroviária, entre vários **atletas** amadores mortos. Até quando? 
+https://t.co/LFvLYE46Mg 
+
+Lemmas in this text that loaded on the factor:
+
+atleta 
+futebol 

@@ -1,0 +1,19 @@
+file = t014107
+date = 2021-12-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1472564779977949200
+
+word count = 30
+words loading = 3
+factor score = -3
+
+Outra **amiga** está no hospital, também ruim dos **rins** pós vacina. Nunca 
+teve problema. . . Estava saudável, tinha acabado de fazer **exames** . Tomou 
+a vacina, pimba! Que Deus nos ajude. 
+
+Lemmas in this text that loaded on the factor:
+
+amiga 
+exame 
+rim 

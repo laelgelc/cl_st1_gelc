@@ -1,0 +1,23 @@
+file = t016696
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1594694889899532300
+
+word count = 17
+words loading = 7
+factor score = -4
+
+**Pesquisa** científica **publicada** no @ncbi relacionando a #depressão e a 
+tentativa de suiEMOJI_copyright_eidio às vacinas. **Fonte** : **ncbi** . 
+**nlm** . **nih** . gov / pmc / **articles** / P … https://t.co/q6WyWqwuN1 
+
+Lemmas in this text that loaded on the factor:
+
+articles 
+fonte (secondary)
+ncbi 
+nih 
+nlm 
+pesquisa (secondary)
+publicar (secondary)

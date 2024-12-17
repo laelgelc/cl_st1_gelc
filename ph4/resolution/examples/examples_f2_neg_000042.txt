@@ -1,0 +1,20 @@
+file = t011919
+date = 2021-04-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1383851006769778700
+
+word count = 37
+words loading = 2
+factor score = -1
+
+A reativação do herpes zoster após a vacinação com COVID-19 em seis 
+pacientes com doenças **autoimunes** / inflamatórias comórbidas pode ser um 
+novo evento adverso associado à vacina de **mRNA** da Pfizer / BioNTech, 
+sugeriu um novo relatório. ( + ) backhand_index_pointing_down_e 
+https://t.co/enXm93RmcX 
+
+Lemmas in this text that loaded on the factor:
+
+autoimune (secondary)
+mrna 

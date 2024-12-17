@@ -1,0 +1,25 @@
+file = t012296
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1401974731641852000
+
+word count = 42
+words loading = 7
+factor score = 10
+
+Vamos aos fatos: O vírus foi feito em laboratório; Máscara e **lockdown** 
+são inúteis; Vacinas têm eficácia duvidosa e efeitos colaterais 
+**perigosos** ; A **letalidade** é baixa em pessoas saudáveis; A imprensa 
+**mente** ; Muitos roubaram durante **pandemia** ; O **tratamento** **precoce** 
+salva vidas; 
+
+Lemmas in this text that loaded on the factor:
+
+letalidade 
+lockdown 
+mentar 
+pandemia 
+perigoso 
+precoce 
+tratamento 

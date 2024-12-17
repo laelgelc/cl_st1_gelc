@@ -1,0 +1,20 @@
+file = t014336
+date = 2022-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1480883273710637000
+
+word count = 45
+words loading = 3
+factor score = 7
+
+Se quem toma 3 doses da vacina, **usa** máscara, álcool gel, segue todas as 
+medidas de distanciamento **social** , ainda assim pega covid, resta 
+evidenciado que tais medidas não **impedem** a infecção e a transmissão do 
+vírus, portanto, são inúteis e não deveriam ser obrigatórias! 
+
+Lemmas in this text that loaded on the factor:
+
+impedir 
+social 
+usar 

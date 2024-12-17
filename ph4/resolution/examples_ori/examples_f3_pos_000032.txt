@@ -1,0 +1,25 @@
+file = t010805
+date = 2020-12-00
+user = url:https://twitter.com/evandroratho/status/1338496066962993200
+conversation = 99999999
+URL = 
+
+word count = 48
+words loading = 7
+factor score = 7
+
+@opropriofaka @VilmaThomasCos1 @CarlosBolsonaro @BolsonaroSP Genocida é quem 
+manipula informações todos os dias para atacar seu desafeto político. É quem 
+**mente** sobre **segurança** de vacina, **eficácia** do **tratamento** 
+**precoce** , e ineficácia das medidas de **isolamento** . A imprensa com seu 
+terrorismo interesseiro mata mais do que o próprio **vírus** . 
+
+Lemmas in this text that loaded on the factor:
+
+eficácia
+isolamento
+mentar
+precoce
+segurança
+tratamento
+vírus

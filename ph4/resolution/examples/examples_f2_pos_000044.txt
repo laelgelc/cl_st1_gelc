@@ -1,0 +1,22 @@
+file = t010617
+date = 2020-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1334225747838374000
+
+word count = 42
+words loading = 5
+factor score = 7
+
+@gazetadopovo A vacina funciona? Talvez; A vacina tem todos os **efeitos** 
+**colaterais** conhecidos? Não; O índice de letalidade da doença justifica 
+vacinar todo **mundo** ? Não; A vacina **garante** imunização duradoura? 
+Não se **sabe** ; O que justifica a vacina? R$ 2 bilhões? ? ? 
+
+Lemmas in this text that loaded on the factor:
+
+colateral 
+efeito 
+garantir 
+mundo 
+saber 

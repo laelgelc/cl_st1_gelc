@@ -1,0 +1,22 @@
+file = t016135
+date = 2022-09-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1570918841051644000
+
+word count = 46
+words loading = 4
+factor score = -2
+
+Marcelo Muller sempre foi saudável até se submeter ao **experimento** . 2 
+dias após dose ele começou a apresentar sintomas e, depois, não conseguia 
+andar. Foi diagnosticado c / **Mielite** **Transversa** e veio à óbito em fev 
+/ 2022 . A própria Bula **indica** q a **Mielite** **Transversa** é uma 
+reacao. https://t.co/8IpggDwV3Q 
+
+Lemmas in this text that loaded on the factor:
+
+experimento (secondary)
+indicar (secondary)
+mielite 
+transverso 

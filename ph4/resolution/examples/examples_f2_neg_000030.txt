@@ -1,0 +1,22 @@
+file = t016022
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1562839737596989400
+
+word count = 45
+words loading = 4
+factor score = -2
+
+#DavidLuiz, jogador do #Flamengo, é diagnosticado com #Hepatite Viral. 
+Lembramos que a CBF exige o #passaporte em dia e os jogadores do Flamengo 
+tomaram a 3a. Dose em Março. A OMS e cientistas já **emitiram** **Alerta** 
+sobre o risco de **Hepatite** #pós_experimento. Segue **fontes** : 
+https://t.co/0hlPmnhQDA 
+
+Lemmas in this text that loaded on the factor:
+
+alerta (secondary)
+emitir 
+fonte (secondary)
+hepatite 

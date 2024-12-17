@@ -1,0 +1,18 @@
+file = t012488
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1407756304102441000
+
+word count = 37
+words loading = 1
+factor score = -1
+
+AGORA - o CDC acaba de lançar sua atualização de miocardite / pericardite. O 
+risco pós-segunda dose de vacinas de **mRNA** COVID-19 em pessoas com menos de 
+25 anos pode ser mais de 200 vezes a taxa de referência ( não contabilizando 
+subnotificação ) . twitter. com / AlexBerenson / s … 
+
+Lemmas in this text that loaded on the factor:
+
+mrna 

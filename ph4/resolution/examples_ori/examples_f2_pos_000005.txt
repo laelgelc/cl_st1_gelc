@@ -1,0 +1,25 @@
+file = t010618
+date = 2020-12-00
+user = url:https://twitter.com/derzevic/status/1334295040328425500
+conversation = 99999999
+URL = 
+
+word count = 36
+words loading = 8
+factor score = 8
+
+**QUER** **DIZER** QUE A **VACHINA** DOS AMIGUINHOS DO DORIANA SE **QUISER** 
+VAI TER QUE **PAGAR** DO BOLSO. Câmara **aprova** MP de Bolsonaro que libera 
+quase R$ 2 **bilhões** para **comprar** vacina de Oxford gazetabrasil. com. br 
+/ politica / camar … **via** @Gazeta 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+bilhão
+comprar
+dizer
+pagar
+querer
+vachina
+via

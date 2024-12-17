@@ -1,0 +1,21 @@
+file = t015550
+date = 2022-06-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1536878927746039800
+
+word count = 46
+words loading = 3
+factor score = -3
+
+Sr. Humberto, mecânico nordestino, estava bem de saúde. Apresentou uma 
+**paralisia** **facial** e tem sentido febre e **dores** pelo corpo inteiro 
+após 3a dose. Ele alerta a todos! A Bula do experimento prevê essas reações 
+mas, ninguém quer ler! Virou o Justin Bieber brasileiro. Melhoras! 
+https://t.co/5OXRklvikt 
+
+Lemmas in this text that loaded on the factor:
+
+dor 
+facial 
+paralisia 

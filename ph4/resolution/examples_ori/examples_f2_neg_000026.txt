@@ -1,0 +1,22 @@
+file = t015347
+date = 2022-05-00
+user = url:https://twitter.com/oscasosraros/status/1528388824769958000
+conversation = 99999999
+URL = 
+
+word count = 41
+words loading = 4
+factor score = -2
+
+Foram muitos exames até o **diagnóstico** : **Mielite** **Transversa** 
+**autoimune** , uma inflamação na medula espinhal. Recebeu tratamento com 
+imunoglobulina, e a família precisou lutar pra que o Estado fornecesse. A 
+Vigilância Sanitária notificou como evento adverso da vacina em investigação. 
+https://t.co/JSiw3VreAA 
+
+Lemmas in this text that loaded on the factor:
+
+autoimune (secondary)
+diagnóstico (secondary)
+mielite
+transverso

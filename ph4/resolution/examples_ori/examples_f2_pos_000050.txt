@@ -1,0 +1,23 @@
+file = t015809
+date = 2022-07-00
+user = url:https://twitter.com/evandroratho/status/1551941140185751600
+conversation = 99999999
+URL = 
+
+word count = 31
+words loading = 6
+factor score = 6
+
+@brom_elisa @minha_nacao Como se arquiva a dor de quem **perdeu** um filho 
+saudável por **causa** dos **efeitos** **colaterais** de uma vacina 
+experimental **aprovada** em caráter de urgência sob pressão de **gente** 
+histérica? 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+causa
+colateral
+efeito
+gente
+perder

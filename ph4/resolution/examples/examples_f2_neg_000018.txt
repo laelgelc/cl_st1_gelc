@@ -1,0 +1,22 @@
+file = t016511
+date = 2022-11-00
+user = oscasosraros
+conversation = 99999999
+URL = https://twitter.com/oscasosraros/status/1589249990450622500
+
+word count = 42
+words loading = 4
+factor score = -3
+
+" Imaginem a minha excitação ao anunciar a nossa própria pandemia **global** 
+. Me senti um Nostradamus da saúde pública! " - Bill Gates, numa sátira 
+**publicada** pelo Matt Le Tissier, ídolo do **futebol** inglês que pede 
+investigação sobre as mortes súbitas de **atletas** vacinados twitter. com / 
+mattletiss7 / st … 
+
+Lemmas in this text that loaded on the factor:
+
+atleta 
+futebol 
+global 
+publicar (secondary)

@@ -1,0 +1,27 @@
+file = t016501
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1587855528818098200
+
+word count = 41
+words loading = 9
+factor score = 10
+
+Jorge Balbino Júnior, jogador de futebol **faleceu** aos 30 **anos** . Foi 
+obrigado a se submeter ao **experimento** , pois a CBF exige o **comprovante** 
+. Durante **anos** jogou e nunca apresentou problemas cardíacos e depois das 
+**doses** **morre** de **infarto** . **Fonte** : m. **facebook** . com / story. 
+php? stor … https://t.co/wNtqukELRN 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+comprovante 
+dose 
+experimento 
+facebook 
+falecer 
+fonte 
+infarto 
+morrer 

@@ -1,0 +1,26 @@
+file = t016702
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1594854122007707600
+
+word count = 50
+words loading = 8
+factor score = 7
+
+@Alessan85109622 Em certos momentos **dá** vontade de desistir. . . Nesta 
+**semana** noticiamos a **morte** de uma garota de Maringá , de 19 **anos** , 
+c / **fontes** , q havia tomado a #vacina há poucos **dias** e **morreu** 
+dormindo de **Infarto** . A família ameaçou nos processar e houve um ataque 
+de esquerdistas à nossa página 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dar (secondary)
+dia 
+fonte 
+infarto 
+morrer 
+morte 
+semana 

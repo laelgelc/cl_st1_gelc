@@ -1,0 +1,23 @@
+file = t015816
+date = 2022-07-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
+
+word count = 35
+words loading = 5
+factor score = -3
+
+Fernanda Keulla tomou as primeiras doses do **experimento** em agosto / 21 e o 
+reforço há pouco tempo. Está internada devido uma Herpes Zoster. A OMS já 
+alertou sobre o **experimento** ser o gatilho para HerpesZoster **pesquisa** . 
+**bvsalud** . org / global-literat … instagram. com / p / CgdNKw3M_TZ / … 
+instagram. com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud 
+experimento (secondary)
+global 
+literat 
+pesquisa (secondary)

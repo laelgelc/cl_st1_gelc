@@ -1,0 +1,23 @@
+file = t016669
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1594199142384824300
+
+word count = 38
+words loading = 5
+factor score = -2
+
+Falo nada, só observo. Glenn não admite que foi a vacina que desencadeou o 
+problema de David. Mal sabe ele que já existem inúmeras **pesquisas** 
+científicas relacionando a picada ao problema. **Fonte** - Site da própria 
+OMS: **pesquisa** . **bvsalud** . org / global-literat … twitter. com / 
+tagrevista_ / st … https://t.co/XY6XQlGVut 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud 
+fonte (secondary)
+global 
+literat 
+pesquisa (secondary)

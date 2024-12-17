@@ -1,0 +1,27 @@
+file = t016600
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1592330711264297000
+
+word count = 19
+words loading = 10
+factor score = -8
+
+Existem estudos, **publicados** pela própria OMS, relacionando a doença de 
+#anthonyjohnson à #vacinas de **mRNA** . Confiram os links: **pesquisa** . 
+**bvsalud** . org / global-literat … **ncbi** . **nlm** . **nih** . gov / pmc 
+/ **articles** / P … 
+
+Lemmas in this text that loaded on the factor:
+
+articles 
+bvsalud 
+global 
+literat 
+mrna 
+ncbi 
+nih 
+nlm 
+pesquisa (secondary)
+publicar (secondary)

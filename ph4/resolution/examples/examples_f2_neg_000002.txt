@@ -1,0 +1,22 @@
+file = t015306
+date = 2022-05-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1525937863770230800
+
+word count = 37
+words loading = 4
+factor score = -4
+
+@michelleatchi15 Estudo concluiu q syringe_e pode provocar **hepatite** 
+imunomediada por células T induzida pelo antígeno vacinal. OMS **emitiu** 
+**alerta** **global** sobre nova **hepatite** grave em crianças. Reino Unido 
+anunciou investigação após taxas + altas de inflamação do fígado em 
+crianças dailyexpose. uk / 2022 / 04 / 28 / new … 
+
+Lemmas in this text that loaded on the factor:
+
+alerta (secondary)
+emitir 
+global 
+hepatite 

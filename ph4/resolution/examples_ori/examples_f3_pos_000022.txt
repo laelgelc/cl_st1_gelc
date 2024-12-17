@@ -1,0 +1,28 @@
+file = t013663
+date = 2021-11-00
+user = url:https://twitter.com/evandroratho/status/1458450975300235300
+conversation = 99999999
+URL = 
+
+word count = 48
+words loading = 10
+factor score = 7
+
+@karinamichelin @miaeloin Com quase 2 anos de **pandemia** as **estatísticas** 
+**asseguram** que o **vírus** não **representa** **risco** significativo de 
+**morte** para **jovens** **saudáveis** , mas o mesmo não se pode falar sobre 
+as vacinas, ainda que tenhamos passado apenas alguns meses após o início da 
+aplicação em **massa** . 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar
+estatística
+jovem (secondary)
+massa
+morte (secondary)
+pandemia
+representar
+risco
+saudável (secondary)
+vírus

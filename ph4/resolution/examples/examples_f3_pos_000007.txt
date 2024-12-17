@@ -1,0 +1,24 @@
+file = t014937
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1495737365679194000
+
+word count = 41
+words loading = 6
+factor score = 8
+
+Disseram que o **lockdown** achataria a curva, não achatou; Disseram que 
+máscaras **impediriam** a transmissão, não **impediram** ; Disseram que a 
+**pandemia** acabaria quando a **maioria** estivesse vacinada, não acabou; 
+Estes mesmos especialistas disseram que o **tratamento** **precoce** não é 
+eficaz. . . 
+
+Lemmas in this text that loaded on the factor:
+
+impedir 
+lockdown 
+maioria 
+pandemia 
+precoce 
+tratamento 

@@ -1,0 +1,22 @@
+file = t010243
+date = 2020-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1315442687357735000
+
+word count = 35
+words loading = 5
+factor score = 7
+
+@BlitzSpitfire Assim que liberarem a vacina pra **Covid** , o **governo** 
+gastará bilhões de reais com anuência do **povo** idiota que acredita na 
+**boa** fé dos nossos políticos. Nem desconfiam que os **interesses** são 
+outros. . . 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+covid 
+governo 
+interesse 
+povo 

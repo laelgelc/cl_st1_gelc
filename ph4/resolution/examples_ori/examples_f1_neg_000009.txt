@@ -1,0 +1,18 @@
+file = t000737
+date = 2020-09-29
+user = url:https://twitter.com/Marilen20674578/status/1311010616165961729
+conversation = 1181956848993345536
+URL = 
+
+word count = 18
+words loading = 3
+factor score = -3
+
+RT @FabioIng: @camila_abdo CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: 
+**ENQUETE** DO PL 4506 / 2020 - BIA KICIS **Proposta** **retira** vacinação com 
+
+Lemmas in this text that loaded on the factor:
+
+enquete
+proposta
+retirar

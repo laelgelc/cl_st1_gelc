@@ -1,0 +1,28 @@
+file = t015967
+date = 2022-08-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1559532215431749600
+
+word count = 49
+words loading = 10
+factor score = 10
+
+Marcelo Teodoro tinha 21 **anos** , era amado pela família. **Amigos** 
+confirmaram q ele havia tomado o **experimento** . **Faleceu** de **infarto** 
+**fulminante** numa partida de Paintball. A Anvisa e a OMS já **publicaram** 
+**alertas** sobre o **risco** de problemas cardíacos em até 9 meses após as 
+**doses** . Segue. . . https://t.co/JAORJcfsWf 
+
+Lemmas in this text that loaded on the factor:
+
+alerta 
+amigo (secondary)
+ano 
+dose 
+experimento 
+falecer 
+fulminante 
+infarto 
+publicar 
+risco (secondary)

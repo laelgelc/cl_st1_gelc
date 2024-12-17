@@ -1,0 +1,26 @@
+file = t016781
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1596121720720588800
+
+word count = 36
+words loading = 8
+factor score = 7
+
+O Whashington Post também **publicou** uma matéria afirmando que a 
+**maioria** das **mortes** que ocorreram em agosto / 22 foram de **pessoas** 
+vacinadas ( 58 % ) . Fiquem espertos! Já **existem** **pesquisas** 
+**indicando** que a eficácia da #vacina é negativa! **Fonte** : 
+washingtonpost. com / politics / 2022 / … 
+
+Lemmas in this text that loaded on the factor:
+
+existir 
+fonte 
+indicar 
+maioria (secondary)
+morte 
+pesquisa 
+pessoa 
+publicar 

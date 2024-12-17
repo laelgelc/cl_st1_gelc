@@ -1,0 +1,21 @@
+file = t016602
+date = 2022-11-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1592334151734407200
+
+word count = 15
+words loading = 5
+factor score = -3
+
+@Tinath22 @danxavi81 **Pesquisa** **publicada** no **bvsalud** comprovando a 
+relação entre a #linfohistiocitose e #vacinas. **pesquisa** . **bvsalud** . 
+org / global-literat … 
+
+Lemmas in this text that loaded on the factor:
+
+bvsalud 
+global 
+literat 
+pesquisa (secondary)
+publicar (secondary)

@@ -1,0 +1,26 @@
+file = t010946
+date = 2020-12-00
+user = url:https://twitter.com/evandroratho/status/1339979137289744400
+conversation = 99999999
+URL = 
+
+word count = 48
+words loading = 8
+factor score = 7
+
+@LoLKN_ @AlexandreGonzl6 @CarlaZambelli38 Se a vacina tivesse comprovação de 
+**segurança** sua tese estaria correta. Mas dada a falta de **estudos** sobre 
+efeitos colaterais de curto, **médio** , e **longo** **prazo** , vacinar todos 
+compulsoriamente significa colocar em **risco** a saúde da grande **maioria** 
+**saudável** . Não acho que vale o **risco** . 
+
+Lemmas in this text that loaded on the factor:
+
+estudo
+longo
+maioria
+médio
+prazo
+risco
+saudável (secondary)
+segurança

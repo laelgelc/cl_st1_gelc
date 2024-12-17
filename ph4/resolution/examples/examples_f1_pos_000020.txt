@@ -1,0 +1,25 @@
+file = t016247
+date = 2022-10-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1577251366661083100
+
+word count = 44
+words loading = 7
+factor score = 9
+
+Este é um dos últimos vídeos de Keith Wonderboy, um famoso cantor Gospel. 
+Ele estava feliz ao tomar sua **dose** do **experimento** . Infelizmente 
+**faleceu** **dia** 30 / 09 , com apenas 50 **anos** . Foi encontrado **morto** 
+dentro de casa. Tudo **indica** que tenha sido mal súbito. google. com / amp / 
+s / m. econom … https://t.co/1z9RWsyPHX 
+
+Lemmas in this text that loaded on the factor:
+
+ano 
+dia 
+dose 
+experimento 
+falecer 
+indicar 
+morrer 

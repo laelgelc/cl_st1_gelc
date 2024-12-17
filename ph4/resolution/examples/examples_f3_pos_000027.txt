@@ -1,0 +1,22 @@
+file = t012360
+date = 2021-06-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1404510761993617400
+
+word count = 40
+words loading = 4
+factor score = 7
+
+A urgência justifica o uso de vacinas experimentais sem **estudos** 
+científicos que **assegurem** eficácia e, principalmente, segurança quanto 
+aos efeitos colaterais. Mas quando o assunto é o **tratamento** **precoce** 
+com remédios sabidamente seguros, a urgência deixa de ser urgente! 
+clown_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+assegurar 
+estudo 
+precoce 
+tratamento 

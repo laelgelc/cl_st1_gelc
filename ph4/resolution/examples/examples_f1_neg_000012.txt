@@ -1,0 +1,18 @@
+file = t000762
+date = 2020-09-29
+user = unknown
+conversation = 1111334234562719750
+URL = unknown
+
+word count = 19
+words loading = 3
+factor score = -3
+
+RT @FabioIng: @LaurinhaBonoro CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: 
+**ENQUETE** DO PL 4506 / 2020 - BIA KICIS **Proposta** **retira** vacinação c 
+
+Lemmas in this text that loaded on the factor:
+
+enquete 
+proposta 
+retirar 

@@ -1,0 +1,20 @@
+file = t011783
+date = 2021-04-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1379151894220832800
+
+word count = 27
+words loading = 4
+factor score = -4
+
+PRECISA MESMO. PORQUE ESSA PORCARIA CH! NESA DO CALCINHA **APERTADA** , NÃO 
+RESOLVE. FIZ VÍDEO NO CANAL MOSTRANDO OS IDOSOS QUE APÓS **SEGUNDA** DOSE 
+VIERAMN A ÓBITO Pleno. **News** pleno. **news** / **brasil** / jair-bo … 
+
+Lemmas in this text that loaded on the factor:
+
+apertar 
+brasil 
+news 
+segundo 
