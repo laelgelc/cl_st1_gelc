@@ -1,24 +1,27 @@
-file = t016186
-date = 2022-09-00
+file = t016702
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1573471526422184000
+URL = https://twitter.com/mpatriabrasil/status/1594854122007707600
 
-word count = 39
-words loading = 6
+word count = 50
+words loading = 9
 factor score = 8
 
-Crianças e Adolescentes **sofrendo** **infartos** **Fulminantes** pouco tempo 
-depois dos reforços. . . As pessoas não querem admitir a verdade. Poucos 
-**jovens** **faleceram** da moléstia, muitos **jovens** **falecendo** de 
-**infartos** **fulminantes** após as **doses** . Despertem! ISSO NUNCA FOI 
-NORMAL! https://t.co/e68plYhO98 
+@Alessan85109622 Em certos momentos **dá** vontade de desistir. . . Nesta 
+**semana** noticiamos a **morte** de uma garota de Maringá , de 19 **anos** , 
+c / **fontes** , q havia **tomado** a #vacina há poucos **dias** e **morreu** 
+dormindo de **Infarto** . A família ameaçou nos processar e houve um ataque 
+de esquerdistas à nossa página 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-falecer 
-fulminante 
+ano 
+dar (secondary)
+dia 
+fonte 
 infarto 
-jovem 
-sofrer 
+morrer 
+morte 
+semana 
+tomar 

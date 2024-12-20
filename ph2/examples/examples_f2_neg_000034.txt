@@ -1,20 +1,20 @@
-file = t016370
-date = 2022-10-00
-user = iodinha1
+file = t010442
+date = 2020-10-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1581630640260231200
+URL = https://twitter.com/evandroratho/status/1321863881816526800
 
-word count = 44
+word count = 37
 words loading = 3
 factor score = -2
 
-Nunca saberemos se quem morreu foi ou não por causa da vacina. Muita gente 
-não se vacinou e nem **resfriado** pegou. Outros tantos, só após se vacinar, 
-pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, **trombone** , 
-gripe e até morreram etc. Verdade seja dita! 
+Tratamento com **hidroxicloroquina** reduz em 7 vezes as chances de políticos 
+corruptos desviarem dinheiro da saúde por meio de **compras** emergenciais sem 
+licitação! **Necessidade** de vacina também cai com os índices de 
+mortalidade! twitter. com / revistaoeste / s … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+compra 
+hidroxicloroquina 
+necessidade 

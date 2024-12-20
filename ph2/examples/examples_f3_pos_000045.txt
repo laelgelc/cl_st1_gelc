@@ -1,23 +1,21 @@
-file = t011981
-date = 2021-04-00
-user = evandroratho
+file = t015284
+date = 2022-05-00
+user = mdtecnologia
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1386701023427838000
+URL = https://twitter.com/mdtecnologia/status/1524703381645897700
 
-word count = 39
-words loading = 5
-factor score = 6
+word count = 47
+words loading = 3
+factor score = 4
 
-@TerraBrasilnot @KeliVeronezi Depois de faturar bilhões admitirão que as 
-vacinas não **garantem** a imunização, e então, milagrosamente **dirão** 
-que desenvolveram remédios para o **tratamento** **precoce** da doença. E 
-assim formar -se-á a **segunda** onda de faturamento para a indústria 
-farmacêutica! 
+Ministro da Saúde recusa -se a reintegrar os milhares de cuidadores não 
+vacinados para evitar contaminar os seus doentes, mesmo que a vacina não 
+**impeça** a transmissão do Covid19 . Ou ele **mente** ou sua ideologia o 
+cega: vamos acabar com a **obrigatoriedade** da vacinação para cuidadores! 
+twitter. com / MLP_officiel / s … 
 
 Lemmas in this text that loaded on the factor:
 
-dizer 
-garantir 
-precoce (secondary)
-segundo 
-tratamento (secondary)
+impedir 
+mentar 
+obrigatoriedade 

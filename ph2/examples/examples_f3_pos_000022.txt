@@ -1,27 +1,22 @@
-file = t001146
-date = 2020-10-30
-user = ArianeB37
-conversation = 1037889821753192449
-URL = https://twitter.com/ArianeB37/status/1322116417953648644
+file = t014674
+date = 2022-02-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1488512787458502700
 
-word count = 49
-words loading = 9
-factor score = 7
+word count = 39
+words loading = 5
+factor score = 5
 
-@BrazilFight Não **existe** vacina eficaz o vírus está **sofrendo** várias 
-mutações, então **quer** **dizer** que a **Vachina** que o Doriana **quer** 
-empurrar pro **povo** de São Paulo é ineficiente e ainda pode provocar 
-**efeitos** **colaterais** devastadores no organismo de quem **tomar** . O 
-dinheiro é do **povo** e pronto. 
+Você pode até questionar a eficácia do **tratamento** **precoce** , assim 
+como muitos questionam a eficácia das vacinas, mas são remédios com os 
+**estudos** completos sobre segurança e potenciais efeitos adversos, já as 
+vacinas foram **aprovadas** em caráter **emergencial** ! 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-dizer 
-efeito (secondary)
-existir 
-povo 
-querer 
-sofrer (secondary)
-tomar 
-vachina 
+aprovar (secondary)
+emergencial 
+estudo 
+precoce 
+tratamento (secondary)

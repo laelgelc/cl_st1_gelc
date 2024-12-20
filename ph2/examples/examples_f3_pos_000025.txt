@@ -1,24 +1,21 @@
-file = t016103
-date = 2022-09-00
-user = samara955110671
+file = t012637
+date = 2021-07-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/samara955110671/status/1568027206974161000
+URL = https://twitter.com/evandroratho/status/1414967198532124700
 
-word count = 52
-words loading = 6
-factor score = 6
+word count = 32
+words loading = 5
+factor score = 5
 
-Lá vamos nós outra vez. Foi o Supremo quem **deu** poder a **governadores** e 
-**prefeitos** . Eu não vou sair das quatro linhas. Desde o princípio fui 
-contra a política do **fique** em **casa** . No que depender de mim, ninguém 
-será obrigado a **tomar** vacina e etc, etc. t. me / rodrigocampello 
-https://t.co/z4uYImsAe3 
+@DalcioNews Sim. O **estudo** trata especificamente das vacinas que **usam** 
+**mRNA** , e o alerta se refere justamente a falta de **estudos** de médio e 
+**longo** **prazo** sobre a segurança desta tecnologia. . . 
 
 Lemmas in this text that loaded on the factor:
 
-casa 
-dar 
-ficar 
-governador 
-prefeito 
-tomar 
+estudo 
+longo 
+mrna (secondary)
+prazo 
+usar (secondary)

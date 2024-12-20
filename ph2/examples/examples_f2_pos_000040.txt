@@ -1,24 +1,23 @@
-file = t013800
-date = 2021-11-00
-user = evandroratho
+file = t016811
+date = 2022-11-00
+user = julianabrioli
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1462858234046333000
+URL = https://twitter.com/julianabrioli/status/1596240266758848500
 
-word count = 44
-words loading = 7
+word count = 49
+words loading = 5
 factor score = 7
 
-Se a vacina não provê a devida proteção às **pessoas** do grupo de 
-**risco** , vacinar **jovens** saudáveis com essa mesma vacina não faz o 
-menor sentido, pois eles também seguirão sem a devida proteção, mas serão 
-**submetidos** aos **riscos** de **efeitos** **adversos** **graves** . 
+Meu amado pai **faleceu** há exatos 9 meses e 3 **dias** , apenas 72 **anos** 
+, zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de COVID. 
+Bolsonarista convicto até o último suspiro … Genocida foi a corrupção que 
+assolou nosso país durante 14 **anos** de PT. Papai, minha luta é por VOCÊ . 
+https://t.co/0MNpLM2a5a 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-efeito 
-grave 
-jovem 
-pessoa 
-risco 
-submeter (secondary)
+ano 
+dia 
+dose 
+falecer 
+morrer 

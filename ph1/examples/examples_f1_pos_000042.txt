@@ -1,25 +1,27 @@
-file = t016528
+file = t016781
 date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1590165872378728400
+URL = https://twitter.com/mpatriabrasil/status/1596121720720588800
 
-word count = 51
-words loading = 7
+word count = 42
+words loading = 9
 factor score = 8
 
-Ágata Carvalho era uma **jovem** saudável e linda q estudava Medicina em 
-Catalão. Teve q tomar todas as dosed, pois **exigiram** o **comprovante** p / 
-aulas. O **pai** , que é médico, solicitou o **exame** anti-heparina, q 
-apontou como **causa** do óbito a #vacina. Face do **pai** : m. **facebook** . 
-com / story. php? stor … https://t.co/Qc6diu9cU0 
+O Whashington Post também **publicou** uma matéria afirmando que a 
+**maioria** das **mortes** que ocorreram em agosto / 22 foram de **pessoas** 
+vacinadas ( 58 % ) . **Fiquem** espertos! Já **existem** **pesquisas** 
+**indicando** que a eficácia da #vacina é negativa! **Fonte** : 
+washingtonpost. com / politics / 2022 / … 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-comprovante 
-exame 
-exigir 
-facebook 
-jovem 
-pai 
+existir 
+ficar (secondary)
+fonte 
+indicar 
+maioria 
+morte 
+pesquisa 
+pessoa 
+publicar 

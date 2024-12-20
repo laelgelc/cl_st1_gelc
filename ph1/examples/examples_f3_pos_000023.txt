@@ -1,20 +1,21 @@
-file = t013231
-date = 2021-09-00
+file = t013339
+date = 2021-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1441074942876000300
+URL = https://twitter.com/evandroratho/status/1443950854185304000
 
-word count = 49
-words loading = 2
-factor score = 5
+word count = 31
+words loading = 5
+factor score = 7
 
-@mqueiroga2 @Anholeto @minsaude Vacinar um grupo de pessoas que, 
-estatisticamente falando, tem chance ínfima de morrer de covid, com vacinas 
-experimentais sem estudos concluídos sobre segurança de médio e **longo** 
-**prazo** , sabendo que a vacina não impede a infecção e tampouco a 
-transmissão do vírus? Não faz sentido! 
+@JovemPanNews Qual é o índice de **letalidade** da doença em **jovens** 
+saudáveis? Qual é o resultado do **estudo** de segurança das vacinas em 
+médio e **longo** **prazo** neste mesmo grupo? 
 
 Lemmas in this text that loaded on the factor:
 
+estudo 
+jovem (secondary)
+letalidade 
 longo 
 prazo 

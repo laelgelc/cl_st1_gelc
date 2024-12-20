@@ -1,21 +1,17 @@
-file = t015534
-date = 2022-06-00
-user = julianaayres
+file = t010931
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1536465001178878000
+URL = https://twitter.com/evandroratho/status/1339906584147865600
 
-word count = 46
-words loading = 4
-factor score = -3
+word count = 47
+words loading = 0
+factor score = -1
 
-No mais, agora estamos vendo pandemia de cânceres, problema nos **rins** , 
-**dor** no coração, problemas **faciais** , neurológicos, de **pele** , 
-Guillain Barré , problema no ciclo feminino, milhares de abortos entre mais de 
-100 mil problemas. Sim, mais de 100 mil. CEM MIL! ! ! Vai outra dose aí ? 
+@leandroruschel Por que ninguém está falando sobre os índices de letalidade 
+por faixa etária, e questionando a vacinação em crianças, jovens, e adultos 
+saudáveis? Correr riscos com vacinas suspeitas para uma doença que tem taxa 
+de mortalidade abaixo de 0 , 1 % é loucura, não se justifica. . . 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-facial 
-pele 
-rim 

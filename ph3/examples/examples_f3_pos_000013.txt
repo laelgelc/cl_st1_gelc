@@ -1,20 +1,22 @@
-file = t013339
-date = 2021-10-00
+file = t011893
+date = 2021-04-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1443950854185304000
+URL = https://twitter.com/evandroratho/status/1382691764587356200
 
-word count = 31
-words loading = 4
-factor score = 6
+word count = 37
+words loading = 5
+factor score = 8
 
-@JovemPanNews Qual é o índice de **letalidade** da doença em **jovens** 
-saudáveis? Qual é o resultado do estudo de segurança das vacinas em médio e 
-**longo** **prazo** neste mesmo grupo? 
+**Estudos** científicos já concluíram que: - Lockdown é ineficaz; - 
+**Tratamento** **precoce** é eficaz; - Atividade física é a **melhor** 
+prevenção; - Vacinas possuem baixa eficácia; - A transmissão do vírus por 
+superfície é quase nula; - Assintomáticos não **transmitem** o vírus; 
 
 Lemmas in this text that loaded on the factor:
 
-jovem (secondary)
-letalidade 
-longo 
-prazo 
+bom (secondary)
+estudo 
+precoce 
+transmitir 
+tratamento 

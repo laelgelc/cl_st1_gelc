@@ -1,18 +1,19 @@
-file = t012704
-date = 2021-07-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1417322630147973000
+file = t000791
+date = 2020-10-30
+user = AiltonBenedito
+conversation = 342403919
+URL = https://twitter.com/AiltonBenedito/status/1322248855744905221
 
-word count = 50
-words loading = 1
+word count = 40
+words loading = 2
 factor score = -2
 
-@_l3itad4s_l03n Uma **amiga** morou lá e disse q eles qdo colocam o pé na rua 
-p protestar, o bicho pega. Maior galera morrendo, ficando paralisada, ficando 
-com problema neurológico, alergias horríveis e eles só pensam em motociata 
-ao invés de irmos pra rua protestar contra as vacinas e a censura 
+Existe um mundo de questões que a verdadeira ciência ( não a ciência, 
+ciência, ci ênnn cia!  ) deve responder, para comprovar a segurança e a 
+eficácia de qualquer **suposta** vacina contra o #Covid19 . Sem respostas, 
+vacinação poderá caracterizar crimes contra a humanidade. 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
+covid19 
+suposto 

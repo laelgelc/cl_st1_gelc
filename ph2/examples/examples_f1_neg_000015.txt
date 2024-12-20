@@ -1,24 +1,22 @@
-file = t010805
-date = 2020-12-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1338496066962993200
+file = t000841
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322145721303314432
 
-word count = 48
-words loading = 6
-factor score = -4
+word count = 44
+words loading = 5
+factor score = -7
 
-@opropriofaka @VilmaThomasCos1 @CarlosBolsonaro @BolsonaroSP Genocida é quem 
-**manipula** informações todos os dias para atacar seu desafeto político. É 
-quem **mente** sobre segurança de vacina, eficácia do **tratamento** 
-**precoce** , e ineficácia das medidas de **isolamento** . A **imprensa** com 
-seu terrorismo interesseiro mata mais do que o próprio vírus. 
+" @taoquei1 Prometer vacina para **Covid** em 2020 é grave desserviço ao 
+público, avalia Presidente da Merck " " Se você vai **usar** uma vacina em 
+bilhões de pessoas, é **melhor** você **saber** o que essa vacina **faz** " 
+" , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-imprensa (secondary)
-isolamento 
-manipular 
-mentar 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

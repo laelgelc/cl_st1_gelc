@@ -1,19 +1,21 @@
-file = t015290
-date = 2022-05-00
-user = karinamichelin
+file = t012656
+date = 2021-07-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/karinamichelin/status/1524787669955494000
+URL = https://twitter.com/julianaayres/status/1415687765291716600
 
-word count = 43
-words loading = 1
-factor score = -2
+word count = 46
+words loading = 3
+factor score = -3
 
-Itália: Depois da vacinação em massa mais de 480 mortes na **faixa** etária 
-abaixo de 40 anos! Números preocupantes que não param de crescer. Enquanto 
-isso o silêncio dos órgãos de saúde continua ensurdecedor … " nenhuma 
-correlação " - esses sim são os verdadeiros negacionistas! 
-https://t.co/YbgDSDqHdc 
+@JanainaDoBrasil police_car_light_eUm milhão de pessoas tiveram doenças por 
+**causa** das vacinas Covid ( isso o que o gov conta, imagina o q eles escondem 
+) : backhand_index_pointing_down_e As lesões incluem cegueira, coágulos de 
+**sangue** , **paralisia** , esclerose múltipla e natimortos e estão sendo 
+censurados pela mídia e pelas big techs. https://t.co/Qof7z9URob 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
+causa 
+paralisia 
+sangue 

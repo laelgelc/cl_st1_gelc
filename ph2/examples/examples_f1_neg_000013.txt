@@ -1,24 +1,22 @@
-file = t010669
-date = 2020-12-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1336285290542076000
+file = t000782
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322302346156802048
 
 word count = 44
-words loading = 6
-factor score = -4
+words loading = 5
+factor score = -7
 
-@JornalBSM Quanto mais a **extrema** **imprensa** **mente** sobre a 
-**pandemia** , negando a eficácia do **tratamento** **precoce** e escondendo a 
-falta de estudos abrangentes sobre as vacinas e seus potenciais efeitos 
-colaterais, mais eles se aproximam do que acusam o presidente de ser: 
-Genocidas! 
+" @IronicaLaurinha Prometer vacina para **Covid** em 2020 é grave desserviço 
+ao público, avalia Presidente da Merck " " Se você vai **usar** uma vacina em 
+bilhões de pessoas, é **melhor** você **saber** o que essa vacina **faz** " 
+" , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-extremo 
-imprensa (secondary)
-mentar 
-pandemia (secondary)
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

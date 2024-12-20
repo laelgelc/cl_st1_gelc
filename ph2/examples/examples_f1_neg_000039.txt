@@ -1,18 +1,24 @@
-file = t000710
-date = 2020-09-29
-user = ligiagambol
-conversation = 1242252292960772107
-URL = https://twitter.com/ligiagambol/status/1311056954727559168
+file = t001066
+date = 2020-10-30
+user = Heroi_Romanesco
+conversation = 320418868
+URL = https://twitter.com/Heroi_Romanesco/status/1322269674843693056
 
-word count = 30
-words loading = 2
-factor score = -3
+word count = 41
+words loading = 7
+factor score = -7
 
-@amandamoraes500 @claudiabasile19 Concordo, quero ouvir o posicionamento sobre 
-essas porcarias de máscaras, sobre a vacina e **tratamento** **precoce** . 
-Caso contrário não sabemos o q enfrentaremos de janeiro em diante 
+@AninhaEsperanca @JornalOGlobo Existe 57 Milhões de pessoas minimamente 
+humanas que defendem o **Presidente** que vc **chama** de cruel, mas **quer** 
+**comprar** uma vacina segura para o **povo** e não **quer** obrigar as 
+pessoas tomarem uma vacina **experimental** servindo de **cobaias** . 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
+chamar 
+cobaia 
+comprar 
+experimental 
+povo 
+presidente 
+querer 

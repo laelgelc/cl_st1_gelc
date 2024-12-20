@@ -1,26 +1,27 @@
-file = t016191
-date = 2022-09-00
+file = t016584
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574070077758099500
+URL = https://twitter.com/mpatriabrasil/status/1591747298941456400
 
-word count = 42
-words loading = 8
+word count = 36
+words loading = 9
 factor score = 10
 
-Depois de **Pesquisas** **publicadas** pela Lancet apontarem **problemas** 
-cardíacos a longo prazo em pessoas que se **submeteram** ao **experimento** , 
-o CDC resolve agir e investigar as reações a longo prazo ( **Infartos** e 
-AVCs ocorridos 5 meses após as **doses** ) . **Fonte** : cdc. gov / 
-coronavirus / 20 … https://t.co/bddn48RRTY 
+Vacinado c / 4 **doses** , Eric Gustavo, 32 , **contraiu** CV! D várias vezes. 
+Estava de alta hospitalar, qd **sofreu** uma parada cardíaca enquanto dormia. 
+**Pesquisas** **indicam** que a eficácia do **experimento** é negativa após 
+reforços. **Fonte** : m. **facebook** . com / story. php? stor … virologyj. 
+biomedcentral. com / **articles** / 10 . 11 … https://t.co/LNmjcR8jbF 
 
 Lemmas in this text that loaded on the factor:
 
+articles (secondary)
+contrair 
 dose 
 experimento 
+facebook 
 fonte 
-infarto 
+indicar 
 pesquisa 
-problema 
-publicar 
-submeter 
+sofrer 

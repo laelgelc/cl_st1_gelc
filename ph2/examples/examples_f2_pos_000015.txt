@@ -1,21 +1,27 @@
-file = t013339
-date = 2021-10-00
-user = evandroratho
+file = t015412
+date = 2022-05-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1443950854185304000
+URL = https://twitter.com/oscasosraros/status/1530468526552715300
 
-word count = 31
-words loading = 5
-factor score = 10
+word count = 43
+words loading = 9
+factor score = 9
 
-@JovemPanNews Qual é o índice de **letalidade** da doença em **jovens** 
-saudáveis? Qual é o resultado do **estudo** de segurança das vacinas em 
-médio e **longo** **prazo** neste mesmo grupo? 
+flag_new_zealand_e " As autoridades da Nova Zelândia disseram na segunda-feira 
+que ligaram a **morte** de um homem de 26 **anos** à vacina COVID-19 da Pfizer 
+Inc, depois que a **pessoa** **sofreu** **miocardite** , uma inflamação rara 
+do músculo cardíaco, após **tomar** sua **primeira** **dose** . " 
+**twitter** . com / rasekrasek / sta … 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-jovem 
-letalidade 
-longo 
-prazo 
+ano 
+dose 
+miocardite (secondary)
+morte 
+pessoa 
+primeiro 
+sofrer 
+tomar 
+twitter 

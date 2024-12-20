@@ -1,22 +1,24 @@
-file = t013793
-date = 2021-11-00
+file = t013530
+date = 2021-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1462788147352326100
+URL = https://twitter.com/evandroratho/status/1452719618468954000
 
-word count = 45
-words loading = 5
-factor score = 6
+word count = 46
+words loading = 6
+factor score = 8
 
-@revistaoeste Adolescentes saudáveis já tem proteção de curto, médio, e 
-**longo** **prazo** . A única coisa que as vacinas oferecem a eles é o 
-**risco** de efeitos **adversos** graves, como miocardite, trombose, AVC, etc. 
-Vacinar **jovens** saudáveis é tão sem sentido que beira a insanidade! 
+Se as estatísticas **asseguram** que o vírus não **representa** relevante 
+**risco** de **morte** aos **jovens** saudáveis, e as vacinas não **impedem** 
+a infecção e tampouco a transmissão do vírus, vaciná -los não faz 
+sentido. Tem algo muito estranho acontecendo no mundo e o povo está em transe. 
+. . 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
+assegurar 
+impedir 
 jovem (secondary)
-longo 
-prazo 
+morte (secondary)
+representar 
 risco 

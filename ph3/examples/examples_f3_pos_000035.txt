@@ -1,20 +1,21 @@
-file = t014580
-date = 2022-01-00
+file = t014784
+date = 2022-02-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1485596814715805700
+URL = https://twitter.com/evandroratho/status/1492113165139820500
 
-word count = 48
-words loading = 3
-factor score = 4
+word count = 37
+words loading = 4
+factor score = 6
 
-As autoridades reconhecem que a Ômicron é menos letal, os fabricantes de 
-vacinas admitem que elas não são eficazes contra a variante, e os casos de 
-efeitos **adversos** seguem eclodindo. Não seria a hora de parar com essa 
-histeria vacinal e **avaliar** melhor o **custo** x benefício? 
+Se os **estudos** que **asseguram** eficácia e segurança das vacinas exigem 5 
+anos de acompanhamento, ou os fabricantes de vacina possuem uma máquina do 
+tempo ou as vacinas são experimentais e foram **aprovadas** em caráter 
+**emergencial** ! 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-avaliar 
-custo 
+aprovar (secondary)
+assegurar 
+emergencial 
+estudo 

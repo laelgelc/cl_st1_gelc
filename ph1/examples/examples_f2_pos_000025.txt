@@ -1,23 +1,26 @@
-file = t015141
-date = 2022-04-00
-user = evandroratho
+file = t016492
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1511282160552095700
+URL = https://twitter.com/iodinha1/status/1586898824387334100
 
-word count = 53
-words loading = 6
+word count = 45
+words loading = 8
 factor score = 7
 
-Os especialistas da **imprensa** que disseram que **lockdown** e máscaras 
-**impediriam** o avanço da **pandemia** , que as vacinas eram eficazes e 
-seguras, que o dólar subiria até R$ 7 , 00 , e que o **mundo** teria paz sem 
-Trump, são os mesmos que dizem que o Brasil será **melhor** se o Lula voltar. 
+@mariaaguiarr03 Nunca **saberemos** se quem **morreu** foi ou não por 
+**causa** da vacina. Muita **gente** não se vacinou e nem resfriado **pegou** 
+. Outros tantos, só após se vacinar, **pegaram** **covid** , tiveram 
+miocardite, AVC, ataque cardíaco, trombone, gripe e até **morreram** etc. 
+**Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-impedir 
-imprensa 
-lockdown 
-mundo 
-pandemia 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

@@ -1,24 +1,19 @@
-file = t015768
-date = 2022-07-00
-user = mpatriabrasil
+file = t014946
+date = 2022-02-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1549461588188479500
+URL = https://twitter.com/derzevic/status/1496102439350583300
 
-word count = 47
-words loading = 6
-factor score = 8
+word count = 26
+words loading = 3
+factor score = 3
 
-Alexsandro Leo era um cobrador muito querido da Metrópoles. Ele tomou as 1as. 
-**Doses** em 2021 e os reforços no **primeiro** trimestre de 2022 . Teve um 
-**infarto** **fulminante** pouco tempo depois do **experimento** . A OMS e a 
-ANVISA já divulgaram o risco de **problemas** cardíacos pós-experimento. 
-https://t.co/DCHgRKlsLs 
+**CDC** e Farmacêutica Pfizer **Emitem** Alertas Sobre Riscos de Coagulação 
+Sanguínea Mesmo em **Atletas** e Pessoas Saudáveis criticanacional. com. br / 
+2022 / 02 / 21 / **cdc** … via @criticanac 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-experimento 
-fulminante 
-infarto 
-primeiro (secondary)
-problema 
+atleta 
+cdc 
+emitir 

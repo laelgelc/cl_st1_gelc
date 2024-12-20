@@ -1,20 +1,25 @@
-file = t013838
-date = 2021-11-00
-user = evandroratho
+file = t016840
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1463898816336248800
+URL = https://twitter.com/mpatriabrasil/status/1596411508833280000
 
-word count = 45
-words loading = 3
+word count = 48
+words loading = 7
 factor score = 7
 
-@SigaGazetaBR As estatísticas mostram que é desprezível o **risco** de 
-**morte** pelo vírus entre **jovens** saudáveis, portanto, nada justifica 
-essa gana por vacinar crianças. Ou é muito interesse em faturar com venda de 
-vacinas, ou tem algo muito pior por trás de tudo isso. 
+Enquanto os incautos vão para as filas **tomar** a enésima **dose** em menos 
+de 1 **ano** , o que prova que a #vacina não imuniza, os prefeitos são 
+obrigados a aumentar os leitos dos hospitais, pois as **pessoas** estão 
+**morrendo** de **infartos** e AVCs. Acordem! ! **twitter** . com / heilwillll 
+/ sta … 
 
 Lemmas in this text that loaded on the factor:
 
-jovem 
-morte 
-risco 
+ano 
+dose 
+infarto 
+morrer 
+pessoa 
+tomar 
+twitter 

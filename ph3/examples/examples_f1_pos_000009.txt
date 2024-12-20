@@ -1,30 +1,28 @@
-file = t015813
-date = 2022-07-00
+file = t016501
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1552006027771535400
+URL = https://twitter.com/mpatriabrasil/status/1587855528818098200
 
-word count = 34
-words loading = 11
-factor score = 12
+word count = 41
+words loading = 10
+factor score = 11
 
-Lidiane Brugnari era professora em Jacarezinho / PR. Tomou a 2a. **Dose** em 
-agosto / 21 e o reforço há pouco mais de 3 meses. **Faleceu** **dia** 26 / 07 
-/ 22 em virtude de um AVC. A OMS ja **alertou** sobre AVC pós-experimento. 
-**pesquisa** . **bvsalud** . **org** / global-literat … m. **facebook** . com 
-/ story. php? stor … m. **facebook** . com / groups / 9297702 … 
-https://t.co/Wo9Bx4fHKB 
+Jorge Balbino Júnior, jogador de futebol **faleceu** aos 30 **anos** . Foi 
+obrigado a se submeter ao **experimento** , pois a CBF **exige** o 
+**comprovante** . Durante **anos** jogou e nunca apresentou problemas 
+cardíacos e depois das **doses** **morre** de **infarto** . **Fonte** : m. 
+**facebook** . com / story. php? stor … https://t.co/wNtqukELRN 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-bvsalud (secondary)
-dia 
+ano 
+comprovante 
 dose 
+exigir 
 experimento 
 facebook 
 falecer 
-global 
-literat (secondary)
-org 
-pesquisa 
+fonte 
+infarto 
+morrer 

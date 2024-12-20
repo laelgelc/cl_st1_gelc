@@ -1,19 +1,20 @@
-file = t016404
-date = 2022-10-00
-user = paulo2246
-conversation = 99999999
-URL = https://twitter.com/paulo2246/status/1582913764638085000
+file = t000738
+date = 2020-09-28
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1310710030128291845
 
-word count = 28
-words loading = 3
-factor score = -3
+word count = 26
+words loading = 4
+factor score = -5
 
-@jairbolsonaro O meu **presidente** me da uma força ae hoje recebi isto do 
-**conselho** **tutelar** me ameaçando por não ter vacinado meus filhos contra 
-a covid. https://t.co/UBO5mhixFn 
+@camila_abdo CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** DO PL 4506 
+/ 2020 - BIA KICIS Proposta **retira** vacinação compulsória da **lista** de 
+medidas de **combate** à Covid-19 https://t.co/q4oENg6WzK 
 
 Lemmas in this text that loaded on the factor:
 
-conselho 
-presidente (secondary)
-tutelar 
+combate 
+enquete 
+lista 
+retirar 

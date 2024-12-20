@@ -1,22 +1,19 @@
-file = t002552
-date = 2021-05-30
-user = LuisbrasilVet
-conversation = 2577259862
-URL = https://twitter.com/LuisbrasilVet/status/1398778088918552577
+file = t013120
+date = 2021-09-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1438499644330283000
 
-word count = 45
-words loading = 4
-factor score = -4
+word count = 18
+words loading = 3
+factor score = -3
 
-@g1 LOCKDOWN NÃO EVITA O CONTÁGIO DO COVID! **GOVERNADORES** E **PREFEITOS** 
-CADÊ OS HOSPITAIS DE CAMPANHA? **GOVERNO** **FEDERAL** JÁ DISTRIBUIU 96 
-MILHÕES DE DOSES DA VACINA CONTRA O COVID! **GOVERNADORES** E **PREFEITOS** 
-PORQUE ESTÃO ESTOCANDO 36 MILHÕES DE DOSES DE VACINAS? TRATAMENTO IMEDIATO 
-JÁ ! ! 
+Internauta relata **paralisia** **facial** ao Butantan após 2° dose da 
+CoronaVac e Instituto responde: ' sentimos muito pelo ocorrido ' gazetabrasil. 
+com. br / **brasil** / 2021 / 09 … 
 
 Lemmas in this text that loaded on the factor:
 
-federal 
-governador 
-governo 
-prefeito 
+brasil 
+facial 
+paralisia 

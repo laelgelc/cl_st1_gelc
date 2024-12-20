@@ -1,20 +1,24 @@
-file = t001208
-date = 2020-10-30
+file = t002120
+date = 2021-03-30
 user = unknown
-conversation = 983184554
+conversation = 1256497917625581571
 URL = unknown
 
-word count = 52
-words loading = 3
-factor score = -3
+word count = 50
+words loading = 5
+factor score = -7
 
-@bellanna E eu votei nesse ditador para ele tirar minha **liberdade** de ir e 
-vir, de trabalhar, de receber **tratamento** **precoce** , aumentou o iptu, e 
-se for reeleito, sem meu voto, vai obrigar todos a tomar vachina. Aposto q o 
-filho e a esposa não vão tomar é só para o cow_face_e 
+@Leo52384098 @samrolf @MaisUma30505571 @AllanGarcs1 @ritadecassiapl São os 
+verdadeiros negacionistas. Os médicos estão **dizendo** que estão 
+**salvando** **vidas** , e eles continuam tapando os olhos e ouvidos. Afinal de 
+contas, estudos **feito** por lobbyists é o que conta. Médico? Que médico. . 
+. Vou me trancar em casa e **esperar** a vacina chinesa 
+face_with_rolling_eyes_e 
 
 Lemmas in this text that loaded on the factor:
 
-liberdade 
-precoce 
-tratamento 
+dizer 
+esperar 
+fazer 
+salvar 
+vida 

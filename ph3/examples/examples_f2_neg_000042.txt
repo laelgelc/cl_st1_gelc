@@ -1,20 +1,17 @@
-file = t014106
-date = 2021-12-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1472564542924329000
+file = t001137
+date = 2020-10-30
+user = marciosabedotti
+conversation = 3105897465
+URL = https://twitter.com/marciosabedotti/status/1321953973197262851
 
-word count = 50
-words loading = 3
-factor score = -3
+word count = 20
+words loading = 1
+factor score = -1
 
-A filha de uma **amiga** que se vacinou acabou de morrer. Que tristeza! Deixou 
-uma filhinha. Tomou a 1° dose aí teve problema nos **rins** e na **pele** . . 
-. . ficou roxa e inchada. Os médicos se negaram a dizer que foi da vacina é 
-ñ sabiam como tratá -la Essa vacina é veneno. . . . ! ! ! ! ! ! 
+@luislacombereal Entreviste Dra. CHINDA BRANDOLINO, conforme ela o **RNA** 
+utilizado pela vacina de Oxford causará esterilização em massa. 
+https://t.co/Chzlf8JJGm 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-rim 
+rna 

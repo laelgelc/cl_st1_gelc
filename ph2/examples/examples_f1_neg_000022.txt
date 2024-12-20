@@ -1,18 +1,23 @@
-file = t012059
-date = 2021-05-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1390400999056097300
+file = t000878
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322121271413514240
 
-word count = 27
-words loading = 2
-factor score = -4
+word count = 46
+words loading = 5
+factor score = -7
 
-@9876mel Mas isso não interessa aos grandes laboratórios que estão lucrando 
-bilhões de dólares com vacinas. Seriam eles por trás do financiamento contra 
-o **tratamento** **precoce** ? 
+" @VicenteCamilo2 @uliana_ligia @revistaoeste @VlogdoLisboa Prometer vacina 
+para **Covid** em 2020 é grave desserviço ao público, avalia Presidente da 
+Merck " " Se você vai **usar** uma vacina em bilhões de pessoas, é 
+**melhor** você **saber** o que essa vacina **faz** " " , alerta Ken Frazier. 
+Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

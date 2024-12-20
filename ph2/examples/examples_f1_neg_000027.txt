@@ -1,20 +1,23 @@
-file = t012412
-date = 2021-06-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1405500052865437700
+file = t000892
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322298196446662657
 
-word count = 49
-words loading = 3
-factor score = -4
+word count = 44
+words loading = 5
+factor score = -7
 
-Existem estudos padrão ouro, duplo cego, randomizado, polido e perfumado, para 
-o **tratamento** **precoce** ? Não! Existe pra vacina? Existe para máscara, 
-**lockdown** , intubação, dipirona, e paracetamol? E para o fique em casa 
-até faltar o ar 0 2 a c e g l m o r s y 
+" @henriolliveira_ @veramagalhaes Prometer vacina para **Covid** em 2020 é 
+grave desserviço ao público, avalia Presidente da Merck " " Se você vai 
+**usar** uma vacina em bilhões de pessoas, é **melhor** você **saber** o que 
+essa vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

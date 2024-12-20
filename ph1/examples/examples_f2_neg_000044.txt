@@ -1,19 +1,17 @@
-file = t014823
-date = 2022-02-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1493257705154388000
+file = t001173
+date = 2020-10-30
+user = marciosabedotti
+conversation = 3105897465
+URL = https://twitter.com/marciosabedotti/status/1322229379708182528
 
-word count = 46
-words loading = 2
-factor score = -3
+word count = 20
+words loading = 1
+factor score = -1
 
-Aviso da Pfizer: A trombose venosa profunda, um coágulo de **sangue** em uma 
-veia, pode se deslocar para os pulmões, levando a uma embolia pulmonar. Os 
-sintomas da EP incluem dificuldade para respirar e **dor** no peito. . . 
-Canalhas! ! ! Mil vezes canalhas! ! ! ! ! twitter. com / pfizer / status / … 
+@reportersalles Entreviste Dra. CHINDA BRANDOLINO, conforme ela o **RNA** 
+utilizado pela vacina de Oxford causará esterilização em massa. 
+https://t.co/Chzlf8JJGm 
 
 Lemmas in this text that loaded on the factor:
 
-dor 
-sangue 
+rna 

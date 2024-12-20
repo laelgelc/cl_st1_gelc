@@ -1,20 +1,22 @@
-file = t010506
-date = 2020-11-00
-user = derzevic
+file = t015632
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1326304163626627000
+URL = https://twitter.com/oscasosraros/status/1541884936415842300
 
-word count = 34
-words loading = 3
-factor score = -4
+word count = 48
+words loading = 4
+factor score = -3
 
-PORCARIA CH! NESA E CHEIA DE FALHAS. Anvisa diz que dados sobre vacina chinesa 
-estavam incompletos e cobra transparência gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @Gazeta Brasil - Notícias de última hora 
-do Brasil e do Mundo Últimas manchetes 
+Jussara, 29 anos, recebeu a 1ª dose em campanha para os professores da cidade 
+onde mora. Depois de 1 **semana** , sentiu **dores** de cabeça semelhantes à 
+sinusite. Consultou otorrino e não era. Consultou um neurologista, que a 
+encaminhou para **exames** . No mesma noite, **sofreu** 3 convulsões. 
+https://t.co/1s396nyz0E 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-especial 
-via 
+dor 
+exame 
+semana (secondary)
+sofrer (secondary)

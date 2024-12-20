@@ -1,19 +1,18 @@
-file = t010186
-date = 2020-09-00
-user = evandroratho
+file = t010727
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1300804407576219600
+URL = https://twitter.com/derzevic/status/1336822462693200000
 
-word count = 45
+word count = 19
 words loading = 2
 factor score = -2
 
-@GabrielaPrioli Um remédio que está no **mercado** há décadas e tem seus 
-efeitos colaterais bem conhecidos, mas não pode ser usado por não ter estudos 
-científicos suficientes. Vacina nova, pulando etapas e sem conhecer a fundo os 
-efeitos colaterais, pode? Quem é a **piada** ? 
+CORREEEE DORIANA. . . CORREEEEE O **mercado** bilionário das vacinas: A 
+estranha pressa de Dória e Dino ( veja o vídeo ) **jornaldacidadeonline** . 
+com. br / noticias / 25286 … 
 
 Lemmas in this text that loaded on the factor:
 
+jornaldacidadeonline 
 mercado 
-piada 

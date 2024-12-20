@@ -1,20 +1,22 @@
-file = t001796
-date = 2021-02-27
-user = alfivonh
-conversation = 233334112
-URL = https://twitter.com/alfivonh/status/1365776690862039044
+file = t000487
+date = 2020-07-30
+user = unknown
+conversation = 1140711491487850498
+URL = unknown
 
-word count = 33
-words loading = 3
-factor score = -4
+word count = 45
+words loading = 5
+factor score = -7
 
-@VEJA Eu acredito na eficácia do **tratamento** **precoce** com azitromicina, 
-**cloroquina** e ivermectina. Nao acredito em vacinas, onde os laboratórios 
-não se responsabilizam pelos efeitos colaterais e pelas mortes dos cidadãos 
-brasileiros. 
+@GuiSN77 @JanainaDoBrasil Sim, mas tem o direito e o dever de **salvar** 
+**vidas** . . Os médicos não estão **fazendo** propaganda do remédio, eles 
+estão **usando** pq muitas **vidas** já foram **salvas** com ele. O problema 
+aqui é que existe uma vacina caríssima para ser **vendida** 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-precoce 
-tratamento 
+fazer 
+salvar 
+usar 
+vender 
+vida 

@@ -1,25 +1,22 @@
-file = t016085
-date = 2022-09-00
+file = t015801
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1566824586481729500
+URL = https://twitter.com/mpatriabrasil/status/1551339322065952800
 
-word count = 47
-words loading = 7
-factor score = 7
+word count = 49
+words loading = 4
+factor score = 2
 
-**Fontes** : Falecimento de Flávio Rodrigues: m. **facebook** . com / story. 
-php? stor … Face de Flávio ( fotos com as **doses** ) **facebook** . com / 
-profile. php? id … **Alerta** da Anvisa, só **publicado** no site e não 
-divulgado na Grande Mídia. Flávio se **submeteu** ao **experimento** sem 
-saber dos riscos. gov. br / anvisa / pt-br / a … 
+Professor Fortunato era um defensor do **experimento** . Tomou a 1a. Dose em 
+Junho / 21 . Teve um **infarto** **fulminante** pouco tempo depois dos 
+reforços. A OMS já divulgou alertas sobre o risco de **Infartos** algum tempo 
+depois do **experimento** . instagram. com / p / CPvpyVjBHRo / … m. 
+**facebook** . com / story. php? stor … https://t.co/maFgs8dVn4 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-dose 
-experimento 
+experimento (secondary)
 facebook 
-fonte 
-publicar 
-submeter 
+fulminante 
+infarto (secondary)

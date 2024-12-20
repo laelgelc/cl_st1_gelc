@@ -1,18 +1,17 @@
-file = t010727
+file = t010947
 date = 2020-12-00
-user = derzevic
+user = sabolsonaro
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1336822462693200000
+URL = https://twitter.com/sabolsonaro/status/1339989270023581700
 
-word count = 19
+word count = 18
 words loading = 2
 factor score = -2
 
-CORREEEE DORIANA. . . CORREEEEE O **mercado** bilionário das vacinas: A 
-estranha pressa de Dória e Dino ( veja o vídeo ) **jornaldacidadeonline** . 
-com. br / noticias / 25286 … 
+Se os esquerdolas **confiam** na vacina, por que se incomodam tanto em assinar 
+um **termo** de responsabilidade? 
 
 Lemmas in this text that loaded on the factor:
 
-jornaldacidadeonline 
-mercado 
+confiar 
+termo 

@@ -1,22 +1,23 @@
-file = t002409
-date = 2021-05-30
-user = JulioBottarelli
-conversation = 940596771776073728
-URL = https://twitter.com/JulioBottarelli/status/1399124997512302597
+file = t011234
+date = 2021-01-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1349773990286520300
 
-word count = 46
-words loading = 4
-factor score = -3
+word count = 51
+words loading = 5
+factor score = -7
 
-" @oiIuiz É este tipo de gente que faz **piada** com Darwin, Lei da 
-evolução, de virar jacaré , que chamava outros de gado, negacionista 
-terraplanista, anti-ciencia e contra **tratamento** **precoce** . . . E não 
-faz **tratamento** , não faz profilaxia e **confia** em uma " " vacina " " 
-experimental Express Quem é gado? " 
+Os mesmos políticos que mentem e manipulam dados do Butantã tentando 
+justificar o gasto público de bilhões de reais com a vacina da China, 
+**dizem** que o **tratamento** **precoce** não funciona. E tem gente que não 
+consegue **ver** o conflito de **interesses** , e segue cego à espera de um 
+milagre! 
 
 Lemmas in this text that loaded on the factor:
 
-confiar 
-piada (secondary)
-precoce 
+dizer 
+interesse 
+precoce (secondary)
 tratamento 
+ver 

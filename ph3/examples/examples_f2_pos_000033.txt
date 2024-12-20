@@ -1,21 +1,26 @@
-file = t014336
-date = 2022-01-00
-user = evandroratho
+file = t016470
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1480883273710637000
+URL = https://twitter.com/iodinha1/status/1586172918312370200
 
 word count = 45
-words loading = 4
+words loading = 8
 factor score = 7
 
-Se quem toma 3 doses da vacina, **usa** máscara, álcool gel, segue todas as 
-**medidas** de distanciamento **social** , ainda assim pega covid, resta 
-evidenciado que tais **medidas** não **impedem** a infecção e a transmissão 
-do vírus, portanto, são inúteis e não deveriam ser obrigatórias! 
+@DaniMYGonzalez Nunca **saberemos** se quem **morreu** foi ou não por 
+**causa** da vacina. Muita **gente** não se vacinou e nem resfriado **pegou** 
+. Outros tantos, só após se vacinar, **pegaram** **covid** , tiveram 
+miocardite, AVC, ataque cardíaco, trombone, gripe e até **morreram** etc. 
+**Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-impedir 
-medida 
-social 
-usar 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

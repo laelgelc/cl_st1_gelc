@@ -1,22 +1,19 @@
-file = t014671
-date = 2022-01-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488239841842245600
+file = t001121
+date = 2020-10-29
+user = AiltonBenedito
+conversation = 342403919
+URL = https://twitter.com/AiltonBenedito/status/1321774469132832768
 
-word count = 45
-words loading = 4
-factor score = -3
+word count = 33
+words loading = 2
+factor score = -2
 
-@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
-como os estudos sobre o tratamento precoce, os **questionamentos** de médicos 
-e cientistas sobre eficácia e segurança das vacinas, os resultados obtidos 
-por lugares que **retiraram** as **medidas** de **distanciamento** social, e 
-por aí vai. . . 
+Tiranetes montados em retroescavadeira televisiva prometem às empresas 
+farmacêuticas isenção de responsabilidade pelos riscos da falta de 
+segurança e eficácia de **supostas** vacinas contra o #Covid19 , transferindo 
+-os para vítimas que pretendem vacinar compulsoriamente. 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-medida (secondary)
-questionamento 
-retirar 
+covid19 
+suposto 

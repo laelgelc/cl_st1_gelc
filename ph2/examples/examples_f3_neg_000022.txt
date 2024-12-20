@@ -1,19 +1,26 @@
-file = t000922
-date = 2020-10-30
-user = FabioIng
-conversation = 81842196
-URL = https://twitter.com/FabioIng/status/1322305451833413638
+file = t016355
+date = 2022-10-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1580956104624070700
 
-word count = 26
-words loading = 3
-factor score = -3
+word count = 40
+words loading = 9
+factor score = -7
 
-" @allanldsantos - Hidroxicloroquina. Há 70 anos no **mercado** : " " não tem 
-comprovação científica, é perigoso " " - Vacina. Feita em 7 meses: " " deve 
-ser obrigatória. " " **Dama** de **ferro** / TT " 
+@ZurockV Nunca saberemos se foi ou não por **causa** da vacina. Muita 
+**gente** não se vacinou e nem **resfriado** **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+cardíaco, **trombone** , **gripe** e até **morreram** etc. 
 
 Lemmas in this text that loaded on the factor:
 
-dama 
-ferro 
-mercado 
+ataque 
+causa 
+gente (secondary)
+gripe 
+miocardite 
+morrer (secondary)
+pegar 
+resfriar 
+trombone 

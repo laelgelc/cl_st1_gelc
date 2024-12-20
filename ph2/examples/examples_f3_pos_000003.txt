@@ -1,25 +1,24 @@
-file = t012221
-date = 2021-05-00
-user = melnetto
+file = t014321
+date = 2022-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/melnetto/status/1398060112695156700
+URL = https://twitter.com/evandroratho/status/1480594299981082600
 
-word count = 58
-words loading = 7
-factor score = 8
+word count = 42
+words loading = 6
+factor score = 7
 
-Que coisa né ? Vocês incentivaram a compra de vacinas que nem o país de 
-origem **quer** **tomar** . Elegem o Doria salvador de **vidas** , **dai** a 
-**vachina** da ruim e a culpa é do Girão? Não pode escolher mais a extrema 
-**imprensa** fez pressão e **quer** agora tirar o. . . da reta. Não vai colar 
-Natuza. **twitter** . com / NatuzaNery / sta … 
+@v_dosfatos @Candida19091556 As estatísticas **asseguram** que o vírus não 
+**representa** risco significativo para **jovens** saudáveis, já as vacinas 
+carecem de **estudos** sobre segurança a **longo** **prazo** , portanto, não 
+há caráter de urgência para justificar o uso destas vacinas em **jovens** e 
+crianças. 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-imprensa 
-querer 
-tomar 
-twitter 
-vachina 
-vida 
+assegurar 
+estudo 
+jovem (secondary)
+longo 
+prazo 
+representar 

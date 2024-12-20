@@ -1,24 +1,26 @@
-file = t014937
-date = 2022-02-00
-user = evandroratho
+file = t016490
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1495737365679194000
+URL = https://twitter.com/iodinha1/status/1586898760130494500
 
-word count = 41
-words loading = 6
+word count = 45
+words loading = 8
 factor score = 7
 
-Disseram que o **lockdown** achataria a curva, não achatou; Disseram que 
-máscaras **impediriam** a transmissão, não **impediram** ; Disseram que a 
-**pandemia** acabaria quando a **maioria** estivesse vacinada, não acabou; 
-Estes mesmos especialistas disseram que o **tratamento** **precoce** não é 
-eficaz. . . 
+@paulogustavo Nunca **saberemos** se quem **morreu** foi ou não por **causa** 
+da vacina. Muita **gente** não se vacinou e nem resfriado **pegou** . Outros 
+tantos, só após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, 
+ataque cardíaco, trombone, gripe e até **morreram** etc. **Verdade** seja 
+**dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-impedir 
-lockdown 
-maioria 
-pandemia 
-precoce 
-tratamento 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

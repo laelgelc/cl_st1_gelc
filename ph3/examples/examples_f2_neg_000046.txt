@@ -1,21 +1,17 @@
-file = t015133
-date = 2022-04-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1510419116645138400
+file = t002514
+date = 2021-05-30
+user = unknown
+conversation = 1305701685268971520
+URL = unknown
 
-word count = 47
-words loading = 3
-factor score = -3
+word count = 38
+words loading = 0
+factor score = -1
 
-@Himaritheus @carlosmaltz A filha da minha **amiga** teve problema nos **rins** 
-( outro caso esse ) depois da 1° dose. . . ficou toda inchada e teve tbm 
-problema de **pele** . . . muita alergia. Uma outra **amiga** do Nordeste teve 
-a mesma alergia. Fui pesquisar milhares de pessoas tiveram essa mesma alergia. 
-+ 
+" @oiIuiz " " Não foi possível calcular a eficácia da vacina por faixa 
+etária, principalmente entre idosos. A quantidade de idosos era muito pequena 
+e não permitiu estabelecer perfil de segurança e eficácia da vacina " " 
+Anvisa " " politizida " " pelo BOZO. " 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-pele 
-rim 

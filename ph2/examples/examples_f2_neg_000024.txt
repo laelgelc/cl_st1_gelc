@@ -1,17 +1,18 @@
-file = t015130
-date = 2022-04-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1510291550756085800
+file = t001640
+date = 2021-01-30
+user = FGOMES66
+conversation = 66424743
+URL = https://twitter.com/FGOMES66/status/1355663890848296965
 
-word count = 28
+word count = 18
 words loading = 2
 factor score = -2
 
-@carlosmaltz Uma **amiga** teve problema nos **rins** e o médico disse q sabia 
-q era da vacina mas q não podia ficar falando pq o hospital proíbe eyes_e 
+RT @nise_dra: Associação Médica Americana declara que **retira** as 
+restrições contra **Hidroxicloroquina** e admite seus benefícios, liberando 
+par 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
-rim 
+hidroxicloroquina 
+retirar 

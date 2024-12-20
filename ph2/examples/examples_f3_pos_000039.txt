@@ -1,22 +1,21 @@
-file = t012271
-date = 2021-06-00
-user = julianaayres
+file = t010849
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1400493831024525300
+URL = https://twitter.com/evandroratho/status/1339194306071027700
 
-word count = 56
-words loading = 4
-factor score = 6
+word count = 29
+words loading = 5
+factor score = 5
 
-@ContinueFiel Doutora, preciso da sua ajuda Uma amiga **tomou** a vacina da 
-Pfizer e o corpo ficou irreconhecível. Ela está na cor vinho e cheia de 
-bolinhas e inchada dos pés à cabeça Os médicos **dizem** q é d um remédio 
-q ela **tomava** por **causa** de umas convulsões + é mentira eles ñ 
-**querem** admitir. . 
+E se houvessem **estudos** científicos comprovando que alguns protocolos de 
+**tratamento** **precoce** reduzem a **taxa** de **letalidade** do vírus para 
+quase zero, faria sentido continuar falando sobre vacina? 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-dizer 
-querer 
-tomar 
+estudo 
+letalidade 
+precoce 
+taxa 
+tratamento (secondary)

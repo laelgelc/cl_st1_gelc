@@ -1,19 +1,21 @@
-file = t015905
-date = 2022-08-00
-user = mpatriabrasil
+file = t010849
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1556452620469936000
+URL = https://twitter.com/evandroratho/status/1339194306071027700
 
-word count = 39
-words loading = 2
-factor score = 4
+word count = 29
+words loading = 5
+factor score = 7
 
-EFICÁCIA NEGATIVA Dr. Harvey Risch: [ De acordo com dados de saúde pública 
-do Reino Unido ] , as **taxas** de infecção sintomática em cada **faixa** 
-etária foram aproximadamente três vezes maiores nas pessoas vacinadas do que 
-nas pessoas não vacinadas. https://t.co/4h2tvBuYkQ 
+E se houvessem **estudos** científicos comprovando que alguns protocolos de 
+**tratamento** **precoce** reduzem a **taxa** de **letalidade** do vírus para 
+quase zero, faria sentido continuar falando sobre vacina? 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
+estudo 
+letalidade 
+precoce 
 taxa 
+tratamento 

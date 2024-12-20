@@ -1,18 +1,21 @@
-file = t010456
-date = 2020-10-00
-user = derzevic
+file = t015534
+date = 2022-06-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1322377403717587000
+URL = https://twitter.com/julianaayres/status/1536465001178878000
 
-word count = 20
-words loading = 3
-factor score = -4
+word count = 46
+words loading = 4
+factor score = -3
 
-Bolsonaro rebate Mourão sobre **compra** da vacina chinesa: ' A caneta Bic é 
-minha ' gazetabrasil. com. br / **especiais** / jair … **via** @Gazeta 
+No mais, agora estamos vendo pandemia de cânceres, problema nos **rins** , 
+**dor** no coração, problemas **faciais** , neurológicos, de **pele** , 
+Guillain Barré , problema no ciclo feminino, milhares de abortos entre mais de 
+100 mil problemas. Sim, mais de 100 mil. CEM MIL! ! ! Vai outra dose aí ? 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-especial 
-via 
+dor 
+facial 
+pele 
+rim 

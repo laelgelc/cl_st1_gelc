@@ -1,22 +1,28 @@
-file = t012033
-date = 2021-05-00
+file = t011790
+date = 2021-04-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1389992072082505700
+URL = https://twitter.com/evandroratho/status/1379502758718492700
 
-word count = 43
-words loading = 4
-factor score = -6
+word count = 42
+words loading = 10
+factor score = -9
 
-@2022Enquetes Todos eles foram covardes no debate sobre **tratamento** 
-**precoce** , **lockdown** , **obrigatoriedade** de máscaras, e, 
-principalmente, sobre a comprovação da covid como causa da morte para constar 
-no atestado de óbito. Só falam em vacinas como se estas fossem o grande 
-milagre. 
+Coisas que não dá mais pra esconder mas a velha **imprensa** **vendida** 
+continua fingindo não **saber** : - **Tratamento** **precoce** **salva** 
+**vidas** ; - Vacina não **garante** imunização; - Lockdown não reduz 
+contágio e tampouco mortes; - O establishment **faz** de tudo para derrubar o 
+atual **governo** ; 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-obrigatoriedade 
-precoce 
+fazer 
+garantir 
+governo 
+imprensa 
+precoce (secondary)
+saber 
+salvar 
 tratamento 
+vender 
+vida 

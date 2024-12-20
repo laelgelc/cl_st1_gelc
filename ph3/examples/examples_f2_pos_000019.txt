@@ -1,22 +1,26 @@
-file = t012293
-date = 2021-06-00
-user = evandroratho
+file = t016565
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1401923949492121600
+URL = https://twitter.com/iodinha1/status/1591235263061454800
 
-word count = 47
-words loading = 5
-factor score = 8
+word count = 48
+words loading = 8
+factor score = 7
 
-Mentiram sobre a origem do vírus, sobre o **tratamento** **precoce** , sobre 
-eficácia e segurança das vacinas, sobre a efetividade do uso de máscaras, 
-sobre o **lockdown** , sobre as estatísticas de **mortes** , e tantas outras 
-**coisas** . Eles vão continuar mentindo, e cabe a você parar de acreditar! 
+@revistaoeste Nunca **saberemos** se quem **morreu** foi por **causa** da 
+**covid** ou por **causa** da vacina. Muita **gente** não se vacinou e nem 
+resfriado **pegou** . Outros tantos, só após se vacinar, **pegaram** 
+**covid** , tiveram miocardite, AVC, ataque cardíaco, trombone, gripe e até 
+**morreram** etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-coisa 
-lockdown 
-morte (secondary)
-precoce 
-tratamento 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

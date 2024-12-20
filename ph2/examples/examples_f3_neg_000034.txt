@@ -1,16 +1,23 @@
-file = t000870
-date = 2020-10-30
-user = unknown
-conversation = 8308372
-URL = unknown
+file = t015352
+date = 2022-05-00
+user = mpatriabrasil
+conversation = 99999999
+URL = https://twitter.com/mpatriabrasil/status/1528620703087566800
 
-word count = 19
-words loading = 1
-factor score = -2
+word count = 51
+words loading = 5
+factor score = -5
 
-RT @FabioIng: @Darth_Re @allanldsantos @UOLNoticias Prometer vacina para Covid 
-em 2020 é grave desserviço ao público, **avalia** Presidente da 
+Aline tomou a 2ª dose, e 1 mês depois começou a **sentir** **dores** nos 
+pés e **pernas** , até que um **dia** não tinha forças nas **pernas** nem 
+para ficar em pé ! Foram muitos **exames** até o diagnóstico: Mielite 
+Transversa autoimune, 1 inflamação na medula espinhal. Depoimento da mãe: 
+oscasosraros https://t.co/e2M4uE4qXu 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
+dia (secondary)
+dor 
+exame 
+perna 
+sentir 

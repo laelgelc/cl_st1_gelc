@@ -1,18 +1,22 @@
-file = t010933
-date = 2020-12-00
-user = evandroratho
+file = t014903
+date = 2022-02-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339908921700565000
+URL = https://twitter.com/mpatriabrasil/status/1494306979539529700
 
-word count = 39
-words loading = 1
-factor score = -2
+word count = 53
+words loading = 4
+factor score = -4
 
-@Guile_Phoenix38 O índice de letalidade para minha **faixa** etária e 
-condição de saúde é de 0 , 083 % no estado em que vivo ( SC ) . Faz algum 
-sentido correr risco com vacinas para uma doença com índice de letalidade 
-tão baixo? 
+Fonte: instagram. com / odiadafla / FLÁVIA, relata que chorou de alegria no 
+**dia** em que chegou sua vez de tomar a vacina, mas, hoje, vê que foi 
+enganada pela mídia e que sua vida **virou** um pesadelo a partir desse 
+**dia** . Logo depois da **picada** , teve forte #dor de cabeça, #calafrio, 
+**dor** . . https://t.co/dM6gwJyPWT 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
+dia (secondary)
+dor 
+picada 
+virar 

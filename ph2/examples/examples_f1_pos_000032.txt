@@ -1,24 +1,23 @@
-file = t015989
-date = 2022-08-00
+file = t016204
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1560763041737744400
+URL = https://twitter.com/mpatriabrasil/status/1574736901172592600
 
-word count = 54
-words loading = 6
-factor score = 8
+word count = 43
+words loading = 5
+factor score = 3
 
-Maria Elena tomou a 4a. **Dose** no **dia** 01 / 08 / 22 , num hospital do 
-Chile e no **dia** seguinte postou no Face que não estava bem por conta da 
-Moderna. **Faleceu** d mal súbito ( aneurisma ) no **dia** 04 / 08 / 22 . 
-Existem estudos da OMS que **indicam** o risco d aneurisma pós-experimento 
-Segue **fontes** . https://t.co/Ow6LTAgbke 
+Mais num jovem morre jogando **futebol** . . . Meu Deus! Segundo apuramos, ele 
+havia se submetido ao **experimento** há 4 meses. **Pesquisas** americanas 
+**indicam** que as mortes pelo **experimento** geralmente ocorrem após 5 meses 
+depois das doses. stevekirsch. substack. com / p / this-one-gra … 
+**facebook** . com / 10006368102481 … https://t.co/dGrWfJzi0v 
 
 Lemmas in this text that loaded on the factor:
 
-dia 
-dose 
-experimento 
-falecer 
-fonte 
-indicar 
+experimento (secondary)
+facebook 
+futebol 
+indicar (secondary)
+pesquisa 

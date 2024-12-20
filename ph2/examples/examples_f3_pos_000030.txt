@@ -1,26 +1,23 @@
-file = t013755
-date = 2021-11-00
-user = julianaayres
+file = t012078
+date = 2021-05-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1461329726186967000
+URL = https://twitter.com/evandroratho/status/1392158033564868600
 
-word count = 49
-words loading = 8
-factor score = 6
+word count = 40
+words loading = 5
+factor score = 5
 
-O **presidente** Bolsonaro é o ministro da saúde são responsáveis por cada 
-**vida** que se **perdeu** pós vacina e por cada pessoa q. hj tem algum 
-**problema** após eles **saberem** dos **efeitos** **colaterais** e não 
-avisarem a população dos RISCOS. O pres. @jairbolsonaro mostrou -se igual aos 
-corruptos. **twitter** . com / AlessandroLoio … 
+- O vírus é chinês - Vacinas não têm **estudos** suficientes para 
+comprovar segurança e eficácia - **Tratamento** **precoce** com remédio 
+barato e sem patente não interessa à indústria farmacêutica - Políticos se 
+aproveitam da pandemia para obter vantagens - A **imprensa** **mente** 
+#EstadadoFake 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-efeito (secondary)
-perder 
-presidente 
-problema (secondary)
-saber 
-twitter 
-vida 
+estudo 
+imprensa (secondary)
+mentar 
+precoce 
+tratamento (secondary)

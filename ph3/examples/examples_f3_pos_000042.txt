@@ -1,20 +1,23 @@
-file = t012637
-date = 2021-07-00
+file = t013112
+date = 2021-09-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1414967198532124700
+URL = https://twitter.com/evandroratho/status/1438123547143065600
 
-word count = 32
-words loading = 4
-factor score = 4
+word count = 42
+words loading = 5
+factor score = 6
 
-@DalcioNews Sim. O estudo trata especificamente das vacinas que usam **mRNA** , 
-e o **alerta** se refere justamente a falta de estudos de médio e **longo** 
-**prazo** sobre a segurança desta tecnologia. . . 
+@SigaGazetaBR Vacinados continuam com **risco** de adoecer e **transmitir** o 
+vírus; As estatísticas mostram uma preocupante incidência de internação e 
+óbitos entre vacinados; Recuperados da doença têm **imunidade** **natural** 
+**melhor** do que vacinados; Sob nenhuma ótica esse passaporte vacinal faz 
+sentido! 
 
 Lemmas in this text that loaded on the factor:
 
-alerta (secondary)
-longo 
-mrna 
-prazo 
+bom (secondary)
+imunidade 
+natural 
+risco 
+transmitir 

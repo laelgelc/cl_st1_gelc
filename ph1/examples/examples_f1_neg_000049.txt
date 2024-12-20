@@ -1,19 +1,18 @@
-file = t013107
-date = 2021-09-00
-user = julianaayres
+file = t016404
+date = 2022-10-00
+user = paulo2246
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1438023893537677300
+URL = https://twitter.com/paulo2246/status/1582913764638085000
 
-word count = 24
-words loading = 3
+word count = 28
+words loading = 2
 factor score = -2
 
-@BoniCoverRei @jairbolsonaro @jairbolsonaro o senhor nos traiu. Precisa REVOGAR 
-esse **decreto** **assinado** pelo senhor. ESTAMOS PERDENDO NOSSA **LIBERDADE** 
-. NÃO QUEREMOS VACINA EXPERIMENTAL OBRIGATÓRIA! 
+@jairbolsonaro O meu presidente me da uma força ae hoje recebi isto do 
+**conselho** **tutelar** me ameaçando por não ter vacinado meus filhos contra 
+a covid. https://t.co/UBO5mhixFn 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-decreto 
-liberdade (secondary)
+conselho 
+tutelar 

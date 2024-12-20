@@ -1,20 +1,27 @@
-file = t010931
-date = 2020-12-00
-user = evandroratho
+file = t016837
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339906584147865600
+URL = https://twitter.com/iodinha1/status/1596326262951522300
 
-word count = 47
-words loading = 2
-factor score = -3
+word count = 48
+words loading = 9
+factor score = -7
 
-@leandroruschel Por que ninguém está falando sobre os índices de letalidade 
-por **faixa** etária, e questionando a vacinação em crianças, jovens, e 
-adultos saudáveis? Correr riscos com vacinas suspeitas para uma doença que 
-tem taxa de **mortalidade** abaixo de 0 , 1 % é loucura, não se justifica. . 
-. 
+@karinamichelin Nunca saberemos se quem **morreu** foi por **causa** da covid 
+ou por **causa** da vacina. Muita **gente** não se vacinou e nem **resfriado** 
+**pegou** . Outros tantos, só após se vacinar, **pegaram** covid, tiveram 
+**miocardite** , AVC, **ataque** cardíaco, trombose, **gripe** e até 
+**morreram** etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
-mortalidade 
+ataque 
+causa 
+gente (secondary)
+gripe 
+miocardite 
+morrer (secondary)
+pegar 
+resfriar 
+verdade 

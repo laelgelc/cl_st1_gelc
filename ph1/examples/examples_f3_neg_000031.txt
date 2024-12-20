@@ -1,21 +1,20 @@
-file = t001348
-date = 2020-11-29
-user = CezarRicardoSi1
-conversation = 858704025138679809
-URL = https://twitter.com/CezarRicardoSi1/status/1333172872488038401
+file = t011783
+date = 2021-04-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1379151894220832800
 
-word count = 49
-words loading = 3
-factor score = -4
+word count = 32
+words loading = 4
+factor score = -3
 
-@CarlaZambelli38 @brunocovas Bom está semana começa a guerra psicológica 
-novamente fechando tudo. Um pergunta que não sai da minha cabeça qual a 
-**verdade** sobre a sinovac, pq **querem** desenvolver a **vachina** aqui? 
-Talvez exista uma armadilha escondida e a culpa recairá no Butantã , sem 
-falar que já ganharam $ . 
+PRECISA MESMO. PORQUE ESSA PORCARIA CH! NESA DO CALCINHA **APERTADA** , NÃO 
+RESOLVE. FIZ VÍDEO NO CANAL MOSTRANDO OS IDOSOS QUE APÓS **SEGUNDA** DOSE 
+VIERAMN A ÓBITO Pleno. **News** pleno. **news** / **brasil** / jair-bo … 
 
 Lemmas in this text that loaded on the factor:
 
-querer 
-vachina 
-verdade 
+apertar 
+brasil 
+news 
+segundo (secondary)

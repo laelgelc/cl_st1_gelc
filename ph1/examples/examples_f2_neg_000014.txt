@@ -1,21 +1,25 @@
-file = t016483
-date = 2022-10-00
-user = iodinha1
+file = t016190
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586556795518058500
+URL = https://twitter.com/mpatriabrasil/status/1574004081466785800
 
 word count = 45
-words loading = 4
-factor score = -4
+words loading = 7
+factor score = -3
 
-@SeriesBrasil Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. Verdade seja dita! 
+Pesquisas indicam que o período mais propenso a infartos e AVCs se dá entre 5 
+a 6 meses após as doses. **Fontes** : Falecimento de Renzi: interiordabahia. 
+com. br / ultimas-notici … **Alerta** da Anvisa: gov. br / anvisa / pt-br / a 
+… Pesquisa sobre problemas Cardíacos pós-experimento: **ncbi** . **nlm** . 
+**nih** . gov / pmc / **articles** / P … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+alerta (secondary)
+articles 
+experimento (secondary)
+fonte (secondary)
+ncbi 
+nih 
+nlm 

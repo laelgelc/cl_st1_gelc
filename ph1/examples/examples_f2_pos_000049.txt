@@ -1,23 +1,24 @@
-file = t001456
-date = 2020-12-30
-user = LuisbrasilVet
-conversation = 2577259862
-URL = https://twitter.com/LuisbrasilVet/status/1344396265942085635
+file = t001165
+date = 2020-10-30
+user = MarleneFFL
+conversation = 36373308
+URL = https://twitter.com/MarleneFFL/status/1322260336603443206
 
-word count = 44
-words loading = 5
+word count = 52
+words loading = 6
 factor score = 7
 
-@BrazilFight LOCKDOWN E MÁSCARAS não evita o contágio do Covid NO PRIMEIRO 
-SINTOMA NÃO ESPERE, VÁ AO HOSPITAL **TRATAMENTO** **PRECOCE** JÁ ! 
-HIDROXICLOROQUINA e IVERMECTINA **SALVAM** **VIDAS** ! **IMUNIDADE** DE REBANHO 
-JÁ ! VACINAS SÓ COM COMPROVAÇÃO CIENTÍFICA E APÓS LIBERAÇÃO DA ANVISA. 
-VACINA NÃO OBRIGATÓRIA. 
+causou a 35 milhões de mortes pelo **mundo** . E agora **querem** enfiar na 
+cabeça do **povão** que essa vacina chinesa contra o **Covid** -19 feita em 
+06 meses, é confiável a tal ponto de **quererem** **aplicar** a força na 
+população. **Fica** a pergunta: q tipo de idiota acredita nessa mentira 
+Globalista? https://t.co/NppEuZof0t 
 
 Lemmas in this text that loaded on the factor:
 
-imunidade 
-precoce 
-salvar 
-tratamento 
-vida 
+aplicar 
+covid 
+ficar 
+mundo 
+povo 
+querer 

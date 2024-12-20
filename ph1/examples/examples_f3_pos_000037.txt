@@ -1,20 +1,22 @@
-file = t014148
-date = 2021-12-00
-user = iodinha1
+file = t014671
+date = 2022-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1474392357227401200
+URL = https://twitter.com/evandroratho/status/1488239841842245600
 
-word count = 38
-words loading = 3
-factor score = 4
+word count = 45
+words loading = 4
+factor score = 6
 
-O dever do médico é apenas informar o estado de saúde e eventuais 
-comorbidades do **paciente** para que o **paciente** possa **avaliar** o 
-custo-benefício de se vacinar ou não. A decisão é sempre do **paciente** . 
-twitter. com / FFCsempre / stat … 
+@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
+como os **estudos** sobre o **tratamento** **precoce** , os questionamentos de 
+médicos e cientistas sobre eficácia e segurança das vacinas, os resultados 
+obtidos por lugares que retiraram as medidas de distanciamento **social** , e 
+por aí vai. . . 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
-custo 
-paciente 
+estudo 
+precoce 
+social 
+tratamento 

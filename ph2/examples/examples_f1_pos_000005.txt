@@ -1,29 +1,25 @@
-file = t016501
-date = 2022-11-00
+file = t016196
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1587855528818098200
+URL = https://twitter.com/mpatriabrasil/status/1574192105706164200
 
-word count = 46
-words loading = 11
-factor score = 12
+word count = 48
+words loading = 7
+factor score = 6
 
-Jorge Balbino Júnior, jogador de **futebol** **faleceu** aos 30 anos. Foi 
-obrigado a se **submeter** ao **experimento** , pois a CBF exige o 
-**comprovante** . Durante anos jogou e nunca apresentou **problemas** 
-cardíacos e depois das **doses** **morre** de **infarto** . **Fonte** : m. 
-**facebook** . com / story. php? stor … https://t.co/wNtqukELRN 
+Mortes nas últimas 48Hs - Pessoas jovens sofrendo **infartos** . Ninguém 
+questiona, a despeito da Anvisa ter alertado sobre o risco de problemas 
+Cardíacos e **Pesquisas** **indicarem** o risco d **infartos** e AVCs, depois 
+d meses após as doses. gov. br / anvisa / pt-br / a … **ncbi** . **nlm** . 
+**nih** . gov / pmc / **articles** / P … https://t.co/W2ANw2mmjO 
 
 Lemmas in this text that loaded on the factor:
 
-comprovante 
-dose 
-experimento 
-facebook 
-falecer 
-fonte 
-futebol 
-infarto 
-morrer 
-problema 
-submeter 
+articles 
+indicar (secondary)
+infarto (secondary)
+ncbi 
+nih 
+nlm 
+pesquisa 

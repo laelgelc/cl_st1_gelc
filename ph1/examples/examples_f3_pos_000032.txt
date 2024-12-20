@@ -1,18 +1,23 @@
-file = t015676
-date = 2022-07-00
-user = oscasosraros
+file = t016107
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1544499745502158800
+URL = https://twitter.com/mpatriabrasil/status/1568422635620507600
 
-word count = 17
-words loading = 3
-factor score = 4
+word count = 52
+words loading = 5
+factor score = 6
 
-" os benefícios da vacinação **superam** os **riscos** associados a eventos 
-**adversos** " My ass! twitter. com / Tiagoalb76 / sta … 
+O experimento bivalente p / as **variantes** BA4 e BA5 foi **aprovado** a toque 
+d caixa, sem testes humanos. O FDA autorizou a compra de 170 milhões d doses c 
+/ base em **estudos** feitos em 8 camundongos. Além d não proteger e não 
+**impedir** a transmissão, os **riscos** superam os benefícios. 
+https://t.co/lltNao9WNv 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
+aprovar (secondary)
+estudo 
+impedir 
 risco 
-superar 
+variante 

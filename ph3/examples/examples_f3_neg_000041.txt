@@ -1,22 +1,21 @@
-file = t010374
-date = 2020-10-00
-user = derzevic
+file = t015437
+date = 2022-05-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1319908366068682800
+URL = https://twitter.com/oscasosraros/status/1531627347669041200
 
-word count = 42
+word count = 43
 words loading = 4
-factor score = -4
+factor score = -3
 
-MAIS QUE VACHINA? ? NÃO EXISTE VACINA, O QUE EXISTE É UM PROTÓTIPO EM 
-ESTUDOS AINDA NÃO **TESTADO** . NÃO EXISTE VACINA NENHUMA AINDA! ! ! Maia 
-chama Doria de " **amigo** e aliado " e se põe à disposição para solucionar 
-" entrevero " sobre vacina gazetabrasil. com. br / **politica** / maia- … 
-**via** @Gazeta 
+Apenas 5 dias depois de sua 1ª dose, Felipe, de apenas 15 anos, **sofre** um 
+**infarto** e vai a óbito. Pela manhã se queixa de **dor** de cabeça, e é 
+medicado. À tarde, estava com **amigos** , andando de bicicleta, e desmaiou. 
+https://t.co/TGIC8WmLxw 
 
 Lemmas in this text that loaded on the factor:
 
 amigo 
-politicar 
-testar 
-via 
+dor 
+infarto (secondary)
+sofrer (secondary)

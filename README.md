@@ -13,7 +13,7 @@ Aimed at validating the current software baseline.
 Findings:
 
 - `tokens.txt` and `tokens_ori.txt` are identical;
-- `types.txt` and `types.txt` are similar - the order of types vary in some of the lines;
+- `types.txt` and `types_ori.txt` are similar - the order of types vary in some of the lines;
 - `selectedwords` and `selectedwords_ori` are similar - there are changes in the order of variables but the variables themselves remain the same;
 - The files in `sas` and `sas_ori` are similar.
 
@@ -27,7 +27,7 @@ Findings:
 
 - Running the tagging process twice results in identical `tagged.txt` files, therefore the processing is deterministic;
 - `tokens.txt` and `tokens_ori.txt` bear differences;
-- `types.txt` and `types.txt` bear differences;
+- `types.txt` and `types_ori.txt` bear differences;
 - `selectedwords` and `selectedwords_ori` bear differences;
 - The files in `sas` and `sas_ori` bear differences.
 

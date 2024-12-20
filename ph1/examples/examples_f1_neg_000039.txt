@@ -1,18 +1,19 @@
-file = t011218
-date = 2021-01-00
-user = derzevic
+file = t012038
+date = 2021-05-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1349422668899102700
+URL = https://twitter.com/evandroratho/status/1390034205472706600
 
-word count = 31
+word count = 40
 words loading = 2
 factor score = -2
 
-TA CERTO, MAS E SP E TAL CORONAVAC? VAI COMEÇAR A INVESTIGAÇÃO QUANDO? ? PF 
-e CGU deflagram operação para investigar irregularidades no **combate** à 
-Covid-19 no Piauí **jornaldacidadeonline** . com. br / noticias / 26133 … 
+@gazetadopovo Concentram o debate da **CPI** na **suposta** demora para comprar 
+vacinas mas não perguntam nada sobre o índice de eficácia das mesmas, e 
+criminalizam o tratamento precoce sem levar em consideração as centenas de 
+estudos com resultados positivos. 
 
 Lemmas in this text that loaded on the factor:
 
-combate 
-jornaldacidadeonline 
+cpi 
+suposto 

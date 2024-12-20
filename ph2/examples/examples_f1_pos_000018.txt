@@ -1,28 +1,22 @@
-file = t016654
+file = t016674
 date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1593635571972309000
+URL = https://twitter.com/mpatriabrasil/status/1594300801140379600
 
-word count = 40
-words loading = 10
-factor score = 9
+word count = 22
+words loading = 6
+factor score = 4
 
-Novo normal: Pessoas **jovens** , de vida altamente saudável, **morrendo** ao 
-fazer exercícios na academia. **Pesquisas** **indicam** que a #vacina pode 
-provocar **infartos** e AVCs, especialmente de 5 a 8meses após as **doses** . 
-**Pesquisa** da OMS: **pesquisa** . **bvsalud** . **org** / global-literat … 
-https://t.co/xgZ41Kb14a 
+**Pesquisa** **publicada** no @Pubmed relacionando o aparecimento de Trombose 
+à vacina ( estudo multicêntrico ) . **Fonte** : pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34370972 / https://t.co/10cItDPh9U 
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud 
-dose 
-global 
-indicar 
-infarto 
-jovem (secondary)
-literat 
-morrer 
-org 
+fonte (secondary)
+ncbi 
+nih 
+nlm 
 pesquisa 
+publicar (secondary)

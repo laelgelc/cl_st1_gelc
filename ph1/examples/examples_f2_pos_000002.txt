@@ -1,24 +1,27 @@
-file = t012078
-date = 2021-05-00
-user = evandroratho
+file = t013787
+date = 2021-11-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392158033564868600
+URL = https://twitter.com/julianaayres/status/1462152758606319600
 
-word count = 40
-words loading = 6
-factor score = 12
+word count = 54
+words loading = 9
+factor score = 9
 
-- O vírus é chinês - Vacinas não têm **estudos** suficientes para 
-comprovar segurança e eficácia - **Tratamento** **precoce** com remédio 
-barato e sem patente não interessa à indústria farmacêutica - Políticos se 
-aproveitam da **pandemia** para obter vantagens - A **imprensa** **mente** 
-#EstadadoFake 
+@AndrWilliandaS1 @f4b10rms Eu **sei** lá . Não **quero** mais **saber** 
+disso. Política nem pensar mais. Agora só **quero** que os **prefeitos** , 
+govs, o presidente e o ministro da saúde **paguem** por cada **vida** q se 
+**perdeu** ou q foi prejudicada por **causa** q eles não avisaram sobre os 
+**efeitos** **colaterais** graves das novas vacinas. 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-imprensa 
-mentar 
-pandemia 
-precoce 
-tratamento 
+causa 
+colateral 
+efeito 
+pagar 
+perder 
+prefeito 
+querer 
+saber 
+vida 

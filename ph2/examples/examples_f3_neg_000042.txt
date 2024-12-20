@@ -1,18 +1,21 @@
-file = t012246
-date = 2021-05-00
+file = t015534
+date = 2022-06-00
 user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1399469569140461600
+URL = https://twitter.com/julianaayres/status/1536465001178878000
 
-word count = 19
-words loading = 0
-factor score = -2
+word count = 46
+words loading = 4
+factor score = -4
 
-Mulher, 35 , morre de coágulo de sangue no cérebro causado pela vacinação 
-AstraZeneca 
-backhand_index_pointing_down_eEMOJI_backhand_index_pointing_down_eEMOJI_backhand
-_index_pointing_down_e birminghammail. co. uk / news / midlands- … 
-https://t.co/tWjW2c8Lv1 
+No mais, agora estamos vendo pandemia de cânceres, problema nos **rins** , 
+**dor** no coração, problemas **faciais** , neurológicos, de **pele** , 
+Guillain Barré , problema no ciclo feminino, milhares de abortos entre mais de 
+100 mil problemas. Sim, mais de 100 mil. CEM MIL! ! ! Vai outra dose aí ? 
 
 Lemmas in this text that loaded on the factor:
 
+dor 
+facial 
+pele 
+rim 

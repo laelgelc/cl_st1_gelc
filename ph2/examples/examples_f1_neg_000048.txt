@@ -1,19 +1,22 @@
-file = t001937
-date = 2021-02-27
-user = Takiedg
-conversation = 70002340
-URL = https://twitter.com/Takiedg/status/1365527280571863040
+file = t010973
+date = 2020-12-00
+user = sabolsonaro
+conversation = 99999999
+URL = https://twitter.com/sabolsonaro/status/1340749473207767000
 
-word count = 28
-words loading = 3
-factor score = -3
+word count = 39
+words loading = 4
+factor score = -7
 
-@ClaudeLuca_ Precisam explicar exatamente qual o protocolo do **tratamento** 
-**precoce** e divulgar amplamente. Os ditadores estão escondendo essas 
-notícias p que possam decretar **lockdown** por todo o país! 
+Farmacêuticas sugerem ao **governo** fundo para bancar ações judiciais 
+contra a vacina Então nós temos que **pagar** bilhões pela vacina e mais 
+bilhões pelos **efeitos** **colaterais** da vacina? Os países entram com 
+dinheiro público e com responsabilidade judicial. . . 
+backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-precoce 
-tratamento 
+colateral 
+efeito 
+governo 
+pagar 

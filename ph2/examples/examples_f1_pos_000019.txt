@@ -1,24 +1,23 @@
-file = t016594
+file = t016669
 date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1592210604789727200
+URL = https://twitter.com/mpatriabrasil/status/1594199142384824300
 
-word count = 52
-words loading = 6
-factor score = 9
+word count = 43
+words loading = 5
+factor score = 4
 
-Ana Clara residia em Goiânia e **faleceu** de **problemas** cardíacos hoje. O 
-JV apurou q ela tomou 2 **doses** , a última em junho. Estudos **indicam** q 
-as reações como AVCs e **problemas** cardíacos demoram, em geral, 5 meses 
-para ocorrer. **Fontes** : m. **facebook** . com / story. php? stor … 
-stevekirsch. substack. com / p / this-one-gra … https://t.co/Upb0hy6Uu4 
+Falo nada, só observo. Glenn não admite que foi a vacina que desencadeou o 
+problema de David. Mal sabe ele que já existem inúmeras **pesquisas** 
+científicas relacionando a picada ao problema. Fonte - Site da própria OMS: 
+**pesquisa** . **bvsalud** . **org** / global-literat … twitter. com / 
+tagrevista_ / st … https://t.co/XY6XQlGVut 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-facebook 
-falecer 
-fonte 
-indicar 
-problema 
+bvsalud 
+global 
+literat 
+org 
+pesquisa 

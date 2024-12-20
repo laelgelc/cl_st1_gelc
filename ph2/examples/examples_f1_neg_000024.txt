@@ -1,22 +1,23 @@
-file = t012097
-date = 2021-05-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392562432174870500
+file = t000884
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322149561838821377
 
-word count = 47
-words loading = 4
-factor score = -4
+word count = 45
+words loading = 5
+factor score = -7
 
-Mesmo diante de um vírus novo, sobre o qual pouco se conhece, a **pandemia** 
-já nasceu formatada com a certeza de que **tratamento** **precoce** não 
-funciona, e que máscaras e **lockdown** são as únicas ferramentas 
-disponíveis a espera das vacinas. O simples debate sobre isso tornou -se 
-crime! 
+" @henriolliveira_ @taoquei1 @ALLuSapore Prometer vacina para **Covid** em 2020 
+é grave desserviço ao público, avalia Presidente da Merck " " Se você vai 
+**usar** uma vacina em bilhões de pessoas, é **melhor** você **saber** o que 
+essa vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-pandemia (secondary)
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

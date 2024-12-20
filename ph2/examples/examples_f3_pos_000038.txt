@@ -1,26 +1,21 @@
-file = t012296
-date = 2021-06-00
+file = t010929
+date = 2020-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1401974731641852000
+URL = https://twitter.com/evandroratho/status/1339904625286246400
 
-word count = 42
-words loading = 8
-factor score = 6
+word count = 49
+words loading = 4
+factor score = 5
 
-Vamos aos fatos: O vírus foi feito em laboratório; Máscara e lockdown são 
-inúteis; Vacinas têm eficácia duvidosa e **efeitos** **colaterais** 
-perigosos; A letalidade é baixa em pessoas saudáveis; A **imprensa** mente; 
-Muitos roubaram durante **pandemia** ; O **tratamento** **precoce** **salva** 
-**vidas** ; 
+Diante destes **dados** , fica muito claro que não faz sentido algum vacinar 
+toda a população. Não tem lógica correr riscos com uma vacina envolta em 
+dúvidas, para uma doença com **taxa** de **letalidade** tão baixa. O risco 
+dos efeitos colaterais é mais **perigoso** do que a própria doença. . . 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-efeito (secondary)
-imprensa 
-pandemia 
-precoce (secondary)
-salvar 
-tratamento (secondary)
-vida 
+dado 
+letalidade 
+perigoso 
+taxa 

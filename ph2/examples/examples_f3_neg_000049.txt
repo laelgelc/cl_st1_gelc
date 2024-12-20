@@ -1,17 +1,21 @@
-file = t014906
-date = 2022-02-00
-user = evandroratho
+file = t011649
+date = 2021-03-00
+user = melnetto
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1494311762660896800
+URL = https://twitter.com/melnetto/status/1372183133504872400
 
-word count = 35
-words loading = 1
-factor score = -2
+word count = 54
+words loading = 3
+factor score = -3
 
-@tonare79 @mqueiroga2 Dados por **faixa** etária AINDA estão disponíveis, 
-mas como a sociedade vai começar a constatar que as crianças não precisam 
-das vacinas, pode apostar que é questão de tempo para ocultarem também. 
+Da naja seresteira não aceito nem receita de dipirona, é provável que faria 
+a ingestão de 500 gotas **dia** para uma simples **dor** de cabeça. A 
+**causa** disso está engavetada nos porões do judiciário, quando receitou 5x 
+a dose de cloroquina a 11 velhinhos em Manaus. Ciência é tudo Ludi! twitter. 
+com / EnockFormiga / s … 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
+causa 
+dia (secondary)
+dor 

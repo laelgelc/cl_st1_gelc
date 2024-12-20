@@ -1,27 +1,25 @@
-file = t016003
-date = 2022-08-00
+file = t016592
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1561709625099145200
+URL = https://twitter.com/mpatriabrasil/status/1592154142197551000
 
-word count = 47
-words loading = 9
+word count = 43
+words loading = 7
 factor score = 9
 
-Amanda Santana Bueno era uma **jovem** mãe muito carinhosa. Ela acreditava no 
-**experimento** e sempre postava suas **doses** . **Faleceu** de **Infarto** 
-**fulminante** no **dia** 21 / 08 / 22 , exatamente 1 **ano** após a 2a. 
-ASTRA** , o mesmo **experimento** proibido na Espanha, Alemanha e França. 
-Segue **fontes** . . . https://t.co/5zz7uBDNcb 
+Nos últimos 30 **dias** , vários jogadores de futebol brasileiros 
+**faleceram** de **infarto** , alguns em campo. Antes das **doses** , eram 
+saudáveis. A CBF e as federações **exigem** o **comprovante** da #vacina. As 
+**pessoas** não percebem que um GenoEMOJI_copyright_e! Dio silencioso 
+acontece. Até quando? https://t.co/VK8jNDCnEt 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
+comprovante 
 dia 
 dose 
-experimento 
+exigir 
 falecer 
-fonte 
-fulminante 
 infarto 
-jovem 
+pessoa 

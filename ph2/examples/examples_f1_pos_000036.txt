@@ -1,25 +1,21 @@
-file = t015410
-date = 2022-05-00
-user = oscasosraros
+file = t016774
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1530380080828108800
+URL = https://twitter.com/mpatriabrasil/status/1596074281150349300
 
-word count = 39
-words loading = 8
-factor score = 8
+word count = 45
+words loading = 3
+factor score = 2
 
-2 / 3 " O menino teve febre 12 **dias** após a **primeira** **dose** . Um 
-**dia** depois, ele **sentiu** **dor** abdominal e vômitos. Ele **faleceu** no 
-mesmo **dia** . Evidências mostraram que o menino **sofria** de inflamação 
-no coração conhecida como **miocardite** . " https://t.co/dGYBKWAdAb 
+A filha de Juliana apresentou a Síndrome de Guillain-Barret em abril / 22 . 
+Ela havia tomado a #vacina em janeiro / 22 . A Anvisa já **emitiu** alertas 
+sobre o risco da #vacina provocar Síndrome de Guillain-Barret. **Fontes** : m. 
+**facebook** . com / groups / sgbbras … agenciabrasil. ebc. com. br / saude / 
+noticia / … https://t.co/J5gmZ8WWIb 
 
 Lemmas in this text that loaded on the factor:
 
-dia 
-dor 
-dose 
-falecer 
-miocardite 
-primeiro (secondary)
-sentir 
-sofrer 
+emitir 
+facebook 
+fonte (secondary)

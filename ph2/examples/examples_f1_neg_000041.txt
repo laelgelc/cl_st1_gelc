@@ -1,17 +1,24 @@
-file = t000898
+file = t001146
 date = 2020-10-30
-user = MarciaP_RJ
-conversation = 237019028
-URL = https://twitter.com/MarciaP_RJ/status/1322307315274567681
+user = ArianeB37
+conversation = 1037889821753192449
+URL = https://twitter.com/ArianeB37/status/1322116417953648644
 
-word count = 23
-words loading = 2
-factor score = -3
+word count = 49
+words loading = 6
+factor score = -7
 
-" RT @FabioIng: @allanldsantos **Prometer** vacina para Covid em 2020 é grave 
-desserviço ao público, avalia Presidente da Merck " " Se você vai **usa** " 
+@BrazilFight Não existe vacina eficaz o vírus está sofrendo várias 
+mutações, então **quer** **dizer** que a **Vachina** que o Doriana **quer** 
+empurrar pro **povo** de São Paulo é ineficiente e ainda pode provocar 
+**efeitos** **colaterais** devastadores no organismo de quem tomar. O dinheiro 
+é do **povo** e pronto. 
 
 Lemmas in this text that loaded on the factor:
 
-prometer 
-usar 
+colateral 
+dizer 
+efeito 
+povo 
+querer 
+vachina 

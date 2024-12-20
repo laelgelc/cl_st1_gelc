@@ -1,27 +1,25 @@
-file = t016084
-date = 2022-09-00
+file = t016626
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1566823981826687000
+URL = https://twitter.com/mpatriabrasil/status/1592831024278687700
 
-word count = 49
-words loading = 9
-factor score = 10
+word count = 39
+words loading = 7
+factor score = 5
 
-Flávio Rodrigues era integrante da banda Medida Provisória. Era um entusiasta 
-do **experimento** e sempre postava suas **doses** . Tomou o reforço em 07 / 
-07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
-**publicou** um **alerta** sobre o risco de Miocardite, e **problemas** 
-cardíacos. Segue. . . https://t.co/WNJnCJJCDS 
+**Pesquisa** **publicada** no PubMed sobre a ativação de de fenômenos 
+auto-imunes pós-vacina é assustadora! A **pesquisa** **indica** que a #vacina 
+de mRNApode provocar problemas hepáticos graves, sequelas irreversíveis no 
+fígado e nefropatias. **Fonte** : pubmed. **ncbi** . **nlm** . **nih** . gov / 
+34957554 / . https://t.co/e502VKuxqg 
 
 Lemmas in this text that loaded on the factor:
 
-alerta (secondary)
-dia 
-dose 
-experimento 
-falecer 
-fulminante 
-infarto 
-problema 
-publicar 
+fonte (secondary)
+indicar (secondary)
+ncbi 
+nih 
+nlm 
+pesquisa 
+publicar (secondary)

@@ -1,25 +1,27 @@
-file = t014126
-date = 2021-12-00
-user = evandroratho
+file = t016257
+date = 2022-10-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1473250155986100200
+URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
 
-word count = 48
-words loading = 7
-factor score = 11
+word count = 51
+words loading = 9
+factor score = 10
 
-@OsmarTerra Tudo é uma questão de **custo** x benefício, e não faz sentido 
-a aplicação de vacinas **experimentais** em alguém cuja a própria doença 
-tem índice de **letalidade** abaixo 0 , 1 % , ainda mais se tratando de uma 
-**tecnologia** nova, sem **estudos** suficientes sobre segurança a **longo** 
-**prazo** . . . 
+Paulo tinha apenas 16 **anos** e foi encontrado **morto** em sua cama. Segundo 
+apuramos, **tomou** a **dose** de reforço há pouco mais de 4 meses. 
+**Estudos** **indicam** que os **Infartos** e AVCs provocados pelo 
+**experimento** ocorrem entre 5 a 8 meses após as **doses** . **Fonte** : 
+stevekirsch. substack. com / p / this-one-gra … https://t.co/qHr8mKkPYE 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-estudo 
-experimental 
-letalidade 
-longo 
-prazo 
-tecnologia 
+ano 
+dose 
+estudo (secondary)
+experimento 
+fonte 
+indicar 
+infarto 
+morrer 
+tomar 

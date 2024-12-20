@@ -1,16 +1,25 @@
-file = t000898
-date = 2020-10-30
-user = MarciaP_RJ
-conversation = 237019028
-URL = https://twitter.com/MarciaP_RJ/status/1322307315274567681
+file = t016332
+date = 2022-10-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1580401376869306400
 
-word count = 23
-words loading = 1
-factor score = -2
+word count = 39
+words loading = 8
+factor score = -5
 
-" RT @FabioIng: @allanldsantos Prometer vacina para Covid em 2020 é grave 
-desserviço ao público, **avalia** Presidente da Merck " " Se você vai usa " 
+@AntnioLuisGuer1 @RJTranslator Nunca saberemos se a vacina teve alguma 
+eficácia. Muita **gente** não se vacinou e nem **resfriado** **pegou** . 
+Outros tantos, só após se vacinar, **pegaram** covid, tiveram **miocardite** 
+, AVC, **ataque** cardíaco, **trombone** , **gripe** e até **morreram** etc. 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
+ataque 
+gente (secondary)
+gripe 
+miocardite 
+morrer (secondary)
+pegar 
+resfriar 
+trombone 

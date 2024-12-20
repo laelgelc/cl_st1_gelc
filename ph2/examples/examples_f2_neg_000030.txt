@@ -1,20 +1,20 @@
-file = t016332
-date = 2022-10-00
-user = iodinha1
-conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1580401376869306400
+file = t002642
+date = 2021-05-30
+user = JulioBottarelli
+conversation = 940596771776073728
+URL = https://twitter.com/JulioBottarelli/status/1399096858618875910
 
-word count = 39
-words loading = 3
+word count = 46
+words loading = 2
 factor score = -2
 
-@AntnioLuisGuer1 @RJTranslator Nunca saberemos se a vacina teve alguma 
-eficácia. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , gripe e até morreram etc. 
+" @CanaldoFalcao1 É este tipo de gente que faz **piada** com Darwin, Lei da 
+evolução, de virar jacaré , que chamava outros de gado, negacionista 
+terraplanista, anti-ciencia e contra tratamento precoce. . . E não faz 
+tratamento, não faz **profilaxia** e confia em uma " " vacina " " experimental 
+Express Quem é gado? " 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+piada 
+profilaxia 

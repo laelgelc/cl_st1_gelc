@@ -1,27 +1,27 @@
-file = t016014
-date = 2022-08-00
+file = t016257
+date = 2022-10-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1562227515636306000
+URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
 
-word count = 45
+word count = 51
 words loading = 9
 factor score = 10
 
-Cícero Silva era empresário e Presidente da Câmara de Juazerinho / PB. Havia 
-se **submetido** a todas as **doses** e ao reforço recentemente. Teve um 
-**infarto** **fulminante** em 22 / 08 / 2022 . A OMS já divulgou **alertas** 
-sobre o **risco** do **experimento** **causar** **problemas** cardíacos. 
-https://t.co/k5m9JJqDeS 
+Paulo tinha apenas 16 **anos** e foi encontrado **morto** em sua cama. Segundo 
+apuramos, **tomou** a **dose** de reforço há pouco mais de 4 meses. 
+**Estudos** **indicam** que os **Infartos** e AVCs provocados pelo 
+**experimento** ocorrem entre 5 a 8 meses após as **doses** . **Fonte** : 
+stevekirsch. substack. com / p / this-one-gra … https://t.co/qHr8mKkPYE 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
-causar 
+ano 
 dose 
+estudo (secondary)
 experimento 
-fulminante 
+fonte 
+indicar 
 infarto 
-problema 
-risco (secondary)
-submeter 
+morrer 
+tomar 

@@ -1,20 +1,18 @@
-file = t016492
-date = 2022-10-00
-user = iodinha1
+file = t011042
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586898824387334100
+URL = https://twitter.com/derzevic/status/1343576649846190000
 
-word count = 45
-words loading = 3
+word count = 31
+words loading = 2
 factor score = -2
 
-@mariaaguiarr03 Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+DEVERIA DEIXAR RESERVADA PRA ELE A VACHINA DO DORIANA. QUE NINGUÉM SABE NADA 
+DELA, NEM BUTANTAN, NEM ANVISA, SÓ O DORIANA E OS XINGS LINGS **Pleno** . News 
+**pleno** . news / **brasil** / politic … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+brasil 
+pleno 

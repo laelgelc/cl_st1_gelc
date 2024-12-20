@@ -1,18 +1,20 @@
-file = t010907
-date = 2020-12-00
-user = derzevic
+file = t012271
+date = 2021-06-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1339693982469730300
+URL = https://twitter.com/julianaayres/status/1400493831024525300
 
-word count = 37
-words loading = 1
-factor score = -2
+word count = 56
+words loading = 2
+factor score = -4
 
-A MESES QUE VENHO DIZENDO, SOCIALISMO IMPLANTADO NO BRASIL COM NOME DE 
-PANDEMIA! ! Vacinação Compulsória: O Coroamento De Uma Trajetória de 
-Totalitarismo &amp; A Derrota da Liberdade Civil criticanacional. com. br / 
-2020 / 12 / 17 / **vac** … via @criticanac 
+@ContinueFiel Doutora, preciso da sua ajuda Uma **amiga** tomou a vacina da 
+Pfizer e o corpo ficou irreconhecível. Ela está na cor vinho e cheia de 
+bolinhas e inchada dos pés à cabeça Os médicos dizem q é d um remédio q 
+ela tomava por **causa** de umas convulsões + é mentira eles ñ querem 
+admitir. . 
 
 Lemmas in this text that loaded on the factor:
 
-vac 
+amiga 
+causa 

@@ -1,19 +1,23 @@
-file = t011174
-date = 2021-01-00
-user = frankcastle2009
+file = t014910
+date = 2022-02-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/frankcastle2009/status/1349001772677918700
+URL = https://twitter.com/evandroratho/status/1494372372966744000
 
 word count = 48
-words loading = 2
-factor score = 6
+words loading = 5
+factor score = 4
 
-Vocês acham que esses políticos e os ministros do STF que estão trabalhando 
-duro pra **aprovar** a Vacina chinesa, os artistas globais, vão realmente 
-**tomar** essa vacina com eficácia de 65 % , feita por um país sem nenhuma 
-credibilidade? Ou será que vão escolher a vacina de Oxford? 
+Você acreditou que o **lockdown** achataria a curva, que as máscaras e o 
+distanciamento social **impediriam** o contágio, que o **tratamento** 
+**precoce** era **perigoso** , que as vacinas eram eficazes e seguras, e em 
+tantas teorias que não se efetivaram, e ainda assim não percebe que está 
+errado? 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-tomar 
+impedir 
+lockdown 
+perigoso 
+precoce 
+tratamento (secondary)

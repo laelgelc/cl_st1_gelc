@@ -1,19 +1,20 @@
-file = t014605
-date = 2022-01-00
-user = evandroratho
+file = t011036
+date = 2020-12-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1486013409376280600
+URL = https://twitter.com/julianaayres/status/1343008861431726000
 
-word count = 36
-words loading = 2
-factor score = -2
+word count = 43
+words loading = 3
+factor score = -3
 
-Sujeito usa máscara, álcool **gel** , mantem **distanciamento** social, 
-assiste a globo, e mesmo assim pega covid, mas a culpa é dos bolsonaristas que 
-não se vacinaram e estão saudáveis? Essa inteligência toda explica muita 
-coisa. . . clown_face_e 
+MÉDICO DE BOSTON TEM REAÇÃO ANAFILÁTICA AO TOMAR V@CIN@ DA MODERNA Candace 
+Owens, fundadora do BLEXIT, divulgou o problema que um médico de Boston teve 
+ao tomar a vacina da Moderna. Relatos de **paralisia** **facial** também 
+estão pipocando pelas **redes** https://t.co/uyeLX6KZcz 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-gel 
+facial 
+paralisia 
+rede 

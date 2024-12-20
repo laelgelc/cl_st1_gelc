@@ -1,27 +1,27 @@
-file = t015756
-date = 2022-07-00
+file = t015960
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1548713226321514500
+URL = https://twitter.com/mpatriabrasil/status/1558970504920309800
 
-word count = 45
+word count = 46
 words loading = 9
 factor score = 10
 
-Caio era um **jovem** de 16 **anos** de Nova Venécia. 1a. **Dose** em 2021 e 
-reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 16 / 07 
-. A OMS confirma a relação entre o **experimento** e **Infartos** em 
-decorrência da reações previstas na Bula ( **Miocardite** ) . **Fonte** : 
-uol. com. br / vivabem / notici … https://t.co/kaQC0VsLG6 
+China Malaquias era professor de Educação Física muito querido por todos. 
+**Tomou** a 1a. **Dose** em 06 / 21 , afirmando que seria a 1a. das QUATRO. 
+**Tomou** a 4a. em 2022 . **Faleceu** de um **infarto** **fulminante** . A 
+Anvisa já **alertou** sobre o **risco** de problemas cardíacos 
+pós-experimento. **Fontes** : https://t.co/q626hDm6df 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
+alertar 
 dose 
 experimento 
+falecer 
 fonte 
 fulminante 
 infarto 
-jovem 
-miocardite 
-semana 
+risco (secondary)
+tomar 

@@ -1,20 +1,18 @@
-file = t001817
-date = 2021-02-27
-user = unknown
-conversation = 1250563239248834560
-URL = unknown
+file = t012271
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1400493831024525300
 
-word count = 25
-words loading = 4
-factor score = -4
+word count = 56
+words loading = 1
+factor score = -3
 
-@bibonunes1 Ngm mais aguenta parlamentar q vive em **rede** social falando 
-asneira. **Espero** que não tome vacina viu? Tome **cloroquina** e 
-**ivermectina** apenas. Flw 
+@ContinueFiel Doutora, preciso da sua ajuda Uma **amiga** tomou a vacina da 
+Pfizer e o corpo ficou irreconhecível. Ela está na cor vinho e cheia de 
+bolinhas e inchada dos pés à cabeça Os médicos dizem q é d um remédio q 
+ela tomava por causa de umas convulsões + é mentira eles ñ querem admitir. . 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-esperar 
-ivermectina 
-rede 
+amiga 

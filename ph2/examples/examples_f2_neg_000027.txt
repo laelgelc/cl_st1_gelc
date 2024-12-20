@@ -1,20 +1,20 @@
-file = t015550
-date = 2022-06-00
-user = mpatriabrasil
-conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1536878927746039800
+file = t002442
+date = 2021-05-30
+user = JulioBottarelli
+conversation = 940596771776073728
+URL = https://twitter.com/JulioBottarelli/status/1399137833064017923
 
-word count = 47
+word count = 46
 words loading = 2
 factor score = -2
 
-Sr. Humberto, mecânico nordestino, estava bem de saúde. Apresentou uma 
-**paralisia** **facial** e tem sentido febre e dores pelo corpo inteiro após 
-3a dose. Ele alerta a todos! A Bula do experimento prevê essas reações mas, 
-ninguém quer ler! Virou o Justin Bieber brasileiro. Melhoras! 
-https://t.co/5OXRklvikt 
+" @oproprioDiogo É este tipo de gente que faz **piada** com Darwin, Lei da 
+evolução, de virar jacaré , que chamava outros de gado, negacionista 
+terraplanista, anti-ciencia e contra tratamento precoce. . . E não faz 
+tratamento, não faz **profilaxia** e confia em uma " " vacina " " experimental 
+Express Quem é gado? " 
 
 Lemmas in this text that loaded on the factor:
 
-facial 
-paralisia 
+piada 
+profilaxia 

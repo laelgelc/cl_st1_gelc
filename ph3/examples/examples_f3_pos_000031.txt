@@ -1,19 +1,22 @@
-file = t015901
-date = 2022-08-00
-user = giulianamesopo
+file = t010805
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/giulianamesopo/status/1556337950497144800
+URL = https://twitter.com/evandroratho/status/1338496066962993200
 
-word count = 39
-words loading = 2
-factor score = 4
+word count = 48
+words loading = 4
+factor score = 7
 
-EFICÁCIA NEGATIVA Dr. Harvey Risch: [ De acordo com dados de saúde pública 
-do Reino Unido ] , as **taxas** de infecção sintomática em cada **faixa** 
-etária foram aproximadamente três vezes maiores nas pessoas vacinadas do que 
-nas pessoas não vacinadas. https://t.co/TuAHU8oRF5 
+@opropriofaka @VilmaThomasCos1 @CarlosBolsonaro @BolsonaroSP Genocida é quem 
+manipula informações todos os dias para atacar seu desafeto político. É 
+quem **mente** sobre segurança de vacina, eficácia do **tratamento** 
+**precoce** , e ineficácia das medidas de **isolamento** . A imprensa com seu 
+terrorismo interesseiro mata mais do que o próprio vírus. 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
-taxa 
+isolamento 
+mentar 
+precoce 
+tratamento 

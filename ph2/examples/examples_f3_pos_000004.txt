@@ -1,25 +1,22 @@
-file = t012212
-date = 2021-05-00
-user = schmittmaguida
+file = t014126
+date = 2021-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/schmittmaguida/status/1397892191096389600
+URL = https://twitter.com/evandroratho/status/1473250155986100200
 
-word count = 46
-words loading = 7
-factor score = 8
+word count = 48
+words loading = 4
+factor score = 7
 
-**Bom** **dia** **Gente** ! Um vírus mutante **criado** em laboratório? 
-Escapa de uma segurança nível 4 ? Vacina? Interesses farmacêuticos? China 
-tentando dominar as criptomoedas? Eu não **digo** é nada Laboratório chinês 
-volta a ser cogitado como origem do coronavírus **veja** . abril. com. br / 
-blog / mundialis … **via** @VEJA 
+@OsmarTerra Tudo é uma questão de custo x benefício, e não faz sentido a 
+aplicação de vacinas experimentais em alguém cuja a própria doença tem 
+índice de **letalidade** abaixo 0 , 1 % , ainda mais se tratando de uma 
+tecnologia nova, sem **estudos** suficientes sobre segurança a **longo** 
+**prazo** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-criar 
-dia (secondary)
-dizer 
-gente 
-ver 
-via 
+estudo 
+letalidade 
+longo 
+prazo 

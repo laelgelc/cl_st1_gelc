@@ -1,23 +1,23 @@
-file = t011993
-date = 2021-04-00
-user = evandroratho
+file = t016354
+date = 2022-10-00
+user = karinamichelin
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1387081251019018200
+URL = https://twitter.com/karinamichelin/status/1580920625199472600
 
-word count = 49
-words loading = 5
-factor score = 6
+word count = 40
+words loading = 4
+factor score = 4
 
-**Disseram** pra **ficar** em **casa** , de máscara, com medo, **esperando** 
-uma vacina milagrosa. **Disseram** pra recusar remédio e **esperar** a doença 
-se agravar antes de procurar um médico. Bem, o **problema** não está no que 
-foi **dito** , está na falta de capacidade de questionar e formar opinião 
-própria! 
+ALERTA:Além das vacinas de MRNA anti C-19 causarem coágulos mortais, o 
+antiviral da Pfizer PAXLOVID, colocado no mercado sem **testes** suficientes de 
+segurança -resultou **perigoso** e até mesmo letal para alguns **pacientes** 
+através de um **estudo** revisado por 
+paresEMOJI_backhand_index_pointing_down_light_skin_tone_e karinamichelin. com / 
+alerta-alem-da … 
 
 Lemmas in this text that loaded on the factor:
 
-casa 
-dizer 
-esperar 
-ficar 
-problema (secondary)
+estudo 
+paciente 
+perigoso 
+teste (secondary)

@@ -9,13 +9,13 @@ words loading = 4
 factor score = 7
 
 Aposto que se um laboratório farmacêutico resolvesse oferecer uma vacina 
-contra covid gratuitamente, muitos políticos fariam pressão pela reprovação 
-nas agências reguladoras e a **imprensa** faria **campanha** negativa 
+contra **covid** gratuitamente, muitos políticos fariam pressão pela 
+reprovação nas agências reguladoras e a imprensa faria **campanha** negativa 
 alertando para os riscos dos **efeitos** **colaterais** ! 
 
 Lemmas in this text that loaded on the factor:
 
 campanha 
 colateral 
+covid 
 efeito 
-imprensa 

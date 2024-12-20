@@ -1,21 +1,20 @@
-file = t016470
-date = 2022-10-00
-user = iodinha1
+file = t014946
+date = 2022-02-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586172918312370200
+URL = https://twitter.com/derzevic/status/1496102439350583300
 
-word count = 45
+word count = 20
 words loading = 4
-factor score = -4
+factor score = -3
 
-@DaniMYGonzalez Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. Verdade seja dita! 
+**CDC** e Farmacêutica Pfizer **Emitem** **Alertas** Sobre Riscos de 
+Coagulação Sanguínea Mesmo em **Atletas** e Pessoas Saudáveis 
+criticanacional. com. br / 2022 / 02 / 21 / **cdc** … via @criticanac 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+alerta (secondary)
+atleta 
+cdc 
+emitir 

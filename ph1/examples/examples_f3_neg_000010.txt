@@ -1,22 +1,24 @@
-file = t010576
-date = 2020-11-00
-user = derzevic
+file = t016370
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1332091218826813400
+URL = https://twitter.com/iodinha1/status/1581630640260231200
 
-word count = 38
-words loading = 5
-factor score = -6
+word count = 44
+words loading = 7
+factor score = -4
 
-SÓ VEIO OS CAVACOS E O PEQUENO DITADOR QUER **ENFIAR** ISSO NO BRAÇO DO 
-**POVO** NA MARRA. . . SUJEITINHO PETULANTE Anvisa afirma que ainda não 
-recebeu todos os dados da vacina chinesa gazetabrasil. com. br / **especiais** 
-/ **coro** … **via** @Gazeta 
+Nunca saberemos se quem morreu foi ou não por causa da vacina. Muita gente 
+não se vacinou e nem **resfriado** **pegou** . Outros tantos, só após se 
+vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** cardíaco, 
+**trombone** , **gripe** e até morreram etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-enfiar 
-especial 
-povo (secondary)
-via 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

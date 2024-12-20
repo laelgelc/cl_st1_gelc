@@ -1,21 +1,22 @@
-file = t014074
-date = 2021-12-00
+file = t014674
+date = 2022-02-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1471551531514306600
+URL = https://twitter.com/evandroratho/status/1488512787458502700
 
-word count = 35
+word count = 39
 words loading = 5
-factor score = 5
+factor score = 7
 
-@anvisa_oficial A **taxa** de **letalidade** do vírus entre crianças é menor 
-que 0 , 05 % . Qual **taxa** de efeitos **adversos** da vacina, no curto e no 
-**longo** **prazo** , foi considerada para tomar essa decisão com segurança? 
+Você pode até questionar a eficácia do **tratamento** **precoce** , assim 
+como muitos questionam a eficácia das vacinas, mas são remédios com os 
+**estudos** completos sobre segurança e potenciais efeitos adversos, já as 
+vacinas foram **aprovadas** em caráter **emergencial** ! 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-letalidade 
-longo 
-prazo 
-taxa 
+aprovar (secondary)
+emergencial 
+estudo 
+precoce 
+tratamento 

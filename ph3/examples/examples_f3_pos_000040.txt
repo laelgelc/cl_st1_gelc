@@ -1,22 +1,22 @@
-file = t013582
-date = 2021-11-00
+file = t013938
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1455535743812636700
+URL = https://twitter.com/evandroratho/status/1468303338169147400
 
-word count = 48
+word count = 44
 words loading = 4
-factor score = 4
+factor score = 6
 
-Se em quase 2 anos 17 % da população catarinense contraiu o vírus e o 
-índice de **letalidade** entre **jovens** é de 0 , 04 % , o **risco** de 
-morte pela doença é menor que 0 , 01 % . Dados do FDA apontam que 0 , 04 % 
-dos **jovens** vacinados apresentam algum tipo de reação **adversa** grave ( 
-efeito colateral ) 
+As estatísticas **asseguram** que o vírus não **representa** **risco** às 
+crianças, e o próprio fabricante de vacinas admite que é preciso **estudos** 
+de 5 em 5 anos para avaliar os **riscos** à saúde delas. Portanto, vacinar 
+crianças é uma aberração, um verdadeiro crime! aliadosbrasiloficial. com. 
+br / noticia / a-pfiz … 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-jovem (secondary)
-letalidade 
+assegurar 
+estudo 
+representar 
 risco 

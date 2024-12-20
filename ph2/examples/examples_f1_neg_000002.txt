@@ -1,20 +1,27 @@
-file = t011979
-date = 2021-04-00
+file = t012296
+date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1386695993572352000
+URL = https://twitter.com/evandroratho/status/1401974731641852000
 
-word count = 41
-words loading = 3
-factor score = -6
+word count = 42
+words loading = 9
+factor score = -10
 
-Os mesmos que reverberam a mentira de que o **tratamento** **precoce** não 
-comprovação de eficácia, aceitam numa boa intubação, máscara, 
-**lockdown** , e vacina, mesmo sem a devida comprovação científica de 
-eficácia! Não é uma questão de ciência, é apenas manipulação! 
+Vamos aos fatos: O vírus foi **feito** em laboratório; Máscara e lockdown 
+são inúteis; Vacinas têm eficácia duvidosa e **efeitos** **colaterais** 
+perigosos; A letalidade é baixa em pessoas saudáveis; A **imprensa** mente; 
+Muitos roubaram durante **pandemia** ; O **tratamento** **precoce** **salva** 
+**vidas** ; 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-precoce 
+colateral 
+efeito 
+fazer 
+imprensa 
+pandemia 
+precoce (secondary)
+salvar 
 tratamento 
+vida 

@@ -1,24 +1,21 @@
-file = t001183
-date = 2020-10-30
-user = mitags
-conversation = 266861485
-URL = https://twitter.com/mitags/status/1322218632089227264
+file = t013339
+date = 2021-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1443950854185304000
 
-word count = 36
-words loading = 7
-factor score = 8
+word count = 31
+words loading = 5
+factor score = 7
 
-O percentual de cura não foi maior, porque tem **governador** impedindo acesso 
-do **povo** aos remédios que **salvam** **vidas** Estão  investindo na 
-**Vachina** que ninguém **sabe** se vai funcionar, mas **dá** mais lucro pra 
-eles https://t.co/rSfBU1wQMi 
+@JovemPanNews Qual é o índice de **letalidade** da doença em **jovens** 
+saudáveis? Qual é o resultado do **estudo** de segurança das vacinas em 
+médio e **longo** **prazo** neste mesmo grupo? 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-governador 
-povo 
-saber 
-salvar 
-vachina 
-vida 
+estudo 
+jovem (secondary)
+letalidade 
+longo 
+prazo 

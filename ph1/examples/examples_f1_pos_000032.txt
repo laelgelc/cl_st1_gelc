@@ -1,30 +1,25 @@
-file = t015816
-date = 2022-07-00
+file = t016186
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
+URL = https://twitter.com/mpatriabrasil/status/1573471526422184000
 
-word count = 46
-words loading = 11
+word count = 39
+words loading = 7
 factor score = 9
 
-Fernanda Keulla tomou as **primeiras** **doses** do **experimento** em agosto / 
-21 e o reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. 
-A OMS já **alertou** sobre o **experimento** ser o gatilho para HerpesZoster 
-**pesquisa** . **bvsalud** . **org** / global-literat … **instagram** . com / 
-p / CgdNKw3M_TZ / … **instagram** . com / reel / CSFicCig8 … 
-https://t.co/5mn7iziOnZ 
+Crianças e Adolescentes **sofrendo** **infartos** **Fulminantes** pouco tempo 
+depois dos reforços. . . As **pessoas** não querem admitir a verdade. Poucos 
+**jovens** **faleceram** da moléstia, muitos **jovens** **falecendo** de 
+**infartos** **fulminantes** após as **doses** . Despertem! ISSO NUNCA FOI 
+NORMAL! https://t.co/e68plYhO98 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-bvsalud (secondary)
 dose 
-experimento 
-global 
-instagram (secondary)
-internar 
-literat (secondary)
-org 
-pesquisa 
-primeiro 
+falecer 
+fulminante 
+infarto 
+jovem 
+pessoa 
+sofrer 

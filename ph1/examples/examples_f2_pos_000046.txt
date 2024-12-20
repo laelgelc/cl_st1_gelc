@@ -1,24 +1,23 @@
-file = t011651
-date = 2021-03-00
-user = evandroratho
+file = t010580
+date = 2020-11-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1372218147391029200
+URL = https://twitter.com/derzevic/status/1332338423231869000
 
-word count = 41
+word count = 36
 words loading = 6
 factor score = 7
 
-@MarcosQuezado1 Indianos criminosos! Como ousam **salvar** **vidas** **usando** 
-um remédio sem **estudos** científicos padrão ouro? Depois são **chamados** 
-de genocidas por **salvar** **vidas** e ficam chateados. Eles não sabem que a 
-única solução mundialmente permitida é a combinação lockdown+vacina? ( 
-contém ironia ) 
+OLHA COMO DITADÓRIA TA LEVANDO NA CARA E CONTINUA A **QUERER** VACHINAR O 
+**POVO** NA MARRA, MESMO SEM APROVAÇÃO DA ANVISA Covid-19 : David Uip **diz** 
+que é contra vacinação obrigatória gazetabrasil. com. br / **especiais** / 
+coro … **via** @Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-chamar 
-estudo 
-lockdown 
-salvar 
-usar 
-vida 
+covid 
+dizer 
+especial 
+povo 
+querer 
+via 

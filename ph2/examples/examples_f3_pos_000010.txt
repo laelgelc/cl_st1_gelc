@@ -1,22 +1,24 @@
-file = t015404
-date = 2022-05-00
+file = t014283
+date = 2022-01-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1530229789440761900
+URL = https://twitter.com/evandroratho/status/1479464811469717500
 
-word count = 36
-words loading = 5
-factor score = 7
+word count = 45
+words loading = 6
+factor score = 6
 
-Aterrorizam o **mundo** com notícias sensacionalistas e depois **vendem** 
-**testes** , remédios, e vacinas, faturando bilhões. E os ingênuos acham 
-tudo lindo sem se **dar** conta que bilhões foram **pagos** com os impostos 
-cobrados deles. https://t.co/ZapKVMGigd 
+Vacinas p / covid não cumpriram todas as etapas de homologação como outras 
+vacinas, e foram **aprovadas** em caráter **EMERGENCIAL** ! Ou seja, os 
+**estudos** sobre eficácia e segurança a **longo** **prazo** estão sendo 
+realizados na população. E querem **usar** as crianças como cobaias desse 
+experimento! 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-mundo 
-pagar 
-teste 
-vender 
+aprovar (secondary)
+emergencial 
+estudo 
+longo 
+prazo 
+usar (secondary)

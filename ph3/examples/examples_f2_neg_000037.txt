@@ -1,20 +1,19 @@
-file = t012657
-date = 2021-07-00
-user = julianaayres
+file = t016673
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1415687878366072800
+URL = https://twitter.com/mpatriabrasil/status/1594298787098394600
 
-word count = 46
+word count = 42
 words loading = 2
-factor score = -3
+factor score = -2
 
-@GFiuza_Oficial @YouTubeBrasil police_car_light_eUm milhão de pessoas tiveram 
-doenças por causa das vacinas Covid ( isso o que o gov conta, imagina o q eles 
-escondem ) : backhand_index_pointing_down_e As lesões incluem cegueira, 
-coágulos de **sangue** , **paralisia** , esclerose múltipla e natimortos e 
-estão sendo censurados pela mídia e pelas big techs. https://t.co/XbHNaGHV7n 
+Abaixo, uma coletânea de estudos **publicados** em revistas científicas 
+sugerindo a relação da vacina com Leucemia, Tromboses, infartos, 
+**Hepatites** de Células T, entre outras milhares de doenças. A vacina é o 
+gatilho para doenças que deveriam aparecer só na velhice. Acordem! 
 
 Lemmas in this text that loaded on the factor:
 
-paralisia 
-sangue 
+hepatite 
+publicar (secondary)

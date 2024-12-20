@@ -1,23 +1,25 @@
-file = t012097
+file = t012220
 date = 2021-05-00
-user = evandroratho
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392562432174870500
+URL = https://twitter.com/derzevic/status/1398043284350640000
 
-word count = 47
-words loading = 5
+word count = 45
+words loading = 8
 factor score = 7
 
-Mesmo diante de um vírus **novo** , sobre o qual pouco se conhece, a 
-**pandemia** já nasceu formatada com a certeza de que **tratamento** 
-**precoce** não funciona, e que máscaras e **lockdown** são as únicas 
-ferramentas disponíveis a espera das vacinas. O simples debate sobre isso 
-tornou -se crime! 
+UMA MÁFIA MUNDIAL ONDE O **INTERESSE** SÃO OS BILHÕES E BILHÕES QUE AS TAIS 
+VACHINAS **DÃO** . O **POVO** ? AHH ISSO É UM MERO DETALHE, QUE SE EXPLODAM 
+YouTube exclui 11 vídeos de Bolsonaro sobre **cloroquina** e **tratamento** 
+**precoce** gazetabrasil. com. br / **especiais** / jair … **via** @Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-novo 
-pandemia 
-precoce 
-tratamento 
+cloroquina 
+dar 
+especial 
+interesse 
+povo 
+precoce (secondary)
+tratamento (secondary)
+via 

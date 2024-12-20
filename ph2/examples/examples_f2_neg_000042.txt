@@ -1,20 +1,19 @@
-file = t016490
-date = 2022-10-00
-user = iodinha1
+file = t010773
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586898760130494500
+URL = https://twitter.com/derzevic/status/1337773225808449500
 
-word count = 45
-words loading = 3
+word count = 47
+words loading = 2
 factor score = -2
 
-@paulogustavo Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+DORIANA, USA ESTA DOENÇA PARA SE AUTOPROMOVER COMO O HOMEM QUE SALVOU O BRASIL 
+DA PANDEMIA. TIRO NO PÉ , SALVAR COMO? COM UMA VAC! NA **SEM** LICENSA. Caiado 
+quer o confisco de todas as vacinas e acusa Dória de usá -las como " barganha 
+eleitoral " **jornaldacidadeonline** . com. br / noticias / 25336 … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+jornaldacidadeonline 
+sem 

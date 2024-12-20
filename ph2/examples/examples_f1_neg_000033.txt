@@ -1,23 +1,22 @@
-file = t014937
-date = 2022-02-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1495737365679194000
+file = t000905
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322168397791174656
 
-word count = 41
+word count = 44
 words loading = 5
-factor score = -4
+factor score = -7
 
-Disseram que o **lockdown** achataria a curva, não achatou; Disseram que 
-máscaras **impediriam** a transmissão, não **impediram** ; Disseram que a 
-**pandemia** acabaria quando a maioria estivesse vacinada, não acabou; Estes 
-mesmos especialistas disseram que o **tratamento** **precoce** não é eficaz. 
-. . 
+" @LuizCamargoVlog Prometer vacina para **Covid** em 2020 é grave desserviço 
+ao público, avalia Presidente da Merck " " Se você vai **usar** uma vacina em 
+bilhões de pessoas, é **melhor** você **saber** o que essa vacina **faz** " 
+" , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-impedir (secondary)
-lockdown 
-pandemia (secondary)
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

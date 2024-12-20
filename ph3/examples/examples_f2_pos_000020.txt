@@ -1,22 +1,26 @@
-file = t012212
-date = 2021-05-00
-user = schmittmaguida
+file = t016559
+date = 2022-11-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/schmittmaguida/status/1397892191096389600
+URL = https://twitter.com/iodinha1/status/1591211720311451600
 
-word count = 41
-words loading = 4
-factor score = 8
+word count = 48
+words loading = 8
+factor score = 7
 
-**Bom** dia Gente! Um vírus mutante **criado** em laboratório? Escapa de uma 
-segurança nível 4 ? Vacina? **Interesses** farmacêuticos? China tentando 
-dominar as criptomoedas? Eu não digo é nada Laboratório chinês volta a ser 
-cogitado como origem do coronavírus **veja** . abril. com. br / blog / 
-mundialis … via @VEJA 
+@rodrigoluisvelo Nunca **saberemos** se quem **morreu** foi por **causa** da 
+**covid** ou por **causa** da vacina. Muita **gente** não se vacinou e nem 
+resfriado **pegou** . Outros tantos, só após se vacinar, **pegaram** 
+**covid** , tiveram miocardite, AVC, ataque cardíaco, trombone, gripe e até 
+**morreram** etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-criar 
-interesse 
-ver 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

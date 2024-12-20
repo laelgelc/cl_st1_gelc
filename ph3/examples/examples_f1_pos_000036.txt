@@ -1,28 +1,25 @@
-file = t016732
-date = 2022-11-00
+file = t015885
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1595431947760799700
+URL = https://twitter.com/mpatriabrasil/status/1555963194308444200
 
-word count = 56
-words loading = 9
-factor score = 8
+word count = 45
+words loading = 7
+factor score = 9
 
-Mais 4 **jovens** **sofreram** **infartos** . Mais uma vez lembramos q o 
-**risco** de **Miocardite** é de 100 para cada 100mil **doses** , d acordo com 
-a **pesquisa** científica da @CMAJ. Ou seja, se você tomou 4 **doses** , o 
-**risco** é 4 x maior! Vale a pena saber que pessoas **morreram** para você 
-se **sentir** seguro? twitter. com / CMAJ / status / 15 … 
-https://t.co/OVWLDyoyfD 
+Suzana Vieira **tomou** a 1a. em 03 / 21 e o reforço há alguns meses e 
+**contraiu** a doença em 22 . Foi **internada** no **dia** 05 / 08 / 22 para 
+tratar sequelas. Um **estudo** **publicado** em Israel **indica** que os não 
+vacinados que **contraíram** a moléstia não desenvolveram problemas 
+cardiorrespiratórios. https://t.co/f5D7FP8Kd3 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-infarto 
-jovem 
-miocardite 
-morrer 
-pesquisa 
-risco (secondary)
-sentir 
-sofrer 
+contrair 
+dia 
+estudo (secondary)
+indicar 
+internar 
+publicar 
+tomar 

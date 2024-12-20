@@ -1,25 +1,24 @@
-file = t016056
+file = t015862
 date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1564768844127813600
+URL = https://twitter.com/mpatriabrasil/status/1555016582044258300
 
-word count = 41
+word count = 36
 words loading = 7
 factor score = 8
 
-**Fontes** : **Pesquisa** **publicada** na Revista cientifica Virology 
-**indicando** que a eficácia é negativa após reforços: virologyj. 
-biomedcentral. com / articles / 10 . 11 … Reportagem onde familiares afiemam 
-que ele tomou 4 **doses** e mesmo assim **contraiu** diversas vezes: m. 
-**facebook** . com / story. php? stor … 
+Adriana Titei era professora e defensora do **experimento** . **Tomou** a 2a. 
+**Dose** em Agosto / 21 . Teve um **infarto** **fulminante** pouco tempo depois 
+do reforço. **Fontes** : m. **facebook** . com / story. php? stor … m. 
+**facebook** . com / groups / Cuiaban … https://t.co/G4hPqiq5QD 
 
 Lemmas in this text that loaded on the factor:
 
-contrair 
 dose 
+experimento 
 facebook 
 fonte 
-indicar 
-pesquisa 
-publicar 
+fulminante 
+infarto 
+tomar 

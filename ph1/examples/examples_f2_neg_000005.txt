@@ -1,21 +1,22 @@
-file = t016355
+file = t016254
 date = 2022-10-00
-user = iodinha1
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1580956104624070700
+URL = https://twitter.com/oscasosraros/status/1577436366509551600
 
-word count = 40
+word count = 41
 words loading = 4
 factor score = -4
 
-@ZurockV Nunca saberemos se foi ou não por causa da vacina. Muita gente não 
-se vacinou e nem **resfriado** pegou. Outros tantos, só após se vacinar, 
-pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, **trombone** , 
-**gripe** e até morreram etc. 
+36yo with Bells Palsy, left arm tingling / numbness / weakness following 
+**mRNA** vaccination: pubmed. **ncbi** . **nlm** . **nih** . gov / 34336436 / 
+32yoF with Bells Palsy following Pfizer: pubmed. **ncbi** . **nlm** . **nih** . 
+gov / 35759681 / 37yoM with Bells Palsy after Pfizer: pubmed. **ncbi** . 
+**nlm** . **nih** . gov / 33611630 / 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+mrna 
+ncbi 
+nih 
+nlm 

@@ -1,20 +1,23 @@
-file = t000065
-date = 2020-03-30
-user = Sylvaniajr
-conversation = 236179122
-URL = https://twitter.com/Sylvaniajr/status/1244462672688578563
+file = t000906
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1321947496466272258
 
-word count = 36
-words loading = 3
-factor score = -3
+word count = 45
+words loading = 5
+factor score = -7
 
-@heliobeltrao Sou pesquisador e não entendo porque as autoridades brasileiras 
-estão tão reticentes em **usar** HCQ como profilático ou **tratamento** 
-inicial. Este comportamento da **cloroquina** já é conhecido há muito tempo. 
-Veja artigo abaixo: https://t.co/OcJXsUoczP 
+" @JornalDaCidadeO @VlogdoLisboa Prometer vacina para **Covid** em 2020 é 
+grave desserviço ao público, avalia Presidente da Merck " " Se você vai 
+**usar** uma vacina em bilhões de pessoas, é **melhor** você **saber** o que 
+essa vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
 usar 

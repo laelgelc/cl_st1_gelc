@@ -1,19 +1,22 @@
-file = t016107
-date = 2022-09-00
-user = mpatriabrasil
+file = t012097
+date = 2021-05-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1568422635620507600
+URL = https://twitter.com/evandroratho/status/1392562432174870500
 
-word count = 52
-words loading = 2
-factor score = 3
+word count = 47
+words loading = 4
+factor score = 6
 
-O experimento bivalente p / as variantes BA4 e BA5 foi aprovado a toque d 
-caixa, sem testes humanos. O FDA autorizou a compra de 170 milhões d doses c / 
-base em estudos feitos em 8 camundongos. Além d não proteger e não impedir a 
-transmissão, os **riscos** **superam** os benefícios. https://t.co/lltNao9WNv 
+Mesmo diante de um vírus novo, sobre o qual pouco se conhece, a **pandemia** 
+já nasceu formatada com a certeza de que **tratamento** **precoce** não 
+funciona, e que máscaras e **lockdown** são as únicas ferramentas 
+disponíveis a espera das vacinas. O simples debate sobre isso tornou -se 
+crime! 
 
 Lemmas in this text that loaded on the factor:
 
-risco 
-superar 
+lockdown 
+pandemia 
+precoce 
+tratamento 

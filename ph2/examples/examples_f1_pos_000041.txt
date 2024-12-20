@@ -1,24 +1,21 @@
-file = t016603
-date = 2022-11-00
+file = t016022
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1592334618677870600
+URL = https://twitter.com/mpatriabrasil/status/1562839737596989400
 
-word count = 30
-words loading = 7
-factor score = 7
+word count = 45
+words loading = 3
+factor score = 2
 
-@DudduPontes **Pesquisa** **publicada** no próprio site da OMS. 
-#anthonyjohnson #linfohistiocitose e existem **pesquisas** que **indicam** que 
-a vacina pode ser o gatilho para a doença. **pesquisa** . **bvsalud** . 
-**org** / global-literat … https://t.co/wba41VkKO1 
+#DavidLuiz, **jogador** do #Flamengo, é diagnosticado com #Hepatite Viral. 
+Lembramos que a CBF exige o #passaporte em dia e os **jogadores** do Flamengo 
+tomaram a 3a. Dose em Março. A OMS e cientistas já **emitiram** Alerta sobre 
+o risco de Hepatite #pós_experimento. Segue **fontes** : 
+https://t.co/0hlPmnhQDA 
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud 
-global 
-indicar 
-literat 
-org 
-pesquisa 
-publicar 
+emitir 
+fonte (secondary)
+jogador 

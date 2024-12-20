@@ -1,23 +1,24 @@
-file = t010786
-date = 2020-12-00
-user = frankcastle2009
+file = t012186
+date = 2021-05-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/frankcastle2009/status/1337929776246485000
+URL = https://twitter.com/evandroratho/status/1397231722987667500
 
-word count = 44
+word count = 46
 words loading = 6
-factor score = 7
+factor score = 6
 
-**Quero** **ver** esses políticos, jornalistas, artistas lacradores, 
-esquerdistas, os ministros do STF e demais juízes que estão brigando tanto 
-pra **aprovar** logo uma **VaChina** , se eles vão **dar** o exemplo e vão 
-puxar a fila, **quero** **ver** eles serem os **primeiros** a vachinar. 
+Ciência é quando há centenas de **estudos** publicados **assegurando** a 
+eficácia e a segurança do **tratamento** **precoce** ; Genocídio é quando a 
+**imprensa** **mente** sobre isso e induz as pessoas a esperarem pelo 
+agravamento da doença; Interesse é quando alguém financia isso para lucrar 
+com vacina! 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-dar 
-primeiro 
-querer 
-vachina 
-ver 
+assegurar 
+estudo 
+imprensa (secondary)
+mentar 
+precoce 
+tratamento (secondary)

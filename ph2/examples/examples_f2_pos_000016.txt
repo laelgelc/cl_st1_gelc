@@ -1,25 +1,30 @@
-file = t012921
-date = 2021-08-00
-user = evandroratho
+file = t016732
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1428059609269514200
+URL = https://twitter.com/mpatriabrasil/status/1595431947760799700
 
-word count = 46
-words loading = 7
-factor score = 10
+word count = 60
+words loading = 11
+factor score = 8
 
-@RafaMovies O índice de **letalidade** entre **pessoas** **jovens** e 
-saudáveis é desprezível, quase zero. A única justificativa para vacinar 
-estas **pessoas** é o iminente lucro de quem as vende, ainda mais se tratando 
-de vacinas **emergenciais** sem **estudos** adequados quanto a segurança a 
-**longo** **prazo** ! 
+Mais 4 **jovens** **sofreram** **infartos** . Mais uma vez lembramos q o risco 
+de Miocardite é de 100 para cada 100mil **doses** , d acordo com a 
+**pesquisa** científica da @CMAJ. Ou seja, se você **tomou** 4 **doses** , o 
+risco é 4 x maior! Vale a pena **saber** que **pessoas** **morreram** para 
+você se **sentir** seguro? **twitter** . com / CMAJ / status / 15 … 
+https://t.co/OVWLDyoyfD 
 
 Lemmas in this text that loaded on the factor:
 
-emergencial 
-estudo 
+dose 
+infarto 
 jovem 
-letalidade 
-longo 
+morrer 
+pesquisa (secondary)
 pessoa 
-prazo 
+saber (secondary)
+sentir (secondary)
+sofrer 
+tomar 
+twitter 

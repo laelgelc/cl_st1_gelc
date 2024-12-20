@@ -1,18 +1,17 @@
-file = t012271
-date = 2021-06-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1400493831024525300
+file = t000764
+date = 2020-09-29
+user = unknown
+conversation = 1082732275761119233
+URL = unknown
 
-word count = 56
-words loading = 1
+word count = 21
+words loading = 2
 factor score = -2
 
-@ContinueFiel Doutora, preciso da sua ajuda Uma **amiga** tomou a vacina da 
-Pfizer e o corpo ficou irreconhecível. Ela está na cor vinho e cheia de 
-bolinhas e inchada dos pés à cabeça Os médicos dizem q é d um remédio q 
-ela tomava por causa de umas convulsões + é mentira eles ñ querem admitir. . 
+RT @FabioIng: @taoquei1 CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** 
+DO PL 4506 / 2020 - BIA KICIS Proposta **retira** vacinação compul 
 
 Lemmas in this text that loaded on the factor:
 
-amiga 
+enquete 
+retirar 

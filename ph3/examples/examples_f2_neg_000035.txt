@@ -1,18 +1,21 @@
-file = t012438
-date = 2021-06-00
-user = julianaayres
+file = t016658
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1407078725242478600
+URL = https://twitter.com/mpatriabrasil/status/1593827259625996300
 
-word count = 19
-words loading = 2
-factor score = -3
+word count = 36
+words loading = 3
+factor score = -2
 
-police_car_light_e Inflamação do coração em homens jovens foi maior do que 
-o esperado após as vacinas Pfizer, Moderna -US **CDC** reuters. com / 
-**world** / us / cdc-h … 
+Meu Deus! Trombose em vias pulmonares em uma criança de 8 ANOS! Lembrem -se 
+das pesquisas científicas da própria OMS que apontam o risco de trombose 
+após as #vacinas. Pesquisa OMS: pesquisa. **bvsalud** . org / global-literat 
+… Reações aparecem após 5 meses: stevekirsch. substack. com / p / 
+this-one-gra … https://t.co/mUuyss5d7e 
 
 Lemmas in this text that loaded on the factor:
 
-cdc 
-world 
+bvsalud 
+global 
+literat 

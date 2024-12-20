@@ -1,22 +1,20 @@
-file = t012265
-date = 2021-06-00
-user = julianaayres
+file = t010320
+date = 2020-10-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1400489849640075300
+URL = https://twitter.com/evandroratho/status/1318971522757857300
 
-word count = 56
-words loading = 4
-factor score = 6
+word count = 50
+words loading = 2
+factor score = 5
 
-@AlessandroLoio2 Doutor, preciso da sua ajuda Uma amiga **tomou** a vacina da 
-Pfizer e o corpo dela ficou irreconhecível. . . Ela está vinho e cheia de 
-bolinhas e inchada dos pés à cabeça Os médicos **dizem** q é de um 
-remédio q ela **tomava** por **causa** de umas convulsões mas é mentira Eles 
-ñ **querem** admitir 
+@JornalOGlobo @Consuel12545570 E querem vacinar 200 mi de brasileiros contra 
+uma doença que tem índice de **letalidade** de apenas 0 , 05 % em pessoas com 
+menos de 70 anos, mesmo sem **estudos** mínimos que garantam segurança e 
+eficácia de imunização. Talvez as cifras envolvidas sejam a melhor 
+explicação para isso! 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-dizer 
-querer 
-tomar 
+estudo 
+letalidade 

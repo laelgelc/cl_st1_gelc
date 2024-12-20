@@ -1,20 +1,23 @@
-file = t000680
-date = 2020-08-30
-user = unknown
-conversation = 54280961
-URL = unknown
+file = t000914
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322145721303314432
 
-word count = 46
-words loading = 2
-factor score = -3
+word count = 45
+words loading = 5
+factor score = -7
 
-" @ArthurWeint Não pode tratar com **cloroquina** , a vacina não funciona. . 
-. . a sugestão da esquerda é o **lockdown** " " ad eternum " " com o Governo 
-Federal ( i. e. impostos da iniciativa privada ) pagando o salário integral do 
-funcionário público e sustentando os vulneráveis e nem tão vulneráveis. . 
-. . çei. " 
+" @arycasync @taoquei1 Prometer vacina para **Covid** em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma vacina em bilhões de pessoas, é **melhor** você **saber** o que essa 
+vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-lockdown 
+bom 
+covid 
+fazer 
+saber 
+usar 

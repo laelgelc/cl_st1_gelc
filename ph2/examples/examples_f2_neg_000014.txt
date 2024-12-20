@@ -1,19 +1,17 @@
-file = t011042
-date = 2020-12-00
-user = derzevic
-conversation = 99999999
-URL = https://twitter.com/derzevic/status/1343576649846190000
+file = t000728
+date = 2020-09-29
+user = unknown
+conversation = 1013953992047710208
+URL = unknown
 
-word count = 31
-words loading = 3
+word count = 21
+words loading = 2
 factor score = -2
 
-DEVERIA DEIXAR RESERVADA PRA ELE A **VACHINA** DO DORIANA. QUE NINGUÉM SABE 
-NADA DELA, NEM BUTANTAN, NEM ANVISA, SÓ O DORIANA E OS XINGS LINGS **Pleno** . 
-News **pleno** . news / **brasil** / politic … 
+RT @FabioIng: @Flifrds @kimpaim CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: 
+**ENQUETE** DO PL 4506 / 2020 - BIA KICIS Proposta **retira** vacinação 
 
 Lemmas in this text that loaded on the factor:
 
-brasil 
-pleno 
-vachina (secondary)
+enquete 
+retirar 

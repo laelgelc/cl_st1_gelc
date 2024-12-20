@@ -1,23 +1,23 @@
-file = t010433
-date = 2020-10-00
-user = derzevic
+file = t016355
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1321539492495413200
+URL = https://twitter.com/iodinha1/status/1580956104624070700
 
-word count = 35
+word count = 40
 words loading = 6
-factor score = -6
+factor score = -4
 
-Assim, vai dividir o prejuízo e improbidade, pois o **povo** não vai 
-**querer** esta porcaria! ! Doria diz que **comprará** vacina chinesa e 
-disponibilizará para outros estados: ' O ideal ' gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @Gazeta 
+@ZurockV Nunca saberemos se foi ou não por causa da vacina. Muita gente não 
+se vacinou e nem **resfriado** **pegou** . Outros tantos, só após se vacinar, 
+**pegaram** covid, tiveram **miocardite** , AVC, **ataque** cardíaco, 
+**trombone** , **gripe** e até morreram etc. 
 
 Lemmas in this text that loaded on the factor:
 
-comprar 
-coro 
-especial 
-povo (secondary)
-querer 
-via 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 

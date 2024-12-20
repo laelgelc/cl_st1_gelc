@@ -1,20 +1,17 @@
-file = t015136
-date = 2022-04-00
-user = giulianamesopo
+file = t010719
+date = 2020-12-00
+user = sabolsonaro
 conversation = 99999999
-URL = https://twitter.com/giulianamesopo/status/1510561380637851600
+URL = https://twitter.com/sabolsonaro/status/1336738923238789000
 
-word count = 41
+word count = 14
 words loading = 2
-factor score = -3
+factor score = -1
 
-Nicholls: " O primeiro evento adverso que a Pfizer admitiu estar **associado** 
-à vacina, é a síndrome de deleção 1P36 . Um distúrbio genético 
-congênito que afeta os fetos e apaga parte de seus cromossomos fazendo com que 
-eles nasçam com deficiência intelectual. " **instagram** . com / tv / 
-Cb2oEypqeaz … 
+@MontanValdemir Tem vários. . . Reino Unido **emite** **alerta** após 
+reações alérgicas à vacina Pfizer saude. ig. com. br / coronavirus / 20 … 
 
 Lemmas in this text that loaded on the factor:
 
-associar 
-instagram 
+alerta (secondary)
+emitir 

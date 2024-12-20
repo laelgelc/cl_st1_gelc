@@ -1,23 +1,25 @@
-file = t011880
-date = 2021-04-00
-user = evandroratho
+file = t010865
+date = 2020-12-00
+user = frankcastle2009
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1382380468419637200
+URL = https://twitter.com/frankcastle2009/status/1339295936875556900
 
-word count = 41
-words loading = 5
+word count = 52
+words loading = 7
 factor score = 7
 
-Já temos centenas de **estudos** que comprovam a eficácia do **tratamento** 
-**precoce** , evidências suficientes quanto aos riscos das vacinas 
-**experimentais** , e **estudos** que desmontam a tese da transmissão por 
-assintomáticos. Qual a razão para insistirem em máscaras, **lockdown** , e 
-vacina? 
+@safiraribeiro3 pois é , o laboratório ao **vender** para o **governo** , 
+seja ele estadual ou federal, **exige** a assinatura de um documento que isenta 
+o laboratório das ações judiciais por conta do **efeitos** **colaterais** , 
+só que o MAIA não **quer** deixar o **povo** assinar um termo onde informa os 
+**efeitos** da vacina. 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-experimental 
-lockdown 
-precoce 
-tratamento 
+colateral 
+efeito 
+exigir (secondary)
+governo 
+povo 
+querer 
+vender 

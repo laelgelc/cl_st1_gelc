@@ -1,22 +1,23 @@
-file = t012078
-date = 2021-05-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392158033564868600
+file = t000883
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322149561838821377
 
-word count = 40
+word count = 46
 words loading = 5
-factor score = -4
+factor score = -7
 
-- O vírus é chinês - Vacinas não têm estudos suficientes para comprovar 
-segurança e eficácia - **Tratamento** **precoce** com remédio barato e sem 
-patente não interessa à indústria farmacêutica - Políticos se aproveitam 
-da **pandemia** para obter vantagens - A **imprensa** **mente** #EstadadoFake 
+" @vivapaulofreire @henriolliveira_ @taoquei1 @ALLuSapore Prometer vacina para 
+**Covid** em 2020 é grave desserviço ao público, avalia Presidente da Merck 
+" " Se você vai **usar** uma vacina em bilhões de pessoas, é **melhor** 
+você **saber** o que essa vacina **faz** " " , alerta Ken Frazier. Frontliner 
+- 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-imprensa (secondary)
-mentar 
-pandemia (secondary)
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

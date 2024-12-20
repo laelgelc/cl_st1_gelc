@@ -1,26 +1,22 @@
-file = t014757
-date = 2022-02-00
-user = julianaayres
+file = t014086
+date = 2021-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1491103232638488600
+URL = https://twitter.com/evandroratho/status/1471849973696368600
 
-word count = 54
-words loading = 8
-factor score = 7
+word count = 39
+words loading = 5
+factor score = 6
 
-Tô há mais de 3h conversando com um **amigo** q **quer** vacinar os filhos. . 
-. Ele tem ZERO informação sobre o q está acontecendo, + é um homem q busca 
-a Deus e vai buscar orientação dEle **Gente** , **existe** um **mundo** de 
-pessoas nesse país q nem **sabe** q as falsas picadas estão **dando** 
-**problema** 
+@revistaoeste As estatísticas **asseguram** que o risco de morte entre 
+**jovens** saudáveis é ínfimo, menor que 0 , 05 % . Submetê -las a um risco 
+desconhecido com vacinas que não possuem **estudos** de **longo** **prazo** 
+quanto a segurança, ultrapassa qualquer limite ético. 
 
 Lemmas in this text that loaded on the factor:
 
-amigo (secondary)
-dar 
-existir 
-gente 
-mundo 
-problema (secondary)
-querer 
-saber 
+assegurar 
+estudo 
+jovem (secondary)
+longo 
+prazo 

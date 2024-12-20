@@ -1,23 +1,25 @@
-file = t014283
-date = 2022-01-00
-user = evandroratho
+file = t015285
+date = 2022-05-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1479464811469717500
+URL = https://twitter.com/mpatriabrasil/status/1524743308949426200
 
-word count = 45
-words loading = 5
-factor score = 7
+word count = 50
+words loading = 7
+factor score = 8
 
-Vacinas p / covid não cumpriram todas as etapas de homologação como outras 
-vacinas, e foram **aprovadas** em caráter **EMERGENCIAL** ! Ou seja, os 
-**estudos** sobre eficácia e segurança a **longo** **prazo** estão sendo 
-realizados na população. E querem usar as crianças como cobaias desse 
-experimento! 
+Anthony Souza, um menino forte e saudável, **tomou** a **primeira** **dose** 
+em janeiro / 22 e a segunda **dose** há algumas **semanas** . Alguns **dias** 
+depois, teve uma trombose cerebral e os pais pediram orações pela sua saúde. 
+Infelizmente, não resistiu e **faleceu** **dia** 11 / 05 / 22 . **Fonte** : O 
+Tempo. https://t.co/HTqE18pghT 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar (secondary)
-emergencial 
-estudo 
-longo 
-prazo 
+dia 
+dose 
+falecer 
+fonte 
+primeiro 
+semana 
+tomar 

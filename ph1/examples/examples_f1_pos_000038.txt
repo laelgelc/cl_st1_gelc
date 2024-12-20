@@ -1,26 +1,30 @@
-file = t016723
-date = 2022-11-00
+file = t015816
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1595155878533288000
+URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
 
 word count = 46
-words loading = 8
-factor score = 8
+words loading = 11
+factor score = 9
 
-Depois da @CMAJ, a revista científica do Canadá , **publicar** uma 
-**pesquisa** q **indica** alto **risco** de **problemas** cardíacos pela 
-vacina ( 100 a cada 100mil ) , fica difícil não relacionar as **mortes** de 
-hoje em **jovens** q estavam jogando **futebol** , dirigindo ou simplesmente 
-trabalhando. Dói saber! https://t.co/UEPKqUYK3U 
+Fernanda Keulla **tomou** as **primeiras** **doses** do **experimento** em 
+agosto / 21 e o reforço há pouco tempo. Está **internada** devido uma Herpes 
+Zoster. A OMS já **alertou** sobre o **experimento** ser o gatilho para 
+HerpesZoster **pesquisa** . **bvsalud** . **org** / global-literat … 
+instagram. com / p / CgdNKw3M_TZ / … instagram. com / reel / CSFicCig8 … 
+https://t.co/5mn7iziOnZ 
 
 Lemmas in this text that loaded on the factor:
 
-futebol 
-indicar 
-jovem 
-morte 
+alertar 
+bvsalud (secondary)
+dose 
+experimento 
+global (secondary)
+internar 
+literat (secondary)
+org 
 pesquisa 
-problema 
-publicar 
-risco (secondary)
+primeiro 
+tomar 

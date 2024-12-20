@@ -1,20 +1,18 @@
-file = t013123
-date = 2021-09-00
-user = julianaayres
+file = t016408
+date = 2022-10-00
+user = paulo2246
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1438506630207791000
+URL = https://twitter.com/paulo2246/status/1583114013340491800
 
-word count = 42
+word count = 22
 words loading = 2
 factor score = -2
 
-@ferrari_arlene Arlene, junte outras pessoas e processa o ministro e o 
-presidente @jairbolsonaro pq eles não avisaram a população dos efeitos 
-colaterais dessas novas vacinas. Eles precisam ser responsabilizados. O pres 
-**assinou** um **decreto** q da poder para se vacinar obrigatoriamente. . . 
-Absurdo! 
+@MarcosFalcao_Dr Ontem recebi isto do **conselho** **tutelar** me ameaçando 
+por não ter vacinado meus filhos. Me disseram vc poderia me orientar! 
+https://t.co/GjQwtZiIt0 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-decreto 
+conselho 
+tutelar 

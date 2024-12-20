@@ -1,19 +1,20 @@
-file = t001444
-date = 2020-11-28
-user = MarleneFFL
-conversation = 36373308
-URL = https://twitter.com/MarleneFFL/status/1332830508796030976
+file = t010060
+date = 2020-06-00
+user = frankcastle2009
+conversation = 99999999
+URL = https://twitter.com/frankcastle2009/status/1271185722075164700
 
-word count = 49
-words loading = 1
-factor score = -3
+word count = 35
+words loading = 4
+factor score = -7
 
-Cariocas tá chegando o verão Rio de Janeiro 45° graus e nossa cidade pega 
-fogo. Imaginem Dudu Paes decretando Lockdonw no RJ e nós sem praia obrigados a 
-**usar** máscara e vachina obrigatória Bora salvar o RJ do INFERNO q vem com 
-DEM angry_face_with_horns_e. Fora Eduardo Paes Bora de Crivella! 
-flexed_biceps_e flexed_biceps_ebiceps_e 
+@AiltonBenedito Aqui pensando. Se o vírus chinês foi **criado** em 
+laboratório, eles tem o antídoto em forma de vacina pra **vender** . Será 
+que a vacina não é **boa** , e **faz** parte da estratégia comercial? 
 
 Lemmas in this text that loaded on the factor:
 
-usar 
+bom 
+criar 
+fazer 
+vender 

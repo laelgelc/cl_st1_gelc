@@ -1,28 +1,28 @@
-file = t013582
-date = 2021-11-00
-user = evandroratho
+file = t016230
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1455535743812636700
+URL = https://twitter.com/mpatriabrasil/status/1575616796324831200
 
-word count = 54
+word count = 51
 words loading = 10
-factor score = 13
+factor score = 11
 
-Se em quase 2 **anos** 17 % da população catarinense contraiu o vírus e o 
-índice de **letalidade** entre **jovens** é de 0 , 04 % , o **risco** de 
-**morte** pela doença é menor que 0 , 01 % . **Dados** do FDA apontam que 0 , 
-04 % dos **jovens** vacinados apresentam algum **tipo** de reação **adversa** 
-**grave** ( **efeito** colateral ) 
+Coolio, rapper de Gangsta s Paradise **faleceu** aos 59 **anos** d um **mal** 
+súbito. Ele havia se submetido ao **experimento** há +ou- 6 meses, pois fez 
+uma turnê pela Austrália onde o **comprovante** é **exigido** c / rigor. 
+**Estudos** **indicam** que as **mortes** vem acontecendo 5 meses após as 
+**doses** . Segue. . https://t.co/ANWvbTNUj3 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
 ano 
-dado 
-efeito 
-grave 
-jovem 
-letalidade 
+comprovante 
+dose 
+estudo (secondary)
+exigir 
+experimento 
+falecer 
+indicar 
+mal 
 morte 
-risco 
-tipo 

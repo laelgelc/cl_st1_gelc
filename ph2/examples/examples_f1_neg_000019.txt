@@ -1,22 +1,22 @@
-file = t011789
-date = 2021-04-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1379498471795855400
+file = t000873
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322189034723151874
 
-word count = 47
-words loading = 4
-factor score = -4
+word count = 44
+words loading = 5
+factor score = -7
 
-O Texas deu fim às medidas de **isolamento** e está vendo os índices de 
-covid despencarem; Chapecó deu **liberdade** para os médicos adotarem o 
-**tratamento** **precoce** e está vendo a ocupação hospitalar despencar; 
-Serrana vacinou toda população e está vendo o índice de óbitos aumentar 
-1000 % ; 
+" @jairbolsonaro Prometer vacina para **Covid** em 2020 é grave desserviço ao 
+público, avalia Presidente da Merck " " Se você vai **usar** uma vacina em 
+bilhões de pessoas, é **melhor** você **saber** o que essa vacina **faz** " 
+" , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-isolamento 
-liberdade 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

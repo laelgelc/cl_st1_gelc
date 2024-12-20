@@ -1,21 +1,24 @@
-file = t001206
-date = 2020-10-23
-user = g_garc2
-conversation = 1258147227920412675
-URL = https://twitter.com/g_garc2/status/1319757786411110401
+file = t016482
+date = 2022-10-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1586494060893995000
 
-word count = 48
-words loading = 4
-factor score = -5
+word count = 45
+words loading = 7
+factor score = -4
 
-Esse caso da vacina chinesa, está igual ao caso do lockdown e depois todos os 
-**governadores** ficaram gritando por **dinheiro** do **governo** **federal** . 
-Pode ter certeza q, tem corrupção por trás desse desespero todo. NUNCA, o BR 
-ficou tão desesperado por algo que ñ existe como agora. eyes_e 
+@folha Nunca saberemos se quem morreu foi ou não por causa da vacina. Muita 
+gente não se vacinou e nem **resfriado** **pegou** . Outros tantos, só após 
+se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+cardíaco, **trombone** , **gripe** e até morreram etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro 
-federal 
-governador 
-governo 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

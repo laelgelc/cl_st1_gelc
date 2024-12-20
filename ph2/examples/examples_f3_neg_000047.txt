@@ -1,17 +1,19 @@
-file = t014271
-date = 2022-01-00
-user = melnetto
+file = t010099
+date = 2020-07-00
+user = sabolsonaro
 conversation = 99999999
-URL = https://twitter.com/melnetto/status/1479186503926493200
+URL = https://twitter.com/sabolsonaro/status/1280486443576631300
 
-word count = 29
-words loading = 1
-factor score = -2
+word count = 34
+words loading = 3
+factor score = -3
 
-@CrapulaLeonardo Esse Frouxo não usou a máscara? Álcool **gel** não usou? 
-Aglomerou? Usou as vacinas da China? Quantas pessoas será que esse miliciano 
-contaminou? Esse é o + FDP. . . 
+Bolsonaro disse à CNN que tomou a **segunda** dose da Hidroxicloroquina e que 
+a temperatura baixou para 36 graus. Me **sinto** bem, completou. O resultado do 
+**exame** ainda não saiu. Continuamos orando folded_hands_e #ForçaBolsonaro 
 
 Lemmas in this text that loaded on the factor:
 
-gel 
+exame 
+segundo 
+sentir 

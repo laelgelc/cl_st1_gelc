@@ -1,21 +1,17 @@
-file = t010485
-date = 2020-11-00
-user = derzevic
+file = t015598
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1326041025987612700
+URL = https://twitter.com/oscasosraros/status/1540082296178499600
 
-word count = 29
-words loading = 4
-factor score = -4
+word count = 21
+words loading = 1
+factor score = -3
 
-OLHA A PATIFARIA, E O VAGABUNDO **QUERENDO** FAZER TODO **POVO** DE SÃO PAULO 
-**COBAIA** NA MARRA. . . LEVA SUA MÃE! ! ! Voluntário brasileiro morre e 
-Anvisa deverá suspender vacina chinesa **diariodobrasil** . org / 
-voluntario-bra … 
+Aline, 15 anos, sintomas iniciais **dores** no pé 1 mês depois da 2a dose. 
+Diagnóstico: Mielite Transversa. #CanWeTalkAboutIt #IStandWithYou 
+https://t.co/qms7vt535E 
 
 Lemmas in this text that loaded on the factor:
 
-cobaia 
-diariodobrasil 
-povo (secondary)
-querer 
+dor 

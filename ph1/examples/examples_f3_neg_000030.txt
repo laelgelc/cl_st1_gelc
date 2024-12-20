@@ -1,21 +1,18 @@
-file = t001346
-date = 2020-11-29
-user = CezarRicardoSi1
-conversation = 858704025138679809
-URL = https://twitter.com/CezarRicardoSi1/status/1333171617971703810
+file = t010782
+date = 2020-12-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1337911579547984000
 
-word count = 48
-words loading = 3
-factor score = -4
+word count = 28
+words loading = 2
+factor score = -3
 
-@SigaGazetaBR Bom está semana começa a guerra psicológica novamente fechando 
-tudo. Um pergunta que não sai da minha cabeça qual a **verdade** sobre a 
-sinovac, pq **querem** desenvolver a **vachina** aqui? Talvez exista uma 
-armadilha escondida e a culpa recairá no Butantã , sem falar que já ganharam 
-$ . 
+VEJAM O LIXO DO DITADORZINHO DA CALÇA **APERTADA** ! ! Peru suspende testes 
+com vacina chinesa depois que voluntário teve dificuldades de movimentar as 
+**pernas** jornaldacidadeonline. com. br / noticias / 25347 … 
 
 Lemmas in this text that loaded on the factor:
 
-querer 
-vachina 
-verdade 
+apertar 
+perna 

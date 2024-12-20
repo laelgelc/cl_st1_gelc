@@ -1,26 +1,28 @@
-file = t015904
+file = t015973
 date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1556411713347633200
+URL = https://twitter.com/mpatriabrasil/status/1559884858217857000
 
-word count = 48
-words loading = 8
+word count = 44
+words loading = 10
 factor score = 10
 
-Vamos nos vacinar ainda é uma das fotos do perfil d Miltinho Guerra, um 
-**jovem** q trabalhava em empresas de ônibus. Ele tomou a 1a. **dose** em 07 / 
-21 e o reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 
-06 / 08 / 22 . A OMS reconheceu os **riscos** d **problemas** cardíacos 
-pós-experimento https://t.co/MNiFcVTpnM 
+Fábio Lucas era professor e Fisioculturista. **Tomou** as 1as. **Doses** ( Pfz 
+) em 21 e o reforço há poucas **semanas** . Teve um **infarto** 
+**fulminante** em 16 / 07 / 22 , dentro da academia. A OMS já **publicou** 
+**estudos** **indicando** os **riscos** de problemas cardíacos após o 
+**experimento** . Segue. . . https://t.co/bwh5ppOhrP 
 
 Lemmas in this text that loaded on the factor:
 
 dose 
+estudo (secondary)
 experimento 
 fulminante 
+indicar 
 infarto 
-jovem 
-problema 
+publicar 
 risco (secondary)
 semana 
+tomar 

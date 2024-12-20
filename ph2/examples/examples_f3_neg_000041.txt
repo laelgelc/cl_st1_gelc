@@ -1,19 +1,21 @@
-file = t011937
-date = 2021-04-00
-user = frankcastle2009
+file = t015507
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/frankcastle2009/status/1384311848829427700
+URL = https://twitter.com/oscasosraros/status/1534652443279208400
 
-word count = 24
-words loading = 2
-factor score = -2
+word count = 47
+words loading = 4
+factor score = -4
 
-A pessoa tomou as duas doses da vacina, e ainda precisa de usar máscara, 
-álcool em **gel** e manter **distanciamento** social. Não entendi 
-face_with_rolling_eyes_eEMOJI_pile_of_poo_eEMOJI_thinking_face_eEMOJI_thinking_f
-ace_e 
+1 / 5 Cassio era um jovem de 32 anos, ativo, sem vícios, nem problemas de 
+saúde. No mesmo **dia** da **segunda** dose, começou a **sentir** **dores** 
+no peito, e muita, muita **dor** de cabeça. Foi imediatamente à Urgências. 
+Ao chegar, sua pressão arterial estava 4 por 5 . https://t.co/fWC4zRBgCk 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-gel 
+dia (secondary)
+dor 
+segundo 
+sentir 

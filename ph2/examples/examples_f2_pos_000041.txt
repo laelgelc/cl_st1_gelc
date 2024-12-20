@@ -1,23 +1,25 @@
-file = t013679
-date = 2021-11-00
-user = evandroratho
+file = t016713
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1459142748959826000
+URL = https://twitter.com/mpatriabrasil/status/1595014240661807000
 
-word count = 26
+word count = 55
 words loading = 7
 factor score = 7
 
-@revistaoeste Fazendo projeções com base nas estatísticas do CDC, 1 milhão 
-de doses **representa** potencial **risco** de **efeitos** **adversos** 
-**graves** em 400 **pessoas** . **Boa** sorte! 
+@CMAJ Absurdo! Este **estudo** comprova q os riscos são 10x maiores q os 
+benefícios na população **jovem** , pois a #vacina provoca 100 **mortes** a 
+cada 100 mil **doses** ( 0 , 1 % ) , enquanto o risco de doença **grave** é 
+de 0 , 01 % . O nome q damos a isso é #GenoEMOJI_copyright_e! dio! 
+**Milhares** d **jovens** **morreram** pela #vacina! 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-bom (secondary)
-efeito 
+dose 
+estudo (secondary)
 grave 
-pessoa 
-representar 
-risco 
+jovem 
+milhar 
+morrer 
+morte 

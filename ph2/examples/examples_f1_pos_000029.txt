@@ -1,24 +1,25 @@
-file = t016247
-date = 2022-10-00
+file = t016501
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1577251366661083100
+URL = https://twitter.com/mpatriabrasil/status/1587855528818098200
 
-word count = 51
-words loading = 6
-factor score = 8
+word count = 46
+words loading = 7
+factor score = 3
 
-Este é um dos últimos vídeos de Keith Wonderboy, um famoso cantor Gospel. 
-Ele estava feliz ao tomar sua **dose** do **experimento** . Infelizmente 
-**faleceu** **dia** 30 / 09 , com apenas 50 anos. Foi encontrado **morto** 
-dentro de casa. Tudo **indica** que tenha sido mal súbito. google. com / amp / 
-s / m. econom … https://t.co/1z9RWsyPHX 
+Jorge Balbino Júnior, **jogador** de **futebol** **faleceu** aos 30 anos. Foi 
+obrigado a se submeter ao **experimento** , pois a CBF exige o comprovante. 
+Durante anos jogou e nunca apresentou problemas cardíacos e depois das doses 
+morre de **infarto** . **Fonte** : m. **facebook** . com / story. php? stor … 
+https://t.co/wNtqukELRN 
 
 Lemmas in this text that loaded on the factor:
 
-dia 
-dose 
-experimento 
-falecer 
-indicar 
-morrer 
+experimento (secondary)
+facebook 
+falecer (secondary)
+fonte (secondary)
+futebol 
+infarto (secondary)
+jogador 

@@ -1,19 +1,24 @@
-file = t001916
-date = 2021-02-27
-user = marinogs
-conversation = 170884915
-URL = https://twitter.com/marinogs/status/1365769454488080384
+file = t010865
+date = 2020-12-00
+user = frankcastle2009
+conversation = 99999999
+URL = https://twitter.com/frankcastle2009/status/1339295936875556900
 
-word count = 35
-words loading = 3
-factor score = -3
+word count = 52
+words loading = 6
+factor score = -7
 
-" @AlvesBenevaldo @lumenaazevedo14 @mitags Por que São Paulo não **usa** o 
-**tratamento** **precoce** que o Dr. Kalil **usou** ? Será porque acaba com a 
-narrativa de que só a " " vacina experimental " " vai acabar com o covid? " 
+@safiraribeiro3 pois é , o laboratório ao **vender** para o **governo** , 
+seja ele estadual ou federal, exige a assinatura de um documento que isenta o 
+laboratório das ações judiciais por conta do **efeitos** **colaterais** , 
+só que o MAIA não **quer** deixar o **povo** assinar um termo onde informa os 
+**efeitos** da vacina. 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
-usar 
+colateral 
+efeito 
+governo 
+povo 
+querer 
+vender 

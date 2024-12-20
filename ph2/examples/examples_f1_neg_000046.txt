@@ -1,19 +1,22 @@
-file = t001883
-date = 2021-02-27
-user = mitags
-conversation = 266861485
-URL = https://twitter.com/mitags/status/1365769454488080384
+file = t010569
+date = 2020-11-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1332037011872559000
 
-word count = 49
-words loading = 2
-factor score = -3
+word count = 44
+words loading = 5
+factor score = -7
 
-A que nível de loucura se chegou nesse país: Coloquei postagem citando o 
-benefício do **tratamento** **precoce** . TODOS que vieram me atacar eram 
-contra Bolsonaro! Fui ao perfil de cada um e verifiquei. A questão deixou de 
-ser da Medicina ou Saúde e passou à militância política INSANA! 
+@gazetadopovo Tenho a impressão de que o Dória não **faz** outra coisa da 
+**vida** a não ser trabalhar pela venda forçada de milhões de doses por 
+bilhões de reais! Parece um negócio tão **bom** , que todas as outras 
+atribuições de **governador** podem **esperar** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
+bom 
+esperar 
+fazer 
+governador 
+vida 

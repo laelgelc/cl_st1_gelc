@@ -1,30 +1,27 @@
-file = t015816
+file = t015796
 date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
+URL = https://twitter.com/mpatriabrasil/status/1551171520797499400
 
-word count = 46
-words loading = 11
-factor score = 11
+word count = 52
+words loading = 9
+factor score = 6
 
-Fernanda Keulla tomou as **primeiras** **doses** do **experimento** em agosto / 
-21 e o reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. 
-A OMS já **alertou** sobre o **experimento** ser o gatilho para HerpesZoster 
-**pesquisa** . **bvsalud** . **org** / global-literat … **instagram** . com / 
-p / CgdNKw3M_TZ / … **instagram** . com / reel / CSFicCig8 … 
-https://t.co/5mn7iziOnZ 
+Márcio Costa era um patriota. Tomou a 1a. dose em 2021 e os reforços há 3 
+meses. Teve um AVC em 16 / 07 e **faleceu** nesta semana. A OMS já reconheceu 
+que o AVC pode acontecer alguns meses após o **experimento** . **Fontes** : 
+**pesquisa** . **bvsalud** . **org** / global-literat … m. **facebook** . com 
+/ story. php? stor … https://t.co/VMXmval90f 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
 bvsalud 
-dose 
-experimento 
+experimento (secondary)
+facebook 
+falecer (secondary)
+fonte (secondary)
 global 
-instagram 
-internar 
 literat 
 org 
 pesquisa 
-primeiro (secondary)

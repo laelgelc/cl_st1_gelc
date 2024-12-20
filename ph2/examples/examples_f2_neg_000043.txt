@@ -1,20 +1,19 @@
-file = t016491
-date = 2022-10-00
-user = iodinha1
+file = t010836
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586898788949663700
+URL = https://twitter.com/derzevic/status/1338967688018845700
 
-word count = 45
-words loading = 3
+word count = 36
+words loading = 2
 factor score = -2
 
-@fallxineira Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+A VACINA NÃO É OBRIGATÓRIA, PORTANTO ESSA RESTRIÇÃO SERIA CENSURA E 
+SEPARATISMO. MEU DEUS COMO PRECISAMOS DE UMA REFORMA INSTITUCIONAL NESTE PAÍS, 
+PARA ACABAR COM O ABUSO DESTES M. . . . . . . #EuNaoVoteiNoSTF **Pleno** . News 
+**pleno** . news / **brasil** / politic … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+brasil 
+pleno 

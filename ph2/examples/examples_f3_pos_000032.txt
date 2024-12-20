@@ -1,23 +1,20 @@
-file = t013359
-date = 2021-10-00
-user = julianaayres
+file = t011893
+date = 2021-04-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1444681703021289500
+URL = https://twitter.com/evandroratho/status/1382691764587356200
 
-word count = 52
-words loading = 5
-factor score = 6
+word count = 37
+words loading = 3
+factor score = 5
 
-O cara **diz** q seria o **primeiro** a desrespeitar uma regra q ele **criou** 
-para forçar a vacinação Pais de família foram mandados embora por **causa** 
-dessa arbitrariedade. Então, pular carnaval é mais importante do q manter o 
-emprego das pessoas Para promiscuidade ñ precisa d regra. Nojo **twitter** . 
-com / jornalextra / st … 
+**Estudos** científicos já concluíram que: - Lockdown é ineficaz; - 
+**Tratamento** **precoce** é eficaz; - Atividade física é a melhor 
+prevenção; - Vacinas possuem baixa eficácia; - A transmissão do vírus por 
+superfície é quase nula; - Assintomáticos não transmitem o vírus; 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-criar 
-dizer 
-primeiro 
-twitter 
+estudo 
+precoce 
+tratamento (secondary)

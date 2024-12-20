@@ -1,24 +1,21 @@
-file = t011059
-date = 2020-12-00
-user = derzevic
+file = t013044
+date = 2021-09-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1344368322964578300
+URL = https://twitter.com/julianaayres/status/1434174118862196700
 
-word count = 35
-words loading = 7
-factor score = -7
+word count = 56
+words loading = 3
+factor score = -4
 
-SERIA ESTE SUBSTITUTO O DORIANA? PRA **PEGAR** BILHÕES DO **DINHEIRO** 
-PÚBLICO E **ENFIAR** NO TÓBA DOS XINGS LINGS? **Rede** vai ao STF para pedir 
-um substituto para Bolsonaro na **compra** de vacinas gazetabrasil. com. br / 
-**politica** / rede- … **via** @Gazeta 
+@mjcarvalhop @GFiuza_Oficial Temos q orar por esses médicos, o q eles estão 
+enfrentando p revelar a **verdade** ñ é fácil. Uma **amiga** minha, no dia 
+seguinte à vacina, parecia q o **sangue** do corpo dela queria sair pelos 
+poros. Ficou vulcão dos pés à cabeça. Até a palma da mão. Assustador. + 
+de 1 mês no hospital 
 
 Lemmas in this text that loaded on the factor:
 
-compra 
-dinheiro 
-enfiar 
-pegar 
-politicar 
-rede 
-via 
+amiga 
+sangue 
+verdade (secondary)

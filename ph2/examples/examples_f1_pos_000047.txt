@@ -1,25 +1,21 @@
-file = t015896
-date = 2022-08-00
+file = t015331
+date = 2022-05-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1556246882929807400
+URL = https://twitter.com/mpatriabrasil/status/1527657999879262200
 
-word count = 51
-words loading = 7
-factor score = 7
+word count = 46
+words loading = 3
+factor score = 2
 
-Paulo Cesar Feitosa era prefeito de Itaitinga e um ferrenho defensor da vacina, 
-junto com Camilo Santana, Governador do Ceará . Tomou a 4a. **Dose** no 
-**dia** 14 / 06 e teve um **infarto** **fulminante** no **dia** 06 / 08 / 22 . 
-A OMS já **indicou** q o **experimento** pode provocar **problemas** 
-cardiorrespiratórios https://t.co/KtbEKWpoBG 
+Jaisse Salvador era uma talentosa **jogadora** de **futebol** . Muito jovem, 
+era uma promessa para a seleção feminina. Sua morte foi ocultada pela grande 
+mídia. Descobrimos que ela havia se submetido à dose de reforço do 
+**experimento** poucos dias antes de seu falecimento por trombose. 
+https://t.co/y8mKcDoTU6 
 
 Lemmas in this text that loaded on the factor:
 
-dia 
-dose 
-experimento 
-fulminante 
-indicar 
-infarto 
-problema 
+experimento (secondary)
+futebol 
+jogador 

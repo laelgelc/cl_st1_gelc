@@ -1,24 +1,22 @@
-file = t013156
-date = 2021-09-00
-user = julianaayres
+file = t011187
+date = 2021-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1439348119293075500
+URL = https://twitter.com/evandroratho/status/1349077956413550600
 
-word count = 61
+word count = 42
 words loading = 4
-factor score = 6
+factor score = 5
 
-@Pavesi_italia @anvisa_oficial @paulomathias @AdrillesRJorge @JanainaDoBrasil 
-@lcoutinho @pauloeneas @GFiuza_Oficial @revistaoeste @cristinagraeml 
-@BrunaTorlay @alexandregarcia Parecia q todo sangue do corpo dela ia sair pelos 
-poros Ela **ficou** internada 1 mês e os médicos ñ **sabiam** o q fazer. . . 
-Fingiram q ela ñ **tomou** a vacina e **diziam** q era algo do corpo dela. 
-Isso é criminoso. Médicos, cientistas, políticos e vários jornalistas 
-estão cometendo crime 
+**Tratamento** **precoce** com remédios utilizados há décadas e baixo risco 
+de efeitos colaterais - não pode. . . não tem **estudos** científicos 
+suficientes; Vacina com baixo índice de eficácia e **testes** insuficientes - 
+não devemos ser tão científicos nesse momento; Tá bom. . . vai lá 
+sabichão! 
 
 Lemmas in this text that loaded on the factor:
 
-dizer 
-ficar 
-saber 
-tomar 
+estudo 
+precoce 
+teste (secondary)
+tratamento (secondary)

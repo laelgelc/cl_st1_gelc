@@ -1,19 +1,18 @@
-file = t011293
-date = 2021-01-00
-user = francoandremr
+file = t013243
+date = 2021-09-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/francoandremr/status/1351275394129916000
+URL = https://twitter.com/evandroratho/status/1441435575282659300
 
-word count = 35
-words loading = 2
+word count = 45
+words loading = 1
 factor score = -2
 
-Se você vai tomar a tal vacina mas tem que continuar de máscara, em 
-**isolamento** , **distanciamento** , tomando todos os mesmos cuidados e 
-fazendo as mesmas coisas que está fazendo agora, então. . . Pra que vacina? ? 
-? 
+Muita gente fez lockdown e pegou o vírus; Muita gente passou álcool **gel** 
+até na comida e pegou o vírus; Muita gente usa máscara e pegou o vírus; 
+Muita gente se vacinou e pegou o vírus; Eu não fiz nada disso e não peguei. 
+. . 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-isolamento 
+gel 

@@ -1,19 +1,22 @@
-file = t001726
-date = 2021-01-30
-user = mitags
-conversation = 266861485
-URL = https://twitter.com/mitags/status/1355587968845697035
+file = t010243
+date = 2020-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1315442687357735000
 
-word count = 27
-words loading = 3
-factor score = -3
+word count = 35
+words loading = 5
+factor score = -7
 
-@Gianamonteggia @ananiasfernanda Você toma e continua isolado pois o risco de 
-adquirir o vírus continua bem alto. **Confio** mais no **tratamento** 
-**precoce** cujos resultados são melhores 
+@BlitzSpitfire Assim que liberarem a vacina pra **Covid** , o **governo** 
+gastará bilhões de reais com anuência do **povo** idiota que acredita na 
+**boa** fé dos nossos políticos. Nem desconfiam que os **interesses** são 
+outros. . . 
 
 Lemmas in this text that loaded on the factor:
 
-confiar 
-precoce 
-tratamento 
+bom 
+covid 
+governo 
+interesse 
+povo 

@@ -1,19 +1,18 @@
-file = t010824
-date = 2020-12-00
+file = t011218
+date = 2021-01-00
 user = derzevic
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1338889320132993000
+URL = https://twitter.com/derzevic/status/1349422668899102700
 
-word count = 36
+word count = 31
 words loading = 2
 factor score = -2
 
-SE QUEM TOMAR, FOR COMER CAPIM PELA RAIZ, A FAMÍLIA NÃO PODERÁ PROCESSAR O 
-LABORATÓRIO, NEM O ESTADO. OS LUCROS TEM QUE SER 100 % Covid-19 : relator 
-confirma que vacinados **assinarão** " **termo** de consentimento " 
-agoranoticiasbrasil. com. br / covid-19-relat … 
+TA CERTO, MAS E SP E TAL CORONAVAC? VAI COMEÇAR A INVESTIGAÇÃO QUANDO? ? PF 
+e CGU deflagram operação para investigar irregularidades no **combate** à 
+Covid-19 no Piauí **jornaldacidadeonline** . com. br / noticias / 26133 … 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-termo 
+combate 
+jornaldacidadeonline 

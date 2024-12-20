@@ -1,28 +1,26 @@
-file = t013787
-date = 2021-11-00
-user = julianaayres
+file = t014388
+date = 2022-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1462152758606319600
+URL = https://twitter.com/evandroratho/status/1481708473574428700
 
-word count = 54
-words loading = 10
+word count = 44
+words loading = 8
 factor score = 9
 
-@AndrWilliandaS1 @f4b10rms Eu **sei** lá . Não **quero** mais **saber** 
-disso. Política nem pensar mais. Agora só **quero** que os **prefeitos** , 
-govs, o **presidente** e o ministro da saúde **paguem** por cada **vida** q se 
-**perdeu** ou q foi prejudicada por **causa** q eles não avisaram sobre os 
-**efeitos** **colaterais** graves das novas vacinas. 
+@revistaoeste As vacinas foram **aprovadas** em caráter **emergencial** , sem 
+os devidos **estudos** de eficácia e segurança a **longo** **prazo** , sob a 
+justificativa da **taxa** de **letalidade** entre os mais velhos. As 
+estatísticas não dão margem para justificar o uso **emergencial** em 
+**jovens** saudáveis! 
 
 Lemmas in this text that loaded on the factor:
 
-causa 
-colateral 
-efeito (secondary)
-pagar 
-perder 
-prefeito 
-presidente 
-querer 
-saber 
-vida 
+aprovar (secondary)
+emergencial 
+estudo 
+jovem (secondary)
+letalidade 
+longo 
+prazo 
+taxa 

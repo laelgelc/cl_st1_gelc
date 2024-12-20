@@ -1,21 +1,21 @@
-file = t010278
-date = 2020-10-00
-user = derzevic
+file = t014110
+date = 2021-12-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1317555658737258500
+URL = https://twitter.com/julianaayres/status/1472644017905094700
 
-word count = 37
-words loading = 4
-factor score = -4
+word count = 50
+words loading = 3
+factor score = -3
 
-FAZEM FILA, OU SÃO OBRIGADOS A FAZER? ? LEMBREM SE DO REGIME DELES, O MESMO 
-QUE DÓRIA **QUERIA** PARA NÓS Chineses fazem fila para receber vacina 
-experimental e **pagam** US$60 gazetabrasil. com. br / **mundo** / chineses … 
-**via** @A 
+Hoje conheci uma senhora de 80 anos no velório da filha de uma **amiga** que 
+morreu após complicações nos **rins** e **pele** pós vacina, que renovou 
+meu espírito. Explico: Ela veio conversar comigo sobre as vacinas. . . O filho 
+dela tomou as 3 doses e teve 3 AVCs, está paralisado ( + ) 
+backhand_index_pointing_down_e 
 
 Lemmas in this text that loaded on the factor:
 
-mundo (secondary)
-pagar 
-querer 
-via 
+amiga 
+pele 
+rim 

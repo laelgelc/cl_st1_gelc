@@ -1,21 +1,26 @@
-file = t014675
-date = 2022-02-00
-user = evandroratho
+file = t016482
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1488516857028042800
+URL = https://twitter.com/iodinha1/status/1586494060893995000
 
-word count = 42
-words loading = 4
+word count = 45
+words loading = 8
 factor score = 7
 
-**Impedem** o uso de remédios seguros sob a alegação de não haverem 
-**estudos** suficientes quanto a eficácia, ao mesmo tempo em que **aprovam** 
-vacinas em caráter **emergencial** sem **estudos** completos quanto a 
-eficácia e segurança, e você não acha isso estranho? 
+@folha Nunca **saberemos** se quem **morreu** foi ou não por **causa** da 
+vacina. Muita **gente** não se vacinou e nem resfriado **pegou** . Outros 
+tantos, só após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, 
+ataque cardíaco, trombone, gripe e até **morreram** etc. **Verdade** seja 
+**dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-emergencial 
-estudo 
-impedir 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

@@ -1,25 +1,25 @@
-file = t012661
-date = 2021-07-00
-user = evandroratho
+file = t013424
+date = 2021-10-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1415714796826243000
+URL = https://twitter.com/julianaayres/status/1447540538400456700
 
-word count = 49
+word count = 50
 words loading = 7
 factor score = 7
 
-Parte da **imprensa** ignora centenas de **estudos** comprovando a eficácia do 
-**tratamento** **precoce** , finge não saber dos e-mails do dr. Fauci, esquece 
-que o Texas **existe** , ignora o alerta de cientistas sobre o risco das 
-vacinas, e por aí vai. Pode **chamar** do que **quiser** , mas jornalismo não 
-é ! 
+@oproprioallan JOVENS E CRIANÇAS ESTÃO **MORRENDO** por **causa** dessas 
+novas vacinas OBRIGATÓRIAS QUE ELE ASSINOU e, até agora, ele não foi a 
+público avisar o **povo** do perigo dos **efeitos** **colaterais** p as 
+pessoas tomarem CONSCIENTES de que pode **dar** problema. Nunca **vi** tamanha 
+covardia. Isso é um CRIME! 
 
 Lemmas in this text that loaded on the factor:
 
-chamar 
-estudo 
-existir 
-imprensa 
-precoce 
-querer (secondary)
-tratamento 
+causa 
+colateral 
+dar 
+efeito 
+morrer (secondary)
+povo 
+ver 

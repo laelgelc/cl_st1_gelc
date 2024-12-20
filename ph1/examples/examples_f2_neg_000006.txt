@@ -1,21 +1,22 @@
-file = t016360
+file = t016256
 date = 2022-10-00
-user = iodinha1
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1581067052030505000
+URL = https://twitter.com/oscasosraros/status/1577436371903316000
 
-word count = 44
+word count = 41
 words loading = 4
 factor score = -4
 
-@karinamichelin Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. BOLSONARO 22 
+Bells Palsy following **mRNA** and inactivated ( CoronaVac ) vaccines: a case 
+series and nested case-control study: pubmed. **ncbi** . **nlm** . **nih** . 
+gov / 34411532 / Rate of Bells Palsy following **mRNA** vaccination is 2-3x 
+higher then expected: pubmed. **ncbi** . **nlm** . **nih** . gov / 34111409 / 
+childrenshealthdefense. org / defender / fda-m … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+mrna 
+ncbi 
+nih 
+nlm 

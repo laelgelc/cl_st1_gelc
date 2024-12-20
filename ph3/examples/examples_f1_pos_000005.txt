@@ -1,29 +1,29 @@
-file = t016706
-date = 2022-11-00
+file = t016084
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1594858606721224700
+URL = https://twitter.com/mpatriabrasil/status/1566823981826687000
 
-word count = 39
+word count = 44
 words loading = 11
 factor score = 12
 
-Uma criança de 12 **anos** **morre** de **infarto** , em Rondônia, voltando 
-de uma pescaria. A OMS e a Anvisa já **publicaram** **alertas** e 
-**pesquisas** **indicando** que a #vacina pode provocar **problemas** 
-cardíacos com **risco** de **morte** . **Fontes** : gov. br / anvisa / pt-br / 
-a … stevekirsch. substack. com / p / this-one-gra … https://t.co/xJetQDscBQ 
+Flávio Rodrigues era integrante da banda Medida Provisória. Era um entusiasta 
+do **experimento** e sempre postava suas **doses** . **Tomou** o reforço em 07 
+/ 07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
+**publicou** um **alerta** sobre o **risco** de **Miocardite** , e problemas 
+cardíacos. Segue. . . https://t.co/WNJnCJJCDS 
 
 Lemmas in this text that loaded on the factor:
 
 alerta 
-ano 
-fonte 
-indicar 
+dia 
+dose 
+experimento 
+falecer 
+fulminante 
 infarto 
-morrer 
-morte 
-pesquisa 
-problema 
+miocardite 
 publicar 
 risco (secondary)
+tomar 

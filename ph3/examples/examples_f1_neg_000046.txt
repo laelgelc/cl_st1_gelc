@@ -1,18 +1,18 @@
-file = t012452
-date = 2021-06-00
-user = iodinha1
+file = t014238
+date = 2022-01-00
+user = karinamichelin
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1407387448846467000
+URL = https://twitter.com/karinamichelin/status/1478424086275629000
 
-word count = 22
-words loading = 2
+word count = 43
+words loading = 1
 factor score = -2
 
-@marcuspcunha @carolaf88 @AlexSchwartsman E por que algumas vacinas estão 
-sendo **retiradas** do **mercado** sob a alegação de não terem nenhuma 
-eficácia? 
+Um teatro triste montando pelos " propagandistas " da vacina. Todos os médicos 
+que respondem as perguntas do público nesta audiência possuem **conflitos** 
+de interesse e seguem um roteiro orquestrado por todos os envolvidos. A 
+manipulação é clara, só não vê quem não quer. 
 
 Lemmas in this text that loaded on the factor:
 
-mercado 
-retirar 
+conflito 

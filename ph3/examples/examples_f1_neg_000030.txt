@@ -5,10 +5,10 @@ conversation = 99999999
 URL = https://twitter.com/sabolsonaro/status/1252987097029333000
 
 word count = 49
-words loading = 3
+words loading = 2
 factor score = -2
 
-Brasil não **assina** **termo** da ONU de cooperação. A ONU **adotou** uma 
+Brasil não assina **termo** da ONU de cooperação. A ONU **adotou** uma 
 resolução de ação global para acelerar rapidamente a produção e o acesso 
 à remédios, vacinas e equipamentos médicos frente ao Vírus. A questão não 
 é seguir o EUA. É seguir um Brasil grande, livre e soberano. 
@@ -17,5 +17,4 @@ backhand_index_pointing_down_e
 Lemmas in this text that loaded on the factor:
 
 adotar 
-assinar 
 termo 

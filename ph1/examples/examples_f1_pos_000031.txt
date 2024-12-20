@@ -1,27 +1,25 @@
-file = t015875
-date = 2022-08-00
+file = t016191
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1555704080194015200
+URL = https://twitter.com/mpatriabrasil/status/1574070077758099500
 
-word count = 51
-words loading = 9
+word count = 45
+words loading = 7
 factor score = 9
 
-Patyziul era uma **mulher** muito admirada em Osasco e trabalhava como 
-influenciadora digital. Ela se **submeteu** à 1a. **Dose** em julho / 21 . 
-Segundo depoimentos de **amigos** , tomou o reforço há poucas **semanas** e 
-teve um **infarto** **fulminante** no **dia** 04 / 08 / 22 , exatamente um 
-**ano** após a 2a. **Dose** . https://t.co/x9XwJfhPTL 
+Depois de **Pesquisas** **publicadas** pela Lancet apontarem problemas 
+cardíacos a longo prazo em **pessoas** que se submeteram ao **experimento** , 
+o CDC resolve agir e investigar as reações a longo prazo ( **Infartos** e 
+AVCs ocorridos 5 meses após as **doses** ) . **Fonte** : cdc. gov / 
+coronavirus / 20 … https://t.co/bddn48RRTY 
 
 Lemmas in this text that loaded on the factor:
 
-amigo (secondary)
-ano 
-dia 
 dose 
-fulminante 
+experimento 
+fonte 
 infarto 
-mulher 
-semana 
-submeter 
+pesquisa 
+pessoa 
+publicar 

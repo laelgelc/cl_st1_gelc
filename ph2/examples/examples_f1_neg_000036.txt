@@ -1,21 +1,23 @@
-file = t000570
-date = 2020-07-28
-user = AiltonBenedito
-conversation = 342403919
-URL = https://twitter.com/AiltonBenedito/status/1288241607515537413
+file = t000911
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322121271413514240
 
 word count = 45
-words loading = 4
-factor score = -3
+words loading = 5
+factor score = -7
 
-Os LOBISTAS DA MORTE que, diariamente, em jornais, revistas, rádios, TV, 
-apontam supostos perigos mortais de **cloroquina** , **usada** mundialmente há 
-70 anos, são exatamente os mesmos que **prometem** que a solução para a 
-**pandemia** de #Covid19 é uma hipotética vacina, em um futuro distante. 
+" @revistaoeste @VlogdoLisboa Prometer vacina para **Covid** em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma vacina em bilhões de pessoas, é **melhor** você **saber** o que essa 
+vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-pandemia (secondary)
-prometer 
+bom 
+covid 
+fazer 
+saber 
 usar 

@@ -1,25 +1,24 @@
-file = t016119
+file = t016211
 date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1569477026234646500
+URL = https://twitter.com/mpatriabrasil/status/1574981100320919600
 
-word count = 48
-words loading = 7
+word count = 51
+words loading = 6
 factor score = 8
 
-Pietra Medeiros era jogadora de Futsal e Campeã por São Paulo. Teve que se 
-**submeter** ao **experimento** , pois a Federação **exige** o 
-**comprovante** em **dia** para participação nos Jogos. Desenvolveu hepatite 
-auto-imune logo após a **dose** de reforço e **faleceu** em 19 / 08 / 22 , 
-após um transplante. https://t.co/qGizMxWhpj 
+Lucas recebeu o reforço do **experimento** há +ou - 5 meses. Ele era um 
+garoto saudável. Teve um aneurisma, em 26 / 09 , enquanto jogava bola. A OMS 
+já **publicou** **estudos** **indicando** q o **experimento** pode provocar 
+AVCs. Outro **estudo** **indica** q as **mortes** ocorrem em + ou - 5 meses 
+após as **doses** . https://t.co/NjFt48Xs3P 
 
 Lemmas in this text that loaded on the factor:
 
-comprovante 
-dia 
 dose 
-exigir 
+estudo (secondary)
 experimento 
-falecer 
-submeter 
+indicar 
+morte 
+publicar 

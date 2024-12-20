@@ -1,24 +1,20 @@
-file = t001066
-date = 2020-10-30
-user = Heroi_Romanesco
-conversation = 320418868
-URL = https://twitter.com/Heroi_Romanesco/status/1322269674843693056
+file = t014074
+date = 2021-12-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1471551531514306600
 
-word count = 41
-words loading = 7
-factor score = 7
+word count = 35
+words loading = 4
+factor score = 5
 
-@AninhaEsperanca @JornalOGlobo **Existe** 57 Milhões de pessoas minimamente 
-humanas que defendem o **Presidente** que vc chama de cruel, mas **quer** 
-**comprar** uma vacina segura para o **povo** e não **quer** obrigar as 
-pessoas **tomarem** uma vacina experimental servindo de **cobaias** . 
+@anvisa_oficial A **taxa** de **letalidade** do vírus entre crianças é menor 
+que 0 , 05 % . Qual **taxa** de efeitos adversos da vacina, no curto e no 
+**longo** **prazo** , foi considerada para tomar essa decisão com segurança? 
 
 Lemmas in this text that loaded on the factor:
 
-cobaia 
-comprar 
-existir 
-povo 
-presidente 
-querer 
-tomar 
+letalidade 
+longo 
+prazo 
+taxa 

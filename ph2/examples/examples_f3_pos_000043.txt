@@ -1,21 +1,22 @@
-file = t012090
-date = 2021-05-00
-user = evandroratho
+file = t016368
+date = 2022-10-00
+user = samara955110671
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1392469322115780600
+URL = https://twitter.com/samara955110671/status/1581374238073970700
 
-word count = 44
+word count = 40
 words loading = 4
-factor score = 6
+factor score = 4
 
-Acreditam em vacinas desenvolvidas as pressas e sem estudos suficientes para 
-**garantir** tanto eficácia quanto segurança, mas criminalizam a tentativa de 
-médicos de **usar** remédios já disponíveis na luta para **salvar** seus 
-pacientes, e ainda por cima se **dizem** a favor da ciência! 
+ALERTA:Além das v4 . . . c1 . . n4s de MRN4 anti C-19 causarem coágulos 
+mort4is, o antiviral da Pfizer PAXLOVID, colocado no mercado sem **testes** 
+suficientes de segurança -resultou **perigoso** e até mesmo l3tal para alguns 
+**pacientes** através de um **estudo** revisado por 
+paresEMOJI_backhand_index_pointing_down_light_skin_tone_e 
 
 Lemmas in this text that loaded on the factor:
 
-dizer 
-garantir 
-salvar 
-usar (secondary)
+estudo 
+paciente 
+perigoso 
+teste (secondary)

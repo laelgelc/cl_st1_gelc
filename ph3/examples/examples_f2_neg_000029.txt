@@ -1,19 +1,18 @@
-file = t012246
-date = 2021-05-00
-user = julianaayres
+file = t015598
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1399469569140461600
+URL = https://twitter.com/oscasosraros/status/1540082296178499600
 
-word count = 15
-words loading = 1
-factor score = -3
+word count = 21
+words loading = 2
+factor score = -2
 
-Mulher, 35 , morre de coágulo de **sangue** no cérebro causado pela 
-vacinação AstraZeneca 
-backhand_index_pointing_down_eEMOJI_backhand_index_pointing_down_eEMOJI_backhand
-_index_pointing_down_e birminghammail. co. uk / news / midlands- … 
-https://t.co/tWjW2c8Lv1 
+Aline, 15 anos, sintomas iniciais dores no pé 1 mês depois da 2a dose. 
+Diagnóstico: **Mielite** **Transversa** . #CanWeTalkAboutIt #IStandWithYou 
+https://t.co/qms7vt535E 
 
 Lemmas in this text that loaded on the factor:
 
-sangue 
+mielite 
+transverso 

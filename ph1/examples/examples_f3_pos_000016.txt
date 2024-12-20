@@ -1,20 +1,24 @@
-file = t015614
-date = 2022-06-00
-user = iodinha1
+file = t014910
+date = 2022-02-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1541067738747211800
+URL = https://twitter.com/evandroratho/status/1494372372966744000
 
-word count = 41
-words loading = 4
-factor score = 5
+word count = 48
+words loading = 6
+factor score = 7
 
-Não seria melhor aguardar os efeitos de **longo** **prazo** de quem foi 
-obrigado a tomar para que possamos **superar** os custo-benefício de tomar a 
-atual vacina 0 2 a c e g l m o r s y twitter. com / AnaFontesBR / st … 
+Você acreditou que o **lockdown** achataria a curva, que as máscaras e o 
+distanciamento **social** **impediriam** o contágio, que o **tratamento** 
+**precoce** era **perigoso** , que as vacinas eram eficazes e seguras, e em 
+tantas teorias que não se efetivaram, e ainda assim não percebe que está 
+errado? 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-longo 
-prazo 
-superar 
+impedir 
+lockdown 
+perigoso 
+precoce 
+social 
+tratamento 

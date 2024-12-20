@@ -1,20 +1,23 @@
-file = t012180
-date = 2021-05-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1396886179627274200
+file = t000886
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322304837518716928
 
-word count = 50
-words loading = 3
-factor score = -4
+word count = 44
+words loading = 5
+factor score = -7
 
-Se máscara e vacina te protegem do vírus, por que se incomoda se eu não 
-quiser **usar** ? Se você acha que o **tratamento** **precoce** pode fazer mal 
-a saúde, basta você não tomar os remédios e optar pela intubação. Mas por 
-que se incomoda tanto com quem quer tomar? 
+" @Astro_Pontes @BancoCentralBR Prometer vacina para **Covid** em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma vacina em bilhões de pessoas, é **melhor** você **saber** o que essa 
+vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
 usar 

@@ -1,19 +1,20 @@
-file = t016412
-date = 2022-10-00
-user = paulo2246
-conversation = 99999999
-URL = https://twitter.com/paulo2246/status/1583252542360027100
+file = t000763
+date = 2020-09-28
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1310704138695696386
 
-word count = 43
-words loading = 2
-factor score = -3
+word count = 27
+words loading = 4
+factor score = -5
 
-@rodrigogarcia_ E o porque da exigência de carteira de vacina da covid! Hoje 
-recebi isto do **conselho** **tutelar** me ameaçando por não ter vacinado 
-meus filhos sendo que esta vacina não é obrigatória e o porque que o 
-governador está exigindo isso. https://t.co/7QUiPT3M11 
+@LaurinhaBonoro CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** DO PL 
+4506 / 2020 - BIA KICIS Proposta **retira** vacinação compulsória da 
+**lista** de medidas de **combate** à Covid-19 https://t.co/q4oENg6WzK 
 
 Lemmas in this text that loaded on the factor:
 
-conselho 
-tutelar 
+combate 
+enquete 
+lista 
+retirar 

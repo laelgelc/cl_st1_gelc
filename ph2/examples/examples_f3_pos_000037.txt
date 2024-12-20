@@ -1,20 +1,22 @@
-file = t012648
-date = 2021-07-00
-user = melnetto
+file = t010931
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/melnetto/status/1415358880041914400
+URL = https://twitter.com/evandroratho/status/1339906584147865600
 
-word count = 49
-words loading = 3
-factor score = 6
+word count = 47
+words loading = 4
+factor score = 5
 
-Doria, o calcinha, **quer** entregar vacinas da China com antecedência de um 
-mês ao Governo Federal. Não entendo a pressa para o Ditadória **querer** se 
-livrar da CoronaVac, a Vachina tem menos eficácia que remédio de parasitas e 
-tem sido recusada por **milhares** de países **mundo** afora! SQÑ ! 
+@leandroruschel Por que ninguém está falando sobre os índices de 
+**letalidade** por **faixa** etária, e questionando a vacinação em 
+crianças, **jovens** , e adultos saudáveis? Correr riscos com vacinas 
+suspeitas para uma doença que tem **taxa** de mortalidade abaixo de 0 , 1 % é 
+loucura, não se justifica. . . 
 
 Lemmas in this text that loaded on the factor:
 
-milhar 
-mundo 
-querer 
+faixa 
+jovem (secondary)
+letalidade 
+taxa 

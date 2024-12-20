@@ -1,23 +1,24 @@
-file = t010648
-date = 2020-12-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1336017357463056400
+file = t000492
+date = 2020-07-30
+user = unknown
+conversation = 1140711491487850498
+URL = unknown
 
-word count = 47
-words loading = 5
-factor score = -4
+word count = 49
+words loading = 6
+factor score = -7
 
-@bernardokuster2 É muito suspeito que um governador queira forçar uma 
-vacinação em **massa** atropelando a lógica, o bom senso, a ciência, as 
-regulamentações, as leis, a **liberdade** de escolha, e o respeito ao 
-próximo, e ainda tenha apoio da **extrema** **imprensa** para **manipular** 
-alguns idiotas úteis. . . 
+@Lenielton2 @JanainaDoBrasil Mentira. . . médico pode sim tentar **salvar** 
+**vidas** . . Eles não estão **dizendo** que o remédio é específico para 
+essa doença, mas está **fazendo** a diferença e curando sim. O **caso** aqui 
+é que o remédio é baratinho e tem uma vacina para **comprarmos** . . . 
+Acorda desse sono esplêndido 
 
 Lemmas in this text that loaded on the factor:
 
-extremo 
-imprensa (secondary)
-liberdade 
-manipular 
-massa (secondary)
+caso (secondary)
+comprar 
+dizer 
+fazer 
+salvar 
+vida 

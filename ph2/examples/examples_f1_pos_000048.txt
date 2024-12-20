@@ -1,23 +1,18 @@
-file = t015862
-date = 2022-08-00
+file = t015319
+date = 2022-05-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1555016582044258300
+URL = https://twitter.com/mpatriabrasil/status/1527048082759770000
 
-word count = 36
-words loading = 6
-factor score = 7
+word count = 34
+words loading = 1
+factor score = 2
 
-Adriana Titei era professora e defensora do **experimento** . Tomou a 2a. 
-**Dose** em Agosto / 21 . Teve um **infarto** **fulminante** pouco tempo depois 
-do reforço. **Fontes** : m. **facebook** . com / story. php? stor … m. 
-**facebook** . com / groups / Cuiaban … https://t.co/G4hPqiq5QD 
+Trombose Trombocitopênica Induzida por Vacina contra Covid-19 ) . Ontem saiu o 
+último resultado, da **pesquisa** contra anticorpos anti-PF4 , AstraZeneca, 
+que testou fortemente positivo, fechando os 5 dos 5 critérios para a 
+Síndrome: Plaquetopenia, Trombose, aumento de D-dímero. . . 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-experimento 
-facebook 
-fonte 
-fulminante 
-infarto 
+pesquisa 

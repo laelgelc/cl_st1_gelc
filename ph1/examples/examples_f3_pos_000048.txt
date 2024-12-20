@@ -1,20 +1,21 @@
-file = t010860
-date = 2020-12-00
+file = t012181
+date = 2021-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339282628411875300
+URL = https://twitter.com/evandroratho/status/1396886753248690200
 
-word count = 45
-words loading = 2
-factor score = 4
+word count = 36
+words loading = 4
+factor score = 6
 
-@paulomathias As pessoas estão sendo induzidas a acreditar numa vacina 
-milagrosa na mesma proporção em que foram induzidas a duvidar do tratamento 
-precoce, e sequer estão levando em consideração os índices de 
-**letalidade** da doença para calcular o **custo** x benefício destas vacinas 
-expressas! 
+Se o Bolsonaro comprar de vez a briga contra quaisquer medidas de 
+**isolamento** **social** , contra **obrigatoriedade** das vacinas e de 
+máscaras, e revisar as estatísticas forjadas dessa **pandemia** , aposto que 
+ganharia ainda mais apoio popular! 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-letalidade 
+isolamento 
+obrigatoriedade 
+pandemia 
+social 

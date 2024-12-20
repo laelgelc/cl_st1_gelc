@@ -1,22 +1,25 @@
-file = t001159
-date = 2020-10-30
-user = Oraculo051
-conversation = 414910234
-URL = https://twitter.com/Oraculo051/status/1322186312275943424
+file = t016588
+date = 2022-11-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1591858038704832500
 
-word count = 54
-words loading = 4
+word count = 48
+words loading = 7
 factor score = -4
 
-@SigaGazetaBR Vice Melancia **quer** financiar a guerra da China contra EUA? O 
-q está por trás da insistência do vice p / aprovar o 5G e a **Vachina** ? Se 
-a China entrar em guerra os brasileiros **pagarão** a conta c / 5G, 
-**comprando** **vachina** e enviando toneladas de grãos e carne p / o 
-PCChines. @jairbolsonaro 
+@ariellediasbr Nunca saberemos se quem morreu foi por causa da covid ou por 
+causa da vacina. Muita gente não se vacinou e nem **resfriado** **pegou** . 
+Outros tantos, só após se vacinar, **pegaram** covid, tiveram **miocardite** 
+, AVC, **ataque** cardíaco, **trombone** , **gripe** e até morreram etc. 
+**Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-comprar 
-pagar 
-querer 
-vachina 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

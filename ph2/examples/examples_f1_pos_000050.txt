@@ -1,24 +1,20 @@
-file = t015795
-date = 2022-07-00
+file = t015306
+date = 2022-05-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1550799069253181400
+URL = https://twitter.com/mpatriabrasil/status/1525937863770230800
 
-word count = 46
-words loading = 6
-factor score = 7
+word count = 44
+words loading = 2
+factor score = 2
 
-Três médicos canadenses, de um mesmo hospital, **morrem** em uma única 
-**semana** , após a instituição exigir a 4a. **Dose** . Importante relembrar 
-que o Diretor de emergências do Norte do Canadá , também havia **falecido** 
-durante uma corrida no mesmo período. **Fonte** : **instagram** . com / p / 
-CgUdbd7OiEK / … https://t.co/e3GqwlB9cv 
+@michelleatchi15 Estudo concluiu q syringe_e pode provocar hepatite 
+imunomediada por células T induzida pelo antígeno vacinal. OMS **emitiu** 
+alerta **global** sobre nova hepatite grave em crianças. Reino Unido anunciou 
+investigação após taxas + altas de inflamação do fígado em crianças 
+dailyexpose. uk / 2022 / 04 / 28 / new … 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-falecer 
-fonte 
-instagram 
-morrer 
-semana 
+emitir 
+global 

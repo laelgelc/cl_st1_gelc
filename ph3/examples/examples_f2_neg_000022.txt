@@ -1,22 +1,23 @@
-file = t016559
+file = t016626
 date = 2022-11-00
-user = iodinha1
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1591211720311451600
+URL = https://twitter.com/mpatriabrasil/status/1592831024278687700
 
-word count = 48
-words loading = 4
-factor score = -4
+word count = 33
+words loading = 5
+factor score = -3
 
-@rodrigoluisvelo Nunca saberemos se quem morreu foi por causa da covid ou por 
-causa da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , **gripe** e até morreram etc. Verdade 
-seja dita! 
+Pesquisa **publicada** no PubMed sobre a ativação de de fenômenos 
+auto-imunes pós-vacina é assustadora! A pesquisa indica que a #vacina de 
+mRNApode provocar problemas hepáticos graves, sequelas irreversíveis no 
+fígado e nefropatias. **Fonte** : pubmed. **ncbi** . **nlm** . **nih** . gov / 
+34957554 / . https://t.co/e502VKuxqg 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+fonte (secondary)
+ncbi 
+nih 
+nlm 
+publicar (secondary)

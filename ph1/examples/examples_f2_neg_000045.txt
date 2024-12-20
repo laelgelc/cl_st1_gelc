@@ -1,18 +1,16 @@
-file = t014946
-date = 2022-02-00
-user = derzevic
-conversation = 99999999
-URL = https://twitter.com/derzevic/status/1496102439350583300
+file = t001199
+date = 2020-10-30
+user = marciosabedotti
+conversation = 3105897465
+URL = https://twitter.com/marciosabedotti/status/1322231255824551936
 
-word count = 26
-words loading = 2
-factor score = -3
+word count = 18
+words loading = 1
+factor score = -1
 
-**CDC** e Farmacêutica Pfizer **Emitem** Alertas Sobre Riscos de Coagulação 
-Sanguínea Mesmo em Atletas e Pessoas Saudáveis criticanacional. com. br / 
-2022 / 02 / 21 / **cdc** … via @criticanac 
+@nikolas_dm Entreviste Dra. CHINDA BRANDOLINO, conforme ela o **RNA** utilizado 
+pela vacina de Oxford causará esterilização em massa. 
 
 Lemmas in this text that loaded on the factor:
 
-cdc 
-emitir 
+rna 

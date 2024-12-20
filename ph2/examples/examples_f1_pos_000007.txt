@@ -1,28 +1,25 @@
-file = t016171
-date = 2022-09-00
+file = t015816
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1572704520286703600
+URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
 
-word count = 50
-words loading = 10
-factor score = 11
+word count = 46
+words loading = 7
+factor score = 6
 
-Vagner Vallim, 55 anos, era um grande jornalista q **faleceu** de um 
-**infarto** **fulminante** . Se **submeteu** ao **experimento** , pois a Globo 
-exige o passaporte em **dia** . A Anvisa e a OMS **emitiram** **alertas** de q 
-o **experimento** pode provocar **problemas** cardíacos, mesmo depois de meses 
-após as **doses** . . . https://t.co/nc3OCG4T7n 
+Fernanda Keulla tomou as primeiras doses do **experimento** em agosto / 21 e o 
+reforço há pouco tempo. Está **internada** devido uma Herpes Zoster. A OMS 
+já alertou sobre o **experimento** ser o gatilho para HerpesZoster 
+**pesquisa** . **bvsalud** . **org** / global-literat … instagram. com / p / 
+CgdNKw3M_TZ / … instagram. com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
 
 Lemmas in this text that loaded on the factor:
 
-alerta (secondary)
-dia 
-dose 
-emitir 
-experimento 
-falecer 
-fulminante 
-infarto 
-problema 
-submeter 
+bvsalud 
+experimento (secondary)
+global 
+internar 
+literat 
+org 
+pesquisa 

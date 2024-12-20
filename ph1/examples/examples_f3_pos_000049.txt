@@ -1,20 +1,21 @@
-file = t010706
-date = 2020-12-00
+file = t012101
+date = 2021-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1336690742828392400
+URL = https://twitter.com/evandroratho/status/1392820679679090700
 
-word count = 50
-words loading = 3
-factor score = 4
+word count = 37
+words loading = 4
+factor score = 6
 
-@revistaoeste Quais as chances de ocorrerem mais efeitos colaterais similares ( 
-ou até piores ) a médio e **longo** **prazo** ? E como confiar que a China 
-seria transparente e divulgaria esse tipo de ocorrência como o Reino Unido 
-fez? Sigo achando que a vacina traz mais **risco** que o próprio vírus! 
+A CPI parte da premissa que distanciamento **social** e vacina são as únicas 
+soluções para enfrentar o vírus, e que o **tratamento** **precoce** é 
+crime. Qual o embasamento científico **usado** pelos Senadores para sustentar 
+essa tese? 
 
 Lemmas in this text that loaded on the factor:
 
-longo 
-prazo 
-risco 
+precoce 
+social 
+tratamento 
+usar 

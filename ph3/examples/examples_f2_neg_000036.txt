@@ -1,20 +1,22 @@
-file = t012656
-date = 2021-07-00
-user = julianaayres
+file = t016669
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1415687765291716600
+URL = https://twitter.com/mpatriabrasil/status/1594199142384824300
 
-word count = 46
-words loading = 2
-factor score = -3
+word count = 38
+words loading = 4
+factor score = -2
 
-@JanainaDoBrasil police_car_light_eUm milhão de pessoas tiveram doenças por 
-causa das vacinas Covid ( isso o que o gov conta, imagina o q eles escondem ) : 
-backhand_index_pointing_down_e As lesões incluem cegueira, coágulos de 
-**sangue** , **paralisia** , esclerose múltipla e natimortos e estão sendo 
-censurados pela mídia e pelas big techs. https://t.co/Qof7z9URob 
+Falo nada, só observo. Glenn não admite que foi a vacina que desencadeou o 
+problema de David. Mal sabe ele que já existem inúmeras pesquisas 
+científicas relacionando a picada ao problema. **Fonte** - Site da própria 
+OMS: pesquisa. **bvsalud** . org / global-literat … twitter. com / 
+tagrevista_ / st … https://t.co/XY6XQlGVut 
 
 Lemmas in this text that loaded on the factor:
 
-paralisia 
-sangue 
+bvsalud 
+fonte (secondary)
+global 
+literat 

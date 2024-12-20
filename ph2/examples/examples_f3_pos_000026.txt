@@ -1,24 +1,18 @@
-file = t015787
-date = 2022-07-00
-user = paulode97899276
+file = t012349
+date = 2021-06-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/paulode97899276/status/1550483983779209200
+URL = https://twitter.com/evandroratho/status/1404451603600625700
 
-word count = 46
-words loading = 6
-factor score = 6
+word count = 28
+words loading = 2
+factor score = 5
 
-** Isso não **pegou** bem! A maioria dos americanos inteligentes **sabe** que 
-isso foi um Plandemic para **ver** como eles poderiam controlar as pessoas! 
-Biden **pegou** COVID mesmo vacinado várias vezes … Biden ainda tem a cara 
-de pau de mandar as pessoas **tomarem** vacinas, **salvam** **vidas** … 
-https://t.co/mP4Gqf2hiA 
+Quem fala tanto em nome da ciência deveria apresentar os **estudos** 
+científicos que comprovam a eficácia das máscaras e do **lockdown** , e, 
+principalmente, da segurança das vacinas. 
 
 Lemmas in this text that loaded on the factor:
 
-pegar 
-saber 
-salvar 
-tomar 
-ver 
-vida 
+estudo 
+lockdown 

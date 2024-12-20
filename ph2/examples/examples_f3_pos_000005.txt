@@ -1,29 +1,21 @@
-file = t011790
-date = 2021-04-00
+file = t013529
+date = 2021-10-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1379502758718492700
+URL = https://twitter.com/evandroratho/status/1452718561806405600
 
-word count = 42
-words loading = 11
-factor score = 8
+word count = 36
+words loading = 4
+factor score = 7
 
-Coisas que não **dá** mais pra esconder mas a velha **imprensa** **vendida** 
-continua fingindo não **saber** : - **Tratamento** **precoce** **salva** 
-**vidas** ; - Vacina não **garante** imunização; - Lockdown não reduz 
-contágio e tampouco **mortes** ; - O establishment faz de tudo para derrubar o 
-atual **governo** ; 
+@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
+têm risco de morte pela doença, e considerando que as vacinas não 
+**impedem** a infecção e tampouco a transmissão do vírus, tal 
+**obrigatoriedade** é estupidamente sem lógica. 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-garantir 
-governo 
-imprensa 
-morte (secondary)
-precoce (secondary)
-saber 
-salvar 
-tratamento (secondary)
-vender 
-vida 
+assegurar 
+impedir 
+jovem (secondary)
+obrigatoriedade 

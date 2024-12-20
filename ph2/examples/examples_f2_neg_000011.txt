@@ -1,20 +1,18 @@
-file = t010821
-date = 2020-12-00
-user = derzevic
+file = t016404
+date = 2022-10-00
+user = paulo2246
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1338860500256374800
+URL = https://twitter.com/paulo2246/status/1582913764638085000
 
-word count = 40
-words loading = 3
-factor score = -2
+word count = 28
+words loading = 2
+factor score = -3
 
-Essas vacinas são tão seguras, que no contrato a pfizer ja diz que não se 
-responsabiliza por efeitos colaterais. E ainda por cima você terá que assinar 
-um **termo** , se der zica, azar seu! ! **Pleno** . News **pleno** . news / 
-**brasil** / politic … 
+@jairbolsonaro O meu presidente me da uma força ae hoje recebi isto do 
+**conselho** **tutelar** me ameaçando por não ter vacinado meus filhos contra 
+a covid. https://t.co/UBO5mhixFn 
 
 Lemmas in this text that loaded on the factor:
 
-brasil 
-pleno 
-termo 
+conselho 
+tutelar 

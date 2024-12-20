@@ -1,29 +1,30 @@
-file = t015796
-date = 2022-07-00
+file = t016732
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1551171520797499400
+URL = https://twitter.com/mpatriabrasil/status/1595431947760799700
 
-word count = 42
+word count = 56
 words loading = 11
-factor score = 11
+factor score = 10
 
-Márcio Costa era um patriota. Tomou a 1a. **dose** em 2021 e os reforços há 
-3 meses. Teve um AVC em 16 / 07 e **faleceu** nesta **semana** . A OMS já 
-reconheceu que o AVC pode acontecer alguns meses após o **experimento** . 
-**Fontes** : **pesquisa** . **bvsalud** . **org** / global-literat … m. 
-**facebook** . com / story. php? stor … https://t.co/VMXmval90f 
+Mais 4 **jovens** **sofreram** **infartos** . Mais uma vez lembramos q o 
+**risco** de **Miocardite** é de 100 para cada 100mil **doses** , d acordo com 
+a **pesquisa** científica da @CMAJ. Ou seja, se você **tomou** 4 **doses** , 
+o **risco** é 4 x maior! Vale a pena saber que **pessoas** **morreram** para 
+você se sentir seguro? **twitter** . com / CMAJ / status / 15 … 
+https://t.co/OVWLDyoyfD 
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud (secondary)
 dose 
-experimento 
-facebook 
-falecer 
-fonte 
-global 
-literat (secondary)
-org 
+infarto 
+jovem 
+miocardite 
+morrer 
 pesquisa 
-semana 
+pessoa 
+risco (secondary)
+sofrer 
+tomar 
+twitter 

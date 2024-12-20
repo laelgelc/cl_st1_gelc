@@ -1,20 +1,22 @@
-file = t011656
-date = 2021-03-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1372523812395307000
+file = t000872
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322207158117769216
 
-word count = 48
-words loading = 2
-factor score = -4
+word count = 44
+words loading = 5
+factor score = -7
 
-@MarcosQuezado1 Já parou pra pensar que nada do que é relacionado a Covid-19 
-tem comprovação científica? Lockdown, máscara, vacina, dipirona, e nem 
-mesmo o uso de ventilação mecânica e intubação de pacientes na UTI. Mas 
-só contra o **tratamento** **precoce** há uma mobilização pesada. É 
-suspeito, não é ? 
+" @DALISSIME401 Prometer vacina para **Covid** em 2020 é grave desserviço ao 
+público, avalia Presidente da Merck " " Se você vai **usar** uma vacina em 
+bilhões de pessoas, é **melhor** você **saber** o que essa vacina **faz** " 
+" , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

@@ -1,16 +1,21 @@
-file = t000781
-date = 2020-10-30
-user = EdnaForesti
-conversation = 2474527723
-URL = https://twitter.com/EdnaForesti/status/1322324673380712448
+file = t012996
+date = 2021-08-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1431850646093901800
 
-word count = 23
-words loading = 1
-factor score = -2
+word count = 40
+words loading = 4
+factor score = -5
 
-" RT @FabioIng: @IronicaLaurinha Prometer vacina para Covid em 2020 é grave 
-desserviço ao público, **avalia** Presidente da Merck " " Se você vai u " 
+@TonyStarkMeta Uma **amiga** ficou com a **pele** dos pés a cabeça parecendo 
+uma larva de vulcão. Achei q fosse **morrer** . Mais de 1 mês internada e os 
+médicos queriam q ela tomasse a **segunda** dose 
+woman_shrugging_medium_skin_tone_e Esses médicos são assassinos. 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
+amiga 
+morrer (secondary)
+pele 
+segundo 

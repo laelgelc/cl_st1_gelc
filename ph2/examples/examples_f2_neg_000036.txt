@@ -1,20 +1,18 @@
-file = t016470
-date = 2022-10-00
-user = iodinha1
+file = t010583
+date = 2020-11-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586172918312370200
+URL = https://twitter.com/derzevic/status/1332452365253959700
 
-word count = 45
-words loading = 3
+word count = 23
+words loading = 2
 factor score = -2
 
-@DaniMYGonzalez Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+RESPEITO A DEMOCRACIA E LIBERDADE DE EXPRESSÃO. EU TAMBÉM NÃO VOU TOMAR ESSA 
+PORCARIA, PRINCIPALMENTE A VACHINA **Pleno** . News **pleno** . news / 
+**brasil** / politic … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+brasil 
+pleno 

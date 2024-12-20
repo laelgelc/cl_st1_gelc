@@ -1,22 +1,20 @@
-file = t014440
-date = 2022-01-00
+file = t012293
+date = 2021-06-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1482680925225951200
+URL = https://twitter.com/evandroratho/status/1401923949492121600
 
-word count = 30
-words loading = 6
-factor score = 6
+word count = 47
+words loading = 3
+factor score = 5
 
-Esse **povo** que **toma** a terceira **dose** da vacina, **pega** covid, mas 
-aceita numa **boa** , é o mesmo que crítica quem **usa** certos remédios por 
-duvidar da eficácia deles. 
+Mentiram sobre a origem do vírus, sobre o **tratamento** **precoce** , sobre 
+eficácia e segurança das vacinas, sobre a efetividade do uso de máscaras, 
+sobre o **lockdown** , sobre as estatísticas de mortes, e tantas outras 
+coisas. Eles vão continuar mentindo, e cabe a você parar de acreditar! 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-dose (secondary)
-pegar 
-povo 
-tomar 
-usar (secondary)
+lockdown 
+precoce 
+tratamento (secondary)

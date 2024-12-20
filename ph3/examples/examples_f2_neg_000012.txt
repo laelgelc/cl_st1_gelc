@@ -1,21 +1,22 @@
-file = t016480
-date = 2022-10-00
-user = iodinha1
+file = t015816
+date = 2022-07-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586420728622362600
+URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
 
-word count = 45
+word count = 35
 words loading = 4
-factor score = -4
+factor score = -3
 
-@VelindaDe Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. Verdade seja dita! 
+Fernanda Keulla tomou as primeiras doses do **experimento** em agosto / 21 e o 
+reforço há pouco tempo. Está internada devido uma Herpes Zoster. A OMS já 
+alertou sobre o **experimento** ser o gatilho para HerpesZoster pesquisa. 
+**bvsalud** . org / global-literat … instagram. com / p / CgdNKw3M_TZ / … 
+instagram. com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+bvsalud 
+experimento (secondary)
+global 
+literat 

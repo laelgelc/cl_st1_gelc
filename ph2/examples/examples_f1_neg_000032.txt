@@ -1,21 +1,24 @@
-file = t014723
-date = 2022-02-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1489667644454318000
+file = t000902
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1322305594649415681
 
-word count = 49
-words loading = 3
-factor score = -4
+word count = 50
+words loading = 5
+factor score = -7
 
-Já há dados o suficiente para comprovar que máscara, **lockdown** , e 
-vacinas, não são eficazes para **impedir** o avanço do vírus. Não há 
-lógica na manutenção das estratégias que vem se mostrando ineficazes há 
-quase dois anos, a não ser pelo **interesse** político e financeiro! Já deu, 
-né ? 
+" @Donamaria57C @jairbolsonaro @BolsonaroSP @depheliolopes @minsaude 
+@CarlosBolsonaro @carlosjordy Prometer vacina para **Covid** em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma vacina em bilhões de pessoas, é **melhor** você **saber** o que essa 
+vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-impedir (secondary)
-interesse 
-lockdown 
+bom 
+covid 
+fazer 
+saber 
+usar 

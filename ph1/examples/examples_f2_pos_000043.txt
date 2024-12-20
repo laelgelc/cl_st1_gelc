@@ -1,21 +1,23 @@
-file = t011904
-date = 2021-04-00
-user = evandroratho
+file = t011373
+date = 2021-01-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1383084651129008000
+URL = https://twitter.com/derzevic/status/1352646976492462000
 
-word count = 31
-words loading = 4
+word count = 43
+words loading = 5
 factor score = 7
 
-Internar, intubar, e vacinar, rende bilhões à indústria farmacêutica, mas 
-não devo nem desconfiar de um possível conflito de **interesses** na 
-demonização do **tratamento** **precoce** **usando** remédios de baixo 
-custo? 
+**FICA** CLARA A CONSTATAÇÃO QUE POLÍTICOS, **GOVERNOS** E A MÍDIA 
+**COMPRADA** , NÃO OUVIRÃO MÉDICOS SÉRIOS E CIÊNTISTAS. POIS OS BILHÕES E 
+BILHÕES DAS VACHINAS FALAM MAIS ALTO. Se **usada** no início ou 
+preventivamente, a **ivermectina** pode aniquilar o vírus chinês 
+diariodobrasil. org / se-usada-no-in … 
 
 Lemmas in this text that loaded on the factor:
 
-interesse 
-precoce 
-tratamento 
-usar 
+comprar 
+ficar 
+governo 
+ivermectina 
+usar (secondary)

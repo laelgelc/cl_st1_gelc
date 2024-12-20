@@ -1,20 +1,20 @@
-file = t011268
-date = 2021-01-00
-user = derzevic
-conversation = 99999999
-URL = https://twitter.com/derzevic/status/1350956397782065200
+file = t000695
+date = 2020-09-29
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1311085954539626496
 
-word count = 32
+word count = 27
 words loading = 4
-factor score = -3
+factor score = -5
 
-Toda produção de vacinas é **comprada** pelo governo **federal** . Não há 
-essa jogada de ser salvador como este crápula do Doriana quer passar para o 
-povo **Pleno** . News **pleno** . news / **brasil** / politic … 
+@seumizuka CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** DO PL 4506 / 
+2020 - BIA KICIS Proposta **retira** vacinação compulsória da **lista** de 
+medidas de **combate** à Covid-19 https://t.co/q4oENg6WzK 
 
 Lemmas in this text that loaded on the factor:
 
-brasil 
-comprar (secondary)
-federal 
-pleno 
+combate 
+enquete 
+lista 
+retirar 

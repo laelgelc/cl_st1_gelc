@@ -1,17 +1,19 @@
-file = t012967
-date = 2021-08-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1430887309440860200
+file = t000682
+date = 2020-08-30
+user = Marcela50765800
+conversation = 1255470483010654209
+URL = https://twitter.com/Marcela50765800/status/1299993242726019073
 
-word count = 40
-words loading = 0
-factor score = -3
+word count = 33
+words loading = 1
+factor score = -1
 
-LISA SHAW, DA BBC, MORRE COM COÁGULO NA CABEÇA PÓS VACINA COVID O legista do 
-Reino Unido descobre que Lisa Shaw, da BBC, morreu após desenvolver coágulos 
-sanguíneos no cérebro causados ​​por uma vacina de Covid. bbc. com / news 
-/ uk-englan … https://t.co/2229zG7jcV 
+Irlanda flag_ireland_e também teve protesto conta a farsa do vírus, vacina 
+**RNA** , pedófilia, nova ordem mundial, distanciamento social, lockdown! ! ! 
+Brasil flag_brazil_e vamos para as ruas também! ! ! @FlavioBolsonaro 
+@BolsonaroSP @jairbolsonaro @THS_Cafe @Franml1234 @ElisCarmem @davidicke 
+@APretensao https://t.co/OK5SPacHcL 
 
 Lemmas in this text that loaded on the factor:
 
+rna 

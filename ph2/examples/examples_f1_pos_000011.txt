@@ -1,26 +1,27 @@
-file = t016191
-date = 2022-09-00
+file = t016660
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574070077758099500
+URL = https://twitter.com/mpatriabrasil/status/1593876049225404400
 
-word count = 45
+word count = 44
 words loading = 8
-factor score = 10
+factor score = 5
 
-Depois de **Pesquisas** **publicadas** pela Lancet apontarem **problemas** 
-cardíacos a longo prazo em pessoas que se **submeteram** ao **experimento** , 
-o CDC resolve agir e investigar as reações a longo prazo ( **Infartos** e 
-AVCs ocorridos 5 meses após as **doses** ) . **Fonte** : cdc. gov / 
-coronavirus / 20 … https://t.co/bddn48RRTY 
+#GovernadordoAmapá , #WaldezGóes vacinado e defensor da #vacina, está 
+**internado** na UTI após AVC. Várias **Pesquisas** científicas 
+**publicadas** no @PubMed **indicam** relação direta entre as doses e o AVC. 
+**Fontes** : noticias. uol. com. br / politica / ultim … **Pesquisa** 
+científica: pubmed. **ncbi** . **nlm** . **nih** . gov / 34370972 / - 
+https://t.co/23S3QaKmwC 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-experimento 
-fonte 
-infarto 
+fonte (secondary)
+indicar (secondary)
+internar 
+ncbi 
+nih 
+nlm 
 pesquisa 
-problema 
-publicar 
-submeter 
+publicar (secondary)

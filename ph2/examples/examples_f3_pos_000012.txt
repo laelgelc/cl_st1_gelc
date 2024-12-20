@@ -1,25 +1,20 @@
-file = t014552
-date = 2022-01-00
-user = julianaayres
+file = t014073
+date = 2021-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1484588407078604800
+URL = https://twitter.com/evandroratho/status/1471546509799743500
 
-word count = 54
-words loading = 7
-factor score = 7
+word count = 38
+words loading = 3
+factor score = 6
 
-Acabei de **saber** q uma pessoa da minha família teve miocardite e o 
-coração está um pouco fraco. Tinha feito exame antes de se vacinar e o 
-coração estava **ótimo** ! Ela foi avisada p / não se vacinar MIL VEZES. 
-**Tomou** a **primeira** , a **segunda** , aí quando **viu** q o **povo** 
-estava morrendo, parou 
+@anvisa_oficial Apresentem as estatísticas de óbitos por covid entre 
+crianças, comparando com os índices de efeitos adversos de curto e de 
+**longo** **prazo** nos **estudos** de segurança das vacinas. Não tem, né ? 
+Então essa decisão é absurdamente equivocada! 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-povo 
-primeiro 
-saber 
-segundo 
-tomar 
-ver 
+estudo 
+longo 
+prazo 

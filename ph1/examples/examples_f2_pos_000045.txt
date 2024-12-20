@@ -1,23 +1,22 @@
-file = t011805
-date = 2021-04-00
+file = t010617
+date = 2020-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1380201920422408200
+URL = https://twitter.com/evandroratho/status/1334225747838374000
 
-word count = 45
-words loading = 6
+word count = 42
+words loading = 5
 factor score = 7
 
-Constatações pessoais: a **imprensa** **mente** , o STF é mais político do 
-que jurídico, sem **dinheiro** público acaba a ostentação de muito artista, 
-vacinas são muito lucrativas, corruptos são capazes de tudo pelo poder, e as 
-**medidas** de combate à **pandemia** não seguem **estudos** científicos. 
+@gazetadopovo A vacina funciona? Talvez; A vacina tem todos os **efeitos** 
+**colaterais** conhecidos? Não; O índice de letalidade da doença justifica 
+vacinar todo **mundo** ? Não; A vacina **garante** imunização duradoura? 
+Não se **sabe** ; O que justifica a vacina? R$ 2 bilhões? ? ? 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro (secondary)
-estudo 
-imprensa 
-medida 
-mentar 
-pandemia 
+colateral 
+efeito 
+garantir 
+mundo 
+saber 

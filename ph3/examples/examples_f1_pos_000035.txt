@@ -1,24 +1,27 @@
-file = t016811
-date = 2022-11-00
-user = julianabrioli
+file = t016003
+date = 2022-08-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/julianabrioli/status/1596240266758848500
+URL = https://twitter.com/mpatriabrasil/status/1561709625099145200
 
-word count = 49
-words loading = 6
-factor score = 8
+word count = 44
+words loading = 9
+factor score = 9
 
-Meu amado **pai** **faleceu** há exatos 9 meses e 3 **dias** , apenas 72 
-**anos** , zero comorbidades, TRÊS **doses** da tal vacina … **morreu** de 
-COVID. Bolsonarista convicto até o último suspiro … Genocida foi a 
-corrupção que assolou nosso país durante 14 **anos** de PT. Papai, minha 
-luta é por VOCÊ . https://t.co/0MNpLM2a5a 
+Amanda Santana Bueno era uma **jovem** mãe muito carinhosa. Ela acreditava no 
+**experimento** e sempre postava suas **doses** . **Faleceu** de **Infarto** 
+**fulminante** no **dia** 21 / 08 / 22 , exatamente 1 **ano** após a 2a. 
+ASTRA** , o mesmo **experimento** proibido na Espanha, Alemanha e França. 
+Segue **fontes** . . . https://t.co/5zz7uBDNcb 
 
 Lemmas in this text that loaded on the factor:
 
 ano 
 dia 
 dose 
+experimento 
 falecer 
-morrer 
-pai 
+fonte 
+fulminante 
+infarto 
+jovem 

@@ -1,18 +1,20 @@
-file = t013743
-date = 2021-11-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1461012135476187100
+file = t002523
+date = 2021-05-30
+user = MavillaSouza
+conversation = 1276959886845399041
+URL = https://twitter.com/MavillaSouza/status/1399124997512302597
 
-word count = 43
-words loading = 1
-factor score = -2
+word count = 19
+words loading = 5
+factor score = -3
 
-Fulana usava máscara, tomava banho de álcool **gel** , tomou 3 doses da 
-vacina, adoeceu e morreu de covid, e a culpa é daqueles que não seguem estas 
-mesmas medidas? Acho que o uso excessivo de máscaras está impedindo a 
-oxigenação do cérebro! 
+@AcacioRozon @oiIuiz Eu sei de 3 idosas, mães de **amigas** , que **morreram** 
+**dias** após tornarem a **segunda** **picada** . 
 
 Lemmas in this text that loaded on the factor:
 
-gel 
+amiga 
+dia (secondary)
+morrer (secondary)
+picada 
+segundo 

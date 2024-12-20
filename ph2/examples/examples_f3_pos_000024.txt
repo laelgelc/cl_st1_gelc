@@ -1,25 +1,20 @@
-file = t016426
-date = 2022-10-00
-user = julianaayres
+file = t013496
+date = 2021-10-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1584243998624866300
+URL = https://twitter.com/evandroratho/status/1451221732757577700
 
-word count = 44
-words loading = 7
-factor score = 6
+word count = 51
+words loading = 3
+factor score = 5
 
-e nunca teria deixado de avisar a nação que as vacinas Covid estavam 
-**dando** muito a **efeitos** **colaterais** lá fora do Brasil, q quem fosse 
-**tomar** tivesse ciência disso. Infelizmente **sei** que ele **ficará** 
-abandonado pelo **governo** que se acovardou há anos já . 
-+EMOJI_backhand_index_pointing_down_e 
+A vacina não evita a infecção; A máscara não te blinda do vírus; Lockdown 
+só serve para afetar a economia; O passaporte sanitário não é nada além de 
+uma medida de coerção; **Tratamento** **precoce** é melhor do que nenhum 
+**tratamento** ; As estatísticas não **mentem** ; E o Lula não é inocente; 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-dar 
-efeito (secondary)
-ficar 
-governo 
-saber 
-tomar 
+mentar 
+precoce 
+tratamento (secondary)

@@ -1,19 +1,20 @@
-file = t013679
-date = 2021-11-00
+file = t014073
+date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1459142748959826000
+URL = https://twitter.com/evandroratho/status/1471546509799743500
 
-word count = 26
+word count = 38
 words loading = 3
-factor score = 4
+factor score = 6
 
-@revistaoeste Fazendo projeções com base nas estatísticas do CDC, 1 milhão 
-de doses **representa** potencial **risco** de efeitos **adversos** graves em 
-400 pessoas. Boa sorte! 
+@anvisa_oficial Apresentem as estatísticas de óbitos por covid entre 
+crianças, comparando com os índices de efeitos adversos de curto e de 
+**longo** **prazo** nos **estudos** de segurança das vacinas. Não tem, né ? 
+Então essa decisão é absurdamente equivocada! 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-representar 
-risco 
+estudo 
+longo 
+prazo 

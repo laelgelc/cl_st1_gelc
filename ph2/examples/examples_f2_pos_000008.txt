@@ -1,24 +1,27 @@
-file = t013530
-date = 2021-10-00
-user = evandroratho
+file = t016084
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1452719618468954000
+URL = https://twitter.com/mpatriabrasil/status/1566823981826687000
 
-word count = 46
-words loading = 6
-factor score = 11
+word count = 49
+words loading = 9
+factor score = 10
 
-Se as estatísticas **asseguram** que o vírus não **representa** relevante 
-**risco** de **morte** aos **jovens** saudáveis, e as vacinas não **impedem** 
-a infecção e tampouco a transmissão do vírus, vaciná -los não faz 
-sentido. Tem algo muito estranho acontecendo no mundo e o povo está em transe. 
-. . 
+Flávio Rodrigues era integrante da banda Medida Provisória. Era um entusiasta 
+do **experimento** e sempre postava suas **doses** . **Tomou** o reforço em 07 
+/ 07 / 22 e **faleceu** **dia** 29 / 07 d **infarto** **fulminante** . A Anvisa 
+**publicou** um **alerta** sobre o risco de Miocardite, e problemas cardíacos. 
+Segue. . . https://t.co/WNJnCJJCDS 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-impedir 
-jovem 
-morte 
-representar 
-risco 
+alerta 
+dia 
+dose 
+experimento 
+falecer 
+fulminante (secondary)
+infarto 
+publicar 
+tomar 

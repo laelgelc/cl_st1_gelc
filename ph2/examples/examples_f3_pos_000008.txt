@@ -1,24 +1,20 @@
-file = t016629
-date = 2022-11-00
+file = t015905
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1592873025682096000
+URL = https://twitter.com/mpatriabrasil/status/1556452620469936000
 
-word count = 49
-words loading = 6
-factor score = 7
+word count = 40
+words loading = 3
+factor score = 6
 
-No **Twitter** de C. L. A. U. D. I. A mais depoimentos assustadores sobre os 
-**efeitos** da #vacina. As pessoas precisam entender que estes depoimentos 
-podem **salvar** **vidas** , pois muita **gente** ainda acredita que as 
-Farmacêuticas bilionárias e políticos corruptos **querem** o nosso bem! 
-Acordem! **twitter** . com / DaAcervo / statu … 
+EFICÁCIA NEGATIVA Dr. Harvey Risch: [ De acordo com **dados** de saúde 
+pública do Reino Unido ] , as **taxas** de infecção sintomática em cada 
+**faixa** etária foram aproximadamente três vezes maiores nas pessoas 
+vacinadas do que nas pessoas não vacinadas. https://t.co/4h2tvBuYkQ 
 
 Lemmas in this text that loaded on the factor:
 
-efeito (secondary)
-gente 
-querer 
-salvar 
-twitter 
-vida 
+dado 
+faixa 
+taxa 

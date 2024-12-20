@@ -1,20 +1,18 @@
-file = t016480
-date = 2022-10-00
-user = iodinha1
+file = t010663
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586420728622362600
+URL = https://twitter.com/derzevic/status/1336108318545350700
 
-word count = 45
-words loading = 3
+word count = 24
+words loading = 2
 factor score = -2
 
-@VelindaDe Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+ERA BOM ESPERAR O CERTIFICADO ANVISA! ! QUE SEQUER SABEMOS SE SAIRÁ Covid-19 : 
+Curitiba anuncia **compra** da vacina chinesa gazetabrasil. com. br / 
+**brasil** / covid-1 … via @Gazeta. 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+brasil 
+compra 

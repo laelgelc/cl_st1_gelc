@@ -1,24 +1,22 @@
-file = t002033
-date = 2021-03-17
-user = AllanGarcs1
-conversation = 1066144755493543936
-URL = https://twitter.com/AllanGarcs1/status/1372152029850836997
+file = t010243
+date = 2020-10-00
+user = evandroratho
+conversation = 99999999
+URL = https://twitter.com/evandroratho/status/1315442687357735000
 
-word count = 44
-words loading = 6
+word count = 35
+words loading = 5
 factor score = 7
 
-PARA **SALVAR** **VIDAS** . . . **MEDIDAS** QUE PROTEGEM 1 ) Vacinação 2 ) 
-Distanciamento **social** 3 ) Máscara 4 ) Lavar mãos 5 ) Sol, Vit D e Zinco 
-**MEDIDAS** QUE CURAM 1 ) **Tratamento** **PRECOCE** com Hidroxicloroquina, 
-Ivermectina, Azitromicina, Zinco, Vit. D e C 2 ) **Tratamento** individualizado 
-pra cada fase 
+@BlitzSpitfire Assim que liberarem a vacina pra **Covid** , o **governo** 
+gastará bilhões de reais com anuência do **povo** idiota que acredita na 
+**boa** fé dos nossos políticos. Nem desconfiam que os **interesses** são 
+outros. . . 
 
 Lemmas in this text that loaded on the factor:
 
-medida 
-precoce 
-salvar 
-social 
-tratamento 
-vida 
+bom 
+covid 
+governo 
+interesse 
+povo 

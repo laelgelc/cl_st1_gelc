@@ -1,18 +1,27 @@
-file = t001139
-date = 2020-10-30
-user = FabioIng
-conversation = 81842196
-URL = https://twitter.com/FabioIng/status/1322246005576839169
+file = t016806
+date = 2022-11-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1596210160376381400
 
-word count = 27
-words loading = 2
-factor score = -3
+word count = 48
+words loading = 9
+factor score = -7
 
-@mariluciferraz CONTRA A OBRIGATORIEDADE DA VACINA CHINESA: **ENQUETE** DO PL 
-4506 / 2020 - BIA KICIS Proposta retira vacinação compulsória da **lista** 
-de medidas de combate à Covid-19 https://t.co/q4oENg6WzK 
+@Adriano20129115 Nunca saberemos se quem **morreu** foi por **causa** da covid 
+ou por **causa** da vacina. Muita **gente** não se vacinou e nem **resfriado** 
+**pegou** . Outros tantos, só após se vacinar, **pegaram** covid, tiveram 
+**miocardite** , AVC, **ataque** cardíaco, trombose, **gripe** e até 
+**morreram** etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-enquete 
-lista 
+ataque 
+causa 
+gente (secondary)
+gripe 
+miocardite 
+morrer (secondary)
+pegar 
+resfriar 
+verdade 

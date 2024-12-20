@@ -1,22 +1,21 @@
-file = t016555
+file = t016603
 date = 2022-11-00
-user = iodinha1
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1591120017684582400
+URL = https://twitter.com/mpatriabrasil/status/1592334618677870600
 
-word count = 48
+word count = 27
 words loading = 4
-factor score = -4
+factor score = -3
 
-@AlanLopesRio Nunca saberemos se quem morreu foi por causa da covid ou por 
-causa da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , **gripe** e até morreram etc. Verdade 
-seja dita! 
+@DudduPontes Pesquisa **publicada** no próprio site da OMS. #anthonyjohnson 
+#linfohistiocitose e existem pesquisas que indicam que a vacina pode ser o 
+gatilho para a doença. pesquisa. **bvsalud** . org / global-literat … 
+https://t.co/wba41VkKO1 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+bvsalud 
+global 
+literat 
+publicar (secondary)

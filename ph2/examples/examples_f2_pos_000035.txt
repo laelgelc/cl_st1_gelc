@@ -1,19 +1,23 @@
-file = t014515
-date = 2022-01-00
-user = evandroratho
+file = t015586
+date = 2022-06-00
+user = karinamichelin
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1483869704146104300
+URL = https://twitter.com/karinamichelin/status/1539588437149470700
 
-word count = 45
-words loading = 2
-factor score = 7
+word count = 50
+words loading = 5
+factor score = 8
 
-Considerando que a vacina não está prevenindo a infecção e a transmissão 
-do vírus entre adultos, e o **risco** de **morte** entre crianças saudáveis 
-é desprezível, essa determinação do STF é mais do que absurda, é 
-criminosa! Quem vai reestabelecer a ordem nesse país? 
+Vamos falar sobre os **casos** invisíveis? Paulo Henrique, 28 **anos** , 
+casado era pai de um bebê de 3 meses. **Jovem** , muito ativo, saudável, sem 
+vícios e cheio de sonhos, veio a óbito depois da 3* dose -1 **semana** depois 
+de ser **inoculado** . Até quando vamos assistir a esses assassinatos? 
+https://t.co/Xvgtn5zjqJ 
 
 Lemmas in this text that loaded on the factor:
 
-morte 
-risco 
+ano 
+caso 
+inocular 
+jovem 
+semana 

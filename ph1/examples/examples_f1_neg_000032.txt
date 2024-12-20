@@ -1,18 +1,20 @@
-file = t010235
-date = 2020-10-00
-user = evandroratho
+file = t010809
+date = 2020-12-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1312110972799074300
+URL = https://twitter.com/derzevic/status/1338536274299379700
 
-word count = 31
+word count = 46
 words loading = 2
 factor score = -2
 
-Isso é um tapa na cara dos defensores do **isolamento** social eterno, ou até 
-que tenha vacina. . . Mas nem assim eles conseguem botar o **senso** crítico 
-pra funcionar! twitter. com / Conservadora19 … 
+COMO ESTABELECER UMA DATA, PARA UMA **SUPOSTA** VACHINA QUE SEQUER TEM 
+LICENÇA? QUE SEQUER TEM DADOS DE SUA EFICÁCIA? UM LOUCO CEGO PELO PODER! ! 
+Secretário executivo da Saúde esclarece tudo sobre a vacina e desmoraliza o " 
+pequeno ditador " ( veja o vídeo ) **jornaldacidadeonline** . com. br / 
+noticias / 25375 … 
 
 Lemmas in this text that loaded on the factor:
 
-isolamento 
-senso 
+jornaldacidadeonline 
+suposto 

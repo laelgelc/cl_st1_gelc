@@ -1,21 +1,22 @@
-file = t016493
-date = 2022-10-00
-user = iodinha1
+file = t016511
+date = 2022-11-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586898946714108000
+URL = https://twitter.com/oscasosraros/status/1589249990450622500
 
-word count = 44
+word count = 45
 words loading = 4
-factor score = -4
+factor score = -3
 
-@borges_lari18 Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. Verdade seja dita! 
+" Imaginem a minha excitação ao anunciar a nossa própria pandemia **global** 
+. Me senti um Nostradamus da saúde pública! " - Bill Gates, numa sátira 
+**publicada** pelo Matt Le Tissier, ídolo do **futebol** inglês que pede 
+investigação sobre as mortes súbitas de **atletas** vacinados twitter. com / 
+mattletiss7 / st … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+atleta 
+futebol 
+global 
+publicar (secondary)

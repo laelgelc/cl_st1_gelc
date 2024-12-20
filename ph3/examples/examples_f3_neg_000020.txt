@@ -1,22 +1,24 @@
-file = t011486
-date = 2021-02-00
-user = derzevic
+file = t016493
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1358924136370892800
+URL = https://twitter.com/iodinha1/status/1586898946714108000
 
-word count = 31
-words loading = 5
-factor score = -5
+word count = 44
+words loading = 7
+factor score = -4
 
-E NEM PASSARÁ , POIS NÃO EXISTE. ESTÁ FAZENDO DIRETO NO BRAÇO DO **POVO** , 
-COMO **RATOS** DE LABORATÓRIO CoronaVac ainda não passou pela fase 3 de 
-testes na China gazetabrasil. com. br / **especiais** / **coro** … **via** 
-@Gazeta 
+@borges_lari18 Nunca saberemos se quem morreu foi ou não por causa da vacina. 
+Muita gente não se vacinou e nem **resfriado** **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+cardíaco, **trombone** , **gripe** e até morreram etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-especial 
-povo (secondary)
-rato 
-via 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

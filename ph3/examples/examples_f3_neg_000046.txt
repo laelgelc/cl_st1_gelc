@@ -1,21 +1,20 @@
-file = t010522
-date = 2020-11-00
-user = derzevic
+file = t016236
+date = 2022-09-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1326670476501012500
+URL = https://twitter.com/oscasosraros/status/1575981899314786300
 
-word count = 35
-words loading = 4
-factor score = -4
+word count = 46
+words loading = 2
+factor score = -3
 
-ISTO PRESIDENTE, SE O DITADORIA QUER MANDAR BILHÕES PARA OS COMUNAS CH! NESES, 
-QUE MANDE DO BOLSO DELE. . . . VACH! NA NÃOOOO Governo Bolsonaro avança em 
-conversas para **comprar** vacina da Pfizer contra Covid-19 gazetabrasil. com. 
-br / **especiais** / **coro** … **via** @Gazeta 
+Os médicos insistem em procurar doença desmielinizante, e já dura 1 ano esta 
+investigação e não encontram nada! Não assumem que foi a vacina! , nos 
+conta Liliany. Hoje, ainda tem dificuldades p / andar, **dores** nas costas e 
+**pernas** , na cabeça, perda de memória, urgência urinária. . . 
+https://t.co/mNyb7RjXPB 
 
 Lemmas in this text that loaded on the factor:
 
-comprar 
-coro 
-especial 
-via 
+dor 
+perna 

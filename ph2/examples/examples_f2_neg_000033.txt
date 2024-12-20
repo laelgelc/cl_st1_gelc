@@ -1,20 +1,18 @@
-file = t016363
-date = 2022-10-00
-user = iodinha1
+file = t010421
+date = 2020-10-00
+user = derzevic
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1581336878266998800
+URL = https://twitter.com/derzevic/status/1321223304506736600
 
-word count = 41
-words loading = 3
+word count = 34
+words loading = 1
 factor score = -2
 
-@_loeraguzman @nikolas_dm Nunca saberemos se quem morreu foi ou não por causa 
-da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , gripe e até morreram etc. 
+DUVIDO QUE VÃO ACEITAR ISSO, EM SE TRATANDO DO STF, UMA VERGONHA! ! PTB pede 
+que STF promova audiência pública para debater vacinação obrigatória e 
+convida Dra. Nise Yamaguchi gazetabrasil. com. br / sem-categoria / … via 
+@Gazeta 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+sem 

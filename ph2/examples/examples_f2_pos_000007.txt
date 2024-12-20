@@ -1,26 +1,26 @@
-file = t013663
-date = 2021-11-00
-user = evandroratho
+file = t016104
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1458450975300235300
+URL = https://twitter.com/mpatriabrasil/status/1568305377980162000
 
-word count = 48
+word count = 54
 words loading = 8
-factor score = 11
+factor score = 10
 
-@karinamichelin @miaeloin Com quase 2 **anos** de pandemia as estatísticas 
-**asseguram** que o vírus não **representa** **risco** **significativo** de 
-**morte** para **jovens** saudáveis, mas o mesmo não se pode falar sobre as 
-vacinas, ainda que tenhamos passado apenas alguns meses após o início da 
-aplicação em **massa** . 
+Edu do Povo **tomou** sua 1a. **Dose** no **dia** 30 / 06 e 3 **dias** depois 
+postou que teve reação depois do **experimento** . Mesmo assim, ele continuou 
+**tomando** os reforços e **faleceu** de um **mal** súbito em 08 / 09 / 22 . 
+A Anvisa já **alertou** sobre o risco de Miocardite e AVCs pós-experimento. 
+Segue **fontes** . . . https://t.co/aQEipi5a14 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-assegurar 
-jovem 
-massa 
-morte 
-representar 
-risco 
-significativo 
+alertar 
+dia 
+dose 
+experimento 
+falecer 
+fonte 
+mal 
+tomar 

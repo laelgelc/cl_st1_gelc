@@ -1,23 +1,28 @@
-file = t016110
-date = 2022-09-00
-user = oscasosraros
+file = t015813
+date = 2022-07-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1568560528032669700
+URL = https://twitter.com/mpatriabrasil/status/1552006027771535400
 
-word count = 48
-words loading = 5
-factor score = 7
+word count = 53
+words loading = 9
+factor score = 8
 
-O Reino Unido proibiu os médicos de dar a vacina COVID-19 a crianças menores 
-de 12 **anos** , afirmando que as crianças não precisam e provavelmente já 
-têm **imunidade** **natural** . É mais um país europeu que constata o 
-**risco** do produto mais **significativo** que o benefício. twitter. com / 
-TheRealKeean / s … 
+Lidiane Brugnari era professora em Jacarezinho / PR. **Tomou** a 2a. **Dose** 
+em agosto / 21 e o reforço há pouco mais de 3 meses. **Faleceu** **dia** 26 / 
+07 / 22 em virtude de um AVC. A OMS ja **alertou** sobre AVC pós-experimento. 
+**pesquisa** . bvsalud. **org** / global-literat … m. **facebook** . com / 
+story. php? stor … m. **facebook** . com / groups / 9297702 … 
+https://t.co/Wo9Bx4fHKB 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-imunidade 
-natural 
-risco 
-significativo 
+alertar 
+dia 
+dose 
+experimento 
+facebook (secondary)
+falecer 
+org (secondary)
+pesquisa (secondary)
+tomar 

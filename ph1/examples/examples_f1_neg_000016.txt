@@ -1,20 +1,21 @@
-file = t010821
-date = 2020-12-00
-user = derzevic
+file = t014671
+date = 2022-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1338860500256374800
+URL = https://twitter.com/evandroratho/status/1488239841842245600
 
-word count = 40
+word count = 45
 words loading = 3
 factor score = -3
 
-Essas vacinas são tão seguras, que no contrato a pfizer ja diz que não se 
-responsabiliza por efeitos colaterais. E ainda por cima você terá que 
-**assinar** um **termo** , se der zica, azar seu! ! **Pleno** . News **pleno** 
-. news / brasil / politic … 
+@Rconstantino @ElsioCoelho23 Ocultam os protestos espalhados pelo mundo assim 
+como os estudos sobre o tratamento precoce, os **questionamentos** de médicos 
+e cientistas sobre eficácia e segurança das vacinas, os resultados obtidos 
+por lugares que **retiraram** as medidas de **distanciamento** social, e por 
+aí vai. . . 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
-pleno 
-termo 
+distanciamento 
+questionamento 
+retirar 

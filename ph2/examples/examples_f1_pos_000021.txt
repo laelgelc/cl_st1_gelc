@@ -1,28 +1,22 @@
-file = t016204
-date = 2022-09-00
-user = mpatriabrasil
+file = t016253
+date = 2022-10-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574736901172592600
+URL = https://twitter.com/oscasosraros/status/1577436363502530600
 
-word count = 43
-words loading = 9
-factor score = 9
+word count = 40
+words loading = 4
+factor score = 4
 
-Mais num **jovem** **morre** jogando **futebol** . . . Meu Deus! Segundo 
-apuramos, ele havia se **submetido** ao **experimento** há 4 meses. 
-**Pesquisas** americanas **indicam** que as mortes pelo **experimento** 
-geralmente ocorrem após 5 meses depois das **doses** . stevekirsch. substack. 
-com / p / this-one-gra … **facebook** . com / 10006368102481 … 
-https://t.co/dGrWfJzi0v 
+Acute Abducens nerve palsy following vaccination: pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34827043 / 21yoF nurse with Bells Palsy following Pfizer: 
+pubmed. **ncbi** . **nlm** . **nih** . gov / 34322761 / 34yoF with Bells Palsy 
+2 days after Moderna: **ncbi** . **nlm** . **nih** . gov / pmc / **articles** / 
+P … 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-experimento 
-facebook 
-futebol 
-indicar 
-jovem (secondary)
-morrer 
-pesquisa 
-submeter 
+articles 
+ncbi 
+nih 
+nlm 

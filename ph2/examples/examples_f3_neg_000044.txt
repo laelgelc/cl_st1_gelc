@@ -1,18 +1,22 @@
-file = t012605
-date = 2021-07-00
-user = melnetto
+file = t015632
+date = 2022-06-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/melnetto/status/1413253366235517000
+URL = https://twitter.com/oscasosraros/status/1541884936415842300
 
-word count = 55
-words loading = 1
-factor score = -2
+word count = 48
+words loading = 4
+factor score = -4
 
-ou mais vacinadas no Estado de São Paulo. A média de efetividade foi de 42 % 
-na totalidade do grupo e de apenas 28 % nos idosos acima dos 80 anos. O 
-trabalho envolve 15 , 9 mil voluntários e foi o maior já feito nessa 
-**faixa** etária. CoronaVac não foi a escolha certa. Quem é genocida? 
+Jussara, 29 anos, recebeu a 1ª dose em campanha para os professores da cidade 
+onde mora. Depois de 1 **semana** , **sentiu** **dores** de cabeça semelhantes 
+à sinusite. Consultou otorrino e não era. Consultou um neurologista, que a 
+encaminhou para **exames** . No mesma noite, sofreu 3 convulsões. 
+https://t.co/1s396nyz0E 
 
 Lemmas in this text that loaded on the factor:
 
-faixa 
+dor 
+exame 
+semana (secondary)
+sentir 

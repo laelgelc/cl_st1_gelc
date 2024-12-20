@@ -1,27 +1,27 @@
-file = t013845
-date = 2021-11-00
-user = evandroratho
+file = t016706
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1463959179635441700
+URL = https://twitter.com/mpatriabrasil/status/1594858606721224700
 
-word count = 41
+word count = 46
 words loading = 9
-factor score = 12
+factor score = 10
 
-@GeanLoureiro As estatísticas **asseguram** que o vírus não **representa** 
-**risco** **significativo** para **jovens** saudáveis, portanto, **submeter** 
-as crianças aos **riscos** de **efeitos** **adversos** de vacinas 
-**experimentais** que têm se mostrado pouco eficientes é incoerente e sem 
-sentido. Um verdadeiro absurdo! 
+Uma criança de 12 **anos** **morre** de **infarto** , em Rondônia, voltando 
+de uma pescaria. A OMS e a Anvisa já **publicaram** **alertas** e 
+**pesquisas** **indicando** que a #vacina pode provocar problemas cardíacos 
+com risco de **morte** . **Fontes** : gov. br / anvisa / pt-br / a … 
+stevekirsch. substack. com / p / this-one-gra … https://t.co/xJetQDscBQ 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-assegurar 
-efeito 
-experimental 
-jovem 
-representar 
-risco 
-significativo 
-submeter (secondary)
+alerta 
+ano 
+fonte 
+indicar 
+infarto 
+morrer 
+morte 
+pesquisa (secondary)
+publicar 

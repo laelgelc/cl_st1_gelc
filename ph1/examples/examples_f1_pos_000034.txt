@@ -1,26 +1,27 @@
-file = t015747
-date = 2022-07-00
+file = t016056
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1548097294091690000
+URL = https://twitter.com/mpatriabrasil/status/1564768844127813600
 
-word count = 53
-words loading = 8
+word count = 41
+words loading = 9
 factor score = 9
 
-Fabio Larcon era um **jovem** **pai** q morava em Guarulhos. Se **submeteu** ao 
-**experimento** p / cumprir exigências do trabalho. Sua 1a. **Dose** foi 
-J@n$3n, em julho / 21 . Tomou o reforço há algumas **semanas** e teve um 
-**infarto** pouco tempo depois. **facebook** . com / fabio. larcon m. 
-**facebook** . com / story. php? stor … https://t.co/OTHk1UVnuM 
+**Fontes** : **Pesquisa** **publicada** na Revista cientifica Virology 
+**indicando** que a eficácia é negativa após reforços: virologyj. 
+biomedcentral. com / **articles** / 10 . 11 … Reportagem onde familiares 
+afiemam que ele **tomou** 4 **doses** e mesmo assim **contraiu** diversas 
+vezes: m. **facebook** . com / story. php? stor … 
 
 Lemmas in this text that loaded on the factor:
 
+articles (secondary)
+contrair 
 dose 
-experimento 
 facebook 
-infarto 
-jovem 
-pai 
-semana 
-submeter 
+fonte 
+indicar 
+pesquisa 
+publicar 
+tomar 

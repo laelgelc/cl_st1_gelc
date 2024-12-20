@@ -1,20 +1,19 @@
-file = t010842
-date = 2020-12-00
-user = sabolsonaro
+file = t011366
+date = 2021-01-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/sabolsonaro/status/1338978655448555500
+URL = https://twitter.com/julianaayres/status/1352607714078285800
 
-word count = 42
+word count = 50
 words loading = 2
 factor score = -2
 
-Sobre o **termo** da vacina: Só vai **assinar** quem quiser tomar. Por que? 
-Porquê os próprios laboratórios já estão garantidos com sua isenção se 
-algo der errado. Pfizer é bem clara no contrato: Nós não nos 
-responsabilizamos por efeitos colaterais " . Portanto. . . 
-backhand_index_pointing_down_e 
+Hj o Rafael Colombo mentiu na CNN dizendo q o presidente mentiu sobre a vacina 
+ñ ter comprovação científica Ela ñ tem mesmo. É experimental e tdos 
+sabemos. Nem as empresas **confiam** nas suas vacinas e assinaram um **termo** 
+para tirarem o corpo fora. Ele acha que engana quem? 
 
 Lemmas in this text that loaded on the factor:
 
-assinar 
+confiar 
 termo 

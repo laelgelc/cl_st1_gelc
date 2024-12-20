@@ -1,21 +1,18 @@
-file = t016559
-date = 2022-11-00
+file = t012452
+date = 2021-06-00
 user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1591211720311451600
+URL = https://twitter.com/iodinha1/status/1407387448846467000
 
-word count = 48
-words loading = 3
+word count = 22
+words loading = 2
 factor score = -2
 
-@rodrigoluisvelo Nunca saberemos se quem morreu foi por causa da covid ou por 
-causa da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , gripe e até morreram etc. Verdade seja 
-dita! 
+@marcuspcunha @carolaf88 @AlexSchwartsman E por que algumas vacinas estão 
+sendo **retiradas** do **mercado** sob a alegação de não terem nenhuma 
+eficácia? 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+mercado 
+retirar 

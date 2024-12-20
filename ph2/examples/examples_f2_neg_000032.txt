@@ -1,20 +1,19 @@
-file = t016360
-date = 2022-10-00
-user = iodinha1
+file = t010186
+date = 2020-09-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1581067052030505000
+URL = https://twitter.com/evandroratho/status/1300804407576219600
 
-word count = 44
-words loading = 3
+word count = 45
+words loading = 2
 factor score = -2
 
-@karinamichelin Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. BOLSONARO 22 
+@GabrielaPrioli Um remédio que está no **mercado** há décadas e tem seus 
+efeitos colaterais bem conhecidos, mas não pode ser usado por não ter estudos 
+científicos suficientes. Vacina nova, pulando etapas e sem conhecer a fundo os 
+efeitos colaterais, pode? Quem é a **piada** ? 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+mercado 
+piada 

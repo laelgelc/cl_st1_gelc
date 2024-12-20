@@ -1,26 +1,31 @@
-file = t016584
+file = t016654
 date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1591747298941456400
+URL = https://twitter.com/mpatriabrasil/status/1593635571972309000
 
-word count = 47
-words loading = 8
+word count = 40
+words loading = 13
 factor score = 10
 
-Vacinado c / 4 **doses** , Eric Gustavo, 32 , **contraiu** CV! D várias vezes. 
-Estava de alta hospitalar, qd **sofreu** uma parada cardíaca enquanto dormia. 
-**Pesquisas** **indicam** que a eficácia do **experimento** é negativa após 
-reforços. **Fonte** : m. **facebook** . com / story. php? stor … virologyj. 
-biomedcentral. com / articles / 10 . 11 … https://t.co/LNmjcR8jbF 
+**Novo** normal: **Pessoas** **jovens** , de **vida** altamente saudável, 
+**morrendo** ao fazer exercícios na academia. **Pesquisas** **indicam** que a 
+#vacina pode provocar **infartos** e AVCs, especialmente de 5 a 8meses após as 
+**doses** . **Pesquisa** da OMS: **pesquisa** . **bvsalud** . **org** / 
+global-literat … https://t.co/xgZ41Kb14a 
 
 Lemmas in this text that loaded on the factor:
 
-contrair 
+bvsalud (secondary)
 dose 
-experimento 
-facebook 
-fonte 
+global (secondary)
 indicar 
+infarto 
+jovem 
+literat (secondary)
+morrer 
+novo 
+org 
 pesquisa 
-sofrer 
+pessoa 
+vida (secondary)

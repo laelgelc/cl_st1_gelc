@@ -1,26 +1,24 @@
-file = t015989
-date = 2022-08-00
-user = mpatriabrasil
+file = t015831
+date = 2022-07-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1560763041737744400
+URL = https://twitter.com/oscasosraros/status/1552970111929180200
 
-word count = 48
-words loading = 8
+word count = 26
+words loading = 7
 factor score = 8
 
-Maria Elena tomou a 4a. **Dose** no **dia** 01 / 08 / 22 , num hospital do 
-Chile e no **dia** seguinte postou no Face que não estava bem por conta da 
-Moderna. **Faleceu** d mal súbito ( aneurisma ) no **dia** 04 / 08 / 22 . 
-Existem **estudos** da OMS que **indicam** o **risco** d aneurisma 
-pós-experimento Segue **fontes** . https://t.co/Ow6LTAgbke 
+3 médicos **sofrem** **morte** súbita, na mesma **semana** , em hospital 
+canadense. Coincidentemente, os 3 haviam **tomado** a 4a **dose** há poucos 
+**dias** . Mas é " apenas " mais uma coincidência … **twitter** . com / 
+rasekrasek / sta … 
 
 Lemmas in this text that loaded on the factor:
 
 dia 
 dose 
-estudo (secondary)
-experimento 
-falecer 
-fonte 
-indicar 
-risco (secondary)
+morte 
+semana 
+sofrer 
+tomar 
+twitter 

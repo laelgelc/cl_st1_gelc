@@ -1,32 +1,28 @@
-file = t016398
-date = 2022-10-00
+file = t016600
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1582830715003338800
+URL = https://twitter.com/mpatriabrasil/status/1592330711264297000
 
-word count = 47
-words loading = 13
-factor score = 15
+word count = 28
+words loading = 11
+factor score = 10
 
-George era maestro e se achava invencível após a 3a **dose** . Teve um 
-**mal** súbito e veio à óbito nesta **semana** de outubro. **Pesquisas** 
-**indicam** que o **experimento** pode provocar AVCs, Tromboses e **problemas** 
-cardíacos. **Fontes** : m. **facebook** . com / story. php? stor … 
-**Pesquisa** : **pesquisa** . **bvsalud** . **org** / global-literat … - 
-https://t.co/LxHb4D3s55 
+Existem estudos, **publicados** pela própria OMS, relacionando a doença de 
+#anthonyjohnson à #vacinas de **mRNA** . Confiram os links: **pesquisa** . 
+**bvsalud** . **org** / global-literat … **ncbi** . **nlm** . **nih** . gov / 
+pmc / **articles** / P … 
 
 Lemmas in this text that loaded on the factor:
 
+articles 
 bvsalud 
-dose 
-experimento 
-facebook 
-fonte 
 global 
-indicar 
 literat 
-mal 
+mrna 
+ncbi 
+nih 
+nlm 
 org 
 pesquisa 
-problema 
-semana 
+publicar (secondary)

@@ -1,24 +1,21 @@
-file = t016592
-date = 2022-11-00
+file = t015955
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1592154142197551000
+URL = https://twitter.com/mpatriabrasil/status/1558751882612539400
 
-word count = 43
-words loading = 6
-factor score = 7
+word count = 55
+words loading = 3
+factor score = 2
 
-Nos últimos 30 **dias** , vários jogadores de **futebol** brasileiros 
-**faleceram** de **infarto** , alguns em campo. Antes das **doses** , eram 
-saudáveis. A CBF e as federações exigem o **comprovante** da #vacina. As 
-pessoas não percebem que um GenoEMOJI_copyright_e! Dio silencioso acontece. 
-Até quando? https://t.co/VK8jNDCnEt 
+Ilson Baiano foi candidato a prefeito d Coelho Neto. Tomou a 1a. dose em 05 / 
+21 a 2a. em 08 / 21 e os reforços em 2022 . Teve um **infarto** **fulminante** 
+neste 13 / 08 / 22 , exatamente um ano após a 2a. da Astra. A OMS já alertou 
+sobre os riscos de problemas cardíacos pós-experimento. Segue. . . 
+https://t.co/shuzq4xhsQ 
 
 Lemmas in this text that loaded on the factor:
 
-comprovante 
-dia 
-dose 
-falecer 
-futebol 
-infarto 
+experimento (secondary)
+fulminante 
+infarto (secondary)

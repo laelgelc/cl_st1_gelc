@@ -1,21 +1,25 @@
-file = t000330
-date = 2020-06-29
-user = unknown
-conversation = 1277355798033829891
-URL = unknown
+file = t016555
+date = 2022-11-00
+user = iodinha1
+conversation = 99999999
+URL = https://twitter.com/iodinha1/status/1591120017684582400
 
-word count = 33
-words loading = 4
+word count = 48
+words loading = 7
 factor score = -4
 
-@blogdojefferson A **verdade** é que não acreditamos mais nos 
-**governadores** e nos **prefeitos** que infelismente controlam os hospitais 
-municipais então a saída é se automedicar, eu já tomei minha dose de 
-**ivermectina** . 
+@AlanLopesRio Nunca saberemos se quem morreu foi por causa da covid ou por 
+causa da vacina. Muita gente não se vacinou e nem **resfriado** **pegou** . 
+Outros tantos, só após se vacinar, **pegaram** covid, tiveram **miocardite** 
+, AVC, **ataque** cardíaco, **trombone** , **gripe** e até morreram etc. 
+**Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-governador 
-ivermectina 
-prefeito 
-verdade 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

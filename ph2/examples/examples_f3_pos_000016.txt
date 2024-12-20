@@ -1,25 +1,22 @@
-file = t010938
-date = 2020-12-00
-user = sabolsonaro
+file = t012360
+date = 2021-06-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/sabolsonaro/status/1339951137127092200
+URL = https://twitter.com/evandroratho/status/1404510761993617400
 
-word count = 47
-words loading = 7
-factor score = 7
+word count = 40
+words loading = 4
+factor score = 6
 
-É muito triste quando **vemos** pessoas mal informadas. Uma vacina leva de 7 a 
-10 anos de **teste** p / confirmar sua eficácia. Essa raça pra ganhar 
-dinheiro, vão fazer o **povo** de **cobaia** . Vai ter muita **gente** com 
-**problemas** muitos sérios depois que **tomar** a vacina. . . 
-backhand_index_pointing_down_e 
+A urgência justifica o uso de vacinas experimentais sem **estudos** 
+científicos que **assegurem** eficácia e, principalmente, segurança quanto 
+aos efeitos colaterais. Mas quando o assunto é o **tratamento** **precoce** 
+com remédios sabidamente seguros, a urgência deixa de ser urgente! 
+clown_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-cobaia 
-gente 
-povo 
-problema (secondary)
-teste 
-tomar 
-ver 
+assegurar 
+estudo 
+precoce 
+tratamento (secondary)

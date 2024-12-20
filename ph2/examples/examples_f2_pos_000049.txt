@@ -1,24 +1,27 @@
-file = t010988
-date = 2020-12-00
-user = evandroratho
+file = t015981
+date = 2022-08-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1341068732811120600
+URL = https://twitter.com/mpatriabrasil/status/1560421855869255700
 
-word count = 43
-words loading = 6
+word count = 49
+words loading = 9
 factor score = 7
 
-Na minha opinião, enquanto não houverem **estudos** suficientes 
-**assegurando** que o índice de **pessoas** com **efeitos** colaterais 
-**graves** às vacinas seja menor que 0 , 1 % , não faz sentido impor 
-vacinação para toda a população, sob o **risco** do remédio se tornar 
-veneno. 
+Ary Filgueira era um jornalista muito admirado por todos em Brasília. 
+**Tomou** a 2a. **Dose** , segundo depoimentos d **amigos** e logo em seguida 
+apresentou a Síndrome de Steve Johnson, d forma **grave** . A OMS já 
+**publicou** um **estudo** **indicando** que o **experimento** provoca a 
+Síndrome. Segue **fontes** : https://t.co/f3NmRdihcM 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-efeito 
-estudo 
+amigo (secondary)
+dose 
+estudo (secondary)
+experimento 
+fonte 
 grave 
-pessoa 
-risco 
+indicar 
+publicar 
+tomar 

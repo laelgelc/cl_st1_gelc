@@ -1,22 +1,18 @@
-file = t001524
-date = 2020-12-30
-user = Guilekrahl
-conversation = 895048135105536000
-URL = https://twitter.com/Guilekrahl/status/1344371706195025921
+file = t012265
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1400489849640075300
 
-word count = 34
-words loading = 5
-factor score = -4
+word count = 56
+words loading = 1
+factor score = -3
 
-@JoaoVCosta85 @CLAUDIOMANUTD @CarlaZambelli38 @jdoriajr O Butantan **comprou** 
-e não sabe pra quem **vender** . O **governo** só **comprara** as que forem 
-autorizadas. O social democrata @jdoriajr **comprou** vacinas que poderão ser 
-**jogadas** no **lixo** . 
+@AlessandroLoio2 Doutor, preciso da sua ajuda Uma **amiga** tomou a vacina da 
+Pfizer e o corpo dela ficou irreconhecível. . . Ela está vinho e cheia de 
+bolinhas e inchada dos pés à cabeça Os médicos dizem q é de um remédio q 
+ela tomava por causa de umas convulsões mas é mentira Eles ñ querem admitir 
 
 Lemmas in this text that loaded on the factor:
 
-comprar 
-governo 
-jogar 
-lixo 
-vender (secondary)
+amiga 

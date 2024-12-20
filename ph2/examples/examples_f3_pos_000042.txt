@@ -1,25 +1,21 @@
-file = t012099
-date = 2021-05-00
-user = isdomina43
+file = t016609
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/isdomina43/status/1392810965968859100
+URL = https://twitter.com/mpatriabrasil/status/1592504833218875400
 
-word count = 44
-words loading = 7
-factor score = 6
+word count = 52
+words loading = 3
+factor score = 4
 
-@leandroruschel Estamos desprovidos de justiça. **Aprovar** o consumo de 
-drogas, proibir o **tratamento** **precoce** , forçar a **tomar** vacinas 
-experimentais, ideologia de gênero nas escolas, engolir que corruptos são 
-inocentes, **ver** a mentira ser chamada de **verdade** e **ficarmos** calados 
-pra não sermos presos. 
+**Estudo** publicado pela Lancet afirma q 8 meses após 2a. dose existe risco 
+aumentado para a diminuição da **imunidade** . Além disso, um cientista que 
+analisou os **dados** indicou q a eficácia da vax é negativa. Leia o artigo e 
+a pesquisa: doi. org / 10 . 1016 / S0140- … virologyj. biomedcentral. com / 
+articles / 10 . 11 … https://t.co/J2GzYtK2t2 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar 
-ficar 
-precoce (secondary)
-tomar 
-tratamento (secondary)
-ver 
-verdade 
+dado 
+estudo 
+imunidade 

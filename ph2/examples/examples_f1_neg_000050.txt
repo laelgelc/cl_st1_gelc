@@ -1,22 +1,23 @@
-file = t002410
-date = 2021-05-30
-user = JulioBottarelli
-conversation = 940596771776073728
-URL = https://twitter.com/JulioBottarelli/status/1399013421765496833
+file = t011408
+date = 2021-01-00
+user = derzevic
+conversation = 99999999
+URL = https://twitter.com/derzevic/status/1354115851558015000
 
-word count = 46
-words loading = 4
-factor score = -3
+word count = 40
+words loading = 6
+factor score = -7
 
-" @BrunoEnglerDM É este tipo de gente que faz **piada** com Darwin, Lei da 
-evolução, de virar jacaré , que chamava outros de gado, negacionista 
-terraplanista, anti-ciencia e contra **tratamento** **precoce** . . . E não 
-faz **tratamento** , não faz profilaxia e **confia** em uma " " vacina " " 
-experimental Express Quem é gado? " 
+Tudo que médicos **usam** e indicam para combater a **pandemia** deveria ser 
+válido, este da matéria, **tratamento** **precoce** , tudo que é **bom** 
+para combate, porém a política não deixa, imagina **perder** os bilhões das 
+vachinas. agoranoticiasbrasil. com. br / anticorpos-sin … @agoranoticiasbr 
 
 Lemmas in this text that loaded on the factor:
 
-confiar 
-piada (secondary)
-precoce 
+bom 
+pandemia 
+perder 
+precoce (secondary)
 tratamento 
+usar 

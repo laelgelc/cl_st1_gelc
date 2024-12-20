@@ -1,21 +1,21 @@
-file = t016490
+file = t016252
 date = 2022-10-00
-user = iodinha1
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586898760130494500
+URL = https://twitter.com/oscasosraros/status/1577436360839168000
 
-word count = 45
-words loading = 4
-factor score = -4
+word count = 38
+words loading = 3
+factor score = -3
 
-@paulogustavo Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , **gripe** e até morreram etc. Verdade seja dita! 
+Multiple cranial nerve palsies following COVID-19 vaccination ( Pfizer ) : 
+pubmed. **ncbi** . **nlm** . **nih** . gov / 34725821 / Acute abducens nerve 
+palsy following Pfizer: pubmed. **ncbi** . **nlm** . **nih** . gov / 34044114 / 
+Acute aducens nerve palsy following AstraZeneca: pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34851785 / 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+ncbi 
+nih 
+nlm 

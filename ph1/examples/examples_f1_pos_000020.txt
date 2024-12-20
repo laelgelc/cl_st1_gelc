@@ -1,27 +1,27 @@
-file = t015960
-date = 2022-08-00
+file = t016190
+date = 2022-09-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1558970504920309800
+URL = https://twitter.com/mpatriabrasil/status/1574004081466785800
 
-word count = 48
+word count = 45
 words loading = 9
 factor score = 10
 
-China Malaquias era professor de Educação Física muito querido por todos. 
-Tomou a 1a. **Dose** em 06 / 21 , afirmando que seria a 1a. das QUATRO. Tomou a 
-4a. em 2022 . **Faleceu** de um **infarto** **fulminante** . A Anvisa já 
-**alertou** sobre o **risco** de **problemas** cardíacos pós-experimento. 
-**Fontes** : https://t.co/q626hDm6df 
+**Pesquisas** **indicam** que o período mais propenso a **infartos** e AVCs se 
+**dá** entre 5 a 6 meses após as **doses** . **Fontes** : Falecimento de 
+Renzi: interiordabahia. com. br / ultimas-notici … **Alerta** da Anvisa: gov. 
+br / anvisa / pt-br / a … **Pesquisa** sobre problemas Cardíacos 
+pós-experimento: ncbi. nlm. nih. gov / pmc / **articles** / P … 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
+alerta 
+articles (secondary)
+dar (secondary)
 dose 
 experimento 
-falecer 
 fonte 
-fulminante 
+indicar 
 infarto 
-problema 
-risco (secondary)
+pesquisa 

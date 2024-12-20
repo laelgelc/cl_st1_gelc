@@ -1,20 +1,25 @@
-file = t013511
-date = 2021-10-00
-user = iodinha1
+file = t013663
+date = 2021-11-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1452038410089255000
+URL = https://twitter.com/evandroratho/status/1458450975300235300
 
-word count = 34
-words loading = 3
-factor score = 5
+word count = 48
+words loading = 7
+factor score = 7
 
-Muitos **avaliaram** o custo-benefício de tomar vacina e optaram por não 
-vacinar, num curto e médio **prazo** . A exigência de passaporte sanitário 
-lhes retira esse direito de decidir o que é melhor para si. twitter. com / 
-iDoug_ / status / … 
+@karinamichelin @miaeloin Com quase 2 anos de **pandemia** as estatísticas 
+**asseguram** que o vírus não **representa** **risco** significativo de 
+**morte** para **jovens** saudáveis, mas o mesmo não se pode falar sobre as 
+vacinas, ainda que tenhamos passado apenas alguns meses após o início da 
+aplicação em **massa** . 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
-custo 
-prazo 
+assegurar 
+jovem (secondary)
+massa 
+morte (secondary)
+pandemia 
+representar 
+risco 

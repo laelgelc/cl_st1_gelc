@@ -1,21 +1,19 @@
-file = t016565
-date = 2022-11-00
-user = iodinha1
+file = t012803
+date = 2021-07-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1591235263061454800
+URL = https://twitter.com/julianaayres/status/1421110966159356000
 
-word count = 48
-words loading = 3
+word count = 44
+words loading = 1
 factor score = -2
 
-@revistaoeste Nunca saberemos se quem morreu foi por causa da covid ou por 
-causa da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , gripe e até morreram etc. Verdade seja 
-dita! 
+Inglaterra começa a ameaçar cidadãos não-vacinados. . . Pior é ver 
+cristãos defendendo esse nazisanitarismo. . . Me sinto como na época do 
+nazismo q vários cristãos colaboraram c / o regime de Hitler. Como ñ 
+enxergam o q está acontecendo? COMO cederam aos que tentaram nos matar? 
+woman_shrugging_medium_skin_tone_e https://t.co/9LTuEUcXrq 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+vacinados 

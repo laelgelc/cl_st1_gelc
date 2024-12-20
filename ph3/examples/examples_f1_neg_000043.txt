@@ -1,19 +1,17 @@
-file = t011501
-date = 2021-02-00
-user = evandroratho
+file = t013695
+date = 2021-11-00
+user = paulode97899276
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1359582127818424300
+URL = https://twitter.com/paulode97899276/status/1459505681640431600
 
-word count = 43
-words loading = 2
+word count = 29
+words loading = 1
 factor score = -2
 
-Mesmo sabendo que há fortes ligações financeiras entre laboratórios de 
-desenvolvimento de vacinas e empresas de comunicação, você não desconfia 
-nem um pouquinho que eles tentam te **manipular** através do pânico para 
-justificar o gasto público de bilhões no **combate** ao vírus? 
+@reportersalles Tempos sombrios onde Illuminatis agora decidem política de RH 
+sobre demissão de não vacinados. Divulguem e boicotem produtos ou serviços 
+de empresas que venham **adotar** essa prática. 
 
 Lemmas in this text that loaded on the factor:
 
-combate 
-manipular 
+adotar 

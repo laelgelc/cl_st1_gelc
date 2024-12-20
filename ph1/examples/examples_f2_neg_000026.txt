@@ -1,22 +1,20 @@
-file = t016588
-date = 2022-11-00
-user = iodinha1
+file = t015347
+date = 2022-05-00
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1591858038704832500
+URL = https://twitter.com/oscasosraros/status/1528388824769958000
 
-word count = 48
-words loading = 4
-factor score = -4
+word count = 41
+words loading = 2
+factor score = -2
 
-@ariellediasbr Nunca saberemos se quem morreu foi por causa da covid ou por 
-causa da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , **gripe** e até morreram etc. Verdade 
-seja dita! 
+Foram muitos exames até o diagnóstico: **Mielite** **Transversa** autoimune, 
+uma inflamação na medula espinhal. Recebeu tratamento com imunoglobulina, e a 
+família precisou lutar pra que o Estado fornecesse. A Vigilância Sanitária 
+notificou como evento adverso da vacina em investigação. 
+https://t.co/JSiw3VreAA 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+mielite 
+transverso 

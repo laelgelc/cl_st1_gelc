@@ -1,20 +1,19 @@
-file = t011335
-date = 2021-01-00
-user = derzevic
+file = t014993
+date = 2022-03-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1352172801013256200
+URL = https://twitter.com/evandroratho/status/1499351466275967000
 
-word count = 36
-words loading = 3
-factor score = 6
+word count = 46
+words loading = 2
+factor score = 4
 
-@albuquerque_vr @criticanac Me **diz** quem está desmentindo? Se for revista 
-Época, já foi confirmado Fake News, G1 , Foice de SP? Médicos **vendidos** 
-para Dória? Não podem confirmar, pois os bilhões **pagos** nas vacinas 
-acabaria. Totalmente político. 
+Se um engenheiro erra um cálculo estrutural e um prédio cai, ele responde 
+criminalmente; Se um médico erra um procedimento e o **paciente** morre, ele 
+responde criminalmente; O que acontece quando erram em **estudos** sobre 
+eficácia e segurança de vacinas aplicadas em milhões de pessoas? 
 
 Lemmas in this text that loaded on the factor:
 
-dizer 
-pagar 
-vender 
+estudo 
+paciente 

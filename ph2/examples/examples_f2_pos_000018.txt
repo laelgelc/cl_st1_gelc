@@ -1,23 +1,25 @@
-file = t014074
-date = 2021-12-00
-user = evandroratho
+file = t016592
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1471551531514306600
+URL = https://twitter.com/mpatriabrasil/status/1592154142197551000
 
-word count = 35
-words loading = 6
-factor score = 9
+word count = 43
+words loading = 7
+factor score = 8
 
-@anvisa_oficial A **taxa** de **letalidade** do vírus entre crianças é menor 
-que 0 , 05 % . Qual **taxa** de **efeitos** **adversos** da vacina, no curto e 
-no **longo** **prazo** , foi considerada para tomar essa decisão com 
-segurança? 
+Nos últimos 30 **dias** , vários jogadores de futebol brasileiros 
+**faleceram** de **infarto** , alguns em campo. Antes das **doses** , eram 
+saudáveis. A CBF e as federações **exigem** o **comprovante** da #vacina. As 
+**pessoas** não percebem que um GenoEMOJI_copyright_e! Dio silencioso 
+acontece. Até quando? https://t.co/VK8jNDCnEt 
 
 Lemmas in this text that loaded on the factor:
 
-adverso 
-efeito 
-letalidade 
-longo 
-prazo 
-taxa 
+comprovante 
+dia 
+dose 
+exigir 
+falecer 
+infarto 
+pessoa 

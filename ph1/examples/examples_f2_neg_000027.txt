@@ -1,22 +1,18 @@
-file = t016617
-date = 2022-11-00
-user = iodinha1
+file = t015387
+date = 2022-05-00
+user = giulianamesopo
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1592611295114641400
+URL = https://twitter.com/giulianamesopo/status/1529702470095601700
 
-word count = 48
-words loading = 4
-factor score = -4
+word count = 33
+words loading = 1
+factor score = -2
 
-@PauloPMelo Nunca saberemos se quem morreu foi por causa da covid ou por causa 
-da vacina. Muita gente não se vacinou e nem **resfriado** pegou. Outros 
-tantos, só após se vacinar, pegaram covid, tiveram miocardite, AVC, 
-**ataque** cardíaco, **trombone** , **gripe** e até morreram etc. Verdade 
-seja dita! 
+Será que essa **hepatite** que está surgindo em jovens saudáveis é tão 
+misteriosa assim? Estudo sueco mostrando como as vacinas da Pfizer-Biontech 
+contra COVID-19 afetam as células do fígado humano. medicalxpress. com / news 
+/ 2022-03-p … https://t.co/jeVRuSKeMw 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+hepatite 

@@ -1,24 +1,27 @@
-file = t013499
-date = 2021-10-00
-user = evandroratho
+file = t016654
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1451540044704096300
+URL = https://twitter.com/mpatriabrasil/status/1593635571972309000
 
-word count = 36
-words loading = 7
+word count = 40
+words loading = 9
 factor score = 7
 
-@revistaoeste A estatística **assegura** que o **risco** de **morte** por 
-covid entre **jovens** saudáveis é ínfimo. Continuo sem acreditar que o uso 
-de vacinas **experimentais** nesse grupo de **pessoas** seja aceito numa 
-**boa** pela sociedade. 
+Novo normal: **Pessoas** **jovens** , de **vida** altamente saudável, 
+**morrendo** ao fazer exercícios na academia. **Pesquisas** **indicam** que a 
+#vacina pode provocar **infartos** e AVCs, especialmente de 5 a 8meses após as 
+**doses** . **Pesquisa** da OMS: **pesquisa** . bvsalud. **org** / 
+global-literat … https://t.co/xgZ41Kb14a 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-bom (secondary)
-experimental 
+dose 
+indicar 
+infarto 
 jovem 
-morte 
+morrer 
+org (secondary)
+pesquisa (secondary)
 pessoa 
-risco 
+vida (secondary)

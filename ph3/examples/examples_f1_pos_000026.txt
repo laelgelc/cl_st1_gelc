@@ -1,26 +1,27 @@
-file = t016257
-date = 2022-10-00
+file = t015756
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
+URL = https://twitter.com/mpatriabrasil/status/1548713226321514500
 
-word count = 47
-words loading = 8
-factor score = 9
+word count = 45
+words loading = 9
+factor score = 10
 
-Paulo tinha apenas 16 **anos** e foi encontrado **morto** em sua cama. Segundo 
-apuramos, tomou a **dose** de reforço há pouco mais de 4 meses. **Estudos** 
-**indicam** que os **Infartos** e AVCs provocados pelo **experimento** ocorrem 
-entre 5 a 8 meses após as **doses** . **Fonte** : stevekirsch. substack. com / 
-p / this-one-gra … https://t.co/qHr8mKkPYE 
+Caio era um **jovem** de 16 **anos** de Nova Venécia. 1a. **Dose** em 2021 e 
+reforço há poucas **semanas** . Teve um **infarto** **fulminante** em 16 / 07 
+. A OMS confirma a relação entre o **experimento** e **Infartos** em 
+decorrência da reações previstas na Bula ( **Miocardite** ) . **Fonte** : 
+uol. com. br / vivabem / notici … https://t.co/kaQC0VsLG6 
 
 Lemmas in this text that loaded on the factor:
 
 ano 
 dose 
-estudo (secondary)
 experimento 
 fonte 
-indicar 
+fulminante 
 infarto 
-morrer 
+jovem 
+miocardite 
+semana 

@@ -1,23 +1,25 @@
-file = t012034
-date = 2021-05-00
+file = t010990
+date = 2020-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1389995523852148700
+URL = https://twitter.com/evandroratho/status/1341088140241592300
 
-word count = 47
-words loading = 6
-factor score = -5
+word count = 52
+words loading = 7
+factor score = -8
 
-Se alguém questiona o **conflito** de **interesses** de quem **vende** vacina 
-e financia campanhas contra o **tratamento** **precoce** dizem que é teoria da 
-conspiração. Agora vem um abobado dizendo que o Bolsonaro lucra com a venda 
-de **cloroquina** e os ventríloquos de malandro acreditam. Ciência, né ? 
+@carlosjordy - Para a sociedade, **fique** em casa, solde a porta da loja, 
+multa, vacina obrigatória, aumento de impostos, e economia a **gente** **vê** 
+depois; - Para políticos e amigos da **imprensa** , reajuste de 45 a 70 % nas 
+verbas ( **pagas** com o imposto do pobre ) ; Mas acredite, é tudo por uma 
+**boa** **causa** ! 
 
 Lemmas in this text that loaded on the factor:
 
-cloroquina 
-conflito 
-interesse 
-precoce 
-tratamento 
-vender (secondary)
+bom 
+causa (secondary)
+ficar 
+gente 
+imprensa 
+pagar 
+ver 

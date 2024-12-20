@@ -1,25 +1,26 @@
-file = t014581
-date = 2022-01-00
-user = evandroratho
+file = t016472
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1485601227358539800
+URL = https://twitter.com/iodinha1/status/1586181666988441600
 
-word count = 43
-words loading = 7
+word count = 45
+words loading = 8
 factor score = 7
 
-Contra o **tratamento** **precoce** chegaram a forjar um **estudo** com 
-superdosagem, matando pacientes, para **impedir** o uso de remédios, mas 
-diante dos inegáveis **casos** de **efeitos** adversos relacionados às 
-vacinas, silêncio absoluto! E tem gente acreditando que é mera preocupação 
-com **vidas** ! 
+@BrunoEnglerDM Nunca **saberemos** se quem **morreu** foi ou não por **causa** 
+da vacina. Muita **gente** não se vacinou e nem resfriado **pegou** . Outros 
+tantos, só após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, 
+ataque cardíaco, trombone, gripe e até **morreram** etc. **Verdade** seja 
+**dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-caso (secondary)
-efeito 
-estudo 
-impedir 
-precoce 
-tratamento 
-vida 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

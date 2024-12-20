@@ -1,27 +1,27 @@
-file = t016727
-date = 2022-11-00
+file = t015875
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1595279021251694600
+URL = https://twitter.com/mpatriabrasil/status/1555704080194015200
 
-word count = 50
+word count = 51
 words loading = 9
-factor score = 8
+factor score = 9
 
-Mais dois **jovens** **morreram** de **infarto** hoje. Lembramos q a @CMAJ 
-divulgou **pesquisa** **indicando** que o **risco** da #vacina é de 100 
-**mortes** p / cada 100mil. A população do BR é de 214milhões. Ou seja, p / 
-os vacinalovers se **sentirem** seguros, **milhares** irão perecer? cmaj. ca / 
-content / 194 / 45 … https://t.co/XTrvvK0Rb1 
+Patyziul era uma **mulher** muito admirada em Osasco e trabalhava como 
+influenciadora digital. Ela se submeteu à 1a. **Dose** em julho / 21 . Segundo 
+depoimentos de **amigos** , **tomou** o reforço há poucas **semanas** e teve 
+um **infarto** **fulminante** no **dia** 04 / 08 / 22 , exatamente um **ano** 
+após a 2a. **Dose** . https://t.co/x9XwJfhPTL 
 
 Lemmas in this text that loaded on the factor:
 
-indicar 
+amigo (secondary)
+ano 
+dia 
+dose 
+fulminante 
 infarto 
-jovem 
-milhar 
-morrer 
-morte 
-pesquisa 
-risco (secondary)
-sentir 
+mulher 
+semana 
+tomar 

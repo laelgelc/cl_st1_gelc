@@ -1,20 +1,23 @@
-file = t013529
-date = 2021-10-00
+file = t012078
+date = 2021-05-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1452718561806405600
+URL = https://twitter.com/evandroratho/status/1392158033564868600
 
-word count = 36
-words loading = 3
-factor score = 6
+word count = 40
+words loading = 5
+factor score = 8
 
-@SigaGazetaBR As estatísticas **asseguram** que **jovens** saudáveis não 
-têm **risco** de morte pela doença, e considerando que as vacinas não 
-impedem a infecção e tampouco a transmissão do vírus, tal obrigatoriedade 
-é estupidamente sem lógica. 
+- O vírus é chinês - Vacinas não têm **estudos** suficientes para 
+comprovar segurança e eficácia - **Tratamento** **precoce** com remédio 
+barato e sem patente não interessa à indústria farmacêutica - Políticos se 
+aproveitam da **pandemia** para obter vantagens - A imprensa **mente** 
+#EstadadoFake 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-jovem (secondary)
-risco 
+estudo 
+mentar 
+pandemia 
+precoce 
+tratamento 

@@ -1,20 +1,20 @@
-file = t016473
-date = 2022-10-00
-user = iodinha1
+file = t010648
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1586192036356534300
+URL = https://twitter.com/evandroratho/status/1336017357463056400
 
-word count = 44
-words loading = 3
+word count = 47
+words loading = 2
 factor score = -2
 
-@aMaioral_ Nunca saberemos se quem morreu foi ou não por causa da vacina. 
-Muita gente não se vacinou e nem **resfriado** pegou. Outros tantos, só após 
-se vacinar, pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, 
-**trombone** , gripe e até morreram etc. Verdade seja dita! 
+@bernardokuster2 É muito suspeito que um governador queira forçar uma 
+vacinação em massa atropelando a lógica, o bom **senso** , a ciência, as 
+regulamentações, as leis, a liberdade de escolha, e o respeito ao próximo, e 
+ainda tenha apoio da **extrema** imprensa para manipular alguns idiotas úteis. 
+. . 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-resfriar (secondary)
-trombone 
+extremo 
+senso 

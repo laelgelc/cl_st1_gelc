@@ -1,19 +1,22 @@
-file = t012292
-date = 2021-06-00
+file = t012005
+date = 2021-04-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1401922453950144500
+URL = https://twitter.com/evandroratho/status/1387450856228929500
 
-word count = 25
-words loading = 3
-factor score = -5
+word count = 36
+words loading = 5
+factor score = -8
 
-Para o **tratamento** **precoce** precisa comprovação científica padrão 
-ouro duplo cego randomizado; Para máscara, vacina, **lockdown** , intubação, 
-e novalgina, basta a opinião de jornalistas; 
+Aposto que se um laboratório farmacêutico resolvesse oferecer uma vacina 
+contra **covid** gratuitamente, muitos políticos **fariam** pressão pela 
+reprovação nas agências reguladoras e a **imprensa** **faria** campanha 
+negativa alertando para os riscos dos **efeitos** **colaterais** ! 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-precoce 
-tratamento 
+colateral 
+covid 
+efeito 
+fazer 
+imprensa 

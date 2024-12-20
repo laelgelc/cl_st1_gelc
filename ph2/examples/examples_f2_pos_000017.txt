@@ -1,23 +1,31 @@
-file = t012171
-date = 2021-05-00
-user = evandroratho
+file = t016731
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1396809343866216400
+URL = https://twitter.com/mpatriabrasil/status/1595424930690121700
 
-word count = 36
-words loading = 6
-factor score = 10
+word count = 57
+words loading = 12
+factor score = 8
 
-Obrigar uma população de **pessoas** saudáveis a tomar vacinas 
-**experimentais** cujos **efeitos** colaterais de médio e **longo** **prazo** 
-são totalmente desconhecidos, para uma doença com índice de **letalidade** 
-desprezível, é a verdadeira definição de genocídio! 
+**Pessoas** **jovens** **sofrendo** **infartos** **Fulminantes** . Lembramos q 
+o risco de Miocardite é de 100 para cada 100mil **doses** , de acordo com a 
+**pesquisa** científica da @CMAJ. Ou seja, se você **tomou** 4 **doses** , o 
+risco é 4 x maior! Vale a pena **saber** que **pessoas** **morreram** para 
+você se **sentir** seguro? **twitter** . com / CMAJ / status / 15 … 
+https://t.co/KITUhtZdBy 
 
 Lemmas in this text that loaded on the factor:
 
-efeito 
-experimental 
-letalidade 
-longo 
+dose 
+fulminante (secondary)
+infarto 
+jovem 
+morrer 
+pesquisa (secondary)
 pessoa 
-prazo 
+saber (secondary)
+sentir (secondary)
+sofrer 
+tomar 
+twitter 

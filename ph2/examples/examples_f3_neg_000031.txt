@@ -1,20 +1,23 @@
-file = t000682
-date = 2020-08-30
-user = Marcela50765800
-conversation = 1255470483010654209
-URL = https://twitter.com/Marcela50765800/status/1299993242726019073
+file = t014049
+date = 2021-12-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1471294186150408200
 
-word count = 33
-words loading = 2
-factor score = -2
+word count = 42
+words loading = 5
+factor score = -6
 
-Irlanda flag_ireland_e também teve protesto conta a farsa do vírus, vacina 
-**RNA** , pedófilia, nova ordem mundial, **distanciamento** social, lockdown! 
-! ! Brasil flag_brazil_e vamos para as ruas também! ! ! @FlavioBolsonaro 
-@BolsonaroSP @jairbolsonaro @THS_Cafe @Franml1234 @ElisCarmem @davidicke 
-@APretensao https://t.co/OK5SPacHcL 
+@alyssanilsen Como estão as coisas aí , Alyssa, pós vacinação? Quais tipos 
+de efeitos colaterais tem aparecido por aí ? Aqui, no Brasil: AVC, Ataque 
+cardíaco, **paralisia** **facial** , motes, muitas tromboses, **miocardites** 
+, problema nos **rins** , queda de cabelo, **dores** de cabeça. . . São 
+tantos. . . 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-rna 
+dor 
+facial 
+miocardite 
+paralisia 
+rim 

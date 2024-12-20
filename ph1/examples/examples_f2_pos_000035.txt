@@ -1,21 +1,25 @@
-file = t013340
-date = 2021-10-00
-user = evandroratho
+file = t016370
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1443952866381738000
+URL = https://twitter.com/iodinha1/status/1581630640260231200
 
-word count = 42
-words loading = 4
+word count = 44
+words loading = 8
 factor score = 7
 
-**Existem** remédios baratos e sem patente, **existe** a **imunidade** 
-natural, e **existem** remédios caros e vacinas que movimentam bilhões dos 
-cofres públicos. Tem que ter uma **boa** dose de ingenuidade para não 
-desconfiar dos **interesses** financeiros por trás desse debate, não? 
+Nunca **saberemos** se quem **morreu** foi ou não por **causa** da vacina. 
+Muita **gente** não se vacinou e nem resfriado **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** **covid** , tiveram miocardite, AVC, ataque 
+cardíaco, trombone, gripe e até **morreram** etc. **Verdade** seja **dita** ! 
 
 Lemmas in this text that loaded on the factor:
 
-bom 
-existir 
-imunidade 
-interesse 
+causa 
+covid 
+dizer 
+gente 
+morrer (secondary)
+pegar 
+saber 
+verdade 

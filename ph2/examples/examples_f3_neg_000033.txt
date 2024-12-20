@@ -1,17 +1,22 @@
-file = t000837
-date = 2020-10-30
-user = brasigois
-conversation = 95651804
-URL = https://twitter.com/brasigois/status/1322315197600718848
+file = t013044
+date = 2021-09-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1434174118862196700
 
-word count = 24
-words loading = 1
-factor score = -2
+word count = 56
+words loading = 4
+factor score = -5
 
-" RT @FabioIng: @taoquei1 Prometer vacina para Covid em 2020 é grave 
-desserviço ao público, **avalia** Presidente da Merck " " Se você vai usar 
-uma " 
+@mjcarvalhop @GFiuza_Oficial Temos q orar por esses médicos, o q eles estão 
+enfrentando p revelar a **verdade** ñ é fácil. Uma **amiga** minha, no 
+**dia** seguinte à vacina, parecia q o **sangue** do corpo dela queria sair 
+pelos poros. Ficou vulcão dos pés à cabeça. Até a palma da mão. 
+Assustador. + de 1 mês no hospital 
 
 Lemmas in this text that loaded on the factor:
 
-avaliar 
+amiga 
+dia (secondary)
+sangue 
+verdade 

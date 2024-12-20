@@ -445,7 +445,7 @@ inputvariables
 
 #classify
 
-examples
+#examples
 
 #latexexamples
 

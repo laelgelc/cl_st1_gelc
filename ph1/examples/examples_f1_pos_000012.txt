@@ -1,27 +1,26 @@
-file = t016104
-date = 2022-09-00
+file = t016055
+date = 2022-08-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1568305377980162000
+URL = https://twitter.com/mpatriabrasil/status/1564768302009909200
 
-word count = 54
-words loading = 9
+word count = 46
+words loading = 8
 factor score = 11
 
-Edu do Povo tomou sua 1a. **Dose** no **dia** 30 / 06 e 3 **dias** depois 
-postou que teve reação depois do **experimento** . Mesmo assim, ele continuou 
-tomando os reforços e **faleceu** de um **mal** súbito em 08 / 09 / 22 . A 
-Anvisa já **alertou** sobre o **risco** de **Miocardite** e AVCs 
-pós-experimento. Segue **fontes** . . . https://t.co/aQEipi5a14 
+Vacinado com as 4 **doses** , Eric Gustavo, 32 **anos** , **contraiu** CV! D 
+diversas vezes, segundo familiares. Estava d alta hospitalar do último CVD há 
+uma **semana** , quando **sofreu** uma parada cardíaca enquanto dormia. 
+**Pesquisas** **indicam** que a eficácia do **experimento** é negativa após 
+reforços. . . https://t.co/OXOrxlyu8A 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
-dia 
+ano 
+contrair 
 dose 
 experimento 
-falecer 
-fonte 
-mal 
-miocardite 
-risco (secondary)
+indicar 
+pesquisa 
+semana 
+sofrer 

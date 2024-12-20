@@ -1,24 +1,20 @@
-file = t010618
-date = 2020-12-00
-user = derzevic
+file = t012996
+date = 2021-08-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1334295040328425500
+URL = https://twitter.com/julianaayres/status/1431850646093901800
 
-word count = 36
-words loading = 7
-factor score = -7
+word count = 40
+words loading = 3
+factor score = -4
 
-**QUER** DIZER QUE A **VACHINA** DOS **AMIGUINHOS** DO DORIANA SE **QUISER** 
-VAI TER QUE **PAGAR** DO BOLSO. Câmara aprova MP de Bolsonaro que libera quase 
-R$ 2 bilhões para **comprar** vacina de Oxford gazetabrasil. com. br / 
-**politica** / camar … **via** @Gazeta 
+@TonyStarkMeta Uma **amiga** ficou com a **pele** dos pés a cabeça parecendo 
+uma larva de vulcão. Achei q fosse morrer. Mais de 1 mês internada e os 
+médicos queriam q ela tomasse a **segunda** dose 
+woman_shrugging_medium_skin_tone_e Esses médicos são assassinos. 
 
 Lemmas in this text that loaded on the factor:
 
-amigo 
-comprar 
-pagar 
-politicar 
-querer 
-vachina 
-via 
+amiga 
+pele 
+segundo (secondary)

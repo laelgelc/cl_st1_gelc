@@ -1,19 +1,18 @@
-file = t010836
-date = 2020-12-00
-user = derzevic
+file = t016408
+date = 2022-10-00
+user = paulo2246
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1338967688018845700
+URL = https://twitter.com/paulo2246/status/1583114013340491800
 
-word count = 36
+word count = 22
 words loading = 2
-factor score = -2
+factor score = -3
 
-A VACINA NÃO É OBRIGATÓRIA, PORTANTO ESSA RESTRIÇÃO SERIA CENSURA E 
-SEPARATISMO. MEU DEUS COMO PRECISAMOS DE UMA REFORMA INSTITUCIONAL NESTE PAÍS, 
-PARA ACABAR COM O ABUSO DESTES M. . . . . . . #EuNaoVoteiNoSTF **Pleno** . News 
-**pleno** . news / **brasil** / politic … 
+@MarcosFalcao_Dr Ontem recebi isto do **conselho** **tutelar** me ameaçando 
+por não ter vacinado meus filhos. Me disseram vc poderia me orientar! 
+https://t.co/GjQwtZiIt0 
 
 Lemmas in this text that loaded on the factor:
 
-brasil 
-pleno 
+conselho 
+tutelar 

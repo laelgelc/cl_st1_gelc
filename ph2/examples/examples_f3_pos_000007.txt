@@ -1,26 +1,24 @@
-file = t016633
-date = 2022-11-00
-user = karinamichelin
+file = t012921
+date = 2021-08-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/karinamichelin/status/1593010722002591700
+URL = https://twitter.com/evandroratho/status/1428059609269514200
 
-word count = 44
-words loading = 8
+word count = 46
+words loading = 6
 factor score = 7
 
-Continuo a observar a quantidade de pessoas que estão adoecendo gravemente- 
-além de **ver** **milhares** delas morrendo repentinamente. As vezes penso em 
-viver em um **mundo** paralelo, muitos **dizem** que a vacina **salvou** 
-**vidas** durante a **pandemia** - difícil provar, assim como as **mortes** da 
-vacinaEMOJI_ok_hand_light_skin_tone_e 
+@RafaMovies O índice de **letalidade** entre pessoas **jovens** e saudáveis 
+é desprezível, quase zero. A única justificativa para vacinar estas pessoas 
+é o iminente lucro de quem as vende, ainda mais se tratando de vacinas 
+**emergenciais** sem **estudos** adequados quanto a segurança a **longo** 
+**prazo** ! 
 
 Lemmas in this text that loaded on the factor:
 
-dizer 
-milhar 
-morte (secondary)
-mundo 
-pandemia 
-salvar 
-ver 
-vida 
+emergencial 
+estudo 
+jovem (secondary)
+letalidade 
+longo 
+prazo 

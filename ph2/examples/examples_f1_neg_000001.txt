@@ -1,23 +1,24 @@
-file = t011234
-date = 2021-01-00
-user = evandroratho
+file = t012212
+date = 2021-05-00
+user = schmittmaguida
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1349773990286520300
+URL = https://twitter.com/schmittmaguida/status/1397892191096389600
 
-word count = 51
+word count = 46
 words loading = 6
-factor score = -7
+factor score = -10
 
-Os mesmos políticos que **mentem** e **manipulam** dados do Butantã tentando 
-justificar o gasto público de bilhões de reais com a vacina da China, dizem 
-que o **tratamento** **precoce** não funciona. E tem gente que não consegue 
-ver o **conflito** de **interesses** , e segue cego à espera de um milagre! 
+**Bom** dia **Gente** ! Um vírus mutante **criado** em laboratório? Escapa de 
+uma segurança nível 4 ? Vacina? **Interesses** farmacêuticos? China tentando 
+dominar as criptomoedas? Eu não **digo** é nada Laboratório chinês volta a 
+ser cogitado como origem do coronavírus **veja** . abril. com. br / blog / 
+mundialis … via @VEJA 
 
 Lemmas in this text that loaded on the factor:
 
-conflito 
+bom 
+criar 
+dizer 
+gente 
 interesse 
-manipular 
-mentar 
-precoce 
-tratamento 
+ver 

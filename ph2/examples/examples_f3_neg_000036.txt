@@ -1,19 +1,20 @@
-file = t001871
-date = 2021-02-27
-user = AllanGarcs1
-conversation = 1066144755493543936
-URL = https://twitter.com/AllanGarcs1/status/1365727390744403969
+file = t012265
+date = 2021-06-00
+user = julianaayres
+conversation = 99999999
+URL = https://twitter.com/julianaayres/status/1400489849640075300
 
-word count = 35
+word count = 56
 words loading = 2
-factor score = -2
+factor score = -4
 
-Temos 2 formas de enfrentar a PANDEMIA: Prevenindo e Tratando 1° ) PREVENINDO 
-- VACINAS, lavagem da mão, álcool em **gel** , máscara, NÃO aglomerar, 
-**distanciamento** social e IVERMECTINA 2° ) TRATAMENTO - Tratar precocemente 
-os doentes com Hidroxicloroquina + Ivermectina + Azitromicina 
+@AlessandroLoio2 Doutor, preciso da sua ajuda Uma **amiga** tomou a vacina da 
+Pfizer e o corpo dela ficou irreconhecível. . . Ela está vinho e cheia de 
+bolinhas e inchada dos pés à cabeça Os médicos dizem q é de um remédio q 
+ela tomava por **causa** de umas convulsões mas é mentira Eles ñ querem 
+admitir 
 
 Lemmas in this text that loaded on the factor:
 
-distanciamento 
-gel 
+amiga 
+causa 

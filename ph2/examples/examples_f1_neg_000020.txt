@@ -1,21 +1,23 @@
-file = t011880
-date = 2021-04-00
-user = evandroratho
-conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1382380468419637200
+file = t000874
+date = 2020-10-30
+user = FabioIng
+conversation = 81842196
+URL = https://twitter.com/FabioIng/status/1321792372175441922
 
-word count = 41
-words loading = 3
-factor score = -4
+word count = 45
+words loading = 5
+factor score = -7
 
-Já temos centenas de estudos que comprovam a eficácia do **tratamento** 
-**precoce** , evidências suficientes quanto aos riscos das vacinas 
-experimentais, e estudos que desmontam a tese da transmissão por 
-assintomáticos. Qual a razão para insistirem em máscaras, **lockdown** , e 
-vacina? 
+" @Rconstantino @VlogdoLisboa Prometer vacina para **Covid** em 2020 é grave 
+desserviço ao público, avalia Presidente da Merck " " Se você vai **usar** 
+uma vacina em bilhões de pessoas, é **melhor** você **saber** o que essa 
+vacina **faz** " " , alerta Ken Frazier. Frontliner - 21 . 07 . 2020 
+https://t.co/JGIKoYhj5I " 
 
 Lemmas in this text that loaded on the factor:
 
-lockdown 
-precoce 
-tratamento 
+bom 
+covid 
+fazer 
+saber 
+usar 

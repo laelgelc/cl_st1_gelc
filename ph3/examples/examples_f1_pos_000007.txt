@@ -1,29 +1,31 @@
-file = t016196
-date = 2022-09-00
+file = t016731
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1574192105706164200
+URL = https://twitter.com/mpatriabrasil/status/1595424930690121700
 
-word count = 39
-words loading = 10
-factor score = 12
+word count = 53
+words loading = 12
+factor score = 11
 
-**Mortes** nas últimas 48Hs - Pessoas **jovens** **sofrendo** **infartos** . 
-Ninguém questiona, a despeito da Anvisa ter **alertado** sobre o **risco** de 
-**problemas** Cardíacos e **Pesquisas** **indicarem** o **risco** d 
-**infartos** e AVCs, depois d meses após as **doses** . gov. br / anvisa / 
-pt-br / a … ncbi. nlm. nih. gov / pmc / articles / P … 
-https://t.co/W2ANw2mmjO 
+**Pessoas** **jovens** **sofrendo** **infartos** **Fulminantes** . Lembramos q 
+o **risco** de **Miocardite** é de 100 para cada 100mil **doses** , de acordo 
+com a **pesquisa** científica da @CMAJ. Ou seja, se você **tomou** 4 
+**doses** , o **risco** é 4 x maior! Vale a pena saber que **pessoas** 
+**morreram** para você se sentir seguro? **twitter** . com / CMAJ / status / 
+15 … https://t.co/KITUhtZdBy 
 
 Lemmas in this text that loaded on the factor:
 
-alertar 
 dose 
-indicar 
+fulminante 
 infarto 
 jovem 
-morte 
+miocardite 
+morrer 
 pesquisa 
-problema 
+pessoa 
 risco (secondary)
 sofrer 
+tomar 
+twitter 

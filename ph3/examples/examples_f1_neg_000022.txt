@@ -5,17 +5,16 @@ conversation = 1066144755493543936
 URL = https://twitter.com/AllanGarcs1/status/1372152029850836997
 
 word count = 44
-words loading = 3
+words loading = 2
 factor score = -2
 
-PARA SALVAR VIDAS. . . **MEDIDAS** QUE PROTEGEM 1 ) Vacinação 2 ) 
+PARA SALVAR VIDAS. . . MEDIDAS QUE PROTEGEM 1 ) Vacinação 2 ) 
 **Distanciamento** social 3 ) Máscara 4 ) Lavar mãos 5 ) Sol, Vit D e Zinco 
-**MEDIDAS** QUE CURAM 1 ) Tratamento PRECOCE com Hidroxicloroquina, 
-Ivermectina, Azitromicina, **Zinco** , Vit. D e C 2 ) Tratamento 
-individualizado pra cada fase 
+MEDIDAS QUE CURAM 1 ) Tratamento PRECOCE com Hidroxicloroquina, Ivermectina, 
+Azitromicina, **Zinco** , Vit. D e C 2 ) Tratamento individualizado pra cada 
+fase 
 
 Lemmas in this text that loaded on the factor:
 
 distanciamento 
-medida (secondary)
 zinco 

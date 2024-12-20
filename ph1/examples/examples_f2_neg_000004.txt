@@ -1,21 +1,22 @@
-file = t016328
+file = t016253
 date = 2022-10-00
-user = iodinha1
+user = oscasosraros
 conversation = 99999999
-URL = https://twitter.com/iodinha1/status/1580396431898120200
+URL = https://twitter.com/oscasosraros/status/1577436363502530600
 
 word count = 40
 words loading = 4
 factor score = -4
 
-@DemocrataSim Nunca saberemos se foi ou não por causa da vacina. Muita gente 
-não se vacinou e nem **resfriado** pegou. Outros tantos, só após se vacinar, 
-pegaram covid, tiveram miocardite, AVC, **ataque** cardíaco, **trombone** , 
-**gripe** e até morreram etc. 
+Acute Abducens nerve palsy following vaccination: pubmed. **ncbi** . **nlm** . 
+**nih** . gov / 34827043 / 21yoF nurse with Bells Palsy following Pfizer: 
+pubmed. **ncbi** . **nlm** . **nih** . gov / 34322761 / 34yoF with Bells Palsy 
+2 days after Moderna: **ncbi** . **nlm** . **nih** . gov / pmc / **articles** / 
+P … 
 
 Lemmas in this text that loaded on the factor:
 
-ataque 
-gripe 
-resfriar 
-trombone 
+articles 
+ncbi 
+nih 
+nlm 

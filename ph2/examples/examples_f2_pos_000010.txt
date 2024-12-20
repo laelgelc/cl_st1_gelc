@@ -1,24 +1,28 @@
-file = t013231
-date = 2021-09-00
-user = evandroratho
+file = t016398
+date = 2022-10-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1441074942876000300
+URL = https://twitter.com/mpatriabrasil/status/1582830715003338800
 
-word count = 49
-words loading = 6
-factor score = 11
+word count = 47
+words loading = 9
+factor score = 9
 
-@mqueiroga2 @Anholeto @minsaude Vacinar um grupo de **pessoas** que, 
-estatisticamente falando, tem chance ínfima de morrer de covid, com vacinas 
-**experimentais** sem **estudos** concluídos sobre segurança de médio e 
-**longo** **prazo** , sabendo que a vacina não **impede** a infecção e 
-tampouco a transmissão do vírus? Não faz sentido! 
+George era maestro e se achava invencível após a 3a **dose** . Teve um 
+**mal** súbito e veio à óbito nesta **semana** de outubro. **Pesquisas** 
+**indicam** que o **experimento** pode provocar AVCs, Tromboses e problemas 
+cardíacos. **Fontes** : m. **facebook** . com / story. php? stor … 
+**Pesquisa** : **pesquisa** . bvsalud. **org** / global-literat … - 
+https://t.co/LxHb4D3s55 
 
 Lemmas in this text that loaded on the factor:
 
-estudo 
-experimental 
-impedir 
-longo 
-pessoa 
-prazo 
+dose 
+experimento 
+facebook (secondary)
+fonte 
+indicar 
+mal 
+org (secondary)
+pesquisa (secondary)
+semana 

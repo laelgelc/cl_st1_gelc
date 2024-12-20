@@ -5,16 +5,19 @@ conversation = 99999999
 URL = https://twitter.com/evandroratho/status/1386701023427838000
 
 word count = 39
-words loading = 3
+words loading = 5
 factor score = 7
 
 @TerraBrasilnot @KeliVeronezi Depois de faturar bilhões admitirão que as 
-vacinas não **garantem** a imunização, e então, milagrosamente dirão que 
-desenvolveram remédios para o **tratamento** **precoce** da doença. E assim 
-formar -se-á a segunda onda de faturamento para a indústria farmacêutica! 
+vacinas não **garantem** a imunização, e então, milagrosamente **dirão** 
+que desenvolveram remédios para o **tratamento** **precoce** da doença. E 
+assim formar -se-á a **segunda** onda de faturamento para a indústria 
+farmacêutica! 
 
 Lemmas in this text that loaded on the factor:
 
+dizer 
 garantir 
-precoce 
-tratamento 
+precoce (secondary)
+segundo 
+tratamento (secondary)

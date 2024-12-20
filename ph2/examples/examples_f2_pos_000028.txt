@@ -1,22 +1,25 @@
-file = t012637
-date = 2021-07-00
-user = evandroratho
+file = t015955
+date = 2022-08-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1414967198532124700
+URL = https://twitter.com/mpatriabrasil/status/1558751882612539400
 
-word count = 32
-words loading = 6
+word count = 55
+words loading = 7
 factor score = 8
 
-@DalcioNews Sim. O **estudo** trata especificamente das vacinas que usam 
-**mRNA** , e o **alerta** se refere justamente a falta de **estudos** de médio 
-e **longo** **prazo** sobre a segurança desta **tecnologia** . . . 
+Ilson Baiano foi candidato a prefeito d Coelho Neto. **Tomou** a 1a. **dose** 
+em 05 / 21 a 2a. em 08 / 21 e os reforços em 2022 . Teve um **infarto** 
+**fulminante** neste 13 / 08 / 22 , exatamente um **ano** após a 2a. da Astra. 
+A OMS já **alertou** sobre os riscos de problemas cardíacos pós-experimento. 
+Segue. . . https://t.co/shuzq4xhsQ 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
-estudo 
-longo 
-mrna 
-prazo 
-tecnologia 
+alertar 
+ano 
+dose 
+experimento 
+fulminante (secondary)
+infarto 
+tomar 

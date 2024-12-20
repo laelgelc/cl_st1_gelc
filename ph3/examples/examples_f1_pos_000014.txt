@@ -1,29 +1,30 @@
-file = t015967
-date = 2022-08-00
+file = t015796
+date = 2022-07-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1559532215431749600
+URL = https://twitter.com/mpatriabrasil/status/1551171520797499400
 
-word count = 49
-words loading = 11
+word count = 42
+words loading = 12
 factor score = 11
 
-Marcelo Teodoro tinha 21 **anos** , era amado pela família. **Amigos** 
-confirmaram q ele havia tomado o **experimento** . **Faleceu** de **infarto** 
-**fulminante** numa partida de Paintball. A Anvisa e a OMS já **publicaram** 
-**alertas** sobre o **risco** de **problemas** cardíacos em até 9 meses após 
-as **doses** . Segue. . . https://t.co/JAORJcfsWf 
+Márcio Costa era um patriota. **Tomou** a 1a. **dose** em 2021 e os reforços 
+há 3 meses. Teve um AVC em 16 / 07 e **faleceu** nesta **semana** . A OMS já 
+reconheceu que o AVC pode acontecer alguns meses após o **experimento** . 
+**Fontes** : **pesquisa** . **bvsalud** . **org** / global-literat … m. 
+**facebook** . com / story. php? stor … https://t.co/VMXmval90f 
 
 Lemmas in this text that loaded on the factor:
 
-alerta 
-amigo (secondary)
-ano 
+bvsalud (secondary)
 dose 
 experimento 
+facebook 
 falecer 
-fulminante 
-infarto 
-problema 
-publicar 
-risco (secondary)
+fonte 
+global (secondary)
+literat (secondary)
+org 
+pesquisa 
+semana 
+tomar 

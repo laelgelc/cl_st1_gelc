@@ -1,23 +1,26 @@
-file = t014736
-date = 2022-02-00
-user = evandroratho
+file = t016247
+date = 2022-10-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1490661546707538000
+URL = https://twitter.com/mpatriabrasil/status/1577251366661083100
 
-word count = 43
-words loading = 6
-factor score = 10
+word count = 51
+words loading = 8
+factor score = 9
 
-As estatísticas **asseguram** que **jovens** saudáveis não **correm** 
-**risco** **significativo** de **morte** pelo vírus, portanto, manter escolas 
-fechadas por tanto tempo e forçar a vacinação das crianças me faz não ter 
-dúvida que a preocupação não é com a vida de ninguém! 
+Este é um dos últimos vídeos de Keith Wonderboy, um famoso cantor Gospel. 
+Ele estava feliz ao **tomar** sua **dose** do **experimento** . Infelizmente 
+**faleceu** **dia** 30 / 09 , com apenas 50 **anos** . Foi encontrado **morto** 
+dentro de casa. Tudo **indica** que tenha sido mal súbito. google. com / amp / 
+s / m. econom … https://t.co/1z9RWsyPHX 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-correr 
-jovem 
-morte 
-risco 
-significativo 
+ano 
+dia 
+dose 
+experimento 
+falecer 
+indicar 
+morrer 
+tomar 

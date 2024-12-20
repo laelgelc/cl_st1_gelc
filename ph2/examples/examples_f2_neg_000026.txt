@@ -1,19 +1,20 @@
-file = t015534
-date = 2022-06-00
-user = julianaayres
-conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1536465001178878000
+file = t002410
+date = 2021-05-30
+user = JulioBottarelli
+conversation = 940596771776073728
+URL = https://twitter.com/JulioBottarelli/status/1399013421765496833
 
 word count = 46
 words loading = 2
 factor score = -2
 
-No mais, agora estamos vendo pandemia de cânceres, problema nos **rins** , dor 
-no coração, problemas **faciais** , neurológicos, de pele, Guillain Barré , 
-problema no ciclo feminino, milhares de abortos entre mais de 100 mil 
-problemas. Sim, mais de 100 mil. CEM MIL! ! ! Vai outra dose aí ? 
+" @BrunoEnglerDM É este tipo de gente que faz **piada** com Darwin, Lei da 
+evolução, de virar jacaré , que chamava outros de gado, negacionista 
+terraplanista, anti-ciencia e contra tratamento precoce. . . E não faz 
+tratamento, não faz **profilaxia** e confia em uma " " vacina " " experimental 
+Express Quem é gado? " 
 
 Lemmas in this text that loaded on the factor:
 
-facial 
-rim 
+piada 
+profilaxia 

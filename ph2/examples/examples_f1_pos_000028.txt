@@ -1,24 +1,21 @@
-file = t016257
-date = 2022-10-00
+file = t016534
+date = 2022-11-00
 user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1577463617121058800
+URL = https://twitter.com/mpatriabrasil/status/1590555557819478000
 
-word count = 51
-words loading = 6
-factor score = 8
+word count = 44
+words loading = 3
+factor score = 3
 
-Paulo tinha apenas 16 anos e foi encontrado **morto** em sua cama. Segundo 
-apuramos, tomou a **dose** de reforço há pouco mais de 4 meses. Estudos 
-**indicam** que os **Infartos** e AVCs provocados pelo **experimento** ocorrem 
-entre 5 a 8 meses após as **doses** . **Fonte** : stevekirsch. substack. com / 
-p / this-one-gra … https://t.co/qHr8mKkPYE 
+Novo normal no **futebol** . Centenas de **jogadores** morrendo em campo ou 
+sofrendo paradas cardíacas depois da #vacina. A mídia esconde, mas a coisa 
+está saindo de controle. Nesta semana tivemos uma **jogadora** mirim do 
+Ferroviária, entre vários **atletas** amadores mortos. Até quando? 
+https://t.co/LFvLYE46Mg 
 
 Lemmas in this text that loaded on the factor:
 
-dose 
-experimento 
-fonte 
-indicar 
-infarto 
-morrer 
+atleta 
+futebol 
+jogador 

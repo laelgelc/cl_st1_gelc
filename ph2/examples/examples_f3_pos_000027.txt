@@ -1,24 +1,23 @@
-file = t015155
-date = 2022-04-00
-user = julianaayres
+file = t012296
+date = 2021-06-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1512517168788918300
+URL = https://twitter.com/evandroratho/status/1401974731641852000
 
-word count = 55
+word count = 42
 words loading = 6
-factor score = 6
+factor score = 5
 
-@schmittpaula Lá eles **tomam** muita Ivermectina. E teve lugar q os 
-governantes não **quiseram** a vacina. Teve até um famosinho aí que apareceu 
-morto pq se recusou a **dar** essas fake vacinas Aqui **tomo** desde o início 
-de 2020 . Eu não **peguei** , minha mãe e pai tbm não. A **gente** sai, 
-**vê** bastante **gente** . . . 
+Vamos aos fatos: O vírus foi feito em laboratório; Máscara e lockdown são 
+inúteis; Vacinas têm eficácia duvidosa e efeitos colaterais **perigosos** ; 
+A **letalidade** é baixa em pessoas saudáveis; A **imprensa** **mente** ; 
+Muitos roubaram durante pandemia; O **tratamento** **precoce** salva vidas; 
 
 Lemmas in this text that loaded on the factor:
 
-dar 
-gente 
-pegar 
-querer 
-tomar 
-ver 
+imprensa (secondary)
+letalidade 
+mentar 
+perigoso 
+precoce 
+tratamento (secondary)

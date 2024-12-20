@@ -1,19 +1,19 @@
-file = t011851
-date = 2021-04-00
-user = frankcastle2009
+file = t013775
+date = 2021-11-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/frankcastle2009/status/1381777769932198000
+URL = https://twitter.com/evandroratho/status/1461748830467248000
 
-word count = 52
+word count = 41
 words loading = 2
 factor score = -2
 
-Parece que a ordem é enfiar a agulha da vacina de covid-19 no braço da pessoa 
-e **retirar** sem aplicar o conteúdo. Talvez porque o conteúdo não vale 
-bosta nenhuma mesmo ou talvez porque estão querendo matar as pessoas ou talvez 
-irão vender a vacina no **mercado** negro. O q vc acha? ? ? 
+@revistaoeste Isso deveria servir para reflexão quanto a ineficácia das 
+ações de **combate** ao vírus, incluindo as vacinas. Mas como o bom 
+**senso** e a lógica foram extintas durante a pandemia, vão repetir as mesmas 
+ações esperando por resultados diferentes. . . 
 
 Lemmas in this text that loaded on the factor:
 
-mercado 
-retirar 
+combate 
+senso 

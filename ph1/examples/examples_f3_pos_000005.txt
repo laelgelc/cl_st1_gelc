@@ -1,21 +1,22 @@
-file = t013530
-date = 2021-10-00
+file = t013231
+date = 2021-09-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1452719618468954000
+URL = https://twitter.com/evandroratho/status/1441074942876000300
 
-word count = 46
+word count = 49
 words loading = 4
-factor score = 7
+factor score = 9
 
-Se as estatísticas **asseguram** que o vírus não **representa** relevante 
-**risco** de morte aos **jovens** saudáveis, e as vacinas não impedem a 
-infecção e tampouco a transmissão do vírus, vaciná -los não faz sentido. 
-Tem algo muito estranho acontecendo no mundo e o povo está em transe. . . 
+@mqueiroga2 @Anholeto @minsaude Vacinar um grupo de pessoas que, 
+estatisticamente falando, tem chance ínfima de morrer de covid, com vacinas 
+experimentais sem **estudos** concluídos sobre segurança de médio e 
+**longo** **prazo** , sabendo que a vacina não **impede** a infecção e 
+tampouco a transmissão do vírus? Não faz sentido! 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-jovem (secondary)
-representar 
-risco 
+estudo 
+impedir 
+longo 
+prazo 

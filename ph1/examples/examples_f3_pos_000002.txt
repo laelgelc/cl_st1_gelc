@@ -1,24 +1,25 @@
-file = t010931
-date = 2020-12-00
+file = t014321
+date = 2022-01-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1339906584147865600
+URL = https://twitter.com/evandroratho/status/1480594299981082600
 
-word count = 47
-words loading = 6
-factor score = 8
+word count = 42
+words loading = 7
+factor score = 10
 
-@leandroruschel Por que ninguém está falando sobre os índices de 
-**letalidade** por **faixa** etária, e questionando a vacinação em 
-crianças, **jovens** , e adultos saudáveis? **Correr** **riscos** com vacinas 
-suspeitas para uma doença que tem **taxa** de mortalidade abaixo de 0 , 1 % é 
-loucura, não se justifica. . . 
+@v_dosfatos @Candida19091556 As estatísticas **asseguram** que o vírus não 
+**representa** **risco** significativo para **jovens** saudáveis, já as 
+vacinas carecem de **estudos** sobre segurança a **longo** **prazo** , 
+portanto, não há caráter de urgência para justificar o uso destas vacinas 
+em **jovens** e crianças. 
 
 Lemmas in this text that loaded on the factor:
 
-correr 
-faixa 
+assegurar 
+estudo 
 jovem (secondary)
-letalidade 
+longo 
+prazo 
+representar 
 risco 
-taxa 

@@ -1,22 +1,23 @@
-file = t016110
-date = 2022-09-00
-user = oscasosraros
+file = t011187
+date = 2021-01-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/oscasosraros/status/1568560528032669700
+URL = https://twitter.com/evandroratho/status/1349077956413550600
 
-word count = 45
-words loading = 4
-factor score = 4
+word count = 42
+words loading = 5
+factor score = 7
 
-O Reino Unido proibiu os médicos de dar a vacina COVID-19 a crianças menores 
-de 12 anos, afirmando que as crianças não precisam e provavelmente já têm 
-**imunidade** **natural** . É mais um país europeu que constata o **risco** 
-do produto mais **significativo** que o benefício. twitter. com / TheRealKeean 
-/ s … 
+**Tratamento** **precoce** com remédios utilizados há décadas e baixo 
+**risco** de efeitos colaterais - não pode. . . não tem **estudos** 
+científicos suficientes; Vacina com baixo índice de eficácia e testes 
+insuficientes - não devemos ser tão científicos nesse momento; Tá **bom** . 
+. . vai lá sabichão! 
 
 Lemmas in this text that loaded on the factor:
 
-imunidade (secondary)
-natural 
+bom (secondary)
+estudo 
+precoce 
 risco 
-significativo 
+tratamento 

@@ -1,25 +1,21 @@
-file = t013006
-date = 2021-08-00
-user = julianaayres
+file = t010946
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/julianaayres/status/1432373326652006400
+URL = https://twitter.com/evandroratho/status/1339979137289744400
 
-word count = 46
-words loading = 7
-factor score = 6
+word count = 48
+words loading = 3
+factor score = 5
 
-@mqueiroga2 Se meu pai tiver qqr **efeito** **colateral** , processarei o Min. 
-da Saúde. Minha prima **perdeu** o bebê depois de se vacinar Deus está 
-**vendo** , ministro, Tudo p que vocês estão escondendo do **povo** . 
-**Presidente** @jairbolsonaro, faça -o ir em **rede** nacional falar dos 
-diversos **efeitos** **colaterais** ! 
+@LoLKN_ @AlexandreGonzl6 @CarlaZambelli38 Se a vacina tivesse comprovação de 
+segurança sua tese estaria correta. Mas dada a falta de **estudos** sobre 
+efeitos colaterais de curto, médio, e **longo** **prazo** , vacinar todos 
+compulsoriamente significa colocar em risco a saúde da grande maioria 
+saudável. Não acho que vale o risco. 
 
 Lemmas in this text that loaded on the factor:
 
-colateral 
-efeito (secondary)
-perder 
-povo 
-presidente 
-rede 
-ver 
+estudo 
+longo 
+prazo 

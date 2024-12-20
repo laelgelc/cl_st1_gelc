@@ -1,22 +1,23 @@
-file = t010457
-date = 2020-10-00
-user = derzevic
+file = t016360
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1322379356258230300
+URL = https://twitter.com/iodinha1/status/1581067052030505000
 
-word count = 29
-words loading = 5
-factor score = -6
+word count = 44
+words loading = 6
+factor score = -4
 
-MILHOÕES E MILHÕES DE **DINHEIRO** PÚBLICO NUMA PORCARIA QUE NINGUÉM VAI 
-**QUERER** Governo Doria freta 6 aviões para transportar matéria-prima da 
-vacina chinesa da China para Brasil gazetabrasil. com. br / **especiais** / 
-**coro** … **via** @Gazeta 
+@karinamichelin Nunca saberemos se quem morreu foi ou não por causa da vacina. 
+Muita gente não se vacinou e nem **resfriado** **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+cardíaco, **trombone** , **gripe** e até morreram etc. BOLSONARO 22 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-dinheiro 
-especial 
-querer 
-via 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 

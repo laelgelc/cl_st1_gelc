@@ -1,22 +1,24 @@
-file = t011313
-date = 2021-01-00
-user = derzevic
+file = t016491
+date = 2022-10-00
+user = iodinha1
 conversation = 99999999
-URL = https://twitter.com/derzevic/status/1351665857747964000
+URL = https://twitter.com/iodinha1/status/1586898788949663700
 
-word count = 29
-words loading = 5
-factor score = -5
+word count = 45
+words loading = 7
+factor score = -4
 
-BOA SORTE A VOCÊS QUE **QUEREM** , POIS VÃO PRECISAR, ESTÃO SERVINDO DE 
-**RATOS** DE LABORATÓRIO Todos os Estados brasileiros já iniciaram 
-vacinação contra Covid-19 com a CoronaVac gazetabrasil. com. br / 
-**especiais** / **coro** … **via** @Gazeta 
+@fallxineira Nunca saberemos se quem morreu foi ou não por causa da vacina. 
+Muita gente não se vacinou e nem **resfriado** **pegou** . Outros tantos, só 
+após se vacinar, **pegaram** covid, tiveram **miocardite** , AVC, **ataque** 
+cardíaco, **trombone** , **gripe** e até morreram etc. **Verdade** seja dita! 
 
 Lemmas in this text that loaded on the factor:
 
-coro 
-especial 
-querer 
-rato 
-via 
+ataque 
+gripe 
+miocardite (secondary)
+pegar (secondary)
+resfriar 
+trombone 
+verdade (secondary)

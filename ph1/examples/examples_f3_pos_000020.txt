@@ -1,22 +1,21 @@
-file = t013938
+file = t014030
 date = 2021-12-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1468303338169147400
+URL = https://twitter.com/evandroratho/status/1471119619314360300
 
-word count = 48
-words loading = 4
-factor score = 5
+word count = 30
+words loading = 5
+factor score = 7
 
-As estatísticas **asseguram** que o vírus não **representa** **risco** às 
-crianças, e o próprio fabricante de vacinas admite que é preciso estudos de 
-5 em 5 anos para **avaliar** os **riscos** à saúde delas. Portanto, vacinar 
-crianças é uma aberração, um verdadeiro crime! aliadosbrasiloficial. com. 
-br / noticia / a-pfiz … 
+Para poder dizer que as vacinas não são experimentais e **aprovadas** em 
+caráter **emergencial** , é preciso apresentar os resultado dos **estudos** 
+sobre eficácia e segurança a **longo** **prazo** , né ? 
 
 Lemmas in this text that loaded on the factor:
 
-assegurar 
-avaliar 
-representar 
-risco 
+aprovar (secondary)
+emergencial 
+estudo 
+longo 
+prazo 

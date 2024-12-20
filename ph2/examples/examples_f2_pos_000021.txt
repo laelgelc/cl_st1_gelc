@@ -1,24 +1,25 @@
-file = t013702
-date = 2021-11-00
-user = evandroratho
+file = t016191
+date = 2022-09-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1459565640319123500
+URL = https://twitter.com/mpatriabrasil/status/1574070077758099500
 
 word count = 45
-words loading = 6
-factor score = 9
+words loading = 7
+factor score = 8
 
-@tnbrasiloficial As estatísticas mostram que **jovens** saudáveis não 
-**correm** **risco** **significativo** de **morte** por covid, já em relação 
-às vacinas as estatísticas não têm se mostrado tão otimistas. Infelizmente 
-as **pessoas** foram induzidas a terem medo excessivo do vírus e confiança 
-excessiva nas vacinas. 
+Depois de **Pesquisas** **publicadas** pela Lancet apontarem problemas 
+cardíacos a longo prazo em **pessoas** que se submeteram ao **experimento** , 
+o CDC resolve agir e investigar as reações a longo prazo ( **Infartos** e 
+AVCs ocorridos 5 meses após as **doses** ) . **Fonte** : cdc. gov / 
+coronavirus / 20 … https://t.co/bddn48RRTY 
 
 Lemmas in this text that loaded on the factor:
 
-correr 
-jovem 
-morte 
+dose 
+experimento 
+fonte 
+infarto 
+pesquisa (secondary)
 pessoa 
-risco 
-significativo 
+publicar 

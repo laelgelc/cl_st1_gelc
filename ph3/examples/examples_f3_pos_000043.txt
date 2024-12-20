@@ -1,20 +1,20 @@
-file = t012613
-date = 2021-07-00
+file = t013020
+date = 2021-09-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1413475468406263800
+URL = https://twitter.com/evandroratho/status/1433093774629027800
 
-word count = 48
+word count = 42
 words loading = 3
-factor score = 4
+factor score = 6
 
-A vacina **representa** **risco** de morte para 0 , 019 % das grávidas, e 
-considerando pessoas abaixo de 30 anos o **risco** de morte pela covid é mais 
-ou menos 0 , 009 % , portanto, qual foi o cálculo de **custo** x benefício 
-que o PNI fez para justificar vacinar toda a população de grávidas? 
+Nem **lockdown** , nem máscaras, e tampouco as vacinas **impedem** a 
+contaminação e a transmissão do vírus, muito menos as **mortes** . Tem que 
+ser meio tapado para não perceber o que está em jogo e apoiar essa 
+aberração autoritária chamada passaporte sanitário. 
 
 Lemmas in this text that loaded on the factor:
 
-custo 
-representar 
-risco 
+impedir 
+lockdown 
+morte (secondary)

@@ -1,20 +1,21 @@
-file = t014870
-date = 2022-02-00
+file = t015722
+date = 2022-07-00
 user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1493651439972925400
+URL = https://twitter.com/evandroratho/status/1546849521228972000
 
-word count = 38
-words loading = 3
-factor score = 4
+word count = 22
+words loading = 5
+factor score = 6
 
-Você está submetendo seu filho ao **risco** de uma vacina aprovada em 
-caráter emergencial para um vírus que não **representa** **risco** 
-**significativo** a ele, e tudo isso por influência de jornalistas que mal 
-conseguem entender uma piada? 
+@SigaGazetaBR **Pandemia** ou experimento **social** que incluiu vacina de 
+mRNA, **lockdown** , máscaras, e orientações estúpidas contra o 
+**tratamento** **precoce** de doenças? 
 
 Lemmas in this text that loaded on the factor:
 
-representar 
-risco 
-significativo 
+lockdown 
+pandemia 
+precoce 
+social 
+tratamento 

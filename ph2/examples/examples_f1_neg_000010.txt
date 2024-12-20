@@ -1,23 +1,27 @@
-file = t014910
-date = 2022-02-00
-user = evandroratho
+file = t013787
+date = 2021-11-00
+user = julianaayres
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1494372372966744000
+URL = https://twitter.com/julianaayres/status/1462152758606319600
 
-word count = 48
-words loading = 5
-factor score = -5
+word count = 54
+words loading = 9
+factor score = -8
 
-Você acreditou que o **lockdown** achataria a curva, que as máscaras e o 
-distanciamento social **impediriam** o contágio, que o **tratamento** 
-**precoce** era **perigoso** , que as vacinas eram eficazes e seguras, e em 
-tantas teorias que não se efetivaram, e ainda assim não percebe que está 
-errado? 
+@AndrWilliandaS1 @f4b10rms Eu **sei** lá . Não **quero** mais **saber** 
+disso. Política nem pensar mais. Agora só **quero** que os prefeitos, govs, o 
+**presidente** e o ministro da saúde **paguem** por cada **vida** q se 
+**perdeu** ou q foi prejudicada por **causa** q eles não avisaram sobre os 
+**efeitos** **colaterais** graves das novas vacinas. 
 
 Lemmas in this text that loaded on the factor:
 
-impedir (secondary)
-lockdown 
-perigoso 
-precoce 
-tratamento 
+causa (secondary)
+colateral 
+efeito 
+pagar 
+perder 
+presidente 
+querer 
+saber 
+vida 

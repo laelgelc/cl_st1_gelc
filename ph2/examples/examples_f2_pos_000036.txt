@@ -1,21 +1,24 @@
-file = t014406
-date = 2022-01-00
-user = evandroratho
+file = t015302
+date = 2022-05-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1482063737527939000
+URL = https://twitter.com/mpatriabrasil/status/1525657290405298200
 
-word count = 45
-words loading = 4
-factor score = 7
+word count = 54
+words loading = 6
+factor score = 8
 
-Quase 2 **anos** e a covid não **causou** problemas **graves** em **jovens** 
-saudáveis, muito menos sequelas. Agora, quando atletas profissionais são 
-diagnosticados com miocardite justamente após a vacinação, querem dizer que 
-a doença é sequela do vírus e não da vacina? É muita canalhice! 
+Demir Neves era cantor de sucesso. Forte e saudável, se apresentou em várias 
+bandas de forró . Ele **tomou** a 3a. **Dose** da vacina no **dia** 21 / 12 / 
+2021 . **Faleceu** de um AVC, em 14 / 05 / 2022 . **Estudos** **indicam** que 
+as reações podem aparecer meses após a **dose** de reforço. Descanse em 
+paz. https://t.co/zH3kVVWKjU 
 
 Lemmas in this text that loaded on the factor:
 
-ano 
-causar 
-grave 
-jovem 
+dia 
+dose 
+estudo (secondary)
+falecer 
+indicar 
+tomar 

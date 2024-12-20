@@ -1,22 +1,25 @@
-file = t012951
-date = 2021-08-00
-user = evandroratho
+file = t016606
+date = 2022-11-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1430250986006851600
+URL = https://twitter.com/mpatriabrasil/status/1592365089143025700
 
-word count = 43
-words loading = 5
+word count = 48
+words loading = 7
 factor score = 7
 
-Se a vacina imuniza eficazmente então basta vacinar as **pessoas** do grupo de 
-**risco** . Se ela não é eficaz, faz menos sentido ainda obrigar que 
-**jovens** saudáveis tomem -na, expondo -os aos **riscos** de **efeitos** 
-colaterais sem o benefício efetivo da redução do **risco** de **morte** ! 
+Mais uma vítima do **experimento** **morre** jogando futebol. Já são 
+centenas de **infartos** durante jogos só neste semestre. Quando as 
+**pessoas** irão acordar? Isso nunca foi normal! Segundo apurado pelo JV, 
+Dayvid, de 21 **anos** , havia **tomado** a ultima **dose** em maio / 22 . 
+Descanse em paz. https://t.co/emGPDIFkyo 
 
 Lemmas in this text that loaded on the factor:
 
-efeito 
-jovem 
-morte 
+ano 
+dose 
+experimento 
+infarto 
+morrer 
 pessoa 
-risco 
+tomar 

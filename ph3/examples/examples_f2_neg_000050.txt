@@ -1,21 +1,16 @@
-file = t015816
-date = 2022-07-00
-user = mpatriabrasil
+file = t010933
+date = 2020-12-00
+user = evandroratho
 conversation = 99999999
-URL = https://twitter.com/mpatriabrasil/status/1552045020148023300
+URL = https://twitter.com/evandroratho/status/1339908921700565000
 
-word count = 35
-words loading = 3
-factor score = -3
+word count = 37
+words loading = 0
+factor score = -1
 
-Fernanda Keulla tomou as primeiras doses do experimento em agosto / 21 e o 
-reforço há pouco tempo. Está internada devido uma Herpes Zoster. A OMS já 
-alertou sobre o experimento ser o gatilho para HerpesZoster pesquisa. 
-**bvsalud** . org / global-literat … **instagram** . com / p / CgdNKw3M_TZ / 
-… **instagram** . com / reel / CSFicCig8 … https://t.co/5mn7iziOnZ 
+@Guile_Phoenix38 O índice de letalidade para minha faixa etária e condição 
+de saúde é de 0 , 083 % no estado em que vivo ( SC ) . Faz algum sentido 
+correr risco com vacinas para uma doença com índice de letalidade tão baixo? 
 
 Lemmas in this text that loaded on the factor:
 
-bvsalud 
-instagram 
-literat 

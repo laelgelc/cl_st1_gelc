@@ -1,23 +1,26 @@
-file = t013112
-date = 2021-09-00
-user = evandroratho
+file = t015989
+date = 2022-08-00
+user = mpatriabrasil
 conversation = 99999999
-URL = https://twitter.com/evandroratho/status/1438123547143065600
+URL = https://twitter.com/mpatriabrasil/status/1560763041737744400
 
-word count = 42
-words loading = 5
+word count = 54
+words loading = 8
 factor score = 8
 
-@SigaGazetaBR Vacinados continuam com **risco** de adoecer e transmitir o 
-vírus; As estatísticas mostram uma preocupante incidência de internação e 
-óbitos entre vacinados; Recuperados da doença têm **imunidade** **natural** 
-**melhor** do que vacinados; Sob nenhuma ótica esse passaporte **vacinal** faz 
-sentido! 
+Maria Elena **tomou** a 4a. **Dose** no **dia** 01 / 08 / 22 , num hospital do 
+Chile e no **dia** seguinte postou no Face que não estava bem por conta da 
+Moderna. **Faleceu** d mal súbito ( aneurisma ) no **dia** 04 / 08 / 22 . 
+Existem **estudos** da OMS que **indicam** o risco d aneurisma pós-experimento 
+Segue **fontes** . https://t.co/Ow6LTAgbke 
 
 Lemmas in this text that loaded on the factor:
 
-bom (secondary)
-imunidade 
-natural 
-risco 
-vacinal 
+dia 
+dose 
+estudo (secondary)
+experimento 
+falecer 
+fonte 
+indicar 
+tomar 
