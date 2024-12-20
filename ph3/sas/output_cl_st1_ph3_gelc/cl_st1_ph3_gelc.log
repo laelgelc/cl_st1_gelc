@@ -1,0 +1,74 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         proc sql ;
+ 70             select Name1 into :names separated by ' ' from selectedvars ;
+ 71         quit;
+ NOTE: PROCEDURE SQL used (Total process time):
+       real time           0.05 seconds
+       user cpu time       0.06 seconds
+       system cpu time     0.00 seconds
+       memory              5702.18k
+       OS Memory           39344.00k
+       Timestamp           20/12/2024 08:42:03 AM
+       Step Count                        883  Switch Count  0
+       Page Faults                       0
+       Page Reclaims                     53
+       Page Swaps                        0
+       Voluntary Context Switches        3
+       Involuntary Context Switches      2
+       Block Input Operations            0
+       Block Output Operations           32
+       
+ 
+ 72         
+ 73         proc corr data = observed outplc = polychor polychoric noprint;
+ 74         var &names ;
+ 75         run;
+ 
+ WARNING: The algorithm for polychoric correlation between v000047 and v000018 did not converge.
+ WARNING: The algorithm for polychoric correlation between v000534 and v000212 did not converge.
+ NOTE: The data set WORK.POLYCHOR has 298 observations and 297 variables.
+ NOTE: PROCEDURE CORR used (Total process time):
+       real time           19.47 seconds
+       user cpu time       19.32 seconds
+       system cpu time     0.05 seconds
+       memory              64436.93k
+       OS Memory           103484.00k
+       Timestamp           20/12/2024 08:42:22 AM
+       Step Count                        884  Switch Count  7
+       Page Faults                       0
+       Page Reclaims                     19556
+       Page Swaps                        0
+       Voluntary Context Switches        33
+       Involuntary Context Switches      37
+       Block Input Operations            0
+       Block Output Operations           1560
+       
+ 
+ 76         
+ 77         proc stdize data = polychor out=polychor reponly missing=0; run;
+ 
+ NOTE: No VAR statement is given. All numerical variables not named elsewhere make up the first set of variables.
+ NOTE: There were 298 observations read from the data set WORK.POLYCHOR.
+ NOTE: The data set WORK.POLYCHOR has 298 observations and 297 variables.
+ NOTE: PROCEDURE STDIZE used (Total process time):
+       real time           0.00 seconds
+       user cpu time       0.00 seconds
+       system cpu time     0.00 seconds
+       memory              2757.03k
+       OS Memory           35760.00k
+       Timestamp           20/12/2024 08:42:22 AM
+       Step Count                        885  Switch Count  2
+       Page Faults                       0
+       Page Reclaims                     254
+       Page Swaps                        0
+       Voluntary Context Switches        12
+       Involuntary Context Switches      0
+       Block Input Operations            0
+       Block Output Operations           1544
+       
+ 
+ 78         
+ 79         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 89         
